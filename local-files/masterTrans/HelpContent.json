@@ -1472,10 +1472,31 @@
     },
     {
       "helpCategoryId": "help-research-event",
+      "id": "research-event-bonus",
+      "order": 6,
+      "name": "Event Bonuses",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ad82dc051a992c8057de8f190e153b7ffc272c5b58e9b695956d549c8b64ea3d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-event-coin",
+      "order": 5,
+      "name": "Event Exchange Items",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c387956c689d9b500ee55da14099ffb47a8a78adb6d53fa6903dfcb601ab07c9/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-event-point",
+      "order": 4,
+      "name": "Cumulative Event Points Rewards",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/112d621eda6a2b2e303082b878f835c1e090b138fec07676eaee6de1c1db95bb/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-research-event",
       "id": "research-event-event-produce",
       "order": 2,
       "name": "Event Mode Produce",
-      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/53d911c994321cf4012b0a5025ef29ea4debd538a72c883486b423f293c827cd/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/adb0a2f3ae898f902ee3c18bbc8458e07677f0ba39c374eb1c28f487ecb419fa/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-research-event",
@@ -1656,7 +1677,7 @@
       "helpCategoryId": "help-support",
       "id": "support-produce-upgrade-select",
       "order": 5,
-      "name": "Level Upgrade",
+      "name": "Level Up",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/97d9fc16d9dad67c2200741d4c59601cbd8b104108751e30a555c326b5da3bcd/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {

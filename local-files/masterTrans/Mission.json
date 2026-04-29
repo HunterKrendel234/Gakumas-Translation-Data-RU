@@ -70,6 +70,38 @@
       "name": "Pass the Final Exam with Kotone Fujita and earn an SS or higher evaluation {threshold} times"
     },
     {
+      "id": "dearness_event_hmsz-001",
+      "name": "Clear Produce with Misuzu Hataya’s Vocal at 1800 or higher"
+    },
+    {
+      "id": "dearness_event_hmsz-002",
+      "name": "Choose Outing {threshold} times in Misuzu Hataya’s Produce"
+    },
+    {
+      "id": "dearness_event_hmsz-003",
+      "name": "Choose Consultation {threshold} times in Misuzu Hataya’s Produce"
+    },
+    {
+      "id": "dearness_event_hmsz-004",
+      "name": "Customize Skill Cards {threshold} times in Misuzu Hataya’s Produce"
+    },
+    {
+      "id": "dearness_event_hmsz-005",
+      "name": "Choose Present / Gifts {threshold} times in Misuzu Hataya’s Produce"
+    },
+    {
+      "id": "dearness_event_hmsz-006",
+      "name": "Clear Vocal Lessons {threshold} times with Misuzu Hataya"
+    },
+    {
+      "id": "dearness_event_hmsz-007",
+      "name": "Choose Sp. Consult {threshold} times in Misuzu Hataya’s Produce"
+    },
+    {
+      "id": "dearness_event_hmsz-008",
+      "name": "With Misuzu Hataya, pass the Final Exam and earn SS rank or higher {threshold} times"
+    },
+    {
       "id": "dearness_event_hrnm-001",
       "name": "Raise Visual to 1800 or higher and clear the Produce"
     },
@@ -556,6 +588,26 @@
     {
       "id": "dearness_normal-mission_fktn-005",
       "name": "Customize skill cards {threshold} times in Kotone Fujita’s Produce"
+    },
+    {
+      "id": "dearness_normal-mission_hmsz-001",
+      "name": "Clear Produce with Misuzu Hataya’s Vocal at 2000 or higher"
+    },
+    {
+      "id": "dearness_normal-mission_hmsz-002",
+      "name": "Use Skill Cards a total of {threshold} times in Misuzu Hataya’s Produce"
+    },
+    {
+      "id": "dearness_normal-mission_hmsz-003",
+      "name": "Enhance Skill Cards {threshold} times in Misuzu Hataya’s Produce"
+    },
+    {
+      "id": "dearness_normal-mission_hmsz-004",
+      "name": "With Misuzu Hataya, pass the Final Exam and earn SS rank or higher {threshold} times"
+    },
+    {
+      "id": "dearness_normal-mission_hmsz-005",
+      "name": "Customize Skill Cards {threshold} times in Misuzu Hataya’s Produce"
     },
     {
       "id": "dearness_normal-mission_hrnm-001",
@@ -1316,6 +1368,10 @@
     {
       "id": "hidden_mission-view-gasha-00800-free-10-006",
       "name": "New student support! Up to 100 free pulls! Pull {threshold} times with 10 free gacha draws"
+    },
+    {
+      "id": "hidden_mission-view-gasha-00870-free-10-007",
+      "name": "Season-limited included, up to 100 free pulls! Do 10-pull free gacha {threshold} times"
     },
     {
       "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
@@ -3654,6 +3710,106 @@
       "name": "Complete all Day 5 missions"
     },
     {
+      "id": "mission-highscorerush-event-013-mission_11",
+      "name": "Pass the final exam {threshold} time(s)"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_12",
+      "name": "Complete Produce with Misuzu Hataya’s Vocal at 1000 or higher"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_13",
+      "name": "Earn a total Produce Evaluation of {threshold} with Misuzu Hataya"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_14",
+      "name": "Let's Earn a total of {threshold} Production Evaluation points with Hiro Shinosawa"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_16",
+      "name": "Complete all Day 1 missions"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_21",
+      "name": "Pass the final exam {threshold} time(s)"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_22",
+      "name": "Raise Hiro Shinosawa's vocal to over 1000 and complete the producer process"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_23",
+      "name": "Earn a total Produce Evaluation of {threshold} with Misuzu Hataya"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_24",
+      "name": "Let's Earn a total of {threshold} Production Evaluation points with Hiro Shinosawa"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_26",
+      "name": "Complete all Day 2 missions"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_31",
+      "name": "Pass the final exam {threshold} time(s)"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_32",
+      "name": "Pass the Final Exam {threshold} times in Produce with Misuzu Hataya or Hiro Shinosawa"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_33",
+      "name": "Earn a total Produce Evaluation of {threshold} with Misuzu Hataya"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_34",
+      "name": "Let's Earn a total of {threshold} Production Evaluation points with Hiro Shinosawa"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_36",
+      "name": "Complete all Day 3 missions"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_41",
+      "name": "Pass the final exam {threshold} time(s)"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_42",
+      "name": "Pass the Final Exam {threshold} times in Produce with Misuzu Hataya or Hiro Shinosawa"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_43",
+      "name": "Earn a total Produce Evaluation of {threshold} with Misuzu Hataya"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_44",
+      "name": "Let's Earn a total of {threshold} Production Evaluation points with Hiro Shinosawa"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_46",
+      "name": "Complete all Day 4 missions"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_51",
+      "name": "Pass the final exam {threshold} time(s)"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_52",
+      "name": "Pass the Final Exam {threshold} times in Produce with Misuzu Hataya or Hiro Shinosawa"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_53",
+      "name": "Earn a total Produce Evaluation of {threshold} with Misuzu Hataya"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_54",
+      "name": "Let's Earn a total of {threshold} Production Evaluation points with Hiro Shinosawa"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_56",
+      "name": "Complete all Day 5 missions"
+    },
+    {
       "id": "mission-main-story-event-001-mission_11",
       "name": "Spend {threshold} AP"
     },
@@ -5487,7 +5643,7 @@
     },
     {
       "id": "mission-research-event-002-mission_10",
-      "name": "Clear a Produce while owning the Skill Card \"Become an Idol\""
+      "name": "Clear a Produce while owning the Skill Card \"I will become an Idol\""
     },
     {
       "id": "mission-research-event-002-mission_11",
@@ -5608,6 +5764,38 @@
     {
       "id": "mission-research-event-005-mission_9",
       "name": "Clear Produce after obtaining the Skill Card \"National Idol\""
+    },
+    {
+      "id": "mission-research-event-006-mission_1",
+      "name": "Let's log in for {threshold} days!"
+    },
+    {
+      "id": "mission-research-event-006-mission_10",
+      "name": "Clear Produce after obtaining Skill Card \"Shine!\""
+    },
+    {
+      "id": "mission-research-event-006-mission_11",
+      "name": "Clear Produce after obtaining Skill Card \"I will become an Idol\""
+    },
+    {
+      "id": "mission-research-event-006-mission_12",
+      "name": "Clear SP Lessons {threshold} time(s)"
+    },
+    {
+      "id": "mission-research-event-006-mission_2",
+      "name": "Plan: Pass the Final Exam {threshold} times with a Sense-type Produce Idol"
+    },
+    {
+      "id": "mission-research-event-006-mission_3",
+      "name": "Exchange consultations {threshold} time(s) in production"
+    },
+    {
+      "id": "mission-research-event-006-mission_8",
+      "name": "Clear Produce after obtaining Skill Card \"To the Top\""
+    },
+    {
+      "id": "mission-research-event-006-mission_9",
+      "name": "Clear Produce after obtaining Skill Card \"Climax\""
     },
     {
       "id": "mission-story-event-001-mission_1",
@@ -6410,6 +6598,78 @@
       "name": "Raise the Bond Lv of any idol to {threshold}"
     },
     {
+      "id": "panel_mission-event-009-mission_1",
+      "name": "Clear vocal lessons {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-009-mission_11",
+      "name": "Clear SP Lessons {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-009-mission_12",
+      "name": "Pass the Final Exam with Score SSS or higher {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-009-mission_13",
+      "name": "Pass the Final Exam with Score SSS+ or higher {threshold} times"
+    },
+    {
+      "id": "panel_mission-event-009-mission_14",
+      "name": "Raise Lilja Katsuragi's Bond Lv to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-009-mission_15",
+      "name": "Increase Sumika Shiun's Bond Lv to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-009-mission_16",
+      "name": "Raise Saki Hanami's Bond Lv to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-009-mission_17",
+      "name": "Raise Ume Hanami's Bond Lv to {threshold}!"
+    },
+    {
+      "id": "panel_mission-event-009-mission_18",
+      "name": "Raise Kotone Fujita's Bond Lv to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-009-mission_19",
+      "name": "Raise Sena Juo's Bond Lv to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-009-mission_2",
+      "name": "Clear dance lessons {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-009-mission_3",
+      "name": "Clear visual lessons {threshold} time(s)"
+    },
+    {
+      "id": "panel_mission-event-009-mission_4",
+      "name": "Increase Mao Arimura's Bond Lv to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-009-mission_5",
+      "name": "Raise Rinami Himesaki’s Bond Lv to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-009-mission_6",
+      "name": "Raise Misuzu Hataya’s Affection Lv to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-009-mission_7",
+      "name": "Raise Temari Tsukimura’s Bond Lv to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-009-mission_8",
+      "name": "Raise China Kuramoto's Bond Lv to {threshold}"
+    },
+    {
+      "id": "panel_mission-event-009-mission_9",
+      "name": "Increase Hiro Shinosawa's Bond Lv to {threshold}"
+    },
+    {
       "id": "panel_mission-event-niv-mission_1",
       "name": "Pass the final exam with a score of B+ or higher {threshold} time(s)"
     },
@@ -7020,6 +7280,30 @@
     {
       "id": "achieve-i_card-hmsz-3-015-06",
       "name": "【ENDLESS DANCE】Set Misuzu Hataya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-01",
+      "name": "【VEIL】Pass the Final Exam in Misuzu Hataya’s Produce"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-02",
+      "name": "【VEIL】Set Misuzu Hataya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-03",
+      "name": "【VEIL】Earn an evaluation of A+ or higher {threshold} times in Misuzu Hataya’s Produce"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-04",
+      "name": "【VEIL】Set Misuzu Hataya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-05",
+      "name": "【VEIL】Set Misuzu Hataya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-06",
+      "name": "【VEIL】Set Misuzu Hataya’s Training Stage to {threshold}"
     },
     {
       "id": "achieve-i_card-hrnm-2-000-04",

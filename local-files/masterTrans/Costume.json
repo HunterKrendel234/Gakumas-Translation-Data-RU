@@ -226,6 +226,11 @@
       "description": "【Rironbusou Site】Hinamatsuri '26 Tsubame Amaya Obtained"
     },
     {
+      "id": "atbm-cstm-0081",
+      "name": "Sakura Photograph",
+      "description": "【Rironbusou Site】'26 Sakura Tsubame Amaya Obtained"
+    },
+    {
       "id": "atbm-cstm-0106",
       "name": "Rironbusou Shite",
       "description": "【Rironbusou Shite】Obtain Tsubame Amaya"
@@ -544,6 +549,21 @@
       "id": "hmsz-cstm-0076",
       "name": "Yukidoke ni",
       "description": "【Tsuki no Kame】Hinamatsuri '26 Misuzu Hataya Obtained"
+    },
+    {
+      "id": "hmsz-cstm-0081",
+      "name": "Sakura Photograph",
+      "description": "【Tsuki no Kame】'26 Sakura Misuzu Hataya Obtained"
+    },
+    {
+      "id": "hmsz-cstm-0102",
+      "name": "VEIL",
+      "description": "【VEIL】Misuzu Hataya Obtained"
+    },
+    {
+      "id": "hmsz-cstm-0103",
+      "name": "VEIL",
+      "description": "【VEIL】Obtained at Talent Bloom Stage 4 for Misuzu Hataya"
     },
     {
       "id": "hmsz-cstm-0110",
@@ -906,6 +926,11 @@
       "description": "【Sakura Photograph】Obtained at the 4th stage of Saki Hanami talent bloom"
     },
     {
+      "id": "hski-cstm-0081",
+      "name": "Sakura Sailor Uniform",
+      "description": "Purchase Sakura Sailor Uniform (Saki Hanami)"
+    },
+    {
       "id": "hski-cstm-0082",
       "name": "Wildest Flower",
       "description": "【Wildest Flower】Saki Hanami Obtained"
@@ -1074,6 +1099,11 @@
       "id": "hume-cstm-0076",
       "name": "Yukidoke ni",
       "description": "【Rironbusou Shite】Hinamatsuri '26 Tsubame Amaya Obtained"
+    },
+    {
+      "id": "hume-cstm-0081",
+      "name": "Sakura Photograph",
+      "description": "【The Rolling Riceball】'26 Sakura Ume Hanami Obtained"
     },
     {
       "id": "hume-cstm-0100",
@@ -2054,6 +2084,11 @@
       "id": "ssmk-cstm-0080",
       "name": "Sakura Photograph",
       "description": "【Sakura Photograph】Obtained at the 4th stage of Sumika Shiun talent bloom"
+    },
+    {
+      "id": "ssmk-cstm-0081",
+      "name": "Sakura Sailor Uniform",
+      "description": "Purchase Sakura Sailor Uniform (Sumika Shiun)"
     },
     {
       "id": "ssmk-cstm-0096",

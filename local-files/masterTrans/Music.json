@@ -278,6 +278,14 @@
       "arranger": "Reo Kawahara (Rebrast)"
     },
     {
+      "id": "music-all-atbm-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
       "id": "music-all-atbm-014",
       "title": "ENDLESS DANCE",
       "displayTitle": "ENDLESS DANCE",
@@ -468,6 +476,14 @@
       "lyrics": "Kyouko Ohyama (Rebrast)",
       "composer": "Reo Kawahara (Rebrast)",
       "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-hmsz-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
     },
     {
       "id": "music-all-hmsz-012",
@@ -788,6 +804,14 @@
       "lyrics": "Kyouko Ohyama (Rebrast)",
       "composer": "Reo Kawahara (Rebrast)",
       "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-hume-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
     },
     {
       "id": "music-all-hume-011",
@@ -1974,6 +1998,22 @@
       "arranger": "Hige Driver"
     },
     {
+      "id": "music-char-fktn-005",
+      "title": "FuwaFuwa",
+      "displayTitle": "FuwaFuwa",
+      "lyrics": "Itsukishi Nagawa",
+      "composer": "Hiroya Katou",
+      "arranger": "Yuugen Sudou, Hiroya Katou"
+    },
+    {
+      "id": "music-char-fktn-005-inst",
+      "title": "FuwaFuwa [Instrumental]",
+      "displayTitle": "FuwaFuwa [Instrumental]",
+      "lyrics": "Itsukishi Nagawa",
+      "composer": "Hiroya Katou",
+      "arranger": "Yuugen Sudou, Hiroya Katou"
+    },
+    {
       "id": "music-char-hmsz-001",
       "title": "Tsuki no Kame",
       "displayTitle": "Tsuki no Kame",
@@ -2020,6 +2060,22 @@
       "lyrics": "Fuwari (Dream Monster)",
       "composer": "Fuwari (Dream Monster)",
       "arranger": "Fuwari (Dream Monster)"
+    },
+    {
+      "id": "music-char-hmsz-004",
+      "title": "VEIL",
+      "displayTitle": "VEIL",
+      "lyrics": "GUCCHO",
+      "composer": "GUCCHO, Dubscribe",
+      "arranger": "Dubscribe, GUCCHO"
+    },
+    {
+      "id": "music-char-hmsz-004-inst",
+      "title": "VEIL [Instrumental]",
+      "displayTitle": "VEIL [Instrumental]",
+      "lyrics": "GUCCHO",
+      "composer": "GUCCHO, Dubscribe",
+      "arranger": "Dubscribe, GUCCHO"
     },
     {
       "id": "music-char-hmsz-005",

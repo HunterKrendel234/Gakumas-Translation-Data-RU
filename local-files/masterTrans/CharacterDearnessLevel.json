@@ -477,6 +477,41 @@
       "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
     },
     {
+      "characterId": "hmsz",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "Move to Misuzu Hataya's Bond menu"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
+    },
+    {
       "characterId": "hrnm",
       "dearnessLevel": 1,
       "produceConditionDescription": ""

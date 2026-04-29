@@ -193,6 +193,12 @@
       "description": "Draw with Ticket"
     },
     {
+      "id": "gasha_button-00870-free-10-07",
+      "order": 3,
+      "name": "Free 10-round gacha, up to 100-round free gacha",
+      "description": "10-Time Gacha"
+    },
+    {
       "id": "gasha_button-010-item_01",
       "order": 3,
       "name": "10-Time Item Gacha",
@@ -308,6 +314,12 @@
     },
     {
       "id": "gasha_marge_button-ssr-00860",
+      "order": 1,
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha"
+    },
+    {
+      "id": "gasha_marge_button-ssr-00875",
       "order": 1,
       "name": "Paid 10-Time gacha",
       "description": "Paid 10-Time gacha"

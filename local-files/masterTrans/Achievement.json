@@ -726,6 +726,36 @@
       "description": "【ENDLESS DANCE】Set Misuzu Hataya’s Training Stage to {threshold}"
     },
     {
+      "id": "achieve-i_card-hmsz-3-016-01",
+      "name": "I'll Teach You",
+      "description": "【VEIL】Pass the Final Exam in Misuzu Hataya’s Produce"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-02",
+      "name": "VEIL",
+      "description": "【VEIL】Set Misuzu Hataya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-03",
+      "name": "Let Us Remove the Veil",
+      "description": "【VEIL】Earn an evaluation of A+ or higher {threshold} times in Misuzu Hataya’s Produce"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-04",
+      "name": "VEIL +",
+      "description": "【VEIL】Set Misuzu Hataya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-05",
+      "name": "VEIL ++",
+      "description": "【VEIL】Set Misuzu Hataya’s Training Stage to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-06",
+      "name": "VEIL +++",
+      "description": "【VEIL】Set Misuzu Hataya’s Training Stage to {threshold}"
+    },
+    {
       "id": "achieve-i_card-hrnm-2-000-04",
       "name": "Beginning of My Self+",
       "description": "【Beginning of My Self】Raise Rinami Himesaki's SP training stage to {threshold}"
@@ -4762,7 +4792,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-005",
-      "name": "Become an Idol ",
+      "name": "I will become an Idol",
       "description": "Pass the final exam with an A grade or higher {threshold} time(s) with Lilja Katsuragi"
     },
     {

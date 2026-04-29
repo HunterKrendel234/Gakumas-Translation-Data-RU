@@ -1926,6 +1926,18 @@
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
       "description": "Confidence +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-sup-3_194-a-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": "Confidence +"
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-sup-3_194-b-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": "Preservation +"
     }
   ]
 }

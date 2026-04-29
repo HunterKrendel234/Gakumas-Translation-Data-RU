@@ -17,6 +17,11 @@
       "name": "Bond Mission"
     },
     {
+      "missionPanelSheetGroupId": "dearness_panel-mission_hmsz_01",
+      "number": 1,
+      "name": "Bond Mission"
+    },
+    {
       "missionPanelSheetGroupId": "dearness_panel-mission_hrnm_01",
       "number": 1,
       "name": "Bond Mission"
@@ -163,6 +168,16 @@
     },
     {
       "missionPanelSheetGroupId": "panel_mission-event-008",
+      "number": 2,
+      "name": "2nd"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-009",
+      "number": 1,
+      "name": "1st"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-009",
       "number": 2,
       "name": "2nd"
     },
