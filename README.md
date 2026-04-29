@@ -1,16 +1,21 @@
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/qARc4Hdc3n)](https://natsume.io/GakumasLocalize)
 
-# Gakumas-Translation-Data-EN
+# Gakumas-Translation-Data-RU
 
-- Localization Data for [gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify)
+- Русская локализация данных для [gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify)
+- Репозиторий основан на английском проекте: https://github.com/NatsumeLS/Gakumas-Translation-Data-EN
 
-## Documentation
+## Документация
 https://gakumas.natsume.io
 
-## Files and Folder Structure
+## Структура файлов
 
-- `./local-files/localization.json`: Localization strings.
-- `./local-files/generic.json`: General strings.
-- `./local-files/genericTrans`: Same as `generic.json`.
-- Folder and file names in `genericTrans` can be customized to to distinguish translation content.
-- `./local-files/resource` Resource files.
+- `./local-files/localization.json`: строки интерфейса и системные тексты.
+- `./local-files/generic.json`: общие строки и короткие фразы.
+- `./local-files/genericTrans`: разложенные по темам переводы из `generic.json`.
+- Имена папок и файлов в `genericTrans` можно менять, если так удобнее разделять контент.
+- `./local-files/resource`: сюжетные и событийные текстовые ресурсы.
+
+## Примечание
+
+Русификация выполняется поэтапно. Базовая цель форка: сохранить смысл, тон, контекст сцены и игровую терминологию без механического дословного перевода.

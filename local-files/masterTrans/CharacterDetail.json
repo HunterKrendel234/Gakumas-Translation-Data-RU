@@ -11,7 +11,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "3rd Year"
+      "content": "3-й год"
     },
     {
       "characterId": "amao",
@@ -41,7 +41,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Capricorn"
+      "content": "Козерог"
     },
     {
       "characterId": "amao",
@@ -59,43 +59,43 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Jan 18"
+      "content": "18 января"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Правая"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Hyogo"
+      "content": "Хёго"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Martial arts, dexterity"
+      "content": "Боевые искусства, ловкость"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Caring for others, watching plays"
+      "content": "Заботиться о других, смотреть спектакли"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A small 3rd-year aiming to be a cool idol. Admired as a\nsmall prince by juniors.She’s struggled with the gap\nbetween her ideal image and her physical growth\nsince she aspired to be a musical star in childhood."
+      "content": "Невысокая ученица третьего года, которая стремится стать крутым айдолом. Младшие восхищаются ею как\nмаленьким принцем. С детства, мечтая о карьере звезды мюзиклов,\nона мучается из-за разрыва между своим идеальным образом\nи тем, как в реальности менялась её внешность."
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "3rd Year"
+      "content": "3-й год"
     },
     {
       "characterId": "atbm",
@@ -125,7 +125,7 @@
       "characterId": "atbm",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Taurus"
+      "content": "Телец"
     },
     {
       "characterId": "atbm",
@@ -143,37 +143,37 @@
       "characterId": "atbm",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "May 20"
+      "content": "20 мая"
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Правая"
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Tokyo"
+      "content": "Токио"
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Calligraphy, History, reading"
+      "content": "Каллиграфия, история, чтение"
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Secretarial skills, mathematics, calligraphy"
+      "content": "Секретарское дело, математика, каллиграфия"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "1-й год"
     },
     {
       "characterId": "fktn",
@@ -203,7 +203,7 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Taurus"
+      "content": "Телец"
     },
     {
       "characterId": "fktn",
@@ -221,43 +221,43 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Apr 29"
+      "content": "29 апреля"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Правая"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Saitama"
+      "content": "Сайтама"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Dancing, getting along with others"
+      "content": "Танцы, умение ладить с людьми"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Earning money"
+      "content": "Зарабатывать деньги"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A mood maker aiming to be a profitable idol.\nA talented dancer with low self-evaluation\nbut seems off-balance. Works many part-time\njobs, always tired."
+      "content": "Душа компании, которая хочет стать успешным айдолом.\nОчень талантливая танцовщица с низкой самооценкой,\nиз-за чего нередко выглядит неуверенной. Подрабатывает\nсразу в нескольких местах и потому вечно уставшая."
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "1-й год"
     },
     {
       "characterId": "hmsz",
@@ -287,7 +287,7 @@
       "characterId": "hmsz",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Aquarius"
+      "content": "Водолей"
     },
     {
       "characterId": "hmsz",
@@ -305,43 +305,43 @@
       "characterId": "hmsz",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Feb 6"
+      "content": "6 февраля"
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Правая"
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Kyoto"
+      "content": "Киото"
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Cooking, Floristry, Perfect Int. Clock"
+      "content": "Кулинария, флористика, идеальное чувство времени"
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Napping, Taking Walks"
+      "content": "Дремать, гулять"
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A former member of the number one middle school unit, \"SyngUp!\".\nShe was overshadowed by Temari Tsukimura and received somewhat\nlow praise, but her talent is the real deal. She gives the impression of\nbeing a complete idol with few flaws. There's plenty of room for further growth."
+      "content": "Бывшая участница сильнейшего юнита средней школы «SyngUp!».\nНа фоне Темари Цукимуры она часто оставалась в тени и получала\nменьше похвалы, но её талант абсолютно реален. Она производит впечатление\nпочти безупречного айдола, хотя потенциал для роста у неё ещё огромный."
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "3rd Year"
+      "content": "3-й год"
     },
     {
       "characterId": "hrnm",
@@ -371,7 +371,7 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Pisces"
+      "content": "Рыбы"
     },
     {
       "characterId": "hrnm",
@@ -389,43 +389,43 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Mar 5"
+      "content": "5 марта"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Правая"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Fukuoka"
+      "content": "Фукуока"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Cooking, sewing, crafts"
+      "content": "Кулинария, шитьё, рукоделие"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Café hopping, collecting cosmetics"
+      "content": "Ходить по кафе, коллекционировать косметику"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A mature 3rd-year. The older sister in the dorm,\ntaking care of others. Has been in a unit before\nbut didn’t do well."
+      "content": "Зрелая ученица третьего года. В общежитии она как старшая сестра,\nвсегда заботится об окружающих. Раньше уже состояла в юните,\nно больших успехов там не добилась."
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "1-й год"
     },
     {
       "characterId": "hski",
@@ -455,7 +455,7 @@
       "characterId": "hski",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Aries"
+      "content": "Овен"
     },
     {
       "characterId": "hski",
@@ -473,43 +473,43 @@
       "characterId": "hski",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Apr 2"
+      "content": "2 апреля"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Left"
+      "content": "Левая"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Aichi"
+      "content": "Айти"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Sports, chores, massage"
+      "content": "Спорт, домашние дела, массаж"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "All kinds of competitions"
+      "content": "Любые соревнования"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "Top student of the entrance exam, an athlete\nwith excellent physical abilities, and quick\nto learn. While her growth is impressive,\nit’s hard to see major changes now."
+      "content": "Лучшая на вступительных экзаменах, спортсменка\nс выдающимися физическими данными и очень быстрой обучаемостью.\nОна и без того растёт впечатляющими темпами,\nпоэтому заметный следующий скачок даётся уже не так просто."
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "1-й год"
     },
     {
       "characterId": "hume",
@@ -539,7 +539,7 @@
       "characterId": "hume",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Aries"
+      "content": "Овен"
     },
     {
       "characterId": "hume",
@@ -557,43 +557,43 @@
       "characterId": "hume",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Apr 1"
+      "content": "1 апреля"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Правая"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Aichi"
+      "content": "Айти"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Sports, massage"
+      "content": "Спорт, массаж"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Competing with her sister"
+      "content": "Соперничать с сестрой"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A new student admitted as a backup.\nFull of energy, a former athlete with excellent physical ability."
+      "content": "Новая ученица, принятая как запасной кандидат.\nЭнергичная бывшая спортсменка с отличной физической подготовкой."
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "3rd Year"
+      "content": "3-й год"
     },
     {
       "characterId": "jsna",
@@ -623,7 +623,7 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Sag"
+      "content": "Стрелец"
     },
     {
       "characterId": "jsna",
@@ -641,43 +641,43 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Dec 7"
+      "content": "7 декабря"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Both"
+      "content": "Обе"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Tokyo"
+      "content": "Токио"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Identifying idol talent"
+      "content": "Распознавать талант айдолов"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Training, finding talented idols"
+      "content": "Тренировки, поиск талантливых айдолов"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "Student Council President of Hatsuboshi Academy and last year's \"Prima Stella\".\nAdmired by many students as the \"Top Idol of the Academy\"."
+      "content": "Президент студсовета Академии Хацубоси и прошлогодняя «Prima Stella».\nМногие ученики восхищаются ею как «главным айдолом академии»."
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "1-й год"
     },
     {
       "characterId": "kcna",
@@ -707,7 +707,7 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Leo"
+      "content": "Лев"
     },
     {
       "characterId": "kcna",
@@ -725,43 +725,43 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Aug 1"
+      "content": "1 августа"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Правая"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Kanagawa"
+      "content": "Канагава"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Cheerful greetings, liked by animals"
+      "content": "Жизнерадостные приветствия, умение нравиться животным"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Drawing"
+      "content": "Рисование"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A pampered, cheerful girl aiming to be\na \"proper idol\" at Hatsuboshi Academy."
+      "content": "Избалованная, но жизнерадостная девочка, которая хочет стать\n«настоящим айдолом» в Академии Хацубоси."
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "1-й год"
     },
     {
       "characterId": "kllj",
@@ -791,7 +791,7 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Leo"
+      "content": "Лев"
     },
     {
       "characterId": "kllj",
@@ -809,43 +809,43 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Jul 24"
+      "content": "24 июля"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Правая"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Sweden"
+      "content": "Швеция"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Baking, gaming"
+      "content": "Выпечка, видеоигры"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Baking, Japanese anime"
+      "content": "Выпечка, японское аниме"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "An international freshman. Lacks experience in\nsinging or dancing, often shrinking with little\nconfidence. Doesn't seem suited for idols..."
+      "content": "Иностранная первокурсница. У неё почти нет опыта\nв пении и танцах, она легко робеет и не слишком\nуверена в себе. На роль айдола она как будто\nсовсем не подходит..."
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "1-й год"
     },
     {
       "characterId": "shro",
@@ -875,7 +875,7 @@
       "characterId": "shro",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Sag"
+      "content": "Стрелец"
     },
     {
       "characterId": "shro",
@@ -893,43 +893,43 @@
       "characterId": "shro",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Dec 21"
+      "content": "21 декабря"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Left"
+      "content": "Левая"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Akita"
+      "content": "Акита"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Studying, physics, maths, puzzles"
+      "content": "Учёба, физика, математика, головоломки"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Challenging weak subjects, growing houseplants"
+      "content": "Подтягивать слабые предметы, выращивать комнатные растения"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "A genius who graduated university at 14.\nGave up a promising future to pursue idol dreams.\nPerfect in academics but failed practicals.\nThe principal rated her highly."
+      "content": "Гений, окончившая университет в 14 лет.\nОтказалась от многообещающего будущего ради мечты стать айдолом.\nБезупречна в учёбе, но провалила практику.\nДиректор очень высоко оценивает её потенциал."
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "1-й год"
     },
     {
       "characterId": "ssmk",
@@ -959,7 +959,7 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Scorpio"
+      "content": "Скорпион"
     },
     {
       "characterId": "ssmk",
@@ -977,43 +977,43 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Nov 11"
+      "content": "11 ноября"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Left"
+      "content": "Левая"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Hokkaido"
+      "content": "Хоккайдо"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Flexible body"
+      "content": "Гибкость"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Karaoke, SNS"
+      "content": "Караоке, соцсети"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "Bright, energetic girl who can make friends with\nanyone. Once a world-class ballet dancer, but\nlacks motivation in class and lessons."
+      "content": "Яркая и энергичная девушка, способная подружиться\nс кем угодно. Когда-то была балериной мирового уровня, но\nна уроках и занятиях ей заметно не хватает мотивации."
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "1st Year"
+      "content": "1-й год"
     },
     {
       "characterId": "ttmr",
@@ -1043,7 +1043,7 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "Gemini"
+      "content": "Близнецы"
     },
     {
       "characterId": "ttmr",
@@ -1061,37 +1061,37 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_Birthday",
       "order": 9,
-      "content": "Jun 3"
+      "content": "3 июня"
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "Right"
+      "content": "Правая"
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "Kyoto"
+      "content": "Киото"
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "Singing"
+      "content": "Пение"
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "Eating delicious food (currently refraining)"
+      "content": "Есть вкусную еду (сейчас воздерживается)"
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "Former member of the top middle school unit \"SyngUp!\".\nA first-year with professional singing skills but known\nfor bad behavior and causing trouble."
+      "content": "Бывшая участница сильнейшего юнита средней школы «SyngUp!».\nПервокурсница с профессиональным уровнем вокала, но\nизвестна дурным поведением и тем, что постоянно доставляет проблемы."
     }
   ]
 }
