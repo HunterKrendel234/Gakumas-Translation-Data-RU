@@ -31,8 +31,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 4,
       "title": "H-Task 4",
-      "description": "Edit your Business Card",
-      "homeDescription": "Edit your Business Card"
+      "description": "Редактируйте свою визитную карточку",
+      "homeDescription": "Редактируйте свою визитную карточку"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -486,8 +486,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 9,
       "title": "P-Task 9",
-      "description": "Acquire {threshold} types of Карта навыкаs",
-      "homeDescription": "Acquire {threshold} types of Карта навыкаs"
+      "description": "Получите {threshold} видов карт навыка",
+      "homeDescription": "Получите {threshold} видов карт навыка"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -584,8 +584,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 23,
       "title": "P-Task 23",
-      "description": "Acquire {threshold} types of Карта навыкаs",
-      "homeDescription": "Acquire {threshold} types of Карта навыкаs"
+      "description": "Получите {threshold} видов карт навыка",
+      "homeDescription": "Получите {threshold} видов карт навыка"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -773,8 +773,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 50,
       "title": "P-Task 50",
-      "description": "Acquire {threshold} types of Карта навыкаs",
-      "homeDescription": "Acquire {threshold} types of Карта навыкаs"
+      "description": "Получите {threshold} видов карт навыка",
+      "homeDescription": "Получите {threshold} видов карт навыка"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -913,8 +913,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 70,
       "title": "P-Task 70",
-      "description": "Upgrade Карта навыкаs {threshold} times in Produce Mode",
-      "homeDescription": "Upgrade Карта навыкаs {threshold} times in Produce Mode"
+      "description": "Улучшите карты навыка {threshold} раз в режиме продюсирования",
+      "homeDescription": "Улучшите карты навыка {threshold} раз в режиме продюсирования"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1081,8 +1081,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 94,
       "title": "P-Task 94",
-      "description": "Acquire {threshold} types of Карта навыкаs",
-      "homeDescription": "Acquire {threshold} types of Карта навыкаs"
+      "description": "Получите {threshold} видов карт навыка",
+      "homeDescription": "Получите {threshold} видов карт навыка"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1186,8 +1186,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 9,
       "title": "P-Task 2-9",
-      "description": "Acquire {threshold} types of Карта навыкаs",
-      "homeDescription": "Acquire {threshold} types of Карта навыкаs"
+      "description": "Получите {threshold} видов карт навыка",
+      "homeDescription": "Получите {threshold} видов карт навыка"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1312,8 +1312,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 27,
       "title": "P-Task 2-27",
-      "description": "Acquire {threshold} types of Карта навыкаs",
-      "homeDescription": "Acquire {threshold} types of Карта навыкаs"
+      "description": "Получите {threshold} видов карт навыка",
+      "homeDescription": "Получите {threshold} видов карт навыка"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1522,8 +1522,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 57,
       "title": "P-Task 57",
-      "description": "Customize a Карта навыка {threshold} times",
-      "homeDescription": "Customize a Карта навыка {threshold} times"
+      "description": "Настройте карту навыка {threshold} times",
+      "homeDescription": "Настройте карту навыка {threshold} times"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1599,15 +1599,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 68,
       "title": "P-Task 68",
-      "description": "Acquire {threshold} types of Карта навыкаs",
-      "homeDescription": "Acquire {threshold} types of Карта навыкаs"
+      "description": "Получите {threshold} видов карт навыка",
+      "homeDescription": "Получите {threshold} видов карт навыка"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 69,
       "title": "P-Task 69",
-      "description": "Customize a Карта навыка {threshold} times",
-      "homeDescription": "Customize a Карта навыка {threshold} times"
+      "description": "Настройте карту навыка {threshold} times",
+      "homeDescription": "Настройте карту навыка {threshold} times"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1774,8 +1774,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 93,
       "title": "P-Task 93",
-      "description": "Customize a Карта навыка {threshold} times",
-      "homeDescription": "Customize a Карта навыка {threshold} times"
+      "description": "Настройте карту навыка {threshold} times",
+      "homeDescription": "Настройте карту навыка {threshold} times"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1998,8 +1998,8 @@
       "mainTaskGroupId": "main_task_group-04-01",
       "number": 25,
       "title": "P-Task 04-25",
-      "description": "Customize a Карта навыка {threshold} times",
-      "homeDescription": "Customize a Карта навыка {threshold} times"
+      "description": "Настройте карту навыка {threshold} times",
+      "homeDescription": "Настройте карту навыка {threshold} times"
     },
     {
       "mainTaskGroupId": "main_task_group-04-01",
@@ -2138,8 +2138,8 @@
       "mainTaskGroupId": "main_task_group-04-01",
       "number": 45,
       "title": "P-Task 04-45",
-      "description": "Customize a Карта навыка {threshold} times",
-      "homeDescription": "Customize a Карта навыка {threshold} times"
+      "description": "Настройте карту навыка {threshold} times",
+      "homeDescription": "Настройте карту навыка {threshold} times"
     },
     {
       "mainTaskGroupId": "main_task_group-04-01",
