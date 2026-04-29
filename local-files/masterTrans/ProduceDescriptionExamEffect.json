@@ -15,11 +15,11 @@
     },
     {
       "type": "ProduceExamEffectType_ExamBlock",
-      "name": "Energy "
+      "name": "Энергия "
     },
     {
       "type": "ProduceExamEffectType_ExamCardDraw",
-      "name": "Draw a Skill Card "
+      "name": "Крутка a Карта навыка "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDown",
@@ -35,15 +35,15 @@
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuff",
-      "name": "Focus "
+      "name": "Фокус "
     },
     {
       "type": "ProduceExamEffectType_ExamCardUpgrade",
-      "name": "Upgraded During Lesson "
+      "name": "Upgraded During Урок "
     },
     {
       "type": "ProduceExamEffectType_ExamPlayableValueAdd",
-      "name": "Skill Card Usage "
+      "name": "Карта навыка Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffMultiple",
@@ -87,7 +87,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardSearchEffectPlayCountBuff",
-      "name": "Additional Skill Card Activation "
+      "name": "Additional Карта навыка Activation "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultiple",
@@ -95,15 +95,15 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardPlayAggressive",
-      "name": "Motivation "
+      "name": "Мотивация "
     },
     {
       "type": "ProduceExamEffectType_ExamConcentration",
-      "name": "Confidence "
+      "name": "Уверенность "
     },
     {
       "type": "ProduceExamEffectType_ExamPreservation",
-      "name": "Preservation "
+      "name": "Сохранение "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPower",
@@ -239,7 +239,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
-      "name": "Excellent Shape "
+      "name": "Отличная форма "
     },
     {
       "type": "ProduceExamEffectType_StanceLock",

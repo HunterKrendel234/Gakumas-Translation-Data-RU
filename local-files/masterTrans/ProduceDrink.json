@@ -23,7 +23,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLesson",
-          "text": "Params "
+          "text": "Параметры "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -66,7 +66,7 @@
           "text": ""
         }
       ],
-      "name": "Hatsuboshi Water"
+      "name": "Хацубоси Water"
     },
     {
       "id": "pdrink_00-1-004",
@@ -79,7 +79,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Энергия "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -145,7 +145,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "Stamina recovery "
+          "text": "Восстановление выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191,7 +191,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "Stamina recovery "
+          "text": "Восстановление выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -247,7 +247,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardUpgrade",
-          "text": "Upgrade during Lesson "
+          "text": "Усиление во время урока "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -267,7 +267,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "Stamina recovery "
+          "text": "Восстановление выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -363,7 +363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr>)"
+          "text": "ходов</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -383,7 +383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "Stamina consumption Decrease "
+          "text": "Снижение расхода выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -413,7 +413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -433,7 +433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina consumption "
+          "text": "Расход выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -489,7 +489,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "Hand "
+          "text": "Рука "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -499,7 +499,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "Переместить в "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -519,7 +519,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "Stamina consumption Decrease "
+          "text": "Снижение расхода выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -549,7 +549,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         }
       ],
       "name": "Powerful Herbal Remedy Drink "
@@ -615,7 +615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr>)"
+          "text": "ходов</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -635,7 +635,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Draw <nobr>"
+          "text": "Крутка <nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -655,7 +655,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "skill cards </nobr>"
+          "text": "карта навыкаs </nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -675,7 +675,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina consumption "
+          "text": "Расход выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -745,7 +745,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turn </nobr>, "
+          "text": "ход </nobr>, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -755,7 +755,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "After the turn begins, "
+          "text": "After the ход begins, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -765,7 +765,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Draw a skill card "
+          "text": "Крутка a карта навыка "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -824,7 +824,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Hatsuboshi Whey Protein"
+      "name": "Хацубоси Whey Protein"
     },
     {
       "id": "pdrink_00-3-005",
@@ -837,7 +837,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Random Upgraded skill card (SSR), "
+          "text": "Random Upgraded карта навыка (SSR), "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -847,7 +847,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "Hand "
+          "text": "Рука "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -867,10 +867,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardCreateId",
-          "text": "Generate "
+          "text": "Создать "
         }
       ],
-      "name": "Hatsuboshi Special Greens"
+      "name": "Хацубоси Special Greens"
     },
     {
       "id": "pdrink_00-3-013",
@@ -893,7 +893,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardCreateId",
-          "text": "Generate "
+          "text": "Создать "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -903,10 +903,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Use Enhanced Unique Skill Cards (SSR) at no cost "
+          "text": "Use Enhanced Unique Карта навыкаs (SSR) at no cost "
         }
       ],
-      "name": "Hatsuboshi Special Greens X"
+      "name": "Хацубоси Special Greens X"
     },
     {
       "id": "pdrink_01-1-002",
@@ -949,7 +949,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         }
       ],
       "name": "Vitamin Drink"
@@ -965,7 +965,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Фокус "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1011,7 +1011,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffMultiplePerTurn",
-          "text": "Excellent Shape "
+          "text": "Отличная форма "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1041,7 +1041,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1061,7 +1061,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Энергия "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1117,7 +1117,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At end of the turn, "
+          "text": "At end of the ход, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1127,7 +1127,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Фокус "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1170,7 +1170,7 @@
           "text": "\t"
         }
       ],
-      "name": "Hatsuboshi Macchiato"
+      "name": "Хацубоси Macchiato"
     },
     {
       "id": "pdrink_01-3-004",
@@ -1183,7 +1183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffMultiplePerTurn",
-          "text": "Excellent Shape "
+          "text": "Отличная форма "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1213,7 +1213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1243,10 +1243,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardUpgrade",
-          "text": "Upgrade during Lesson "
+          "text": "Усиление во время урока "
         }
       ],
-      "name": "Hatsuboshi Energy Boost "
+      "name": "Хацубоси Energy Boost "
     },
     {
       "id": "pdrink_01-3-012",
@@ -1269,7 +1269,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "Hand "
+          "text": "Рука "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1279,7 +1279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "Переместить в "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1299,7 +1299,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "The next skill card used will consume <nobr>"
+          "text": "The next карта навыка used will consume <nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1359,7 +1359,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina consumption "
+          "text": "Расход выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1409,7 +1409,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "Stamina consumption Increase "
+          "text": "Увеличение расхода выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1439,10 +1439,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         }
       ],
-      "name": "Hatsuboshi Black Vinegar"
+      "name": "Хацубоси Black Vinegar"
     },
     {
       "id": "pdrink_02-1-006",
@@ -1455,7 +1455,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good impression "
+          "text": "Хорошее впечатление "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1501,7 +1501,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Motivation "
+          "text": "Мотивация "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1547,7 +1547,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good impression "
+          "text": "Хорошее впечатление "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1587,7 +1587,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLesson",
-          "text": "Params "
+          "text": "Параметры "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1627,7 +1627,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Энергия "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1683,7 +1683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At end of the turn, "
+          "text": "At end of the ход, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1693,7 +1693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good impression "
+          "text": "Хорошее впечатление "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1736,7 +1736,7 @@
           "text": "\t"
         }
       ],
-      "name": "Hatsuboshi Tea"
+      "name": "Хацубоси Tea"
     },
     {
       "id": "pdrink_02-3-007",
@@ -1759,7 +1759,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At end of the turn, "
+          "text": "At end of the ход, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1769,7 +1769,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Motivation "
+          "text": "Мотивация "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1812,7 +1812,7 @@
           "text": "\t"
         }
       ],
-      "name": "Hatsuboshi Blend"
+      "name": "Хацубоси Blend"
     },
     {
       "id": "pdrink_02-3-010",
@@ -1835,7 +1835,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "Active skill card "
+          "text": "Active карта навыка "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1905,7 +1905,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr>)"
+          "text": "ходов</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1925,7 +1925,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina consumption "
+          "text": "Расход выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1975,7 +1975,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "Stamina consumption Increase "
+          "text": "Увеличение расхода выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2005,10 +2005,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         }
       ],
-      "name": "SP Hatsuboshi Extract"
+      "name": "SP Хацубоси Extract"
     },
     {
       "id": "pdrink_03-1-009",
@@ -2021,7 +2021,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Confidence "
+          "text": "Уверенность "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2031,7 +2031,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Change to "
+          "text": "Сменить на "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2051,7 +2051,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full power point "
+          "text": "Очки полной мощи "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2097,7 +2097,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Preservation "
+          "text": "Сохранение "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2107,7 +2107,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Change to "
+          "text": "Сменить на "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2127,7 +2127,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full power point "
+          "text": "Очки полной мощи "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2193,7 +2193,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Move to "
+          "text": "Переместить в "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2213,7 +2213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Preservation "
+          "text": "Сохранение "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2233,7 +2233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stage change "
+          "text": "Смена сцены "
         }
       ],
       "name": "Hot Green Tea"
@@ -2259,7 +2259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "At the start of the turn, "
+          "text": "At the start of the ход, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2269,7 +2269,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Full power point "
+          "text": "Очки полной мощи "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2312,7 +2312,7 @@
           "text": "\t"
         }
       ],
-      "name": "Hatsuboshi Chai"
+      "name": "Хацубоси Chai"
     },
     {
       "id": "pdrink_03-3-009",
@@ -2325,7 +2325,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Confidence "
+          "text": "Уверенность "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2345,7 +2345,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Stage change "
+          "text": "Смена сцены "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2365,7 +2365,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "Stamina consumption Decrease "
+          "text": "Снижение расхода выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2395,10 +2395,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         }
       ],
-      "name": "Hatsuboshi Super Soda"
+      "name": "Хацубоси Super Soda"
     },
     {
       "id": "pdrink_03-3-011",
@@ -2411,7 +2411,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamExtraTurn",
-          "text": "Add turn "
+          "text": "Add ход "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2441,7 +2441,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "Stamina consumption "
+          "text": "Расход выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2491,7 +2491,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "Stamina consumption Increase "
+          "text": "Увеличение расхода выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2521,10 +2521,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         }
       ],
-      "name": "Hatsuboshi Soup"
+      "name": "Хацубоси Soup"
     }
   ]
 }
