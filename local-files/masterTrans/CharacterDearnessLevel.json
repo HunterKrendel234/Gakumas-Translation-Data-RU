@@ -1,1730 +1,1730 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "characterId",
-      "dearnessLevel"
-    ]
-  },
-  "data": [
-    {
-      "characterId": "amao",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase vocal to 450 or higher during production"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Achievement “Not Just Coolness” unlocked"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase vocal to 1000 or higher during production"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 21,
-      "produceConditionDescription": "Move to Mao Arimura's Bond menu"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 22,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 23,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 24,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 25,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 26,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
-    },
-    {
-      "characterId": "amao",
-      "dearnessLevel": 27,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase vocal to 450 or higher during production"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Earn the \"School's No. 2 Talent\" achievement"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase dance to 800 or higher during production"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "atbm",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase visual to 450 or higher during production"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Pass the midterm exam with the \"Idol Aptitude S\" achievement"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase dance to 800 or higher during production"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 21,
-      "produceConditionDescription": "Move to Kotone Fujita's Bond menu"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 22,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 23,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 24,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 25,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 26,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
-    },
-    {
-      "characterId": "fktn",
-      "dearnessLevel": 27,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase visual to 450 or higher during production"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Achievement “Cloudy Skies Today” unlocked"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase vocal to 1000 or higher during production"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 21,
-      "produceConditionDescription": "Move to Misuzu Hataya's Bond menu"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 22,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 23,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 24,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 25,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 26,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
-    },
-    {
-      "characterId": "hmsz",
-      "dearnessLevel": 27,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase dance to 450 or higher during production"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Achievement “Overflowing Emotions” unlocked"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase visual to 800 or higher during production"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 21,
-      "produceConditionDescription": "Move to Rinami Himesaki's Bond menu"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 22,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 23,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 24,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 25,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 26,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
-    },
-    {
-      "characterId": "hrnm",
-      "dearnessLevel": 27,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase vocal to 450 or higher during production"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Achievement “Passing Is a Given” unlocked"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase visual to 1000 or higher during production"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 21,
-      "produceConditionDescription": "Move to Saki Hanami's Bond menu"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 22,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 23,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 24,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 25,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 26,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
-    },
-    {
-      "characterId": "hski",
-      "dearnessLevel": 27,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase dance to 450 or higher during production"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Earn the \"Challenge to Sister\" achievement"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase vocal to 1000 or higher during production"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 21,
-      "produceConditionDescription": "Move to Ume Hanami's Bond menu"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 22,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 23,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 24,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 25,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 26,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
-    },
-    {
-      "characterId": "hume",
-      "dearnessLevel": 27,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase vocal to 450 or higher during production"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Achievement “What I've Built Up” unlocked"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase visual to 900 or higher during production"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 21,
-      "produceConditionDescription": "Move to Sena Juo's Bond menu"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 22,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 23,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 24,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 25,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 26,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
-    },
-    {
-      "characterId": "jsna",
-      "dearnessLevel": 27,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase visual to 450 or higher during production"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Achievement “Bursting with Energy” unlocked"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase dance to 1000 or higher during production"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 21,
-      "produceConditionDescription": "Move to China Kuramoto's Bond menu"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 22,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 23,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 24,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 25,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 26,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
-    },
-    {
-      "characterId": "kcna",
-      "dearnessLevel": 27,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase vocal to 450 or higher during production"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Achievement “Practice Smiles” unlocked"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase visual to 1000 or higher during production"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 21,
-      "produceConditionDescription": "Move to Lilja Katsuragi's Bond menu"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 22,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 23,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 24,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 25,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 26,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
-    },
-    {
-      "characterId": "kllj",
-      "dearnessLevel": 27,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase dance to 450 or higher during production"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Pass the midterm exam with the \"Making Do Without Talent\" achievement"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase vocal to 1000 or higher during production"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 21,
-      "produceConditionDescription": "Move to Hiro Shinosawa's Bond menu"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 22,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 23,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 24,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 25,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 26,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
-    },
-    {
-      "characterId": "shro",
-      "dearnessLevel": 27,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase visual to 450 or higher during production"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Achievement “If I Really Try” unlocked"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase dance to 1000 or higher during production"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 21,
-      "produceConditionDescription": "Move to Sumika Shiun's Bond menu"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 22,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 23,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 24,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 25,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 26,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
-    },
-    {
-      "characterId": "ssmk",
-      "dearnessLevel": 27,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 1,
-      "produceConditionDescription": ""
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 2,
-      "produceConditionDescription": "Complete at least one lesson during the production"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 3,
-      "produceConditionDescription": "One week after passing the midterm exam during the production"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 4,
-      "produceConditionDescription": "2nd week of production"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 5,
-      "produceConditionDescription": "Pass the midterm exam in 1st place"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 6,
-      "produceConditionDescription": "Increase dance to 450 or higher during production"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 7,
-      "produceConditionDescription": "Achievement “No Compromise” unlocked"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 8,
-      "produceConditionDescription": "Increase vocal to 1000 or higher during production"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 9,
-      "produceConditionDescription": "Rank 1 in the \"Pro\" difficulty final exam"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 10,
-      "produceConditionDescription": "Complete production with an A+ rating"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 11,
-      "produceConditionDescription": "Start production in N.I.A"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 12,
-      "produceConditionDescription": "Advance production in N.I.A"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 13,
-      "produceConditionDescription": "Pass the first audition in N.I.A"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 14,
-      "produceConditionDescription": "Clear 1st audition and pass the 2nd audition in N.I.A"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 15,
-      "produceConditionDescription": "Choose \"QUARTET\" in the final audition"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 16,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 17,
-      "produceConditionDescription": "Pass the final audition after choosing \"QUARTET\""
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 18,
-      "produceConditionDescription": "Choose \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 19,
-      "produceConditionDescription": "Pass the final audition after choosing \"FINALE\""
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 20,
-      "produceConditionDescription": "Complete production after passing \"FINALE\" in the final audition"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 21,
-      "produceConditionDescription": "Move to Temari Tsukimura's Bond menu"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 22,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 100 Bond Pt earned"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 23,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 200 Bond Pt earned"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 24,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 300 Bond Pt earned"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 25,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 400 Bond Pt earned"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 26,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 500 Bond Pt earned"
-    },
-    {
-      "characterId": "ttmr",
-      "dearnessLevel": 27,
-      "produceConditionDescription": "Clear the Final Exam/Final Audition with a total of 600 Bond Pt earned"
-    }
-  ]
+    "rules":  {
+                  "primaryKeys":  [
+                                      "characterId",
+                                      "dearnessLevel"
+                                  ]
+              },
+    "data":  [
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить вокал до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Открыть достижение «Не только крутость»"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить вокал до 1000 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  21,
+                     "produceConditionDescription":  "Перейти в меню привязанности Мао Аримуры"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  22,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 100 очков привязанности"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  23,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 200 очков привязанности"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  24,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 300 очков привязанности"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  25,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 400 очков привязанности"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  26,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 500 очков привязанности"
+                 },
+                 {
+                     "characterId":  "amao",
+                     "dearnessLevel":  27,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 600 очков привязанности"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить вокал до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Получить достижение \"School\u0027s No. 2 Talent\""
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить танец до 800 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "atbm",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить визуал до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен с достижением \"Idol Aptitude S\""
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить танец до 800 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  21,
+                     "produceConditionDescription":  "Перейти в меню привязанности Котонэ Фудзиты"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  22,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 100 очков привязанности"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  23,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 200 очков привязанности"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  24,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 300 очков привязанности"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  25,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 400 очков привязанности"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  26,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 500 очков привязанности"
+                 },
+                 {
+                     "characterId":  "fktn",
+                     "dearnessLevel":  27,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 600 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить визуал до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Открыть достижение «Сегодня пасмурно»"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить вокал до 1000 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  21,
+                     "produceConditionDescription":  "Перейти в меню привязанности Мисудзу Хатаи"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  22,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 100 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  23,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 200 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  24,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 300 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  25,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 400 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  26,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 500 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hmsz",
+                     "dearnessLevel":  27,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 600 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить танец до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Открыть достижение «Переполняющие чувства»"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить визуал до 800 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  21,
+                     "produceConditionDescription":  "Перейти в меню привязанности Ринами Химэсаки"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  22,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 100 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  23,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 200 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  24,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 300 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  25,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 400 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  26,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 500 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hrnm",
+                     "dearnessLevel":  27,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 600 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить вокал до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Открыть достижение «Успех само собой разумеется»"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить визуал до 1000 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  21,
+                     "produceConditionDescription":  "Перейти в меню привязанности Саки Ханами"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  22,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 100 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  23,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 200 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  24,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 300 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  25,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 400 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  26,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 500 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hski",
+                     "dearnessLevel":  27,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 600 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить танец до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Получить достижение \"Challenge to Sister\""
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить вокал до 1000 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  21,
+                     "produceConditionDescription":  "Перейти в меню привязанности Умэ Ханами"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  22,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 100 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  23,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 200 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  24,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 300 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  25,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 400 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  26,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 500 очков привязанности"
+                 },
+                 {
+                     "characterId":  "hume",
+                     "dearnessLevel":  27,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 600 очков привязанности"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить вокал до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Открыть достижение «Всё, что я в себе нарастила»"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить визуал до 900 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  21,
+                     "produceConditionDescription":  "Перейти в меню привязанности Сэны Дзюо"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  22,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 100 очков привязанности"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  23,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 200 очков привязанности"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  24,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 300 очков привязанности"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  25,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 400 очков привязанности"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  26,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 500 очков привязанности"
+                 },
+                 {
+                     "characterId":  "jsna",
+                     "dearnessLevel":  27,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 600 очков привязанности"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить визуал до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Открыть достижение «Энергия через край»"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить танец до 1000 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  21,
+                     "produceConditionDescription":  "Перейти в меню привязанности Чины Курамото"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  22,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 100 очков привязанности"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  23,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 200 очков привязанности"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  24,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 300 очков привязанности"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  25,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 400 очков привязанности"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  26,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 500 очков привязанности"
+                 },
+                 {
+                     "characterId":  "kcna",
+                     "dearnessLevel":  27,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 600 очков привязанности"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить вокал до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Открыть достижение «Улыбки для практики»"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить визуал до 1000 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  21,
+                     "produceConditionDescription":  "Перейти в меню привязанности Лильи Кацураги"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  22,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 100 очков привязанности"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  23,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 200 очков привязанности"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  24,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 300 очков привязанности"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  25,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 400 очков привязанности"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  26,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 500 очков привязанности"
+                 },
+                 {
+                     "characterId":  "kllj",
+                     "dearnessLevel":  27,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 600 очков привязанности"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить танец до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен с достижением \"Making Do Without Talent\""
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить вокал до 1000 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  21,
+                     "produceConditionDescription":  "Перейти в меню привязанности Хиро Синосавы"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  22,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 100 очков привязанности"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  23,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 200 очков привязанности"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  24,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 300 очков привязанности"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  25,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 400 очков привязанности"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  26,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 500 очков привязанности"
+                 },
+                 {
+                     "characterId":  "shro",
+                     "dearnessLevel":  27,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 600 очков привязанности"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить визуал до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Открыть достижение «Если я и вправду постараюсь»"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить танец до 1000 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  21,
+                     "produceConditionDescription":  "Перейти в меню привязанности Сумики Сиун"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  22,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 100 очков привязанности"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  23,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 200 очков привязанности"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  24,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 300 очков привязанности"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  25,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 400 очков привязанности"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  26,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 500 очков привязанности"
+                 },
+                 {
+                     "characterId":  "ssmk",
+                     "dearnessLevel":  27,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 600 очков привязанности"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  1,
+                     "produceConditionDescription":  ""
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  2,
+                     "produceConditionDescription":  "Завершить хотя бы один урок во время продюсирования"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  3,
+                     "produceConditionDescription":  "Через неделю после успешной сдачи промежуточного экзамена во время продюсирования"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  4,
+                     "produceConditionDescription":  "2-я неделя продюсирования"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  5,
+                     "produceConditionDescription":  "Сдать промежуточный экзамен, заняв 1-е место"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  6,
+                     "produceConditionDescription":  "Повысить танец до 450 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  7,
+                     "produceConditionDescription":  "Открыть достижение «Без компромиссов»"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  8,
+                     "produceConditionDescription":  "Повысить вокал до 1000 или выше во время продюсирования"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  9,
+                     "produceConditionDescription":  "Занять 1-е место на финальном экзамене сложности \"Pro\""
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  10,
+                     "produceConditionDescription":  "Завершить продюсирование с рангом A+"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  11,
+                     "produceConditionDescription":  "Начать продюсирование в N.I.A"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  12,
+                     "produceConditionDescription":  "Продвинуться в продюсировании N.I.A"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  13,
+                     "produceConditionDescription":  "Пройти первое прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  14,
+                     "produceConditionDescription":  "Пройти 1-е прослушивание и пройти 2-е прослушивание в N.I.A"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  15,
+                     "produceConditionDescription":  "Выбрать \"QUARTET\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  16,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  17,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"QUARTET\""
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  18,
+                     "produceConditionDescription":  "Выбрать \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  19,
+                     "produceConditionDescription":  "Пройти финальное прослушивание после выбора \"FINALE\""
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  20,
+                     "produceConditionDescription":  "Завершить продюсирование после прохождения \"FINALE\" на финальном прослушивании"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  21,
+                     "produceConditionDescription":  "Перейти в меню привязанности Темари Цукимуры"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  22,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 100 очков привязанности"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  23,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 200 очков привязанности"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  24,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 300 очков привязанности"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  25,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 400 очков привязанности"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  26,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 500 очков привязанности"
+                 },
+                 {
+                     "characterId":  "ttmr",
+                     "dearnessLevel":  27,
+                     "produceConditionDescription":  "Пройти финальный экзамен/финальное прослушивание, набрав в сумме 600 очков привязанности"
+                 }
+             ]
 }

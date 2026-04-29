@@ -7,102 +7,102 @@
   "data": [
     {
       "characterId": "amao",
-      "name": "Mao Arimura",
+      "name": "Мао Аримура",
       "regexp": "Mao$"
     },
     {
       "characterId": "atbm",
-      "name": "Tsubame Amaya",
+      "name": "Цубамэ Амая",
       "regexp": "Tsubame$"
     },
     {
       "characterId": "fktn",
-      "name": "Kotone Fujita",
+      "name": "Котонэ Фудзита",
       "regexp": "Kotone"
     },
     {
       "characterId": "gkgt",
-      "name": "Gokugetsu Academy",
+      "name": "Академия Гокугэцу",
       "regexp": "Gokugetsu Academy"
     },
     {
       "characterId": "hmsz",
-      "name": "Misuzu Hataya",
+      "name": "Мисудзу Хатая",
       "regexp": "Misuzu"
     },
     {
       "characterId": "hrnm",
-      "name": "Rinami Himesaki",
+      "name": "Ринами Химэсаки",
       "regexp": "Rinami"
     },
     {
       "characterId": "hski",
-      "name": "Saki Hanami",
+      "name": "Саки Ханами",
       "regexp": "Saki$"
     },
     {
       "characterId": "hume",
-      "name": "Ume Hanami",
+      "name": "Умэ Ханами",
       "regexp": "Ume$"
     },
     {
       "characterId": "jkno",
-      "name": "Kunio Juo",
+      "name": "Кунио Дзюо",
       "regexp": "Kunio"
     },
     {
       "characterId": "jsna",
-      "name": "Sena Juo",
+      "name": "Сэна Дзюо",
       "regexp": "Sena$"
     },
     {
       "characterId": "kcna",
-      "name": "China Kuramoto",
+      "name": "Чина Курамото",
       "regexp": "China$"
     },
     {
       "characterId": "kllj",
-      "name": "Lilja Katsuragi",
+      "name": "Лилья Кацураги",
       "regexp": "Lilja$"
     },
     {
       "characterId": "myu0",
-      "name": "Mashiro Yu",
+      "name": "Ю Масиро",
       "regexp": "Yu"
     },
     {
       "characterId": "nasr",
-      "name": "Asari Neo",
+      "name": "Асари Нео",
       "regexp": "Asari-Sensei"
     },
     {
       "characterId": "shro",
-      "name": "Hiro Shinosawa",
+      "name": "Хиро Синосава",
       "regexp": "Hiro$"
     },
     {
       "characterId": "ssmk",
-      "name": "Sumika Shiun",
+      "name": "Сумика Сиун",
       "regexp": "Sumika$"
     },
     {
       "characterId": "trda",
-      "name": "Dance Trainer",
+      "name": "Танцевальный тренер",
       "regexp": "Dance Trainer"
     },
     {
       "characterId": "trvi",
-      "name": "Visual Trainer",
+      "name": "Визуальный тренер",
       "regexp": "Visual Trainer"
     },
     {
       "characterId": "trvo",
-      "name": "Vocal Trainer",
+      "name": "Вокальный тренер",
       "regexp": "Vocal Trainer"
     },
     {
       "characterId": "ttmr",
-      "name": "Temari Tsukimura",
+      "name": "Темари Цукимура",
       "regexp": "Temari$"
     }
   ]
