@@ -9,410 +9,410 @@
     {
       "id": "gasha_000410-ssr-idol-support-3",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
+      "name": "Гача ×10",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_200limit_button_001-10",
       "order": 3,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
+      "name": "Гача ×10",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button_animate-ssr-00630",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha"
+      "name": "Платная гача ×10",
+      "description": "Платная гача ×10"
     },
     {
       "id": "gasha_button_merge-ssr-00530",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha"
+      "name": "Платная гача ×10",
+      "description": "Платная гача ×10"
     },
     {
       "id": "gasha_button_merge-ssr-00560",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha"
+      "name": "Платная гача ×10",
+      "description": "Платная гача ×10"
     },
     {
       "id": "gasha_button_merge-ssr-00770",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha"
+      "name": "Платная гача ×10",
+      "description": "Платная гача ×10"
     },
     {
       "id": "gasha_button-001-01",
       "order": 2,
-      "name": "1-Time Gacha",
-      "description": "1-Time Gacha"
+      "name": "Гача ×1",
+      "description": "Гача ×1"
     },
     {
       "id": "gasha_button-001-01-discount",
       "order": 1,
-      "name": "1-Time Daily Gacha",
-      "description": "1-Time Daily Gacha"
+      "name": "Ежедневная гача ×1",
+      "description": "Ежедневная гача ×1"
     },
     {
       "id": "gasha_button-001-10",
       "order": 3,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
+      "name": "Гача ×10",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-001-10-ssr",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
+      "name": "Гача ×10",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-001-10-ssr-anniversary",
       "order": 2,
-      "name": "SSR confirmed 10 rounds of gacha (2 times only)",
-      "description": "SSR confirmed 10 rounds of gacha (2 times only)"
+      "name": "SSR гарантирован: гача ×10 (2 раза)",
+      "description": "SSR гарантирован: гача ×10 (2 раза)"
     },
     {
       "id": "gasha_button-001-ticket",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00800-free-10-06",
       "order": 3,
-      "name": "Free 10-round gacha, up to 100-round free gacha",
-      "description": "10-Time Gacha"
+      "name": "Бесплатная гача ×10, до ×100 бесплатно",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-00810-ticket-001",
       "order": 3,
-      "name": "Pull 10 times with a ticket",
-      "description": "10-Time Gacha"
+      "name": "Тянуть ×10 по билету",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-00822-wednesday-001-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00822-wednesday-001-ticket-10",
       "order": 3,
-      "name": "10-Time Ticket Gacha",
-      "description": "10-Time Ticket Gacha"
+      "name": "Билетная гача ×10",
+      "description": "Билетная гача ×10"
     },
     {
       "id": "gasha_button-00822-wednesday-002-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00822-wednesday-002-ticket-10",
       "order": 3,
-      "name": "10-Time Ticket Gacha",
-      "description": "10-Time Ticket Gacha"
+      "name": "Билетная гача ×10",
+      "description": "Билетная гача ×10"
     },
     {
       "id": "gasha_button-00822-wednesday-003-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00822-wednesday-003-ticket-10",
       "order": 3,
-      "name": "10-Time Ticket Gacha",
-      "description": "10-Time Ticket Gacha"
+      "name": "Билетная гача ×10",
+      "description": "Билетная гача ×10"
     },
     {
       "id": "gasha_button-00822-wednesday-004-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00822-wednesday-005-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00822-wednesday-006-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00822-wednesday-007-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00822-wednesday-008-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00822-wednesday-009-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00822-wednesday-010-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00822-wednesday-010-ticket-10",
       "order": 3,
-      "name": "10-Time Ticket Gacha",
-      "description": "10-Time Ticket Gacha"
+      "name": "Билетная гача ×10",
+      "description": "Билетная гача ×10"
     },
     {
       "id": "gasha_button-00822-wednesday-011-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00822-wednesday-012-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00822-wednesday-013-ticket-01",
       "order": 2,
-      "name": "Draw with Ticket",
-      "description": "Draw with Ticket"
+      "name": "Тянуть за билет",
+      "description": "Тянуть за билет"
     },
     {
       "id": "gasha_button-00870-free-10-07",
       "order": 3,
-      "name": "Free 10-round gacha, up to 100-round free gacha",
-      "description": "10-Time Gacha"
+      "name": "Бесплатная гача ×10, до ×100 бесплатно",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-010-item_01",
       "order": 3,
-      "name": "10-Time Item Gacha",
-      "description": "10-Time Item Gacha"
+      "name": "Гача предметов ×10",
+      "description": "Гача предметов ×10"
     },
     {
       "id": "gasha_button-010-ticket",
       "order": 3,
-      "name": "10-Time Ticket Gacha",
-      "description": "10-Time Ticket Gacha"
+      "name": "Билетная гача ×10",
+      "description": "Билетная гача ×10"
     },
     {
       "id": "gasha_button-640-fes",
       "order": 1,
-      "name": "5-Times Gacha",
-      "description": "5-Times Gacha"
+      "name": "Гача ×5",
+      "description": "Гача ×5"
     },
     {
       "id": "gasha_button-continuous-001",
       "order": 2,
-      "name": "Draw using Items",
-      "description": "Unlimited Draw Gacha"
+      "name": "Тянуть за предметы",
+      "description": "Безлимитная гача"
     },
     {
       "id": "gasha_button-free-10-01",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
+      "name": "Гача ×10",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-free-10-04",
       "order": 3,
-      "name": "Free 10-round gacha, up to 100-round free gacha",
-      "description": "10-Time Gacha"
+      "name": "Бесплатная гача ×10, до ×100 бесплатно",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-free-10-05",
       "order": 3,
-      "name": "Free 10-round gacha, up to 100-round free gacha",
-      "description": "10-Time Gacha"
+      "name": "Бесплатная гача ×10, до ×100 бесплатно",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-pickup-001-01",
       "order": 2,
-      "name": "1-Time Gacha",
-      "description": "1-Time Gacha"
+      "name": "Гача ×1",
+      "description": "Гача ×1"
     },
     {
       "id": "gasha_button-pickup-001-01-discount",
       "order": 1,
-      "name": "1-Time Daily Gacha",
-      "description": "1-Time Daily Gacha"
+      "name": "Ежедневная гача ×1",
+      "description": "Ежедневная гача ×1"
     },
     {
       "id": "gasha_button-pickup-001-10",
       "order": 3,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
+      "name": "Гача ×10",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-pickup-001-10-animate",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
+      "name": "Гача ×10",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-pickup-001-10-another25summer",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
+      "name": "Гача ×10",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-pickup-001-10-HowlingovertheWorld",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
+      "name": "Гача ×10",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-select-pickup-01",
       "order": 1,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
+      "name": "Гача ×10",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_button-select-pickup-01-discount",
       "order": 3,
-      "name": "10-Time Gacha",
-      "description": "10-Time Gacha"
+      "name": "Гача ×10",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_marge_button-ssr-00520",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha"
+      "name": "Платная гача ×10",
+      "description": "Платная гача ×10"
     },
     {
       "id": "gasha_marge_button-ssr-00620",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha"
+      "name": "Платная гача ×10",
+      "description": "Платная гача ×10"
     },
     {
       "id": "gasha_marge_button-ssr-00670",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha"
+      "name": "Платная гача ×10",
+      "description": "Платная гача ×10"
     },
     {
       "id": "gasha_marge_button-ssr-00750",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha"
+      "name": "Платная гача ×10",
+      "description": "Платная гача ×10"
     },
     {
       "id": "gasha_marge_button-ssr-00860",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha"
+      "name": "Платная гача ×10",
+      "description": "Платная гача ×10"
     },
     {
       "id": "gasha_marge_button-ssr-00875",
       "order": 1,
-      "name": "Paid 10-Time gacha",
-      "description": "Paid 10-Time gacha"
+      "name": "Платная гача ×10",
+      "description": "Платная гача ×10"
     },
     {
       "id": "gasha_ticket_aniv-001",
       "order": 3,
-      "name": "Pull with 10 tickets for the 1st anniversary gacha",
-      "description": "10-Time Gacha"
+      "name": "Тянуть ×10 билетов (1-я годовщина)",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_ticket_christmas-001",
       "order": 3,
-      "name": "Use the Christmas login bonus gacha ticket",
-      "description": "10-Time Gacha"
+      "name": "Использовать рождественские билеты гачи",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha_ticket_ssr_10_button-001",
       "order": 1,
-      "name": "Draw with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR 10-Draw"
+      "name": "Тянуть с гарантированным SSR билетом",
+      "description": "Гарантированный SSR ×10"
     },
     {
       "id": "gasha_ticket_ssr_button",
       "order": 1,
-      "name": "Draw with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR 1-Draw"
+      "name": "Тянуть с гарантированным SSR билетом",
+      "description": "Гарантированный SSR ×1"
     },
     {
       "id": "gasha_ticket_ssr_button_1st-anniv",
       "order": 1,
-      "name": "Draw with 1st Anniversary Commemorative SSR Ticket",
-      "description": "Guaranteed SSR 1-Draw"
+      "name": "Тянуть с памятным SSR билетом 1-й годовщины",
+      "description": "Гарантированный SSR ×1"
     },
     {
       "id": "gasha_ticket_ssr_button_idol",
       "order": 1,
-      "name": "Draw with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR Idol 1-Draw"
+      "name": "Тянуть с гарантированным SSR билетом",
+      "description": "Гарантированный SSR Айдол ×1"
     },
     {
       "id": "gasha_ticket_ssr_button_idol_2",
       "order": 1,
-      "name": "The 1st Period Performance Commemorative SSR P idol fixed ticket to draw",
-      "description": "Guaranteed SSR 1-Draw"
+      "name": "Тянуть с билетом SSR P-айдон 1-го периода",
+      "description": "Гарантированный SSR ×1"
     },
     {
       "id": "gasha_ticket_ssr_button_seasons-2511-001",
       "order": 1,
-      "name": "Draw with the 1.5th Anniversary Season Limited SSR Guaranteed Ticket",
-      "description": "Guaranteed SSR 1-Draw"
+      "name": "Тянуть с сезонным билетом SSR (1.5-летие)",
+      "description": "Гарантированный SSR ×1"
     },
     {
       "id": "gasha_ticket_ssr_button_support",
       "order": 1,
-      "name": "Draw with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR Support 1-Draw"
+      "name": "Тянуть с гарантированным SSR билетом",
+      "description": "Гарантированный SSR поддержка ×1"
     },
     {
       "id": "gasha_ticket_ssr_button_support-2",
       "order": 1,
-      "name": "Draw with Guaranteed SSR Ticket",
-      "description": "Guaranteed SSR Support 1-Draw"
+      "name": "Тянуть с гарантированным SSR билетом",
+      "description": "Гарантированный SSR поддержка ×1"
     },
     {
       "id": "gasha_ticket_ssr_button-5",
       "order": 1,
-      "name": "1.5th Anniversary SSR Guaranteed Gacha Ticket",
-      "description": "Guaranteed SSR 1-Draw"
+      "name": "Билет SSR к 1.5-летию",
+      "description": "Гарантированный SSR ×1"
     },
     {
       "id": "gasha_ticket_ssr_button-6",
       "order": 1,
-      "name": "MOIW2025 Commemorative SSR P Idol Guaranteed Gacha Ticket",
-      "description": "Guaranteed SSR Idol 1-Draw"
+      "name": "Памятный билет SSR P-айдон MOIW2025",
+      "description": "Гарантированный SSR Айдол ×1"
     },
     {
       "id": "gasha_ticket_valentine-001",
       "order": 3,
-      "name": "Use Valentine's Login Bonus Gacha Tickets",
-      "description": "10-Time Gacha"
+      "name": "Использовать валентинские билеты гачи",
+      "description": "Гача ×10"
     },
     {
       "id": "gasha-ticket-ssr-idol-seasons_button-01",
       "order": 1,
-      "name": "Pull using Season-Limited SSR P-Idol Guaranteed Gacha Ticket",
-      "description": "Season-Limited SSR Idol Guaranteed Single Pull"
+      "name": "Тянуть с сезонным билетом SSR P-Айдола",
+      "description": "Сезонный SSR Айдол гарантирован ×1"
     },
     {
       "id": "gasha-ticket-ssr-support-seasons_button-01",
       "order": 1,
-      "name": "Pull using Season-Limited SSR Support Card Guaranteed Gacha Ticket",
-      "description": "Season-Limited SSR Support Card Guaranteed Single Pull"
+      "name": "Тянуть с сезонным билетом SSR Карты поддержки",
+      "description": "Сезонная SSR Карта поддержки гарантирована ×1"
     }
   ]
 }

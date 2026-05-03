@@ -7,74 +7,74 @@
   "data": [
     {
       "tutorialType": "TutorialType_Work",
-      "name": "Work",
-      "description": "Work feature unlocked",
+      "name": "Работа",
+      "description": "Функция «Работа» открыта",
       "routeDescription": "Check from \"Work\" on the Home screen"
     },
     {
       "tutorialType": "TutorialType_PvpRate",
-      "name": "Contest",
-      "description": "Contest feature unlocked",
+      "name": "Контест",
+      "description": "Функция «Контест» открыта",
       "routeDescription": "Check from \"Contest\""
     },
     {
       "tutorialType": "TutorialType_CoinGasha",
-      "name": "Coin Gacha",
-      "description": "Coin Gacha feature unlocked",
+      "name": "Гача за монеты",
+      "description": "Функция «Гача за монеты» открыта",
       "routeDescription": "Check from \"Coin Gacha\" in the Shop"
     },
     {
       "tutorialType": "TutorialType_MoneyReceive",
-      "name": "Activity Funds",
-      "description": "Activity Funds feature unlocked",
+      "name": "Средства активности",
+      "description": "Функция «Средства активности» открыта",
       "routeDescription": "Check from \"Activity Funds\" on the Home screen"
     },
     {
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
-      "name": "Produce Idol Training",
-      "description": "Produce Idol Training feature unlocked",
+      "name": "Тренировка айдола продюсирования",
+      "description": "Функция «Тренировка айдола продюсирования» открыта",
       "routeDescription": "Check from \"P-Idol Development\" under Idol"
     },
     {
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
-      "name": "Support Card Upgrade",
-      "description": "Support Card Upgrade feature unlocked",
+      "name": "Улучшение карты поддержки",
+      "description": "Функция «Улучшение карты поддержки» открыта",
       "routeDescription": "Check from \"Support Cards\" under Idol"
     },
     {
       "tutorialType": "TutorialType_DailyExchange",
-      "name": "Daily Exchange Shop",
-      "description": "Daily Exchange Shop feature unlocked",
+      "name": "Магазин ежедневного обмена",
+      "description": "Функция «Магазин ежедневного обмена» открыта",
       "routeDescription": "Check from \"Daily Exchange Shop\" in the Shop"
     },
     {
       "tutorialType": "TutorialType_Tower",
-      "name": "The Idol Road",
-      "description": "The Idol Road feature unlocked",
+      "name": "Idol Road",
+      "description": "Функция «Idol Road» открыта",
       "routeDescription": "Check from \"The Idol Road\" under Contest"
     },
     {
       "tutorialType": "TutorialType_Guild",
-      "name": "Circle",
-      "description": "Circle feature unlocked",
+      "name": "Круг",
+      "description": "Функция «Круг» открыта",
       "routeDescription": "Check from \"Circle\" in the Menu"
     },
     {
       "tutorialType": "TutorialType_DearnessTop",
-      "name": "BondLv Menu",
-      "description": "\"BondLv Menu\" function unlocked",
+      "name": "Меню BondLv",
+      "description": "Функция «Меню BondLv» открыта",
       "routeDescription": "You can check this from the Home BondLv"
     },
     {
       "tutorialType": "TutorialType_ProducerRanking",
-      "name": "Producer Ranking",
-      "description": "[Producer Ranking] unlocked",
+      "name": "Рейтинг продюсера",
+      "description": "«Рейтинг продюсера» открыт",
       "routeDescription": "You can check your P-rankings here"
     },
     {
       "tutorialType": "TutorialType_ProduceCardConvert",
-      "name": "Skill Card Switch",
-      "description": "\"Skill Card Switch\" unlocked",
+      "name": "Смена карты навыка",
+      "description": "Функция «Смена карты навыка» открыта",
       "routeDescription": "Available in produce"
     }
   ]

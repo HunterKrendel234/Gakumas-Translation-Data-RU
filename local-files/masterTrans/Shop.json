@@ -7,23 +7,23 @@
   "data": [
     {
       "id": "shop_costume",
-      "name": "Costume"
+      "name": "Костюмы"
     },
     {
       "id": "shop_jewel",
-      "name": "Jewels"
+      "name": "Драгоценные камни"
     },
     {
       "id": "shop_pack",
-      "name": "Pack"
+      "name": "Наборы"
     },
     {
       "id": "shop_pass",
-      "name": "Pass"
+      "name": "Пропуск"
     },
     {
       "id": "shop_webstore",
-      "name": "Payments"
+      "name": "Платежи"
     }
   ]
 }

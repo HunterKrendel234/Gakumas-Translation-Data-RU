@@ -9,7 +9,7 @@
     {
       "id": "help-achievement",
       "order": 17,
-      "name": "Achievements",
+      "name": "Достижения",
       "texts": [
         " Achievements can be obtained by meeting various conditions. Collect achievements actively to earn rewards such as experience points for increasing your Producer Level. ",
         " When the number of stars earned through achievements reaches a certain amount, you can obtain Master Achievements. Master Achievements rank up based on the number of stars collected and grant rewards. ",
@@ -20,14 +20,14 @@
     {
       "id": "help-box-gasha-event",
       "order": 24,
-      "name": "Live Tour Event",
+      "name": "Событие Live Tour",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-circle-battle-event",
       "order": 26,
-      "name": "Regional Tour Events",
+      "name": "События регионального тура",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -41,7 +41,7 @@
     {
       "id": "help-contest",
       "order": 12,
-      "name": "Contests",
+      "name": "Конкурсы",
       "texts": [
         " You can compete against producers nationwide. In contests, you can use the parameters, skill cards, and P items tied to the memories gained during production. ",
         " Performance battles are conducted on each stage, and victories are determined by the scores obtained. The producer with the most stage victories wins. ",
@@ -53,49 +53,49 @@
     {
       "id": "help-dearness-doost-campaign",
       "order": 11,
-      "name": "Bond Boost Campaign",
+      "name": "Кампания бонуса связи",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-dearness-map",
       "order": 10,
-      "name": "Bond Map",
+      "name": "Карта связи",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-dearness-top",
       "order": 9,
-      "name": "Bond Menu",
+      "name": "Меню связи",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-event_mission",
       "order": 25,
-      "name": "Event Missions",
+      "name": "Миссии события",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-event-mission",
       "order": 22,
-      "name": "Special Missions",
+      "name": "Спецмиссии",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-gasha",
       "order": 14,
-      "name": "Gacha",
+      "name": "Гача",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-guild",
       "order": 16,
-      "name": "Circles",
+      "name": "Кружки",
       "texts": [
         " In Circles, you can team up and interact with producers nationwide. ",
         " In Circles, you can request training items from Circle members and receive donated items. Donating items also earns you Friend Coins."
@@ -105,28 +105,28 @@
     {
       "id": "help-highscore",
       "order": 24,
-      "name": "Idol Enhancement Month",
+      "name": "Месяц усиления айдолов",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-highscorerush",
       "order": 23,
-      "name": "Idol Enhancement Month",
+      "name": "Месяц усиления айдолов",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-home",
       "order": 1,
-      "name": "Home",
+      "name": "Главная",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-idol",
       "order": 2,
-      "name": "Idols",
+      "name": "Айдолы",
       "texts": [],
       "hiddenHelpList": false
     },
@@ -140,56 +140,56 @@
     {
       "id": "help-livetour-event",
       "order": 23,
-      "name": "Live Tour Event",
+      "name": "Событие Live Tour",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-main-story-event",
       "order": 23,
-      "name": "Hatsuboshi Commu Event",
+      "name": "Событие комью Хацубоси",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-memory",
       "order": 4,
-      "name": "Memories",
+      "name": "Воспоминания",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-menu",
       "order": 19,
-      "name": "Menu",
+      "name": "Меню",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-mission",
       "order": 15,
-      "name": "Missions",
+      "name": "Миссии",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-panel-mission",
       "order": 21,
-      "name": "Panel Mission Events",
+      "name": "События панельных миссий",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-photography-prepare-top",
       "order": 23,
-      "name": "Idol Photo Shoots",
+      "name": "Фотосессии айдолов",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-produce",
       "order": 5,
-      "name": "Produce",
+      "name": "Продюсирование",
       "texts": [
         " Aim to pass exams and participate in live performances. To participate in lives, you need to pass the midterm and final exams. ",
         " Idol parameters are crucial for passing exams. Train your parameters to prepare for exams. ",
@@ -200,49 +200,49 @@
     {
       "id": "help-producer-ranking",
       "order": 24,
-      "name": "Producer Ranking",
+      "name": "Рейтинг продюсеров",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-research-event",
       "order": 28,
-      "name": "Asari-Sensei's Produce Seminar",
+      "name": "Семинар продюсирования Асари-сэнсэя",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-shop",
       "order": 18,
-      "name": "Shop",
+      "name": "Магазин",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-story",
       "order": 8,
-      "name": "Commu",
+      "name": "Комью",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-story-event",
       "order": 20,
-      "name": "Story Events",
+      "name": "Сюжетные события",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-story-event-guild-mission",
       "order": 25,
-      "name": "Linked Missions",
+      "name": "Связанные миссии",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-support",
       "order": 3,
-      "name": "Support Cards",
+      "name": "Карты поддержки",
       "texts": [],
       "hiddenHelpList": false
     },

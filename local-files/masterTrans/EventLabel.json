@@ -7,27 +7,27 @@
   "data": [
     {
       "eventType": "EventType_MissionDailyRelease",
-      "name": "Special Missions"
+      "name": "Спецмиссии"
     },
     {
       "eventType": "EventType_MissionPanel",
-      "name": "Panel Missions"
+      "name": "Панельные миссии"
     },
     {
       "eventType": "EventType_ProduceHighScore",
-      "name": "Kunio Juo's Idol Enhancement Month"
+      "name": "Месяц усиления айдолов Кунио Дзё"
     },
     {
       "eventType": "EventType_StoryCampaign",
-      "name": "Free Commu Unlock Period"
+      "name": "Период бесплатной разблокировки комью"
     },
     {
       "eventType": "EventType_StoryEvent",
-      "name": "Story"
+      "name": "Сюжет"
     },
     {
       "eventType": "EventType_StoryEventMainStory",
-      "name": "Hatsuboshi Commu"
+      "name": "Комью Хацубоси"
     },
     {
       "eventType": "EventType_StoryEventBoxGasha",
@@ -35,15 +35,15 @@
     },
     {
       "eventType": "EventType_StoryEventGuildMission",
-      "name": "Story"
+      "name": "Сюжет"
     },
     {
       "eventType": "EventType_GvgRaid",
-      "name": "Regional Tour"
+      "name": "Региональный тур"
     },
     {
       "eventType": "EventType_DearnessBoost",
-      "name": "Bond Boost Campaign"
+      "name": "Кампания усиления связи"
     },
     {
       "eventType": "EventType_Tour",
@@ -51,7 +51,7 @@
     },
     {
       "eventType": "EventType_Research",
-      "name": "Asari-Sensei's Production Seminar"
+      "name": "Семинар продюсирования Асари-сэнсэя"
     }
   ]
 }
