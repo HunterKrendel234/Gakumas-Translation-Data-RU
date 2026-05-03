@@ -7,27 +7,27 @@
   "data": [
     {
       "id": "produce-001",
-      "name": "Regular"
+      "name": "Обычный"
     },
     {
       "id": "produce-002",
-      "name": "Pro"
+      "name": "Про"
     },
     {
       "id": "produce-003",
-      "name": "Master"
+      "name": "Мастер"
     },
     {
       "id": "produce-004",
-      "name": "Pro"
+      "name": "Про"
     },
     {
       "id": "produce-005",
-      "name": "Master"
+      "name": "Мастер"
     },
     {
       "id": "produce-006",
-      "name": "Legend"
+      "name": "Легенда"
     }
   ]
 }
