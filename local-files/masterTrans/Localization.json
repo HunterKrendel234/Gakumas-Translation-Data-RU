@@ -7,27 +7,27 @@
   "data": [
     {
       "id": "achievement.true_end.receive.initial_status",
-      "description": "Начальные параметры"
+      "description": "Initial param"
     },
     {
       "id": "achievement.true_end.receive.lesson_bonus",
-      "description": "Бонус параметров"
+      "description": "Parameter Bonus"
     },
     {
       "id": "card.detail.enhance.invalid.point.exp.short",
-      "description": "Недостаточно тренировочных Pt."
+      "description": "Not enough training Pts."
     },
     {
       "id": "card.produce_card_customize.detail_sheet.nia_condition",
-      "description": "※Настройку можно выполнить через Special Guidance"
+      "description": "※Customization can be performed through Special Guidance"
     },
     {
       "id": "common.story_event_point",
-      "description": "Продюсерский семинар Асари-сэнсэй"
+      "description": "Asari-sensei's Production Seminar"
     },
     {
       "id": "competition.rehearsal_battle_confirm.label.description",
-      "description": "※Попытки вызова не расходуются / Rate Pt не начисляются"
+      "description": "※Does not consume challenge attempts / Rate Pt cannot be earned"
     },
     {
       "id": "competition.unit.score",
@@ -35,55 +35,55 @@
     },
     {
       "id": "dearness.dearness_level_detail_sheet.title",
-      "description": "Подробности уровня связи"
+      "description": "Bond Lv Details"
     },
     {
       "id": "exchange.complete.confirm",
-      "description": "Обмен выполнен"
+      "description": "Exchanged"
     },
     {
       "id": "high_score_event.top.adv.title_label",
-      "description": "Месяц усиления айдолов\n〜Мерцание звёзд〜"
+      "description": "Idol Enhancement Month\n〜Twinkling of the Stars〜"
     },
     {
       "id": "home.gasha.continuous_share.share_text",
-      "description": "＼ Идёт безлимитная гача в честь TVCM ／\n\nМожно бесплатно крутить гачу, пока появляется подсказка!\nГарантирован минимум 1 SSR!\n\n#学マス #引き放題って好き"
+      "description": "＼ TVCM Broadcast Commemoration Unlimited Gacha Ongoing ／\n\nYou can pull the gacha for free as long as the prompt allows it!\nGuarantees at least 1 SSR!\n\n#学マス #引き放題って好き"
     },
     {
       "id": "home.gasha.continuous_share.title",
-      "description": "Результаты безлимитной гачи TVCM "
+      "description": "TVCM Broadcast Unlimited Gacha Results "
     },
     {
       "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
-      "description": "При получении целевого P-айдола"
+      "description": "When you acquire the target P idol"
     },
     {
       "id": "home.gasha.draw_button.item",
-      "description": "Билет "
+      "description": "Ticket "
     },
     {
       "id": "home.gasha.item_confirm_sheet.ticket.short_balance_alert",
-      "description": "Недостаточно "
+      "description": "Insufficient Quantity "
     },
     {
       "id": "home.pvp.contest.out_of_term_toast",
-      "description": "Вне периода события"
+      "description": "Outside the event period"
     },
     {
       "id": "idol_dearness.step3_condition",
-      "description": "Открывается после завершения кампании усиления связи"
+      "description": "Unlocks after the Bond Boost Campaign ends"
     },
     {
       "id": "idol_dearness.top.mission_unlock_description",
-      "description": "Открывается {0}"
+      "description": "Unlocks on {0}"
     },
     {
       "id": "memory.inherit.select_produce_card.before_select.message",
-      "description": "Выберите карту навыка для замены"
+      "description": "Select the skill card you want to swap"
     },
     {
       "id": "mission.mission_list.max_point_text.event",
-      "description": "Недельные очки достигли максимума."
+      "description": "Weekly Points earned have reached the maximum."
     },
     {
       "id": "mission.panel.mission_text",
@@ -91,75 +91,75 @@
     },
     {
       "id": "produce_prepare.easy_mode_apply",
-      "description": "Режим помощи активен"
+      "description": "Assist Mode Active"
     },
     {
       "id": "produce_prepare.easy_mode.continue_sheet.message",
-      "description": "Отключить режим помощи?"
+      "description": "Do you want to disable assist mode?"
     },
     {
       "id": "produce_prepare.easy_mode.continue_sheet.title",
-      "description": "Подтверждение режима помощи"
+      "description": "Assist Mode Confirmation"
     },
     {
       "id": "produce_prepare.easy_mode.setting_sheet.confirm",
-      "description": "Применить\nрежим помощи"
+      "description": "Apply\nAssist Mode"
     },
     {
       "id": "produce_prepare.easy_mode.setting_sheet.message",
-      "description": "Можно начать продюсирование с режимом помощи для следующего прохождения {0}, сложность: {1}"
+      "description": "You can start producing with Assist Mode applied to the next play of {0} difficulty: {1}"
     },
     {
       "id": "produce_prepare.easy_mode.setting_sheet.title",
-      "description": "Настройки режима помощи"
+      "description": "Assist Mode Settings"
     },
     {
       "id": "produce_prepare.easy_mode.start_produce_sheet.message",
-      "description": "Начать продюсирование в режиме помощи\nПродолжить?"
+      "description": "Start producing in Assist Mode\nProceed?"
     },
     {
       "id": "produce_prepare.edit.warning",
-      "description": "Составы можно задавать отдельно для каждого продюсирования. Если задать состав для одного продюсирования, он не применится к другим."
+      "description": "Formations can be set individually for each Produce. If you set a formation for one Produce, it will not apply to others."
     },
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.description",
-      "description": "Теперь в наградах за продюсирование можно получить звёздные искры"
+      "description": "You can now obtain Star Sparkles as a Produce reward"
     },
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.title",
-      "description": "Месяц усиления айдолов Дзюо Кунио"
+      "description": "Kunio Juo’s Idol Enhancement Month"
     },
     {
       "id": "produce_prepare.top.event_icon.research.description",
-      "description": "Теперь в наградах за продюсирование можно получить стикеры Асари-сэнсэй, семинарского тануки и очки события."
+      "description": "You can now obtain Asari-sensei stickers, Seminar Tanuki, and event points as produce rewards."
     },
     {
       "id": "produce.card.move_position.deckall",
-      "description": "Другой слот состава "
+      "description": "Other Formation Slot "
     },
     {
       "id": "produce.card.rarity.legend",
-      "description": "Легенда "
+      "description": "Legend "
     },
     {
       "id": "produce.high_score_rush.gold.description",
-      "description": "Предмет, получаемый в «Месяце интенсивного усиления айдолов Дзюо Кунио 〜Мерцание звёзд〜». Используется в гаче события."
+      "description": "An item obtainable in \"Kunio Juo's Idol Intensive Month 〜Twinkling of the Stars〜\" Can be used in the event gacha."
     },
     {
       "id": "produce.lesson.no_effect.stance_over_preservation",
-      "description": "Так как выбран ориентир «Расслабленно», эффект смены на «Сохранение» не активируется."
+      "description": "Because the guideline is set to “Relaxed”, the effect to change it to “Preservation” will not activate."
     },
     {
       "id": "produce.server_force_reset.confirm.description",
-      "description": "Текущие данные продюсирования были удалены."
+      "description": "The Produce data in progress has been discarded."
     },
     {
       "id": "producer_ranking.character_reward.description",
-      "description": "После периода подсчёта вы получите награды в зависимости от места в рейтинге продюсера на конец сезона."
+      "description": "You will receive rewards after the calculation period ends, depending on your producer ranking at the end of the season."
     },
     {
       "id": "profile.badge_select.thumb_empty.empty.toast",
-      "description": "Можно получить в рейтингах продюсера "
+      "description": "Can be obtained from Producer Rankings "
     },
     {
       "id": "profile.report.share.text",
@@ -167,51 +167,51 @@
     },
     {
       "id": "research_event.target_idol_sheet.description",
-      "description": "В режиме события могут участвовать только подходящие P-айдолы."
+      "description": "Only P-idols eligible can challenge the event mode."
     },
     {
       "id": "setting.produce.easy_mode_confirm",
-      "description": "Отображение режима помощи"
+      "description": "Assist Mode Display"
     },
     {
       "id": "setting.produce.easy_mode_confirm.description",
-      "description": "Если включено, при выполнении условий появится сообщение о применении режима помощи."
+      "description": "When this option is ON, a message to apply Assist Mode will appear when conditions are met."
     },
     {
       "id": "setting.produce.easy_mode_setting",
-      "description": "Настройки режима помощи"
+      "description": "Assist Mode Settings"
     },
     {
       "id": "setting.produce.easy_mode_setting.description",
-      "description": "Если включено,\nрежим помощи будет применяться при вызове NEXT IDOL AUDITION, сложность: PRO."
+      "description": "When this option is ON,\nAssist Mode will be applied when challenging NEXT IDOL AUDITION difficulty: PRO."
     },
     {
       "id": "setting.produce.easy_mode.title",
-      "description": "【Продюсирование】Режим помощи"
+      "description": "【Produce】Assist Mode"
     },
     {
       "id": "shop.web_store.confirm.description",
-      "description": "Открыть веб-браузер?\nДату рождения можно задать через [Меню > Другое > Ввести дату рождения]."
+      "description": "Do you want to open a web browser?\nYou can set your date of birth from [Menu > Other > Enter Date of Birth]."
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",
-      "description": "Чтобы открыть, получите Event Pt и прочитайте предыдущую Commu "
+      "description": "Earn Event Pt and read the previous commu to unlock "
     },
     {
       "id": "tour.exam.to_home.alert",
-      "description": "※Если есть приостановленные данные, их можно возобновить, перейдя в специальное событие во время периода события\n※Если перейти в специальное событие на другом устройстве, приостановленные данные будут удалены"
+      "description": "※If there is paused data, you can resume it by going to the Special Event during the event period\n※If you go to the Special Event on a different device, the paused data will be deleted"
     },
     {
       "id": "tour.play_consumption_item_detail.add_initial_daily_diff_count.annotation",
-      "description": "※Можно использовать только во время события"
+      "description": "※Usable only during the event period"
     },
     {
       "id": "tour.play_consumption_item_detail.annotation",
-      "description": "※Можно использовать только во время события"
+      "description": "※Usable only during the event period"
     },
     {
       "id": "tour.play_consumption_item_detail.message",
-      "description": "Предмет, используемый при вызове этапов специальных событий."
+      "description": "An item used when challenging stages in Special Events."
     },
     {
       "id": "tour.top.user_status.point_complete_label",
@@ -219,7 +219,7 @@
     },
     {
       "id": "voice.idol_use_produce_card",
-      "description": "Использовать уникальную карту навыка P-айдола"
+      "description": "Use P-idol's unique skill card"
     }
   ]
 }

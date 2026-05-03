@@ -9,12 +9,12 @@
     {
       "id": "s_card_p_skill_filter-lessonpresentproducepointup-p_trigger-end_lesson_before_present-lesson",
       "order": 36,
-      "title": "P-очко gain +"
+      "title": "P-Point gain +"
     },
     {
       "id": "s_card_p_skill_filter-lessonvocalspchangeratepermiladdition-p_trigger-produce_start-no_description",
       "order": 3,
-      "title": "SP Урок trigger rate +"
+      "title": "SP Lesson trigger rate +"
     },
     {
       "id": "s_card_p_skill_filter-maxstaminaaddition-p_trigger-produce_start-no_description",
@@ -24,22 +24,22 @@
     {
       "id": "s_card_p_skill_filter-producepointadditiondisabletrigger-p_trigger-produce_start-initial",
       "order": 35,
-      "title": "Starting P-очкоs +"
+      "title": "Starting P-Points +"
     },
     {
       "id": "s_card_p_skill_filter-shopproducedrinkpricediscountmultiple-p_trigger-start_shop-no_description",
       "order": 37,
-      "title": "P-Drink discount during Консультация"
+      "title": "P-Drink discount during Consult"
     },
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_audition",
       "order": 33,
-      "title": "Stamina recovers after Exams/Прослушиваниеs"
+      "title": "Stamina recovers after Exams/Auditions"
     },
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_lesson-lesson_sp",
       "order": 32,
-      "title": "Stamina recovers after SP Урокs"
+      "title": "Stamina recovers after SP Lessons"
     },
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-start_present",
@@ -49,57 +49,57 @@
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_drink",
       "order": 29,
-      "title": "Param increase after P Drink exchange in Консультация"
+      "title": "Param increase after P Drink exchange in Consult"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-change_produce_card",
       "order": 13,
-      "title": "Param increase when changing Карта навыкаs"
+      "title": "Param increase when changing Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-customize_produce_card",
       "order": 32,
-      "title": "Increase Param when Customizing Карта навыкаs"
+      "title": "Increase Param when Customizing Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-active_skill-deck_all",
       "order": 12,
-      "title": "Param increase when deleting Active Карта навыкаs"
+      "title": "Param increase when deleting Active Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-deck_all",
       "order": 10,
-      "title": "Param increase when deleting Карта навыкаs"
+      "title": "Param increase when deleting Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
       "order": 11,
-      "title": "Param increase when deleting Mental Карта навыкаs"
+      "title": "Param increase when deleting Mental Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition",
       "order": 25,
-      "title": "Param increase after Exams/Прослушиваниеs"
+      "title": "Param increase after Exams/Auditions"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_sp-produce_card_count-0020_0000",
       "order": 36,
-      "title": "Increase Param if you have 20 or more Карта навыкаs at the end of SP Урок"
+      "title": "Increase Param if you have 20 or more Skill Cards at the end of SP Lesson"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal",
       "order": 4,
-      "title": "Param increase after Урокs"
+      "title": "Param increase after Lessons"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal_normal",
       "order": 5,
-      "title": "Param increase after normal Урокs"
+      "title": "Param increase after normal Lessons"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal_sp",
       "order": 6,
-      "title": "Param increase after SP Урокs"
+      "title": "Param increase after SP Lessons"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_step_event_activity",
@@ -114,62 +114,62 @@
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-active_skill-deck_all",
       "order": 16,
-      "title": "Param increase when acquiring Active Карта навыкаs"
+      "title": "Param increase when acquiring Active Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all",
       "order": 14,
-      "title": "Param increase when acquiring Карта навыкаs"
+      "title": "Param increase when acquiring Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_block-000",
       "order": 33,
-      "title": "Increase Param when obtaining a Карта навыка with Energy Effect"
+      "title": "Increase Param when obtaining a Skill Card with Energy Effect"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000",
       "order": 19,
-      "title": "Param increase when acquiring Motivation Карта навыкаs"
+      "title": "Param increase when acquiring Motivation Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_concentration-000",
       "order": 21,
-      "title": "Param increase when acquiring Confidence Карта навыкаs"
+      "title": "Param increase when acquiring Confidence Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_full_power-000",
       "order": 22,
-      "title": "Param increase when acquiring Full Power Карта навыкаs"
+      "title": "Param increase when acquiring Full Power Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000",
       "order": 18,
-      "title": "Param increase when acquiring Focus Карта навыкаs"
+      "title": "Param increase when acquiring Focus Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000",
       "order": 17,
-      "title": "Param increase when acquiring Good Shape Карта навыкаs"
+      "title": "Param increase when acquiring Good Shape Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_preservation-000",
       "order": 23,
-      "title": "Param increase when acquiring Preservation Карта навыкаs"
+      "title": "Param increase when acquiring Preservation Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_review-000",
       "order": 20,
-      "title": "Param increase when acquiring Good Impression Карта навыкаs"
+      "title": "Param increase when acquiring Good Impression Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
       "order": 15,
-      "title": "Param increase when acquiring Mental Карта навыкаs"
+      "title": "Param increase when acquiring Mental Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-p_card_search-ssr-deck_all-1",
       "order": 34,
-      "title": "Increase Param when obtaining a Карта навыка (SSR)"
+      "title": "Increase Param when obtaining a Skill Card (SSR)"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_drink",
@@ -204,22 +204,22 @@
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_shop",
       "order": 28,
-      "title": "Param increase when selecting Консультация"
+      "title": "Param increase when selecting Consult"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-active_skill-deck_all",
       "order": 9,
-      "title": "Param increase when enhancing Active Карта навыкаs"
+      "title": "Param increase when enhancing Active Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-deck_all",
       "order": 7,
-      "title": "Param increase when enhancing Карта навыкаs"
+      "title": "Param increase when enhancing Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
       "order": 8,
-      "title": "Param increase when enhancing Mental Карта навыкаs"
+      "title": "Param increase when enhancing Mental Skill Cards"
     },
     {
       "id": "s_card_p_skill_filter-vocalgrowthrateaddition-p_trigger-produce_start-no_description",

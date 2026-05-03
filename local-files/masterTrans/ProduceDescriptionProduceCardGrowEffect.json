@@ -9,8 +9,8 @@
     {
       "type": "ProduceCardGrowEffectType_LessonAdd",
       "produceDescriptionLabelId": "Label_LessonAdd",
-      "name": "Парам. +",
-      "produceCardCustomizeDescription": "Парам. +"
+      "name": "Param +",
+      "produceCardCustomizeDescription": "Param +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonReduce",
@@ -33,8 +33,8 @@
     {
       "type": "ProduceCardGrowEffectType_BlockAdd",
       "produceDescriptionLabelId": "Label_BlockAdd",
-      "name": "Энергия +",
-      "produceCardCustomizeDescription": "Энергия +"
+      "name": "Energy +",
+      "produceCardCustomizeDescription": "Energy +"
     },
     {
       "type": "ProduceCardGrowEffectType_BlockReduce",
@@ -93,8 +93,8 @@
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
       "produceDescriptionLabelId": "Label_ParameterBuffTurnAdd",
-      "name": "Хорошая форма +",
-      "produceCardCustomizeDescription": "Хорошая форма +"
+      "name": "Good Shape +",
+      "produceCardCustomizeDescription": "Good Shape +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
@@ -105,8 +105,8 @@
     {
       "type": "ProduceCardGrowEffectType_LessonBuffAdd",
       "produceDescriptionLabelId": "Label_LessonBuffAdd",
-      "name": "Фокус +",
-      "produceCardCustomizeDescription": "Фокус +"
+      "name": "Focus +",
+      "produceCardCustomizeDescription": "Focus +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonBuffReduce",
@@ -117,8 +117,8 @@
     {
       "type": "ProduceCardGrowEffectType_ReviewAdd",
       "produceDescriptionLabelId": "Label_ReviewAdd",
-      "name": "Хорошее впечатление +",
-      "produceCardCustomizeDescription": "Хорошее впечатление +"
+      "name": "Good Impression +",
+      "produceCardCustomizeDescription": "Good Impression +"
     },
     {
       "type": "ProduceCardGrowEffectType_ReviewReduce",
@@ -129,8 +129,8 @@
     {
       "type": "ProduceCardGrowEffectType_AggressiveAdd",
       "produceDescriptionLabelId": "Label_AggressiveAdd",
-      "name": "Мотивация +",
-      "produceCardCustomizeDescription": "Мотивация +"
+      "name": "Motivation +",
+      "produceCardCustomizeDescription": "Motivation +"
     },
     {
       "type": "ProduceCardGrowEffectType_AggressiveReduce",
@@ -141,14 +141,14 @@
     {
       "type": "ProduceCardGrowEffectType_CardDrawAdd",
       "produceDescriptionLabelId": "Label_CardDrawAdd",
-      "name": "Крутка Count +",
-      "produceCardCustomizeDescription": "Крутка Cards +"
+      "name": "Draw Count +",
+      "produceCardCustomizeDescription": "Draw Cards +"
     },
     {
       "type": "ProduceCardGrowEffectType_CardDrawReduce",
       "produceDescriptionLabelId": "Label_CardDrawReduce",
-      "name": "Крутка Count -",
-      "produceCardCustomizeDescription": "Крутка Cards –"
+      "name": "Draw Count -",
+      "produceCardCustomizeDescription": "Draw Cards –"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",

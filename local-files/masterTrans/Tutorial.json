@@ -636,7 +636,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Thanks to the Карта навыка effect, {ExamEffectType.ExamReview}Good Impression was applied!"
+        "Thanks to the Skill Card effect, {ExamEffectType.ExamReview}Good Impression was applied!"
       ],
       "title": ""
     },
@@ -714,7 +714,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "This time, try selecting a Карта навыка with the effect {ExamEffectType.ExamReview}Good Impression!"
+        "This time, try selecting a Skill Card with the effect {ExamEffectType.ExamReview}Good Impression!"
       ],
       "title": ""
     },
@@ -1037,7 +1037,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Thanks to the Карта навыка effect, {ExamEffectType.ExamParameterBuff}Good Shape was applied!"
+        "Thanks to the Skill Card effect, {ExamEffectType.ExamParameterBuff}Good Shape was applied!"
       ],
       "title": ""
     },
@@ -1115,7 +1115,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "Try selecting a Карта навыка while under the effect of {ExamEffectType.ExamParameterBuff}Good Shape!"
+        "Try selecting a Skill Card while under the effect of {ExamEffectType.ExamParameterBuff}Good Shape!"
       ],
       "title": ""
     },
@@ -1925,7 +1925,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
-        " Пользовательские визитные карточки можно создать через [Визитная карточка > Создать новую > Пользовательская визитная карточка]. ",
+        " Custom business cards can be created from [Business Card > Create New > Custom Business Card]. ",
         " While template business cards could only specify a background, custom business cards allow multiple specifications. ",
         " Animated business cards can be created by recording a P Live video and setting a specified part of the recorded video as the business card. You can trim the video within a specified duration and set it accordingly. ",
         " Custom business cards allow for various edits. Create your own unique business card! You can check the operation method from the icon at the top left of the custom business card screen. ",
@@ -2438,7 +2438,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Карта навыка Switch"
+      "title": "Skill Card Switch"
     },
     {
       "tutorialType": "TutorialType_CompetitionPreOpen",

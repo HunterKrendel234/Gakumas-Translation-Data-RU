@@ -19,9 +19,9 @@
     },
     {
       "tutorialType": "TutorialType_CoinGasha",
-      "name": "Coin Гача",
-      "description": "Coin Гача feature unlocked",
-      "routeDescription": "Check from \"Coin Гача\" in the Shop"
+      "name": "Coin Gacha",
+      "description": "Coin Gacha feature unlocked",
+      "routeDescription": "Check from \"Coin Gacha\" in the Shop"
     },
     {
       "tutorialType": "TutorialType_MoneyReceive",
@@ -31,27 +31,27 @@
     },
     {
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
-      "name": "P-айдол Training",
-      "description": "P-айдол Training feature unlocked",
-      "routeDescription": "Check from \"P-Айдол Development\" under Айдол"
+      "name": "Produce Idol Training",
+      "description": "Produce Idol Training feature unlocked",
+      "routeDescription": "Check from \"P-Idol Development\" under Idol"
     },
     {
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
-      "name": "Карта поддержки Upgrade",
-      "description": "Карта поддержки Upgrade feature unlocked",
-      "routeDescription": "Check from \"Карта поддержкиs\" under Айдол"
+      "name": "Support Card Upgrade",
+      "description": "Support Card Upgrade feature unlocked",
+      "routeDescription": "Check from \"Support Cards\" under Idol"
     },
     {
       "tutorialType": "TutorialType_DailyExchange",
-      "name": "ежедневно Exchange Shop",
-      "description": "ежедневно Exchange Shop feature unlocked",
-      "routeDescription": "Check from \"ежедневно Exchange Shop\" in the Shop"
+      "name": "Daily Exchange Shop",
+      "description": "Daily Exchange Shop feature unlocked",
+      "routeDescription": "Check from \"Daily Exchange Shop\" in the Shop"
     },
     {
       "tutorialType": "TutorialType_Tower",
-      "name": "The Дорога айдола",
-      "description": "The Дорога айдола feature unlocked",
-      "routeDescription": "Check from \"The Дорога айдола\" under Contest"
+      "name": "The Idol Road",
+      "description": "The Idol Road feature unlocked",
+      "routeDescription": "Check from \"The Idol Road\" under Contest"
     },
     {
       "tutorialType": "TutorialType_Guild",
@@ -67,14 +67,14 @@
     },
     {
       "tutorialType": "TutorialType_ProducerRanking",
-      "name": "Продюсер Ranking",
-      "description": "[Продюсер Ranking] unlocked",
+      "name": "Producer Ranking",
+      "description": "[Producer Ranking] unlocked",
       "routeDescription": "You can check your P-rankings here"
     },
     {
       "tutorialType": "TutorialType_ProduceCardConvert",
-      "name": "Карта навыка Switch",
-      "description": "\"Карта навыка Switch\" unlocked",
+      "name": "Skill Card Switch",
+      "description": "\"Skill Card Switch\" unlocked",
       "routeDescription": "Available in produce"
     }
   ]

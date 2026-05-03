@@ -23,15 +23,15 @@
     },
     {
       "id": "effect_group-visible-dance_addition-000",
-      "name": "Танец +"
+      "name": "Dance +"
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_down-000",
-      "name": "P-очко Consumption for Outings -"
+      "name": "P-Point Consumption for Outings -"
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_up-000",
-      "name": "P-очко Consumption for Outings +"
+      "name": "P-Point Consumption for Outings +"
     },
     {
       "id": "effect_group-visible-event_school_stamina_down-000",
@@ -59,23 +59,23 @@
     },
     {
       "id": "effect_group-visible-exam_block-000",
-      "name": "Энергия "
+      "name": "Energy "
     },
     {
       "id": "effect_group-visible-exam_card_draw-000",
-      "name": "Крутка Карта навыка "
+      "name": "Draw Skill Card "
     },
     {
       "id": "effect_group-visible-exam_card_play_aggressive-000",
-      "name": "Мотивация "
+      "name": "Motivation "
     },
     {
       "id": "effect_group-visible-exam_card_search_effect_play_count_buff-000",
-      "name": "Additional Карта навыка Activation "
+      "name": "Additional Skill Card Activation "
     },
     {
       "id": "effect_group-visible-exam_card_upgrade-000",
-      "name": "Upgraded During Урокs "
+      "name": "Upgraded During Lessons "
     },
     {
       "id": "effect_group-visible-exam_concentration-000",
@@ -111,7 +111,7 @@
     },
     {
       "id": "effect_group-visible-exam_lesson_buff-000",
-      "name": "Фокус "
+      "name": "Focus "
     },
     {
       "id": "effect_group-visible-exam_lesson_depend_block-000",
@@ -151,11 +151,11 @@
     },
     {
       "id": "effect_group-visible-exam_playable_value_add-000",
-      "name": "Карта навыка Usage "
+      "name": "Skill Card Usage "
     },
     {
       "id": "effect_group-visible-exam_preservation-000",
-      "name": "Сохранение "
+      "name": "Preservation "
     },
     {
       "id": "effect_group-visible-exam_review_reduce-000",
@@ -203,51 +203,51 @@
     },
     {
       "id": "effect_group-visible-produce_point_addition-000",
-      "name": "P-очкоs +"
+      "name": "P-Points +"
     },
     {
       "id": "effect_group-visible-produce_point_reduce_fix-000",
-      "name": "P-очкоs -"
+      "name": "P-Points -"
     },
     {
       "id": "effect_group-visible-shop_price_discount_multiple-000",
-      "name": "Discount on All Консультация Options "
+      "name": "Discount on All Consultation Options "
     },
     {
       "id": "effect_group-visible-shop_price_up_multiple-000",
-      "name": "Increase on All Консультация Options "
+      "name": "Increase on All Consultation Options "
     },
     {
       "id": "effect_group-visible-shop_produce_card_delete_price_discount_multiple-000",
-      "name": "Discount on Карта навыка Deletion in Консультация "
+      "name": "Discount on Skill Card Deletion in Consultation "
     },
     {
       "id": "effect_group-visible-shop_produce_card_delete_price_up_multiple-000",
-      "name": "Increase on Карта навыка Deletion in Консультация "
+      "name": "Increase on Skill Card Deletion in Consultation "
     },
     {
       "id": "effect_group-visible-shop_produce_card_price_discount_multiple-000",
-      "name": "Discount on Карта навыкаs in Консультация "
+      "name": "Discount on Skill Cards in Consultation "
     },
     {
       "id": "effect_group-visible-shop_produce_card_price_up_multiple-000",
-      "name": "Increase on Карта навыкаs in Консультация "
+      "name": "Increase on Skill Cards in Consultation "
     },
     {
       "id": "effect_group-visible-shop_produce_card_upgrade_price_discount_multiple-000",
-      "name": "Discount on Карта навыка Upgrade in Консультация "
+      "name": "Discount on Skill Card Upgrade in Consultation "
     },
     {
       "id": "effect_group-visible-shop_produce_card_upgrade_price_up_multiple-000",
-      "name": "Increase on Карта навыка Upgrade in Консультация "
+      "name": "Increase on Skill Card Upgrade in Consultation "
     },
     {
       "id": "effect_group-visible-shop_produce_drink_price_discount_multiple-000",
-      "name": "Discount on P Drinks in Консультация "
+      "name": "Discount on P Drinks in Consultation "
     },
     {
       "id": "effect_group-visible-shop_produce_drink_price_up_multiple-000",
-      "name": "Increase on P Drinks in Консультация "
+      "name": "Increase on P Drinks in Consultation "
     },
     {
       "id": "effect_group-visible-stamina_recover_fix-000",
@@ -263,11 +263,11 @@
     },
     {
       "id": "effect_group-visible-visual_addition-000",
-      "name": "Визуал +"
+      "name": "Visual +"
     },
     {
       "id": "effect_group-visible-vocal_addition-000",
-      "name": "Вокал +"
+      "name": "Vocal +"
     }
   ]
 }

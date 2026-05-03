@@ -13,14 +13,14 @@
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonVisualNormal",
-      "name": "Визуал Урок"
+      "name": "Visual Lesson"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "Танец Урок"
+      "name": "Dance Lesson"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -41,14 +41,14 @@
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "Танец Урок"
+      "name": "Dance Lesson"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonVisualNormal",
-      "name": "Визуал Урок"
+      "name": "Visual Lesson"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -69,14 +69,14 @@
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "Танец Урок"
+      "name": "Dance Lesson"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonVocalNormal",
-      "name": "Вокал Урок"
+      "name": "Vocal Lesson"
     },
     {
       "tutorialType": "TutorialType_GameStart",

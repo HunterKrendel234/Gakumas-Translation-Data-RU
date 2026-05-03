@@ -9,7 +9,7 @@
     {
       "id": "Swap_Convert_001",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Урок "
+      "text": "Lesson "
     },
     {
       "id": "Swap_Convert_001",
@@ -19,7 +19,7 @@
     {
       "id": "Swap_Convert_002",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Урок "
+      "text": "Lesson "
     },
     {
       "id": "Swap_Convert_002",
@@ -29,7 +29,7 @@
     {
       "id": "Swap_Convert_ConditionThreshold",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Урок CLEAR "
+      "text": "Lesson CLEAR "
     },
     {
       "id": "Swap_Convert_ConditionThreshold",
@@ -39,7 +39,7 @@
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Урок not CLEAR "
+      "text": "Lesson not CLEAR "
     },
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
@@ -89,57 +89,57 @@
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【Танец Урок/Танец Turn only】"
+      "text": "【Dance Lesson/Dance Turn only】"
     },
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "If it's a Танец Turn, "
+      "text": "If it's a Dance Turn, "
     },
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【SP Урок only】"
+      "text": "【SP Lesson only】"
     },
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "【SP Урок only】"
+      "text": "【SP Lesson only】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【Визуал Урок/Визуал Turn only】"
+      "text": "【Visual Lesson/Visual Turn only】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "If it's a Визуал Turn, "
+      "text": "If it's a Visual Turn, "
     },
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【Вокал Урок/Вокал Turn only】"
+      "text": "【Vocal Lesson/Vocal Turn only】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "If it's a Вокал Turn, "
+      "text": "If it's a Vocal Turn, "
     },
     {
       "id": "Swap_Label_Audition",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Exam/Прослушивание "
+      "text": "Exam/Audition "
     },
     {
       "id": "Swap_Label_Audition",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Exam/Прослушивание "
+      "text": "Exam/Audition "
     },
     {
       "id": "Swap_Label_ExamCardUpgrade",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Усиление во время урока "
+      "text": "Upgrade during Lesson "
     },
     {
       "id": "Swap_Label_ExamCardUpgrade",
@@ -269,7 +269,7 @@
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Once during Урок "
+      "text": "Once during Lesson "
     },
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
@@ -319,12 +319,12 @@
     {
       "id": "Swap_Label_ProduceCardPositionType_Hand",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Рука "
+      "text": "Hand "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Hand",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Рука "
+      "text": "Hand "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Lost",

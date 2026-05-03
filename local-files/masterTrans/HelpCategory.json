@@ -20,14 +20,14 @@
     {
       "id": "help-box-gasha-event",
       "order": 24,
-      "name": "Live Tour Событие",
+      "name": "Live Tour Event",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-circle-battle-event",
       "order": 26,
-      "name": "Regional Tour Событиеs",
+      "name": "Regional Tour Events",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -53,7 +53,7 @@
     {
       "id": "help-dearness-doost-campaign",
       "order": 11,
-      "name": "Кампания усиления связи",
+      "name": "Bond Boost Campaign",
       "texts": [],
       "hiddenHelpList": false
     },
@@ -74,21 +74,21 @@
     {
       "id": "help-event_mission",
       "order": 25,
-      "name": "Событие Миссияs",
+      "name": "Event Missions",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-event-mission",
       "order": 22,
-      "name": "Special Миссияs",
+      "name": "Special Missions",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-gasha",
       "order": 14,
-      "name": "Гача",
+      "name": "Gacha",
       "texts": [],
       "hiddenHelpList": false
     },
@@ -105,14 +105,14 @@
     {
       "id": "help-highscore",
       "order": 24,
-      "name": "Месяц усиления айдолов",
+      "name": "Idol Enhancement Month",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-highscorerush",
       "order": 23,
-      "name": "Месяц усиления айдолов",
+      "name": "Idol Enhancement Month",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -126,28 +126,28 @@
     {
       "id": "help-idol",
       "order": 2,
-      "name": "Айдолs",
+      "name": "Idols",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-lesson",
       "order": 6,
-      "name": "Урокs/Exams",
+      "name": "Lessons/Exams",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-livetour-event",
       "order": 23,
-      "name": "Live Tour Событие",
+      "name": "Live Tour Event",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-main-story-event",
       "order": 23,
-      "name": "Хацубоси Commu Событие",
+      "name": "Hatsuboshi Commu Event",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -168,21 +168,21 @@
     {
       "id": "help-mission",
       "order": 15,
-      "name": "Миссияs",
+      "name": "Missions",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-panel-mission",
       "order": 21,
-      "name": "Panel Миссия Событиеs",
+      "name": "Panel Mission Events",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-photography-prepare-top",
       "order": 23,
-      "name": "Айдол Photo Shoots",
+      "name": "Idol Photo Shoots",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -200,7 +200,7 @@
     {
       "id": "help-producer-ranking",
       "order": 24,
-      "name": "Продюсер Ranking",
+      "name": "Producer Ranking",
       "texts": [],
       "hiddenHelpList": false
     },
@@ -228,28 +228,28 @@
     {
       "id": "help-story-event",
       "order": 20,
-      "name": "Story Событиеs",
+      "name": "Story Events",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-story-event-guild-mission",
       "order": 25,
-      "name": "Linked Миссияs",
+      "name": "Linked Missions",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-support",
       "order": 3,
-      "name": "Карта поддержкиs",
+      "name": "Support Cards",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-tower",
       "order": 13,
-      "name": "Дорога айдола",
+      "name": "Idol Road",
       "texts": [],
       "hiddenHelpList": false
     }

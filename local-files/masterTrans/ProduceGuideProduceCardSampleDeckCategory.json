@@ -7,27 +7,27 @@
   "data": [
     {
       "id": "sample_deck_beginner_CardPlayAggressive_group_20_CardPlayAggressive",
-      "label": "Motivation Boost Карта навыкаs"
+      "label": "Motivation Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_group_20_CardPlayAggressive_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_group_20_exam_block",
-      "label": "Energy Boost Карта навыкаs"
+      "label": "Energy Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_group_35_CardPlayAggressive",
-      "label": "Motivation Boost Карта навыкаs"
+      "label": "Motivation Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_group_35_CardPlayAggressive_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_group_35_exam_block",
-      "label": "Energy Boost Карта навыкаs"
+      "label": "Energy Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_group_35_logic_other",
@@ -35,31 +35,31 @@
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_Review_group_20_CardPlayAggressive",
-      "label": "Motivation Boost Карта навыкаs"
+      "label": "Motivation Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_Review_group_20_CardPlayAggressive_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_Review_group_20_exam_block",
-      "label": "Energy Boost Карта навыкаs"
+      "label": "Energy Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_Review_group_20_Review",
-      "label": "Good Impression Карта навыкаs"
+      "label": "Good Impression Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_Review_group_35_CardPlayAggressive",
-      "label": "Motivation Boost Карта навыкаs"
+      "label": "Motivation Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_Review_group_35_CardPlayAggressive_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_Review_group_35_exam_block",
-      "label": "Energy Boost Карта навыкаs"
+      "label": "Energy Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_Review_group_35_logic_other",
@@ -67,7 +67,7 @@
     },
     {
       "id": "sample_deck_beginner_CardPlayAggressive_Review_group_35_Review",
-      "label": "Good Impression Карта навыкаs"
+      "label": "Good Impression Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Concentration_group_20_anomaly_other",
@@ -75,15 +75,15 @@
     },
     {
       "id": "sample_deck_beginner_Concentration_group_20_anomaly_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Concentration_group_20_Concentration",
-      "label": "Confident Карта навыкаs"
+      "label": "Confident Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Concentration_group_20_Preservation\n",
-      "label": "Preservation Карта навыкаs"
+      "label": "Preservation Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Concentration_group_35_anomaly_other",
@@ -91,15 +91,15 @@
     },
     {
       "id": "sample_deck_beginner_Concentration_group_35_anomaly_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Concentration_group_35_Concentration",
-      "label": "Confident Карта навыкаs"
+      "label": "Confident Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Concentration_group_35_Preservation\n",
-      "label": "Preservation Карта навыкаs"
+      "label": "Preservation Skill Cards"
     },
     {
       "id": "sample_deck_beginner_FullPower_group_20_anomaly_other",
@@ -107,15 +107,15 @@
     },
     {
       "id": "sample_deck_beginner_FullPower_group_20_anomaly_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_FullPower_group_20_FullPower",
-      "label": "Pull Power Point Карта навыкаs"
+      "label": "Pull Power Point Skill Cards"
     },
     {
       "id": "sample_deck_beginner_FullPower_group_20_Preservation",
-      "label": "Preservation Карта навыкаs"
+      "label": "Preservation Skill Cards"
     },
     {
       "id": "sample_deck_beginner_FullPower_group_35_anomaly_other",
@@ -123,19 +123,19 @@
     },
     {
       "id": "sample_deck_beginner_FullPower_group_35_anomaly_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_FullPower_group_35_FullPower",
-      "label": "Pull Power Point Карта навыкаs"
+      "label": "Pull Power Point Skill Cards"
     },
     {
       "id": "sample_deck_beginner_FullPower_group_35_Preservation",
-      "label": "Preservation Карта навыкаs"
+      "label": "Preservation Skill Cards"
     },
     {
       "id": "sample_deck_beginner_LessonBuff_group_20_LessonBuff",
-      "label": "Focus Карта навыкаs"
+      "label": "Focus Skill Cards"
     },
     {
       "id": "sample_deck_beginner_LessonBuff_group_20_other",
@@ -143,15 +143,15 @@
     },
     {
       "id": "sample_deck_beginner_LessonBuff_group_20_ParameterBuff",
-      "label": "Good Shape Карта навыкаs"
+      "label": "Good Shape Skill Cards"
     },
     {
       "id": "sample_deck_beginner_LessonBuff_group_20_sense_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_LessonBuff_group_35_LessonBuff",
-      "label": "Focus Карта навыкаs"
+      "label": "Focus Skill Cards"
     },
     {
       "id": "sample_deck_beginner_LessonBuff_group_35_other",
@@ -159,19 +159,19 @@
     },
     {
       "id": "sample_deck_beginner_LessonBuff_group_35_parameter_buff_multiple",
-      "label": "Excellent Shape Карта навыкаs"
+      "label": "Excellent Shape Skill Cards"
     },
     {
       "id": "sample_deck_beginner_LessonBuff_group_35_ParameterBuff",
-      "label": "Good Shape Карта навыкаs"
+      "label": "Good Shape Skill Cards"
     },
     {
       "id": "sample_deck_beginner_LessonBuff_group_35_sense_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_ParameterBuff_group_20_LessonBuff",
-      "label": "Focus Карта навыкаs"
+      "label": "Focus Skill Cards"
     },
     {
       "id": "sample_deck_beginner_ParameterBuff_group_20_other",
@@ -179,19 +179,19 @@
     },
     {
       "id": "sample_deck_beginner_ParameterBuff_group_20_parameter_buff_multiple",
-      "label": "Excellent Shape Карта навыкаs"
+      "label": "Excellent Shape Skill Cards"
     },
     {
       "id": "sample_deck_beginner_ParameterBuff_group_20_ParameterBuff",
-      "label": "Good Shape Карта навыкаs"
+      "label": "Good Shape Skill Cards"
     },
     {
       "id": "sample_deck_beginner_ParameterBuff_group_20_sense_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_ParameterBuff_group_35_LessonBuff",
-      "label": "Focus Карта навыкаs"
+      "label": "Focus Skill Cards"
     },
     {
       "id": "sample_deck_beginner_ParameterBuff_group_35_other",
@@ -199,19 +199,19 @@
     },
     {
       "id": "sample_deck_beginner_ParameterBuff_group_35_parameter_buff_multiple",
-      "label": "Excellent Shape Карта навыкаs"
+      "label": "Excellent Shape Skill Cards"
     },
     {
       "id": "sample_deck_beginner_ParameterBuff_group_35_ParameterBuff",
-      "label": "Good Shape Карта навыкаs"
+      "label": "Good Shape Skill Cards"
     },
     {
       "id": "sample_deck_beginner_ParameterBuff_group_35_sense_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Review_CardPlayAggressive_group_20_CardPlayAggressive",
-      "label": "Motivation Boost Карта навыкаs"
+      "label": "Motivation Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Review_CardPlayAggressive_group_20_logic_other",
@@ -219,15 +219,15 @@
     },
     {
       "id": "sample_deck_beginner_Review_CardPlayAggressive_group_20_Review",
-      "label": "Good Impression Карта навыкаs"
+      "label": "Good Impression Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Review_CardPlayAggressive_group_20_Review_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Review_CardPlayAggressive_group_35_CardPlayAggressive",
-      "label": "Motivation Boost Карта навыкаs"
+      "label": "Motivation Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Review_CardPlayAggressive_group_35_logic_other",
@@ -235,11 +235,11 @@
     },
     {
       "id": "sample_deck_beginner_Review_CardPlayAggressive_group_35_Review",
-      "label": "Good Impression Карта навыкаs"
+      "label": "Good Impression Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Review_CardPlayAggressive_group_35_Review_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Review_group_20_logic_other",
@@ -247,11 +247,11 @@
     },
     {
       "id": "sample_deck_beginner_Review_group_20_Review",
-      "label": "Good Impression Карта навыкаs"
+      "label": "Good Impression Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Review_group_20_Review_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Review_group_35_logic_other",
@@ -259,11 +259,11 @@
     },
     {
       "id": "sample_deck_beginner_Review_group_35_Review",
-      "label": "Good Impression Карта навыкаs"
+      "label": "Good Impression Skill Cards"
     },
     {
       "id": "sample_deck_beginner_Review_group_35_Review_score",
-      "label": "Score Boost Карта навыкаs"
+      "label": "Score Boost Skill Cards"
     }
   ]
 }

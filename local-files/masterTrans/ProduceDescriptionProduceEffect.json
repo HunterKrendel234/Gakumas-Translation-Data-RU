@@ -7,51 +7,51 @@
   "data": [
     {
       "type": "ProduceEffectType_VocalAddition",
-      "name": "Вокал +"
+      "name": "Vocal +"
     },
     {
       "type": "ProduceEffectType_DanceAddition",
-      "name": "Танец +"
+      "name": "Dance +"
     },
     {
       "type": "ProduceEffectType_VisualAddition",
-      "name": "Визуал +"
+      "name": "Visual +"
     },
     {
       "type": "ProduceEffectType_VocalDown",
-      "name": "Вокал -"
+      "name": "Vocal -"
     },
     {
       "type": "ProduceEffectType_DanceDown",
-      "name": "Танец -"
+      "name": "Dance -"
     },
     {
       "type": "ProduceEffectType_VisualDown",
-      "name": "Визуал -"
+      "name": "Visual -"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
-      "name": "Вокал Урок Bonus +"
+      "name": "Vocal Lesson Bonus +"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateAddition",
-      "name": "Танец Урок Bonus +"
+      "name": "Dance Lesson Bonus +"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateAddition",
-      "name": "Визуал Урок Bonus +"
+      "name": "Visual Lesson Bonus +"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateDown",
-      "name": "Вокал Урок Bonus -"
+      "name": "Vocal Lesson Bonus -"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateDown",
-      "name": "Танец Урок Bonus -"
+      "name": "Dance Lesson Bonus -"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateDown",
-      "name": "Визуал Урок Bonus -"
+      "name": "Visual Lesson Bonus -"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverFix",
@@ -107,31 +107,31 @@
     },
     {
       "type": "ProduceEffectType_ProducePointReduceFix",
-      "name": "P-очкоs -"
+      "name": "P-Points -"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceMultiple",
-      "name": "P-очкоs Percentage -"
+      "name": "P-Points Percentage -"
     },
     {
       "type": "ProduceEffectType_ProducePointSpecify",
-      "name": "P-очкоs Change "
+      "name": "P-Points Change "
     },
     {
       "type": "ProduceEffectType_ProducePointAdditionValueUp",
-      "name": "P-очкоs Gain Amount +"
+      "name": "P-Points Gain Amount +"
     },
     {
       "type": "ProduceEffectType_ProducePointAdditionValueDown",
-      "name": "P-очкоs Gain Amount -"
+      "name": "P-Points Gain Amount -"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceValueUp",
-      "name": "P-очкоs Decrease Amount +"
+      "name": "P-Points Decrease Amount +"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceValueDown",
-      "name": "P-очкоs Decrease Amount -"
+      "name": "P-Points Decrease Amount -"
     },
     {
       "type": "ProduceEffectType_ProduceCardUpgrade",
@@ -159,11 +159,11 @@
     },
     {
       "type": "ProduceEffectType_ProducePointAddition",
-      "name": "P-очкоs Gain"
+      "name": "P-Points Gain"
     },
     {
       "type": "ProduceEffectType_ProducePointGetDisable",
-      "name": "P-очкоs Gain Inactive "
+      "name": "P-Points Gain Inactive "
     },
     {
       "type": "ProduceEffectType_ProduceItemGetDisable",
@@ -175,11 +175,11 @@
     },
     {
       "type": "ProduceEffectType_ProduceReward",
-      "name": "Награда Gain "
+      "name": "Reward Gain "
     },
     {
       "type": "ProduceEffectType_ProduceRewardSet",
-      "name": "Награда Gain "
+      "name": "Reward Gain "
     },
     {
       "type": "ProduceEffectType_AuditionParameterBonusMultiple",
@@ -187,63 +187,63 @@
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilAddition",
-      "name": "SP Урок Occurrence Rate +"
+      "name": "SP Lesson Occurrence Rate +"
     },
     {
       "type": "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
-      "name": "Вокал SP Урок Occurrence Rate +"
+      "name": "Vocal SP Lesson Occurrence Rate +"
     },
     {
       "type": "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
-      "name": "Танец SP Урок Occurrence Rate +"
+      "name": "Dance SP Lesson Occurrence Rate +"
     },
     {
       "type": "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
-      "name": "Визуал SP Урок Occurrence Rate +"
+      "name": "Visual SP Lesson Occurrence Rate +"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilDown",
-      "name": "SP Урок Occurrence Rate -"
+      "name": "SP Lesson Occurrence Rate -"
     },
     {
       "type": "ProduceEffectType_ExamStatusEnchant",
-      "name": "Урок Effect Occurrence "
+      "name": "Lesson Effect Occurrence "
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountUp",
-      "name": "Урок Награда Карта навыка Options +"
+      "name": "Lesson Reward Skill Card Options +"
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountDown",
-      "name": "Урок Награда Карта навыка Options -"
+      "name": "Lesson Reward Skill Card Options -"
     },
     {
       "type": "ProduceEffectType_ShopPriceDiscountMultiple",
-      "name": "Консультация All Items Discount "
+      "name": "Consultation All Items Discount "
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiple",
-      "name": "Консультация Карта навыка Discount "
+      "name": "Consultation Skill Card Discount "
     },
     {
       "type": "ProduceEffectType_ShopProduceDrinkPriceDiscountMultiple",
-      "name": "Консультация P-Drink Discount "
+      "name": "Consultation P-Drink Discount "
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceDiscountMultiple",
-      "name": "Консультация Карта навыка Upgrade Discount "
+      "name": "Consultation Skill Card Upgrade Discount "
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceSpecify",
-      "name": "Консультация Карта навыка Upgrade Change "
+      "name": "Consultation Skill Card Upgrade Change "
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceDiscountMultiple",
-      "name": "Консультация Карта навыка Deletion Discount "
+      "name": "Consultation Skill Card Deletion Discount "
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceSpecify",
-      "name": "Консультация Карта навыка Upgrade Change "
+      "name": "Consultation Skill Card Upgrade Change "
     },
     {
       "type": "ProduceEffectType_ProduceResultRewardMoneyUp",
@@ -251,31 +251,31 @@
     },
     {
       "type": "ProduceEffectType_ProduceResultRewardSupportCardEnhancePointUp",
-      "name": "Produce Completion Поддержка Pt +"
+      "name": "Produce Completion Support Pt +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventStaminaRecoverUp",
-      "name": "Поддержка Событие Stamina Recovery +"
+      "name": "Support Event Stamina Recovery +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProducePointAdditionValueUp",
-      "name": "Поддержка Событие P-очкоs Gain +"
+      "name": "Support Event P-Points Gain +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventParameterAdditionValueUp",
-      "name": "Поддержка Событие Param Increase +"
+      "name": "Support Event Param Increase +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProbabilityUp",
-      "name": "Поддержка Событие Occurrence Rate +"
+      "name": "Support Event Occurrence Rate +"
     },
     {
       "type": "ProduceEffectType_LessonPresentProducePointUp",
-      "name": "Урок Награда P-очкоs Gain +"
+      "name": "Lesson Reward P-Points Gain +"
     },
     {
       "type": "ProduceEffectType_SupportCardProduceCardUpgradeProbabilityUp",
-      "name": "Урок Поддержка Occurrence Rate +"
+      "name": "Lesson Support Occurrence Rate +"
     },
     {
       "type": "ProduceEffectType_ProduceCardSelectRerollCountUp",
@@ -283,7 +283,7 @@
     },
     {
       "type": "ProduceEffectType_ProducePointAdditionDisableTrigger",
-      "name": "Initial P-очкоs +"
+      "name": "Initial P-Points +"
     },
     {
       "type": "ProduceEffectType_ExamTurnUp",
@@ -299,23 +299,23 @@
     },
     {
       "type": "ProduceEffectType_ShopPriceUpMultiple",
-      "name": "Консультация All Items +"
+      "name": "Consultation All Items +"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceUpMultiple",
-      "name": "Консультация Карта навыка +"
+      "name": "Consultation Skill Card +"
     },
     {
       "type": "ProduceEffectType_ShopProduceDrinkPriceUpMultiple",
-      "name": "Консультация P-Drink +"
+      "name": "Consultation P-Drink +"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceUpMultiple",
-      "name": "Консультация Карта навыка Upgrade +"
+      "name": "Consultation Skill Card Upgrade +"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceUpMultiple",
-      "name": "Консультация Карта навыка Deletion +"
+      "name": "Consultation Skill Card Deletion +"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaUp",
@@ -327,11 +327,11 @@
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointUp",
-      "name": "Outing P-очкоs Consumption +"
+      "name": "Outing P-Points Consumption +"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointDown",
-      "name": "Outing P-очкоs Consumption -"
+      "name": "Outing P-Points Consumption -"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaUp",
@@ -343,7 +343,7 @@
     },
     {
       "type": "ProduceEffectType_ProduceCardExcludeCountUp",
-      "name": "Карта навыка Removal "
+      "name": "Skill Card Removal "
     },
     {
       "type": "ProduceEffectType_AuditionNpcWeaken",

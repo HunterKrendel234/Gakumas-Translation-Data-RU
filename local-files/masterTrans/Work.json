@@ -7,11 +7,11 @@
   "data": [
     {
       "type": "WorkType_MiniLive",
-      "name": "Мини-лайв "
+      "name": "Mini Live "
     },
     {
       "type": "WorkType_LiveStreaming",
-      "name": "Лайв-стрим "
+      "name": "Livestream "
     }
   ]
 }
