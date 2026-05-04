@@ -9,319 +9,319 @@
     {
       "type": "ProduceCardGrowEffectType_LessonAdd",
       "produceDescriptionLabelId": "Label_LessonAdd",
-      "name": "Param +",
+      "name": "Параметр +",
       "produceCardCustomizeDescription": "Param +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonReduce",
       "produceDescriptionLabelId": "Label_LessonReduce",
-      "name": "Param -",
+      "name": "Параметр -",
       "produceCardCustomizeDescription": "Param –"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountAdd",
       "produceDescriptionLabelId": "Label_LessonCountAdd",
-      "name": "Param Increase Count +",
+      "name": "Количество прироста параметра +",
       "produceCardCustomizeDescription": "Param Increase Count +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountReduce",
       "produceDescriptionLabelId": "Label_LessonCountReduce",
-      "name": "Param Increase Count -",
+      "name": "Количество прироста параметра -",
       "produceCardCustomizeDescription": "Param Increase Count –"
     },
     {
       "type": "ProduceCardGrowEffectType_BlockAdd",
       "produceDescriptionLabelId": "Label_BlockAdd",
-      "name": "Energy +",
+      "name": "Энергия +",
       "produceCardCustomizeDescription": "Energy +"
     },
     {
       "type": "ProduceCardGrowEffectType_BlockReduce",
       "produceDescriptionLabelId": "Label_BlockReduce",
-      "name": "Energy -",
+      "name": "Энергия -",
       "produceCardCustomizeDescription": "Energy –"
     },
     {
       "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
       "produceDescriptionLabelId": "Label_FullPowerPointAdd",
-      "name": "Full Power +",
+      "name": "Полная сила +",
       "produceCardCustomizeDescription": "Full Power Point +"
     },
     {
       "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
       "produceDescriptionLabelId": "Label_FullPowerPointReduce",
-      "name": "Full Power -",
+      "name": "Полная сила -",
       "produceCardCustomizeDescription": "Full Power Point –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostBuffReduce",
       "produceDescriptionLabelId": "Label_CostBuffReduce",
-      "name": "Upgraded State Cost -",
+      "name": "Стоимость усиленного состояния -",
       "produceCardCustomizeDescription": "Enhancement State Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostBuffAdd",
       "produceDescriptionLabelId": "Label_CostBuffAdd",
-      "name": "Upgraded State Cost +",
+      "name": "Стоимость усиленного состояния +",
       "produceCardCustomizeDescription": "Enhancement State Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReduce",
       "produceDescriptionLabelId": "Label_CostReduce",
-      "name": "Cost Decrease ",
+      "name": "Снижение стоимости ",
       "produceCardCustomizeDescription": "Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAdd",
       "produceDescriptionLabelId": "Label_CostAdd",
-      "name": "Cost Increase ",
+      "name": "Увеличение стоимости ",
       "produceCardCustomizeDescription": "Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
       "produceDescriptionLabelId": "Label_CostPenetrateReduce",
-      "name": "Stamina Usage Cost -",
+      "name": "Стоимость расхода выносливости -",
       "produceCardCustomizeDescription": "Stamina Usage Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
       "produceDescriptionLabelId": "Label_CostPenetrateAdd",
-      "name": "Stamina Usage Cost +",
+      "name": "Стоимость расхода выносливости +",
       "produceCardCustomizeDescription": "Stamina Usage Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
       "produceDescriptionLabelId": "Label_ParameterBuffTurnAdd",
-      "name": "Good Shape +",
+      "name": "Хорошая форма +",
       "produceCardCustomizeDescription": "Good Shape +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
       "produceDescriptionLabelId": "Label_ParameterBuffTurnReduce",
-      "name": "Good Shape -",
+      "name": "Хорошая форма -",
       "produceCardCustomizeDescription": "Good Shape –"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonBuffAdd",
       "produceDescriptionLabelId": "Label_LessonBuffAdd",
-      "name": "Focus +",
+      "name": "Концентрация +",
       "produceCardCustomizeDescription": "Focus +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonBuffReduce",
       "produceDescriptionLabelId": "Label_LessonBuffReduce",
-      "name": "Focus -",
+      "name": "Концентрация -",
       "produceCardCustomizeDescription": "Focus –"
     },
     {
       "type": "ProduceCardGrowEffectType_ReviewAdd",
       "produceDescriptionLabelId": "Label_ReviewAdd",
-      "name": "Good Impression +",
+      "name": "Хорошее впечатление +",
       "produceCardCustomizeDescription": "Good Impression +"
     },
     {
       "type": "ProduceCardGrowEffectType_ReviewReduce",
       "produceDescriptionLabelId": "Label_ReviewReduce",
-      "name": "Good Impression -",
+      "name": "Хорошее впечатление -",
       "produceCardCustomizeDescription": "Good Impression –"
     },
     {
       "type": "ProduceCardGrowEffectType_AggressiveAdd",
       "produceDescriptionLabelId": "Label_AggressiveAdd",
-      "name": "Motivation +",
+      "name": "Мотивация +",
       "produceCardCustomizeDescription": "Motivation +"
     },
     {
       "type": "ProduceCardGrowEffectType_AggressiveReduce",
       "produceDescriptionLabelId": "Label_AggressiveReduce",
-      "name": "Motivation -",
+      "name": "Мотивация -",
       "produceCardCustomizeDescription": "Motivation –"
     },
     {
       "type": "ProduceCardGrowEffectType_CardDrawAdd",
       "produceDescriptionLabelId": "Label_CardDrawAdd",
-      "name": "Draw Count +",
+      "name": "Количество добора +",
       "produceCardCustomizeDescription": "Draw Cards +"
     },
     {
       "type": "ProduceCardGrowEffectType_CardDrawReduce",
       "produceDescriptionLabelId": "Label_CardDrawReduce",
-      "name": "Draw Count -",
+      "name": "Количество добора -",
       "produceCardCustomizeDescription": "Draw Cards –"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
       "produceDescriptionLabelId": "Label_ParameterBuffMultiplePerTurnAdd",
-      "name": "Excellent Shape +",
+      "name": "Отличная форма +",
       "produceCardCustomizeDescription": "Excellent Condition +"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
       "produceDescriptionLabelId": "Label_ParameterBuffMultiplePerTurnReduce",
-      "name": "Excellent Shape -",
+      "name": "Отличная форма -",
       "produceCardCustomizeDescription": "Excellent Condition –"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
       "produceDescriptionLabelId": "Label_StaminaConsumptionDownTurnAdd",
-      "name": "Reduced Stamina Usage +",
+      "name": "Сниженный расход выносливости +",
       "produceCardCustomizeDescription": "Stamina Usage Decrease +"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
       "produceDescriptionLabelId": "Label_StaminaConsumptionDownTurnReduce",
-      "name": "Reduced Stamina Usage -",
+      "name": "Сниженный расход выносливости -",
       "produceCardCustomizeDescription": "Stamina Usage Decrease –"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
       "produceDescriptionLabelId": "Label_StaminaConsumptionAddTurnAdd",
-      "name": "Increased Stamina Usage -",
+      "name": "Повышенный расход выносливости -",
       "produceCardCustomizeDescription": "Stamina Usage Increase +"
     },
     {
       "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
       "produceDescriptionLabelId": "Label_StaminaConsumptionAddTurnReduce",
-      "name": "Increased Stamina Usage +",
+      "name": "Повышенный расход выносливости +",
       "produceCardCustomizeDescription": "Stamina Usage Increase –"
     },
     {
       "type": "ProduceCardGrowEffectType_EffectAdd",
       "produceDescriptionLabelId": "Label_EffectAdd",
-      "name": "Effect Addition ",
+      "name": "Добавление эффекта ",
       "produceCardCustomizeDescription": "Effect Addition "
     },
     {
       "type": "ProduceCardGrowEffectType_EffectDelete",
       "produceDescriptionLabelId": "Label_EffectDelete",
-      "name": "Effect Deletion ",
+      "name": "Удаление эффекта ",
       "produceCardCustomizeDescription": "Effect Deletion "
     },
     {
       "type": "ProduceCardGrowEffectType_EffectChange",
       "produceDescriptionLabelId": "Label_EffectChange",
-      "name": "Effect Replacement ",
+      "name": "Замена эффекта ",
       "produceCardCustomizeDescription": "Effect Change"
     },
     {
       "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
       "produceDescriptionLabelId": "Label_CardStatusEnchantChange",
-      "name": "Growth Change ",
+      "name": "Изменение роста ",
       "produceCardCustomizeDescription": "Growth Change "
     },
     {
       "type": "ProduceCardGrowEffectType_PlayTriggerChange",
       "produceDescriptionLabelId": "Label_PlayTriggerChange",
-      "name": "Use Condition Replacement ",
+      "name": "Замена условия использования ",
       "produceCardCustomizeDescription": "Condition Change"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
       "produceDescriptionLabelId": "Label_PlayEffectTriggerChange",
-      "name": "Effect Activation Condition",
+      "name": "Условие активации эффекта",
       "produceCardCustomizeDescription": "Condition Change"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
       "produceDescriptionLabelId": "Label_PlayMovePositionTypeChange",
-      "name": "Move Destination Change ",
+      "name": "Изменение места перемещения ",
       "produceCardCustomizeDescription": "Move Destination Change"
     },
     {
       "type": "ProduceCardGrowEffectType_InitialAdd",
       "produceDescriptionLabelId": "Label_InitialAdd",
-      "name": "Start Hand Effect Grant ",
+      "name": "Выдача эффекта стартовой руки ",
       "produceCardCustomizeDescription": "Added to Hand at Start"
     },
     {
       "type": "ProduceCardGrowEffectType_CostLessonBuffReduce",
       "produceDescriptionLabelId": "Label_CostLessonBuffReduce",
-      "name": "Focus Cost +",
+      "name": "Стоимость Концентрации +",
       "produceCardCustomizeDescription": "Focus Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostLessonBuffAdd",
       "produceDescriptionLabelId": "Label_CostLessonBuffAdd",
-      "name": "Focus Cost -",
+      "name": "Стоимость Концентрации -",
       "produceCardCustomizeDescription": "Focus Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReviewReduce",
       "produceDescriptionLabelId": "Label_CostReviewReduce",
-      "name": "Good Impression Cost -",
+      "name": "Стоимость Хорошего впечатления -",
       "produceCardCustomizeDescription": "Good Impression Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReviewAdd",
       "produceDescriptionLabelId": "Label_CostReviewAdd",
-      "name": "Good Impression Cost +",
+      "name": "Стоимость Хорошего впечатления +",
       "produceCardCustomizeDescription": "Good Impression Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
       "produceDescriptionLabelId": "Label_CostAggressiveReduce",
-      "name": "Motivation Cost -",
+      "name": "Стоимость Мотивации -",
       "produceCardCustomizeDescription": "Motivation Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
       "produceDescriptionLabelId": "Label_CostAggressiveAdd",
-      "name": "Motivation Cost +",
+      "name": "Стоимость Мотивации +",
       "produceCardCustomizeDescription": "Motivation Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
       "produceDescriptionLabelId": "Label_CostParameterBuffReduce",
-      "name": "Good Shape Cost -",
+      "name": "Стоимость Хорошей формы -",
       "produceCardCustomizeDescription": "Good Shape Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
       "produceDescriptionLabelId": "Label_CostParameterBuffAdd",
-      "name": "Good Shape Cost +",
+      "name": "Стоимость Хорошей формы +",
       "produceCardCustomizeDescription": "Good Shape Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",
       "produceDescriptionLabelId": "Label_CostFullPowerPointReduce",
-      "name": "Full Power Cost -",
+      "name": "Стоимость Полной силы -",
       "produceCardCustomizeDescription": "Full Power Point Cost –"
     },
     {
       "type": "ProduceCardGrowEffectType_CostFullPowerPointAdd",
       "produceDescriptionLabelId": "Label_CostFullPowerPointAdd",
-      "name": "Full Power Cost +",
+      "name": "Стоимость Полной силы +",
       "produceCardCustomizeDescription": "Full Power Point Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
       "produceDescriptionLabelId": "Label_LessonDependBlockAdd",
-      "name": "Energy Param Multiplier +",
+      "name": "Множитель параметра от Энергии +",
       "produceCardCustomizeDescription": "Energy-Based Param +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
       "produceDescriptionLabelId": "Label_LessonDependExamCardPlayAggressiveAdd",
-      "name": "Motivation Param Multiplier +",
+      "name": "Множитель параметра от Мотивации +",
       "produceCardCustomizeDescription": "Motivation-Based Param +"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
       "produceDescriptionLabelId": "Label_LessonDependExamReviewAdd",
-      "name": "Good Imp Param Multiplier +",
+      "name": "Множитель параметра от Хорошего впечатления +",
       "produceCardCustomizeDescription": "Good Imp-Based Param +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnAdd",
       "produceDescriptionLabelId": "Label_CostParameterBuffMultiplePerTurnAdd",
-      "name": "Excellent shape Cost +",
+      "name": "Стоимость Отличной формы +",
       "produceCardCustomizeDescription": "Excellent Condition Cost +"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnReduce",
       "produceDescriptionLabelId": "Label_CostParameterBuffMultiplePerTurnReduce",
-      "name": "Excellent shape Cost -",
+      "name": "Стоимость Отличной формы -",
       "produceCardCustomizeDescription": "Excellent Condition Cost –"
     }
   ]

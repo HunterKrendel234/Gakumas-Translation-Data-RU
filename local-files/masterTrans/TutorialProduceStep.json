@@ -13,84 +13,84 @@
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonVisualNormal",
-      "name": "Visual Lesson"
+      "name": "Урок визуала"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "Dance Lesson"
+      "name": "Урок танца"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 3,
       "tutorialStep": 10,
       "stepType": "ProduceStepType_Refresh",
-      "name": "Rest"
+      "name": "Отдых"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 4,
       "tutorialStep": 12,
       "stepType": "ProduceStepType_AuditionFinal",
-      "name": "Final Exam"
+      "name": "Финальный экзамен"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "Dance Lesson"
+      "name": "Урок танца"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonVisualNormal",
-      "name": "Visual Lesson"
+      "name": "Урок визуала"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 3,
       "tutorialStep": 10,
       "stepType": "ProduceStepType_Refresh",
-      "name": "Rest"
+      "name": "Отдых"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 4,
       "tutorialStep": 12,
       "stepType": "ProduceStepType_AuditionFinal",
-      "name": "Final Exam"
+      "name": "Финальный экзамен"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "Dance Lesson"
+      "name": "Урок танца"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonVocalNormal",
-      "name": "Vocal Lesson"
+      "name": "Урок вокала"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 3,
       "tutorialStep": 10,
       "stepType": "ProduceStepType_Refresh",
-      "name": "Rest"
+      "name": "Отдых"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 4,
       "tutorialStep": 12,
       "stepType": "ProduceStepType_AuditionFinal",
-      "name": "Final Exam"
+      "name": "Финальный экзамен"
     }
   ]
 }

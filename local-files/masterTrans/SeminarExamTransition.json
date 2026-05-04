@@ -11,7 +11,7 @@
       "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_01",
-      "description": "We were a little short of the target value. Good Shape has the effect of increasing the amount of parameter growth. Let's learn the tips to use it effectively in the exam training!",
+      "description": "Нам немного не хватило до целевого значения. Good Shape увеличивает объём прироста параметров. Давай разберёмся, как эффективно использовать это в тренировке к экзамену!",
       "seminarExamGroupName": "Exam Training",
       "seminarExamName": "【Exam 1】Good Shape"
     },
@@ -19,7 +19,7 @@
       "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_01",
-      "description": "We were a little short of the target value. Good Shape has the effect of increasing the amount of parameter growth. Let's learn the tips to use it effectively in the training!",
+      "description": "Нам немного не хватило до целевого значения. Good Shape увеличивает объём прироста параметров. Давай разберёмся, как эффективно использовать это на тренировке!",
       "seminarExamGroupName": "Basic Training",
       "seminarExamName": "【Basic 1】Good Shape"
     },
@@ -27,7 +27,7 @@
       "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_02",
-      "description": "We were a little short of the target value. Focus has the effect of increasing the amount of parameter growth by the value. Let's learn the tips to use it effectively in the exam training!",
+      "description": "Нам немного не хватило до целевого значения. Focus увеличивает объём прироста параметров на своё значение. Давай разберёмся, как эффективно использовать это в тренировке к экзамену!",
       "seminarExamGroupName": "Exam Training",
       "seminarExamName": "【Exam 2】Focus"
     },
@@ -35,7 +35,7 @@
       "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_02",
-      "description": "We were a little short of the target value. Focus has the effect of increasing the amount of parameter growth by the value. Let's learn the tips to use it effectively in the training!",
+      "description": "Нам немного не хватило до целевого значения. Focus увеличивает объём прироста параметров на своё значение. Давай разберёмся, как эффективно использовать это на тренировке!",
       "seminarExamGroupName": "Basic Training",
       "seminarExamName": "【Basic 2】Focus"
     },
@@ -43,7 +43,7 @@
       "examEffectType": "ProduceExamEffectType_ExamReview",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_03",
-      "description": "We were a little short of the target value. Good Impression has the effect of increasing parameters at the end of the turn. Let's learn the tips to use it effectively in the exam training!",
+      "description": "Нам немного не хватило до целевого значения. Good Impression повышает параметры в конце хода. Давай разберёмся, как эффективно использовать это в тренировке к экзамену!",
       "seminarExamGroupName": "Exam Training",
       "seminarExamName": "【Exam 3】Good Impression"
     },
@@ -51,7 +51,7 @@
       "examEffectType": "ProduceExamEffectType_ExamReview",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_03",
-      "description": "We were a little short of the target value. Good Impression has the effect of increasing parameters at the end of the turn. Let's learn the tips to use it effectively in the training!",
+      "description": "Нам немного не хватило до целевого значения. Good Impression повышает параметры в конце хода. Давай разберёмся, как эффективно использовать это на тренировке!",
       "seminarExamGroupName": "Basic Training",
       "seminarExamName": "【Basic 3】Good Impression"
     },
@@ -59,7 +59,7 @@
       "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_04",
-      "description": "We were a little short of the target value. Motivation has the effect of increasing the amount of energy growth by the value. Let's learn the tips to use it effectively in the exam training!",
+      "description": "Нам немного не хватило до целевого значения. Motivation увеличивает объём прироста энергии на своё значение. Давай разберёмся, как эффективно использовать это в тренировке к экзамену!",
       "seminarExamGroupName": "Exam Training",
       "seminarExamName": "【Exam 4】Motivation"
     },
@@ -67,7 +67,7 @@
       "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_04",
-      "description": "We were a little short of the target value. Motivation has the effect of increasing the amount of energy growth by the value. Let's learn the tips to use it effectively in the training!",
+      "description": "Нам немного не хватило до целевого значения. Motivation увеличивает объём прироста энергии на своё значение. Давай разберёмся, как эффективно использовать это на тренировке!",
       "seminarExamGroupName": "Basic Training",
       "seminarExamName": "【Basic 4】Motivation"
     },
@@ -75,7 +75,7 @@
       "examEffectType": "ProduceExamEffectType_ExamConcentration",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_05",
-      "description": "Didn't quite reach the target value. Being Confident increases parameter growth and stamina consumption. Let's learn how to use it effectively in exam training!",
+      "description": "Нам немного не хватило до целевого значения. Состояние Confident увеличивает прирост параметров и расход выносливости. Давай разберёмся, как эффективно использовать это в тренировке к экзамену!",
       "seminarExamGroupName": "Exam Training",
       "seminarExamName": "【Exam 6】Confident"
     },
@@ -83,7 +83,7 @@
       "examEffectType": "ProduceExamEffectType_ExamConcentration",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_07",
-      "description": "Didn't quite reach the target value. Being Confident increases parameter growth and stamina consumption. Let's learn how to use it effectively in training!",
+      "description": "Нам немного не хватило до целевого значения. Состояние Confident увеличивает прирост параметров и расход выносливости. Давай разберёмся, как эффективно использовать это на тренировке!",
       "seminarExamGroupName": "Basic Training",
       "seminarExamName": "【Basic 8】Confident"
     },
@@ -91,7 +91,7 @@
       "examEffectType": "ProduceExamEffectType_ExamFullPower",
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_06",
-      "description": "Didn't quite reach the target value. Full Power increases parameter growth and allows one additional skill card use. Let's learn how to use it effectively in exam training!",
+      "description": "Нам немного не хватило до целевого значения. Full Power увеличивает прирост параметров и позволяет использовать на одну Карту навыка больше. Давай разберёмся, как эффективно использовать это в тренировке к экзамену!",
       "seminarExamGroupName": "Exam Training",
       "seminarExamName": "【Exam 5】Full Power"
     },
@@ -99,7 +99,7 @@
       "examEffectType": "ProduceExamEffectType_ExamFullPower",
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_08",
-      "description": "Didn't quite reach the target value. Full Power increases parameter growth and allows one additional skill card use. Let's learn how to use it effectively in training!",
+      "description": "Нам немного не хватило до целевого значения. Full Power увеличивает прирост параметров и позволяет использовать на одну Карту навыка больше. Давай разберёмся, как эффективно использовать это на тренировке!",
       "seminarExamGroupName": "Basic Training",
       "seminarExamName": "【Basic 7】Full Power"
     }
