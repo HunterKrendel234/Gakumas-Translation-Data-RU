@@ -112,7 +112,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Oolong Tea"
+      "name": "Улунский чай"
     },
     {
       "id": "pdrink_00-2-001",
@@ -178,7 +178,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Mixed Smoothie"
+      "name": "Смешанный смузи"
     },
     {
       "id": "pdrink_00-2-003",
@@ -224,7 +224,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Recovery Drink"
+      "name": "Восстанавливающий напиток"
     },
     {
       "id": "pdrink_00-2-004",
@@ -300,7 +300,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Fresh Vinegar"
+      "name": "Свежий уксус"
     },
     {
       "id": "pdrink_00-2-008",
@@ -363,7 +363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr>)"
+          "text": "ходов</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -413,7 +413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -466,7 +466,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Boost Extract"
+      "name": "Экстракт усиления"
     },
     {
       "id": "pdrink_00-2-009",
@@ -549,10 +549,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         }
       ],
-      "name": "Powerful Herbal Remedy Drink "
+      "name": "Мощный травяной лечебный напиток "
     },
     {
       "id": "pdrink_00-2-010",
@@ -615,7 +615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr>)"
+          "text": "ходов</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -778,7 +778,7 @@
           "text": "\t"
         }
       ],
-      "name": "Senburi Soda "
+      "name": "Сода сенбури "
     },
     {
       "id": "pdrink_00-3-001",
@@ -824,7 +824,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Hatsuboshi Whey Protein"
+      "name": "Hatsuboshi Сывороточный протеин"
     },
     {
       "id": "pdrink_00-3-005",
@@ -870,7 +870,7 @@
           "text": "Создать "
         }
       ],
-      "name": "Hatsuboshi Special Greens"
+      "name": "Hatsuboshi Особая зелень"
     },
     {
       "id": "pdrink_00-3-013",
@@ -906,7 +906,7 @@
           "text": "Использовать улучшенные уникальные карты навыков (SSR) бесплатно "
         }
       ],
-      "name": "Hatsuboshi Special Greens X"
+      "name": "Hatsuboshi Особая зелень X"
     },
     {
       "id": "pdrink_01-1-002",
@@ -949,10 +949,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         }
       ],
-      "name": "Vitamin Drink"
+      "name": "Витаминный напиток"
     },
     {
       "id": "pdrink_01-1-003",
@@ -998,7 +998,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Iced Coffee"
+      "name": "Холодный кофе"
     },
     {
       "id": "pdrink_01-2-005",
@@ -1041,7 +1041,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1094,7 +1094,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Stamina Explosion Drink"
+      "name": "Напиток взрыв выносливости"
     },
     {
       "id": "pdrink_01-3-002",
@@ -1170,7 +1170,7 @@
           "text": "\t"
         }
       ],
-      "name": "Hatsuboshi Macchiato"
+      "name": "Hatsuboshi Маккиато"
     },
     {
       "id": "pdrink_01-3-004",
@@ -1213,7 +1213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1246,7 +1246,7 @@
           "text": "Улучшение во время урока "
         }
       ],
-      "name": "Hatsuboshi Energy Boost "
+      "name": "Hatsuboshi Энергетический буст "
     },
     {
       "id": "pdrink_01-3-012",
@@ -1439,10 +1439,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         }
       ],
-      "name": "Hatsuboshi Black Vinegar"
+      "name": "Hatsuboshi Чёрный уксус"
     },
     {
       "id": "pdrink_02-1-006",
@@ -1488,7 +1488,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Rooibos Tea"
+      "name": "Чай ройбуш"
     },
     {
       "id": "pdrink_02-1-008",
@@ -1534,7 +1534,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Hot Coffee"
+      "name": "Горячий кофе"
     },
     {
       "id": "pdrink_02-2-006",
@@ -1660,7 +1660,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Trendy Herbal Tea"
+      "name": "Модный травяной чай"
     },
     {
       "id": "pdrink_02-3-006",
@@ -1736,7 +1736,7 @@
           "text": "\t"
         }
       ],
-      "name": "Hatsuboshi Tea"
+      "name": "Hatsuboshi Чай"
     },
     {
       "id": "pdrink_02-3-007",
@@ -1812,7 +1812,7 @@
           "text": "\t"
         }
       ],
-      "name": "Hatsuboshi Blend"
+      "name": "Hatsuboshi Смесь"
     },
     {
       "id": "pdrink_02-3-010",
@@ -1905,7 +1905,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr>)"
+          "text": "ходов</nobr>)"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2005,10 +2005,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         }
       ],
-      "name": "SP Hatsuboshi Extract"
+      "name": "SP Hatsuboshi Экстракт"
     },
     {
       "id": "pdrink_03-1-009",
@@ -2084,7 +2084,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Ginger Ale"
+      "name": "Имбирный эль"
     },
     {
       "id": "pdrink_03-1-010",
@@ -2160,7 +2160,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Roasted Green Tea"
+      "name": "Жареный зелёный чай"
     },
     {
       "id": "pdrink_03-2-007",
@@ -2236,7 +2236,7 @@
           "text": "Смена стадии "
         }
       ],
-      "name": "Hot Green Tea"
+      "name": "Горячий зелёный чай"
     },
     {
       "id": "pdrink_03-3-008",
@@ -2312,7 +2312,7 @@
           "text": "\t"
         }
       ],
-      "name": "Hatsuboshi Chai"
+      "name": "Hatsuboshi Чай масала"
     },
     {
       "id": "pdrink_03-3-009",
@@ -2395,10 +2395,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         }
       ],
-      "name": "Hatsuboshi Super Soda"
+      "name": "Hatsuboshi Супер сода"
     },
     {
       "id": "pdrink_03-3-011",
@@ -2521,10 +2521,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "turns</nobr> "
+          "text": "ходов</nobr> "
         }
       ],
-      "name": "Hatsuboshi Soup"
+      "name": "Hatsuboshi Суп"
     }
   ]
 }
