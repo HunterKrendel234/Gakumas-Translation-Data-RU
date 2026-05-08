@@ -1,0 +1,1315 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 1,
+      "description": "Похоже, у вас более чем достаточно\nспособностей, чтобы сдать экзамен!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 2,
+      "description": "Похоже, ваш Vocal немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 3,
+      "description": "Похоже, ваш Dance немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 4,
+      "description": "Похоже, ваш Visual немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 5,
+      "description": "Похоже, ваш Vocal немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 6,
+      "description": "Похоже, ваш Dance немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 7,
+      "description": "Похоже, ваш Visual немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 8,
+      "description": "Похоже, ваш Vocal немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 9,
+      "description": "Похоже, ваш Dance немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 10,
+      "description": "Похоже, ваш Visual немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 11,
+      "description": "Похоже, ваш Vocal отстаёт\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 12,
+      "description": "Похоже, ваш Dance отстаёт\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 13,
+      "description": "Похоже, ваш Visual отстаёт\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 14,
+      "description": "Похоже, ваш Vocal отстаёт\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 15,
+      "description": "Похоже, ваш Dance отстаёт\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 16,
+      "description": "Похоже, ваш Visual отстаёт\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 17,
+      "description": "Похоже, ваш Vocal отстаёт\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 18,
+      "description": "Похоже, ваш Dance отстаёт\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 19,
+      "description": "Похоже, ваш Visual отстаёт\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 20,
+      "description": "Похоже, ваш Vocal сильно отстаёт\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 21,
+      "description": "Похоже, ваш Dance сильно отстаёт\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 22,
+      "description": "Похоже, ваш Visual сильно отстаёт\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 23,
+      "description": "Похоже, ваш Vocal сильно отстаёт\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 24,
+      "description": "Похоже, ваш Dance сильно отстаёт\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 25,
+      "description": "Похоже, ваш Visual сильно отстаёт\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 26,
+      "description": "Похоже, ваш Vocal сильно отстаёт\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 27,
+      "description": "Похоже, ваш Dance сильно отстаёт\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-audition",
+      "number": 28,
+      "description": "Похоже, ваш Visual сильно отстаёт\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 1,
+      "description": "Вы были так близки!\nПопробуйте изменить порядок использования карт"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 2,
+      "description": "На тренировке «Основы: Хорошее состояние»\nвы можете изучить основы"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 3,
+      "description": "На тренировке «Основы: Фокус»\nвы можете изучить основы"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 4,
+      "description": "На тренировке «Основы: Хорошее впечатление»\nвы можете изучить основы"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 5,
+      "description": "На тренировке «Основы: Мотивация»\nвы можете изучить основы"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 6,
+      "description": "По мере увеличения связи\nбудет увеличиваться и бонус к очкам"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 7,
+      "description": "Похоже, у вас закончилась Выносливость\nСтарайтесь управлять ею более аккуратно"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 8,
+      "description": "Используйте карты в ходы с высоким\nбонусом очков, находясь в хорошем состоянии"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 9,
+      "description": "Используйте карты в ходы с высоким\nбонусом очков, когда ваш Фокус высок"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 10,
+      "description": "Старайтесь сосредоточиться на накоплении\nХорошего впечатления"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 11,
+      "description": "Используйте карты, дающие очки\nв зависимости от значения Энергии"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 12,
+      "description": "Похоже, разница по Vocal была небольшой\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 13,
+      "description": "Похоже, разница по Dance была небольшой\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 14,
+      "description": "Похоже, разница по Visual была небольшой\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 15,
+      "description": "Похоже, разница по Vocal была небольшой\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 16,
+      "description": "Похоже, разница по Dance была небольшой\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 17,
+      "description": "Похоже, разница по Visual была небольшой\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 18,
+      "description": "Похоже, была разница по Vocal\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 19,
+      "description": "Похоже, была разница по Dance\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 20,
+      "description": "Похоже, была разница по Visual\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 21,
+      "description": "Похоже, была разница по Vocal\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 22,
+      "description": "Похоже, была разница по Dance\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 23,
+      "description": "Похоже, была разница по Visual\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 24,
+      "description": "Похоже, была разница по Vocal\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 25,
+      "description": "Похоже, была разница по Dance\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 26,
+      "description": "Похоже, была разница по Visual\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 27,
+      "description": "Похоже, разница по Vocal была большой\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 28,
+      "description": "Похоже, разница по Dance была большой\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 29,
+      "description": "Похоже, разница по Visual была большой\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 30,
+      "description": "Похоже, разница по Vocal была большой\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 31,
+      "description": "Похоже, разница по Dance была большой\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 32,
+      "description": "Похоже, разница по Visual была большой\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 33,
+      "description": "Похоже, разница по Vocal была большой\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 34,
+      "description": "Похоже, разница по Dance была большой\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-lose",
+      "number": 35,
+      "description": "Похоже, разница по Visual была большой\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 2,
+      "description": "У вас достаточно способностей, но не теряйте\nбдительность, выложитесь на финальном экзамене!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 3,
+      "description": "Вы накопили достаточно способностей,\nчтобы пройти финальный экзамен!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 4,
+      "description": "Ваш Vocal вызывает небольшие опасения,\nно у вас всё ещё есть шанс победить"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 5,
+      "description": "Ваш Dance вызывает небольшие опасения,\nно у вас всё ещё есть шанс победить"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 6,
+      "description": "Ваш Visual вызывает небольшие опасения,\nно у вас всё ещё есть шанс победить"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 7,
+      "description": "У вас достаточно способностей, но не теряйте\nбдительность, примите вызов экзамена!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 8,
+      "description": "У вас достаточно способностей,\nя уверен, вы сможете сдать экзамен!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 9,
+      "description": "Ваш Vocal вызывает небольшие опасения,\nно у вас всё ещё есть шанс победить"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 10,
+      "description": "Ваш Dance вызывает небольшие опасения,\nно у вас всё ещё есть шанс победить"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 11,
+      "description": "Ваш Visual вызывает небольшие опасения,\nно у вас всё ещё есть шанс победить"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 12,
+      "description": "У вас есть P Points. Почему бы не проконсультироваться\nс преподавателем и полностью подготовиться?"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 13,
+      "description": "Это замечательно! Похоже, у вас\nуже более чем достаточно способностей"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 14,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 15,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 16,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 17,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 18,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 19,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 20,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 21,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 22,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 23,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 24,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 25,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 26,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 27,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 28,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 29,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 30,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 31,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 32,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 33,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 34,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 35,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 36,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 37,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 38,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 39,
+      "description": "У вас достаточно способностей. Чтобы набрать высокий счёт,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 40,
+      "description": "Похоже, ваш Vocal немного отстаёт\nРекомендуются занятия <COLOR_VOCAL>Vocal</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 41,
+      "description": "Похоже, ваш Dance немного отстаёт\nРекомендуются занятия <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 42,
+      "description": "Похоже, ваш Visual немного отстаёт\nРекомендуются занятия <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 43,
+      "description": "Похоже, ваш Vocal немного отстаёт\nРекомендуются занятия <COLOR_VOCAL>Vocal</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 44,
+      "description": "Похоже, ваш Dance немного отстаёт\nРекомендуются занятия <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 45,
+      "description": "Похоже, ваш Visual немного отстаёт\nРекомендуются занятия <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 46,
+      "description": "Похоже, ваш Vocal немного отстаёт\nРекомендуются занятия <COLOR_VOCAL>Vocal</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 47,
+      "description": "Похоже, ваш Dance немного отстаёт\nРекомендуются занятия <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 48,
+      "description": "Похоже, ваш Visual немного отстаёт\nРекомендуются занятия <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 49,
+      "description": "Похоже, ваш Vocal немного отстаёт\nРекомендуются занятия <COLOR_VOCAL>Vocal</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 50,
+      "description": "Похоже, ваш Dance немного отстаёт\nРекомендуются занятия <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 51,
+      "description": "Похоже, ваш Visual немного отстаёт\nРекомендуются занятия <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 52,
+      "description": "Похоже, ваш Vocal немного отстаёт\nРекомендуются занятия <COLOR_VOCAL>Vocal</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 53,
+      "description": "Похоже, ваш Dance немного отстаёт\nРекомендуются занятия <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 54,
+      "description": "Похоже, ваш Visual немного отстаёт\nРекомендуются занятия <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 55,
+      "description": "Похоже, ваш Vocal отстаёт\nРекомендуются занятия <COLOR_VOCAL>Vocal</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 56,
+      "description": "Похоже, ваш Dance отстаёт\nРекомендуются занятия <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 57,
+      "description": "Похоже, ваш Visual отстаёт\nРекомендуются занятия <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 58,
+      "description": "Похоже, ваш Vocal отстаёт\nРекомендуются занятия <COLOR_VOCAL>Vocal</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 59,
+      "description": "Похоже, ваш Dance отстаёт\nРекомендуются занятия <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 60,
+      "description": "Похоже, ваш Visual отстаёт\nРекомендуются занятия <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 61,
+      "description": "Похоже, ваш Vocal отстаёт\nРекомендуются занятия <COLOR_VOCAL>Vocal</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 62,
+      "description": "Похоже, ваш Dance отстаёт\nРекомендуются занятия <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 63,
+      "description": "Похоже, ваш Visual отстаёт\nРекомендуются занятия <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 64,
+      "description": "Похоже, ваш Vocal сильно отстаёт\nРекомендуются занятия <COLOR_VOCAL>Vocal</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 65,
+      "description": "Похоже, ваш Dance сильно отстаёт\nРекомендуются занятия <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 66,
+      "description": "Похоже, ваш Visual сильно отстаёт\nРекомендуются занятия <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 67,
+      "description": "Похоже, ваш Vocal сильно отстаёт\nРекомендуются занятия <COLOR_VOCAL>Vocal</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 68,
+      "description": "Похоже, ваш Dance сильно отстаёт\nРекомендуются занятия <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 69,
+      "description": "Похоже, ваш Visual сильно отстаёт\nРекомендуются занятия <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 70,
+      "description": "Похоже, ваш Vocal сильно отстаёт\nРекомендуются занятия <COLOR_VOCAL>Vocal</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 71,
+      "description": "Похоже, ваш Dance сильно отстаёт\nРекомендуются занятия <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 72,
+      "description": "Похоже, ваш Visual сильно отстаёт\nРекомендуются занятия <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-normal",
+      "number": 73,
+      "description": "Похоже, у вас заканчивается Выносливость\nДайте айдолу немного отдохнуть"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial",
+      "number": 1,
+      "description": "Похоже, ваш Vocal отстаёт\nРекомендуются занятия <COLOR_VOCAL>Vocal</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial",
+      "number": 2,
+      "description": "Похоже, ваш Dance отстаёт\nРекомендуются занятия <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial",
+      "number": 3,
+      "description": "Похоже, ваш Visual отстаёт\nРекомендуются занятия <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial",
+      "number": 4,
+      "description": "Похоже, у вас заканчивается Выносливость\nДайте айдолу немного отдохнуть"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial-audition",
+      "number": 1,
+      "description": "Похоже, ваш Vocal отстаёт\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial-audition",
+      "number": 2,
+      "description": "Похоже, ваш Dance отстаёт\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial-audition",
+      "number": 3,
+      "description": "Похоже, ваш Visual отстаёт\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-001-tutorial-audition",
+      "number": 4,
+      "description": "Похоже, у вас заканчивается Выносливость\nДайте айдолу немного отдохнуть"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 1,
+      "description": "Похоже, у вас более чем достаточно способностей, чтобы пройти прослушивание!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 2,
+      "description": "Похоже, ваш Vocal немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 3,
+      "description": "Похоже, ваш Dance немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 4,
+      "description": "Похоже, ваш Visual немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 5,
+      "description": "Похоже, ваш Vocal немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 6,
+      "description": "Похоже, ваш Dance немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 7,
+      "description": "Похоже, ваш Visual немного отстаёт\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 8,
+      "description": "Похоже, Вокал немного недостаточен\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 9,
+      "description": "Похоже, Танец немного недостаточен\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 10,
+      "description": "Похоже, Визуал немного недостаточен\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 11,
+      "description": "Похоже, Вокал недостаточен\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 12,
+      "description": "Похоже, Танец недостаточен\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 13,
+      "description": "Похоже, Визуал недостаточен\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 14,
+      "description": "Похоже, Вокал недостаточен\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 15,
+      "description": "Похоже, Танец недостаточен\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 16,
+      "description": "Похоже, Визуал недостаточен\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 17,
+      "description": "Похоже, Вокал недостаточен\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 18,
+      "description": "Похоже, Танец недостаточен\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 19,
+      "description": "Похоже, Визуал недостаточен\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 20,
+      "description": "Похоже, Вокал сильно недостаточен\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 21,
+      "description": "Похоже, Танец сильно недостаточен\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color> lessons"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 22,
+      "description": "Похоже, Визуал сильно недостаточен\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color> lessons"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 23,
+      "description": "Похоже, Вокал сильно недостаточен\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 24,
+      "description": "Похоже, Танец сильно недостаточен\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color> lessons"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 25,
+      "description": "Похоже, Визуал сильно недостаточен\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color> lessons"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 26,
+      "description": "Похоже, Вокал сильно недостаточен\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 27,
+      "description": "Похоже, Танец сильно недостаточен\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-audition",
+      "number": 28,
+      "description": "Похоже, Визуал сильно недостаточен\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 1,
+      "description": "Чем больше у вас голосов фанатов,\nтем выше будет бонус к очкам"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 2,
+      "description": "Похоже, у вас закончилась выносливость\nПостарайтесь более тщательно управлять выносливостью"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 3,
+      "description": "Похоже, разрыв по Вокалу был совсем небольшим\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 4,
+      "description": "Похоже, разрыв по Танцу был совсем небольшим\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 5,
+      "description": "Похоже, разрыв по Визуалу был совсем небольшим\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 6,
+      "description": "Похоже, разрыв по Вокалу был совсем небольшим\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 7,
+      "description": "Похоже, разрыв по Танцу был совсем небольшим\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 8,
+      "description": "Похоже, разрыв по Визуалу был совсем небольшим\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 9,
+      "description": "Похоже, был разрыв по Вокалу\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 10,
+      "description": "Похоже, был разрыв по Танцу\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 11,
+      "description": "Похоже, был разрыв по Визуалу\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 12,
+      "description": "Похоже, был разрыв по Вокалу\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 13,
+      "description": "Похоже, был разрыв по Танцу\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 14,
+      "description": "Похоже, был разрыв по Визуалу\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 15,
+      "description": "Похоже, был разрыв по Вокалу\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 16,
+      "description": "Похоже, был разрыв по Танцу\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 17,
+      "description": "Похоже, был разрыв по Визуалу\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 18,
+      "description": "Похоже, разрыв по Вокалу был значительным\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 19,
+      "description": "Похоже, разрыв по Танцу был значительным\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 20,
+      "description": "Похоже, разрыв по Визуалу был значительным\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 21,
+      "description": "Похоже, разрыв по Вокалу был значительным\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 22,
+      "description": "Похоже, разрыв по Танцу был значительным\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 23,
+      "description": "Похоже, разрыв по Визуалу был значительным\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 24,
+      "description": "Похоже, разрыв по Вокалу был значительным\nДавайте усилим его с помощью занятий <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 25,
+      "description": "Похоже, разрыв по Танцу был значительным\nДавайте усилим его с помощью занятий <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-lose",
+      "number": 26,
+      "description": "Похоже, разрыв по Визуалу был значительным\nДавайте усилим его с помощью занятий <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 2,
+      "description": "У вас есть P Points. С помощью Sp. Consult\nхотите подготовиться к прослушиванию?"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 3,
+      "description": "У вас есть P Points. Почему бы не проконсультироваться\nс преподавателем и полностью подготовиться?"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 4,
+      "description": "Это замечательно! Похоже, у вас\nуже более чем достаточно способностей"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 5,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 6,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 7,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 8,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 9,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 10,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 11,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 12,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 13,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 14,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 15,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 16,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 17,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 18,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 19,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 20,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 21,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 22,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 23,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 24,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 25,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 26,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 27,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 28,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 29,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 30,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 31,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VOCAL>Vocal</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 32,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_DANCE>Dance</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 33,
+      "description": "У вас достаточно способностей. Чтобы набрать больше очков,\nрекомендуются занятия <COLOR_VISUAL>Visual</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 34,
+      "description": "Похоже, Вокал немного недостаточен\n<COLOR_VOCAL>Vocal</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 35,
+      "description": "Похоже, Танец немного недостаточен\n<COLOR_DANCE>Dance</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 36,
+      "description": "Похоже, Визуал немного недостаточен\n<COLOR_VISUAL>Visual</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 37,
+      "description": "Похоже, Вокал немного недостаточен\n<COLOR_VOCAL>Vocal</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 38,
+      "description": "Похоже, Танец немного недостаточен\n<COLOR_DANCE>Dance</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 39,
+      "description": "Похоже, Визуал немного недостаточен\n<COLOR_VISUAL>Visual</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 40,
+      "description": "Похоже, Вокал немного недостаточен\n<COLOR_VOCAL>Vocal</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 41,
+      "description": "Похоже, Танец немного недостаточен\n<COLOR_DANCE>Dance</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 42,
+      "description": "Похоже, Визуал немного недостаточен\n<COLOR_VISUAL>Visual</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 43,
+      "description": "Похоже, Вокал немного недостаточен\n<COLOR_VOCAL>Vocal</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 44,
+      "description": "Похоже, Танец немного недостаточен\n<COLOR_DANCE>Dance</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 45,
+      "description": "Похоже, Визуал немного недостаточен\n<COLOR_VISUAL>Visual</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 46,
+      "description": "Похоже, Вокал недостаточен\n<COLOR_VOCAL>Vocal</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 47,
+      "description": "Похоже, Танец недостаточен\n<COLOR_DANCE>Dance</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 48,
+      "description": "Похоже, Визуал недостаточен\n<COLOR_VISUAL>Visual</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 49,
+      "description": "Похоже, Вокал недостаточен\n<COLOR_VOCAL>Vocal</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 50,
+      "description": "Похоже, Танец недостаточен\n<COLOR_DANCE>Dance</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 51,
+      "description": "Похоже, Визуал недостаточен\n<COLOR_VISUAL>Visual</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 52,
+      "description": "Похоже, Вокал недостаточен\n<COLOR_VOCAL>Vocal</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 53,
+      "description": "Похоже, Танец недостаточен\n<COLOR_DANCE>Dance</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 54,
+      "description": "Похоже, Визуал недостаточен\n<COLOR_VISUAL>Visual</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 55,
+      "description": "Похоже, Вокал сильно недостаточен\n<COLOR_VOCAL>Vocal</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 56,
+      "description": "Похоже, Танец сильно недостаточен\n<COLOR_DANCE>Dance</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 57,
+      "description": "Похоже, Визуал сильно недостаточен\n<COLOR_VISUAL>Visual</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 58,
+      "description": "Похоже, Вокал сильно недостаточен\n<COLOR_VOCAL>Vocal</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 59,
+      "description": "Похоже, Танец сильно недостаточен\n<COLOR_DANCE>Dance</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 60,
+      "description": "Похоже, Визуал сильно недостаточен\n<COLOR_VISUAL>Visual</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 61,
+      "description": "Похоже, Вокал сильно недостаточен\n<COLOR_VOCAL>Vocal</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 62,
+      "description": "Похоже, Танец сильно недостаточен\n<COLOR_DANCE>Dance</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-002-normal",
+      "number": 63,
+      "description": "Похоже, Визуал сильно недостаточен\n<COLOR_VISUAL>Visual</color> занятия рекомендуются"
+    }
+  ]
+}

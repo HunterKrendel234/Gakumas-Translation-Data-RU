@@ -1,0 +1,2373 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "badge-producerranking_001-amao_01",
+      "name": "P-ранг Мао Аримуры Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-amao_02",
+      "name": "P-ранг Мао Аримуры Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-amao_03",
+      "name": "P-ранг Мао Аримуры Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-amao_04",
+      "name": "P-ранг Мао Аримуры Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-amao_05",
+      "name": "P-ранг Мао Аримуры Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-amao_06",
+      "name": "P-ранг Мао Аримуры Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-amao_07",
+      "name": "P-ранг Мао Аримуры Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_01",
+      "name": "P-ранг Цубамэ Амаи Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_02",
+      "name": "P-ранг Цубамэ Амаи Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_03",
+      "name": "P-ранг Цубамэ Амаи Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_04",
+      "name": "P-ранг Цубамэ Амаи Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_05",
+      "name": "P-ранг Цубамэ Амаи Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_06",
+      "name": "P-ранг Цубамэ Амаи Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-atbm_07",
+      "name": "P-ранг Цубамэ Амаи Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_01",
+      "name": "P-ранг Котоны Фудзиты Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_02",
+      "name": "P-ранг Котоны Фудзиты Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_03",
+      "name": "P-ранг Котоны Фудзиты Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_04",
+      "name": "P-ранг Котоны Фудзиты Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_05",
+      "name": "P-ранг Котоны Фудзиты Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_06",
+      "name": "P-ранг Котоны Фудзиты Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-fktn_07",
+      "name": "P-ранг Котоны Фудзиты Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_01",
+      "name": "P-ранг Мисудзу Хатая Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_02",
+      "name": "P-ранг Мисудзу Хатая Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_03",
+      "name": "P-ранг Мисудзу Хатая Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_04",
+      "name": "P-ранг Мисудзу Хатая Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_05",
+      "name": "P-ранг Мисудзу Хатая Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_06",
+      "name": "P-ранг Мисудзу Хатая Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-hmsz_07",
+      "name": "P-ранг Мисудзу Хатая Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_01",
+      "name": "P-ранг Ринами Химэсаки Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_02",
+      "name": "P-ранг Ринами Химэсаки Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_03",
+      "name": "P-ранг Ринами Химэсаки Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_04",
+      "name": "P-ранг Ринами Химэсаки Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_05",
+      "name": "P-ранг Ринами Химэсаки Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_06",
+      "name": "P-ранг Ринами Химэсаки Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-hrnm_07",
+      "name": "P-ранг Ринами Химэсаки Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_001-hski_01",
+      "name": "P-ранг Саки Ханами Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-hski_02",
+      "name": "P-ранг Саки Ханами Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-hski_03",
+      "name": "P-ранг Саки Ханами Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-hski_04",
+      "name": "P-ранг Саки Ханами Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-hski_05",
+      "name": "P-ранг Саки Ханами Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-hski_06",
+      "name": "P-ранг Саки Ханами Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-hski_07",
+      "name": "P-ранг Саки Ханами Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_001-hume_01",
+      "name": "P-ранг Умэ Ханами Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-hume_02",
+      "name": "P-ранг Умэ Ханами Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-hume_03",
+      "name": "P-ранг Умэ Ханами Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-hume_04",
+      "name": "P-ранг Умэ Ханами Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-hume_05",
+      "name": "P-ранг Умэ Ханами Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-hume_06",
+      "name": "P-ранг Умэ Ханами Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-hume_07",
+      "name": "P-ранг Умэ Ханами Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_01",
+      "name": "P-ранг Сены Дзюо Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_02",
+      "name": "P-ранг Сены Дзюо Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_03",
+      "name": "P-ранг Сены Дзюо Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_04",
+      "name": "P-ранг Сены Дзюо Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_05",
+      "name": "P-ранг Сены Дзюо Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_06",
+      "name": "P-ранг Сены Дзюо Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-jsna_07",
+      "name": "P-ранг Сены Дзюо Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_01",
+      "name": "P-ранг Чины Курамото Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_02",
+      "name": "P-ранг Чины Курамото Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_03",
+      "name": "P-ранг Чины Курамото Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_04",
+      "name": "P-ранг Чины Курамото Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_05",
+      "name": "P-ранг Чины Курамото Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_06",
+      "name": "P-ранг Чины Курамото Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-kcna_07",
+      "name": "P-ранг Чины Курамото Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_01",
+      "name": "P-ранг Лильи Кацураги Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_02",
+      "name": "P-ранг Лильи Кацураги Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_03",
+      "name": "P-ранг Лильи Кацураги Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_04",
+      "name": "P-ранг Лильи Кацураги Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_05",
+      "name": "P-ранг Лильи Кацураги Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_06",
+      "name": "P-ранг Лильи Кацураги Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-kllj_07",
+      "name": "P-ранг Лильи Кацураги Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_001-shro_01",
+      "name": "P-ранг Хиро Шиносавы Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-shro_02",
+      "name": "P-ранг Хиро Шиносавы Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-shro_03",
+      "name": "P-ранг Хиро Шиносавы Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-shro_04",
+      "name": "P-ранг Хиро Шиносавы Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-shro_05",
+      "name": "P-ранг Хиро Шиносавы Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-shro_06",
+      "name": "P-ранг Хиро Шиносавы Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-shro_07",
+      "name": "P-ранг Хиро Шиносавы Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_01",
+      "name": "P-ранг Сумики Шиун Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_02",
+      "name": "P-ранг Сумики Шиун Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_03",
+      "name": "P-ранг Сумики Шиун Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_04",
+      "name": "P-ранг Сумики Шиун Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_05",
+      "name": "P-ранг Сумики Шиун Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_06",
+      "name": "P-ранг Сумики Шиун Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-ssmk_07",
+      "name": "P-ранг Сумики Шиун Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_01",
+      "name": "P-ранг Темари Цукимуры Сезон 1 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_02",
+      "name": "P-ранг Темари Цукимуры Сезон 1 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_03",
+      "name": "P-ранг Темари Цукимуры Сезон 1 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_04",
+      "name": "P-ранг Темари Цукимуры Сезон 1 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_05",
+      "name": "P-ранг Темари Цукимуры Сезон 1 Sirius"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_06",
+      "name": "P-ранг Темари Цукимуры Сезон 1 Vega"
+    },
+    {
+      "id": "badge-producerranking_001-ttmr_07",
+      "name": "P-ранг Темари Цукимуры Сезон 1 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-amao_01",
+      "name": "P-ранг Мао Аримуры Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-amao_02",
+      "name": "P-ранг Мао Аримуры Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-amao_03",
+      "name": "P-ранг Мао Аримуры Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-amao_04",
+      "name": "P-ранг Мао Аримуры Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-amao_05",
+      "name": "P-ранг Мао Аримуры Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-amao_06",
+      "name": "P-ранг Мао Аримуры Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-amao_07",
+      "name": "P-ранг Мао Аримуры Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-atbm_01",
+      "name": "P-ранг Цубамэ Амаи Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-atbm_02",
+      "name": "P-ранг Цубамэ Амаи Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-atbm_03",
+      "name": "P-ранг Цубамэ Амаи Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-atbm_04",
+      "name": "P-ранг Цубамэ Амаи Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-atbm_05",
+      "name": "P-ранг Цубамэ Амаи Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-atbm_06",
+      "name": "P-ранг Цубамэ Амаи Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-atbm_07",
+      "name": "P-ранг Цубамэ Амаи Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-fktn_01",
+      "name": "P-ранг Котоны Фудзиты Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-fktn_02",
+      "name": "P-ранг Котоны Фудзиты Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-fktn_03",
+      "name": "P-ранг Котоны Фудзиты Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-fktn_04",
+      "name": "P-ранг Котоны Фудзиты Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-fktn_05",
+      "name": "P-ранг Котоны Фудзиты Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-fktn_06",
+      "name": "P-ранг Котоны Фудзиты Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-fktn_07",
+      "name": "P-ранг Котоны Фудзиты Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-hmsz_01",
+      "name": "P-ранг Мисудзу Хатая Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-hmsz_02",
+      "name": "P-ранг Мисудзу Хатая Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-hmsz_03",
+      "name": "P-ранг Мисудзу Хатая Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-hmsz_04",
+      "name": "P-ранг Мисудзу Хатая Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-hmsz_05",
+      "name": "P-ранг Мисудзу Хатая Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-hmsz_06",
+      "name": "P-ранг Мисудзу Хатая Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-hmsz_07",
+      "name": "P-ранг Мисудзу Хатая Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-hrnm_01",
+      "name": "P-ранг Ринами Химэсаки Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-hrnm_02",
+      "name": "P-ранг Ринами Химэсаки Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-hrnm_03",
+      "name": "P-ранг Ринами Химэсаки Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-hrnm_04",
+      "name": "P-ранг Ринами Химэсаки Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-hrnm_05",
+      "name": "P-ранг Ринами Химэсаки Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-hrnm_06",
+      "name": "P-ранг Ринами Химэсаки Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-hrnm_07",
+      "name": "P-ранг Ринами Химэсаки Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-hski_01",
+      "name": "P-ранг Саки Ханами Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-hski_02",
+      "name": "P-ранг Саки Ханами Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-hski_03",
+      "name": "P-ранг Саки Ханами Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-hski_04",
+      "name": "P-ранг Саки Ханами Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-hski_05",
+      "name": "P-ранг Саки Ханами Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-hski_06",
+      "name": "P-ранг Саки Ханами Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-hski_07",
+      "name": "P-ранг Саки Ханами Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-hume_01",
+      "name": "P-ранг Умэ Ханами Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-hume_02",
+      "name": "P-ранг Умэ Ханами Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-hume_03",
+      "name": "P-ранг Умэ Ханами Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-hume_04",
+      "name": "P-ранг Умэ Ханами Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-hume_05",
+      "name": "P-ранг Умэ Ханами Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-hume_06",
+      "name": "P-ранг Умэ Ханами Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-hume_07",
+      "name": "P-ранг Умэ Ханами Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-jsna_01",
+      "name": "P-ранг Сены Дзюо Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-jsna_02",
+      "name": "P-ранг Сены Дзюо Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-jsna_03",
+      "name": "P-ранг Сены Дзюо Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-jsna_04",
+      "name": "P-ранг Сены Дзюо Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-jsna_05",
+      "name": "P-ранг Сены Дзюо Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-jsna_06",
+      "name": "P-ранг Сены Дзюо Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-jsna_07",
+      "name": "P-ранг Сены Дзюо Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-kcna_01",
+      "name": "P-ранг Чины Курамото Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-kcna_02",
+      "name": "P-ранг Чины Курамото Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-kcna_03",
+      "name": "P-ранг Чины Курамото Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-kcna_04",
+      "name": "P-ранг Чины Курамото Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-kcna_05",
+      "name": "P-ранг Чины Курамото Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-kcna_06",
+      "name": "P-ранг Чины Курамото Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-kcna_07",
+      "name": "P-ранг Чины Курамото Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-kllj_01",
+      "name": "P-ранг Лильи Кацураги Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-kllj_02",
+      "name": "P-ранг Лильи Кацураги Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-kllj_03",
+      "name": "P-ранг Лильи Кацураги Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-kllj_04",
+      "name": "P-ранг Лильи Кацураги Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-kllj_05",
+      "name": "P-ранг Лильи Кацураги Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-kllj_06",
+      "name": "P-ранг Лильи Кацураги Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-kllj_07",
+      "name": "P-ранг Лильи Кацураги Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-shro_01",
+      "name": "P-ранг Хиро Шиносавы Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-shro_02",
+      "name": "P-ранг Хиро Шиносавы Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-shro_03",
+      "name": "P-ранг Хиро Шиносавы Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-shro_04",
+      "name": "P-ранг Хиро Шиносавы Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-shro_05",
+      "name": "P-ранг Хиро Шиносавы Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-shro_06",
+      "name": "P-ранг Хиро Шиносавы Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-shro_07",
+      "name": "P-ранг Хиро Шиносавы Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-ssmk_01",
+      "name": "P-ранг Сумики Шиун Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-ssmk_02",
+      "name": "P-ранг Сумики Шиун Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-ssmk_03",
+      "name": "P-ранг Сумики Шиун Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-ssmk_04",
+      "name": "P-ранг Сумики Шиун Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-ssmk_05",
+      "name": "P-ранг Сумики Шиун Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-ssmk_06",
+      "name": "P-ранг Сумики Шиун Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-ssmk_07",
+      "name": "P-ранг Сумики Шиун Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking_002-ttmr_01",
+      "name": "P-ранг Темари Цукимуры Сезон 2 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking_002-ttmr_02",
+      "name": "P-ранг Темари Цукимуры Сезон 2 THE STAR (ТОП1000)"
+    },
+    {
+      "id": "badge-producerranking_002-ttmr_03",
+      "name": "P-ранг Темари Цукимуры Сезон 2 THE STAR"
+    },
+    {
+      "id": "badge-producerranking_002-ttmr_04",
+      "name": "P-ранг Темари Цукимуры Сезон 2 Sirius (ТОП5000)"
+    },
+    {
+      "id": "badge-producerranking_002-ttmr_05",
+      "name": "P-ранг Темари Цукимуры Сезон 2 Sirius"
+    },
+    {
+      "id": "badge-producerranking_002-ttmr_06",
+      "name": "P-ранг Темари Цукимуры Сезон 2 Vega"
+    },
+    {
+      "id": "badge-producerranking_002-ttmr_07",
+      "name": "P-ранг Темари Цукимуры Сезон 2 Altair"
+    },
+    {
+      "id": "badge-producerranking-000-amao-01",
+      "name": "P-ранг Мао Аримуры Сезон 0 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking-000-amao-02",
+      "name": "P-ранг Мао Аримуры Сезон 0 THE STAR"
+    },
+    {
+      "id": "badge-producerranking-000-amao-03",
+      "name": "P-ранг Мао Аримуры Сезон 0 Sirius"
+    },
+    {
+      "id": "badge-producerranking-000-amao-04",
+      "name": "P-ранг Мао Аримуры Сезон 0 Vega"
+    },
+    {
+      "id": "badge-producerranking-000-amao-05",
+      "name": "P-ранг Мао Аримуры Сезон 0 Altair"
+    },
+    {
+      "id": "badge-producerranking-000-fktn-01",
+      "name": "P-ранг Котоны Фудзиты Сезон 0 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking-000-fktn-02",
+      "name": "P-ранг Котоны Фудзиты Сезон 0 THE STAR"
+    },
+    {
+      "id": "badge-producerranking-000-fktn-03",
+      "name": "P-ранг Котоны Фудзиты Сезон 0 Sirius"
+    },
+    {
+      "id": "badge-producerranking-000-fktn-04",
+      "name": "P-ранг Котоны Фудзиты Сезон 0 Vega"
+    },
+    {
+      "id": "badge-producerranking-000-fktn-05",
+      "name": "P-ранг Котоны Фудзиты Сезон 0 Altair"
+    },
+    {
+      "id": "badge-producerranking-000-hmsz-01",
+      "name": "P-ранг Мисудзу Хатая Сезон 0 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking-000-hmsz-02",
+      "name": "P-ранг Мисудзу Хатая Сезон 0 THE STAR"
+    },
+    {
+      "id": "badge-producerranking-000-hmsz-03",
+      "name": "P-ранг Мисудзу Хатая Сезон 0 Sirius"
+    },
+    {
+      "id": "badge-producerranking-000-hmsz-04",
+      "name": "P-ранг Мисудзу Хатая Сезон 0 Vega"
+    },
+    {
+      "id": "badge-producerranking-000-hmsz-05",
+      "name": "P-ранг Мисудзу Хатая Сезон 0 Altair"
+    },
+    {
+      "id": "badge-producerranking-000-hrnm-01",
+      "name": "P-ранг Ринами Химэсаки Сезон 0 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking-000-hrnm-02",
+      "name": "P-ранг Ринами Химэсаки Сезон 0 THE STAR"
+    },
+    {
+      "id": "badge-producerranking-000-hrnm-03",
+      "name": "P-ранг Ринами Химэсаки Сезон 0 Sirius"
+    },
+    {
+      "id": "badge-producerranking-000-hrnm-04",
+      "name": "P-ранг Ринами Химэсаки Сезон 0 Vega"
+    },
+    {
+      "id": "badge-producerranking-000-hrnm-05",
+      "name": "P-ранг Ринами Химэсаки Сезон 0 Altair"
+    },
+    {
+      "id": "badge-producerranking-000-hski-01",
+      "name": "P-ранг Саки Ханами Сезон 0 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking-000-hski-02",
+      "name": "P-ранг Саки Ханами Сезон 0 THE STAR"
+    },
+    {
+      "id": "badge-producerranking-000-hski-03",
+      "name": "P-ранг Саки Ханами Сезон 0 Sirius"
+    },
+    {
+      "id": "badge-producerranking-000-hski-04",
+      "name": "P-ранг Саки Ханами Сезон 0 Vega"
+    },
+    {
+      "id": "badge-producerranking-000-hski-05",
+      "name": "P-ранг Саки Ханами Сезон 0 Altair"
+    },
+    {
+      "id": "badge-producerranking-000-hume-01",
+      "name": "P-ранг Умэ Ханами Сезон 0 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking-000-hume-02",
+      "name": "P-ранг Умэ Ханами Сезон 0 THE STAR"
+    },
+    {
+      "id": "badge-producerranking-000-hume-03",
+      "name": "P-ранг Умэ Ханами Сезон 0 Sirius"
+    },
+    {
+      "id": "badge-producerranking-000-hume-04",
+      "name": "P-ранг Умэ Ханами Сезон 0 Vega"
+    },
+    {
+      "id": "badge-producerranking-000-hume-05",
+      "name": "P-ранг Умэ Ханами Сезон 0 Altair"
+    },
+    {
+      "id": "badge-producerranking-000-jsna-01",
+      "name": "P-ранг Сены Дзюо Сезон 0 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking-000-jsna-02",
+      "name": "P-ранг Сены Дзюо Сезон 0 THE STAR"
+    },
+    {
+      "id": "badge-producerranking-000-jsna-03",
+      "name": "P-ранг Сены Дзюо Сезон 0 Sirius"
+    },
+    {
+      "id": "badge-producerranking-000-jsna-04",
+      "name": "P-ранг Сены Дзюо Сезон 0 Vega"
+    },
+    {
+      "id": "badge-producerranking-000-jsna-05",
+      "name": "P-ранг Сены Дзюо Сезон 0 Altair"
+    },
+    {
+      "id": "badge-producerranking-000-kcna-01",
+      "name": "P-ранг Чины Курамото Сезон 0 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking-000-kcna-02",
+      "name": "P-ранг Чины Курамото Сезон 0 THE STAR"
+    },
+    {
+      "id": "badge-producerranking-000-kcna-03",
+      "name": "P-ранг Чины Курамото Сезон 0 Sirius"
+    },
+    {
+      "id": "badge-producerranking-000-kcna-04",
+      "name": "P-ранг Чины Курамото Сезон 0 Vega"
+    },
+    {
+      "id": "badge-producerranking-000-kcna-05",
+      "name": "P-ранг Чины Курамото Сезон 0 Altair"
+    },
+    {
+      "id": "badge-producerranking-000-kllj-01",
+      "name": "P-ранг Лильи Кацураги Сезон 0 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking-000-kllj-02",
+      "name": "P-ранг Лильи Кацураги Сезон 0 THE STAR"
+    },
+    {
+      "id": "badge-producerranking-000-kllj-03",
+      "name": "P-ранг Лильи Кацураги Сезон 0 Sirius"
+    },
+    {
+      "id": "badge-producerranking-000-kllj-04",
+      "name": "P-ранг Лильи Кацураги Сезон 0 Vega"
+    },
+    {
+      "id": "badge-producerranking-000-kllj-05",
+      "name": "P-ранг Лильи Кацураги Сезон 0 Altair"
+    },
+    {
+      "id": "badge-producerranking-000-shro-01",
+      "name": "P-ранг Хиро Шиносавы Сезон 0 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking-000-shro-02",
+      "name": "P-ранг Хиро Шиносавы Сезон 0 THE STAR"
+    },
+    {
+      "id": "badge-producerranking-000-shro-03",
+      "name": "P-ранг Хиро Шиносавы Сезон 0 Sirius"
+    },
+    {
+      "id": "badge-producerranking-000-shro-04",
+      "name": "P-ранг Хиро Шиносавы Сезон 0 Vega"
+    },
+    {
+      "id": "badge-producerranking-000-shro-05",
+      "name": "P-ранг Хиро Шиносавы Сезон 0 Altair"
+    },
+    {
+      "id": "badge-producerranking-000-ssmk-01",
+      "name": "P-ранг Сумики Шиун Сезон 0 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking-000-ssmk-02",
+      "name": "P-ранг Сумики Шиун Сезон 0 THE STAR"
+    },
+    {
+      "id": "badge-producerranking-000-ssmk-03",
+      "name": "P-ранг Сумики Шиун Сезон 0 Sirius"
+    },
+    {
+      "id": "badge-producerranking-000-ssmk-04",
+      "name": "P-ранг Сумики Шиун Сезон 0 Vega"
+    },
+    {
+      "id": "badge-producerranking-000-ssmk-05",
+      "name": "P-ранг Сумики Шиун Сезон 0 Altair"
+    },
+    {
+      "id": "badge-producerranking-000-ttmr-01",
+      "name": "P-ранг Темари Цукимуры Сезон 0 THE STAR (ТОП100)"
+    },
+    {
+      "id": "badge-producerranking-000-ttmr-02",
+      "name": "P-ранг Темари Цукимуры Сезон 0 THE STAR"
+    },
+    {
+      "id": "badge-producerranking-000-ttmr-03",
+      "name": "P-ранг Темари Цукимуры Сезон 0 Sirius"
+    },
+    {
+      "id": "badge-producerranking-000-ttmr-04",
+      "name": "P-ранг Темари Цукимуры Сезон 0 Vega"
+    },
+    {
+      "id": "badge-producerranking-000-ttmr-05",
+      "name": "P-ранг Темари Цукимуры Сезон 0 Altair"
+    },
+    {
+      "id": "common-aprilfool2026-001",
+      "name": "Шарм Асари-сэнсэя"
+    },
+    {
+      "id": "competition-pre-001",
+      "name": "Link Contest Предсезон [Участие]"
+    },
+    {
+      "id": "competition-pre-002",
+      "name": "Link Contest Предсезон [Бронза]"
+    },
+    {
+      "id": "competition-pre-003",
+      "name": "Link Contest Предсезон [Серебро]"
+    },
+    {
+      "id": "competition-pre-004",
+      "name": "Link Contest Предсезон [Золото]"
+    },
+    {
+      "id": "competition-pre-005",
+      "name": "Link Contest Предсезон [Радуга]"
+    },
+    {
+      "id": "costume-amao-casl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-amao-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-fktn-casl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-fktn-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-amao-casl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-fktn-casl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-fktn-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-hrnm-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-hrnm-schl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-hski-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-hski-schl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-hume-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-hume-schl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-kcna-casl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-kllj-schl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-shro-casl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-ssmk-schl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-ttmr-casl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-head-ttmr-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-hrnm-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-hrnm-schl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-hski-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-hski-schl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-hume-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-hume-schl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-kcna-casl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-kcna-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-kllj-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-kllj-schl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-shro-casl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-shro-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-ssmk-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-ssmk-schl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-ttmr-casl-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "costume-ttmr-cstm-0000",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "general_meishi_illust_hatsuboshi-logo",
+      "name": ""
+    },
+    {
+      "id": "highscore-amao-01",
+      "name": "Месяц улучшений [Золото]"
+    },
+    {
+      "id": "highscore-amao-02",
+      "name": "Месяц улучшений [Серебро]"
+    },
+    {
+      "id": "highscore-amao-03",
+      "name": "Месяц улучшений [Бронза]"
+    },
+    {
+      "id": "highscore-fktn-01",
+      "name": "Месяц улучшений [Золото]"
+    },
+    {
+      "id": "highscore-fktn-02",
+      "name": "Месяц улучшений [Серебро]"
+    },
+    {
+      "id": "highscore-fktn-03",
+      "name": "Месяц улучшений [Бронза]"
+    },
+    {
+      "id": "highscore-hrnm-01",
+      "name": "Месяц улучшений [Золото]"
+    },
+    {
+      "id": "highscore-hrnm-02",
+      "name": "Месяц улучшений [Серебро]"
+    },
+    {
+      "id": "highscore-hrnm-03",
+      "name": "Месяц улучшений [Бронза]"
+    },
+    {
+      "id": "highscore-hski-01",
+      "name": "Месяц улучшений [Золото]"
+    },
+    {
+      "id": "highscore-hski-02",
+      "name": "Месяц улучшений [Серебро]"
+    },
+    {
+      "id": "highscore-hski-03",
+      "name": "Месяц улучшений [Бронза]"
+    },
+    {
+      "id": "highscore-hume-01",
+      "name": "Месяц улучшений [Золото]"
+    },
+    {
+      "id": "highscore-hume-02",
+      "name": "Месяц улучшений [Серебро]"
+    },
+    {
+      "id": "highscore-hume-03",
+      "name": "Месяц улучшений [Бронза]"
+    },
+    {
+      "id": "highscore-jsna-01",
+      "name": "Месяц улучшений [Золото]"
+    },
+    {
+      "id": "highscore-jsna-02",
+      "name": "Месяц улучшений [Серебро]"
+    },
+    {
+      "id": "highscore-jsna-03",
+      "name": "Месяц улучшений [Бронза]"
+    },
+    {
+      "id": "highscore-kcna-01",
+      "name": "Месяц улучшений [Золото]"
+    },
+    {
+      "id": "highscore-kcna-02",
+      "name": "Месяц улучшений [Серебро]"
+    },
+    {
+      "id": "highscore-kcna-03",
+      "name": "Месяц улучшений [Бронза]"
+    },
+    {
+      "id": "highscore-kllj-01",
+      "name": "Месяц улучшений [Золото]"
+    },
+    {
+      "id": "highscore-kllj-02",
+      "name": "Месяц улучшений [Серебро]"
+    },
+    {
+      "id": "highscore-kllj-03",
+      "name": "Месяц улучшений [Бронза]"
+    },
+    {
+      "id": "highscore-rush-amao-001-ranking-001",
+      "name": "Месяц усилений~Мерцание звёзд~ Мао Аримура [Радуга]"
+    },
+    {
+      "id": "highscore-rush-amao-001-ranking-002",
+      "name": "Месяц усилений~Мерцание звёзд~ Мао Аримура [Золото]"
+    },
+    {
+      "id": "highscore-rush-amao-001-ranking-003",
+      "name": "Месяц усилений~Мерцание звёзд~ Мао Аримура [Серебро]"
+    },
+    {
+      "id": "highscore-rush-amao-001-ranking-004",
+      "name": "Месяц усилений~Мерцание звёзд~ Мао Аримура [Бронза]"
+    },
+    {
+      "id": "highscore-rush-fktn-001-ranking-001",
+      "name": "Месяц усилений~Мерцание звёзд~ Котоне Фудзита [Радуга]"
+    },
+    {
+      "id": "highscore-rush-fktn-001-ranking-002",
+      "name": "Месяц усилений~Мерцание звёзд~ Котоне Фудзита [Золото]"
+    },
+    {
+      "id": "highscore-rush-fktn-001-ranking-003",
+      "name": "Месяц усилений~Мерцание звёзд~ Котоне Фудзита [Серебро]"
+    },
+    {
+      "id": "highscore-rush-fktn-001-ranking-004",
+      "name": "Месяц усилений~Мерцание звёзд~ Котоне Фудзита [Бронза]"
+    },
+    {
+      "id": "highscore-rush-hmsz-001-ranking-001",
+      "name": "Месяц усилений~Мерцание звёзд~ Котоне Фудзита [Радуга]"
+    },
+    {
+      "id": "highscore-rush-hmsz-001-ranking-002",
+      "name": "Месяц усилений~Мерцание звёзд~ Котоне Фудзита [Золото]"
+    },
+    {
+      "id": "highscore-rush-hmsz-001-ranking-003",
+      "name": "Месяц усилений~Мерцание звёзд~ Котоне Фудзита [Серебро]"
+    },
+    {
+      "id": "highscore-rush-hmsz-001-ranking-004",
+      "name": "Месяц усилений~Мерцание звёзд~ Котоне Фудзита [Бронза]"
+    },
+    {
+      "id": "highscore-rush-hrnm-001-ranking-001",
+      "name": "Месяц усилений~Мерцание звёзд~ Ринами Химэсаки [Радуга]"
+    },
+    {
+      "id": "highscore-rush-hrnm-001-ranking-002",
+      "name": "Месяц усилений~Мерцание звёзд~ Ринами Химэсаки [Золото]"
+    },
+    {
+      "id": "highscore-rush-hrnm-001-ranking-003",
+      "name": "Месяц усилений~Мерцание звёзд~ Ринами Химэсаки [Серебро]"
+    },
+    {
+      "id": "highscore-rush-hrnm-001-ranking-004",
+      "name": "Месяц усилений~Мерцание звёзд~ Ринами Химэсаки [Бронза]"
+    },
+    {
+      "id": "highscore-rush-hski-001-ranking-001",
+      "name": "Месяц усилений~Мерцание звёзд~ Саки Ханами [Радуга]"
+    },
+    {
+      "id": "highscore-rush-hski-001-ranking-002",
+      "name": "Месяц усилений~Мерцание звёзд~ Саки Ханами [Золото]"
+    },
+    {
+      "id": "highscore-rush-hski-001-ranking-003",
+      "name": "Месяц усилений~Мерцание звёзд~ Саки Ханами [Серебро]"
+    },
+    {
+      "id": "highscore-rush-hski-001-ranking-004",
+      "name": "Месяц усилений~Мерцание звёзд~ Саки Ханами [Бронза]"
+    },
+    {
+      "id": "highscore-rush-hume-001-ranking-001",
+      "name": "Месяц усилений~Мерцание звёзд~ Умэ Ханами [Радуга]"
+    },
+    {
+      "id": "highscore-rush-hume-001-ranking-002",
+      "name": "Месяц усилений~Мерцание звёзд~ Умэ Ханами [Золото]"
+    },
+    {
+      "id": "highscore-rush-hume-001-ranking-003",
+      "name": "Месяц усилений~Мерцание звёзд~ Умэ Ханами [Серебро]"
+    },
+    {
+      "id": "highscore-rush-hume-001-ranking-004",
+      "name": "Месяц усилений~Мерцание звёзд~ Умэ Ханами [Бронза]"
+    },
+    {
+      "id": "highscore-rush-jsna-001-ranking-001",
+      "name": "Месяц усилений~Мерцание звёзд~ Сена Дзюо [Радуга]"
+    },
+    {
+      "id": "highscore-rush-jsna-001-ranking-002",
+      "name": "Месяц усилений~Мерцание звёзд~ Сена Дзюо [Золото]"
+    },
+    {
+      "id": "highscore-rush-jsna-001-ranking-003",
+      "name": "Месяц усилений~Мерцание звёзд~ Сена Дзюо [Серебро]"
+    },
+    {
+      "id": "highscore-rush-jsna-001-ranking-004",
+      "name": "Месяц усилений~Мерцание звёзд~ Сена Дзюо [Бронза]"
+    },
+    {
+      "id": "highscore-rush-kcna-001-ranking-001",
+      "name": "Месяц усилений~Мерцание звёзд~ Чина Курамото [Радуга]"
+    },
+    {
+      "id": "highscore-rush-kcna-001-ranking-002",
+      "name": "Месяц усилений~Мерцание звёзд~ Чина Курамото [Золото]"
+    },
+    {
+      "id": "highscore-rush-kcna-001-ranking-003",
+      "name": "Месяц усилений~Мерцание звёзд~ Чина Курамото [Серебро]"
+    },
+    {
+      "id": "highscore-rush-kcna-001-ranking-004",
+      "name": "Месяц усилений~Мерцание звёзд~ Чина Курамото [Бронза]"
+    },
+    {
+      "id": "highscore-rush-kllj-001-ranking-001",
+      "name": "Месяц усилений~Мерцание звёзд~ Лилья Кацураги [Радуга]"
+    },
+    {
+      "id": "highscore-rush-kllj-001-ranking-002",
+      "name": "Месяц усилений~Мерцание звёзд~ Лилья Кацураги [Золото]"
+    },
+    {
+      "id": "highscore-rush-kllj-001-ranking-003",
+      "name": "Месяц усилений~Мерцание звёзд~ Лилья Кацураги [Серебро]"
+    },
+    {
+      "id": "highscore-rush-kllj-001-ranking-004",
+      "name": "Месяц усилений~Мерцание звёзд~ Лилья Кацураги [Бронза]"
+    },
+    {
+      "id": "highscore-rush-shro-001-ranking-001",
+      "name": "Месяц усилений~Мерцание звёзд~ Хиро Шиносава [Радуга]"
+    },
+    {
+      "id": "highscore-rush-shro-001-ranking-002",
+      "name": "Месяц усилений~Мерцание звёзд~ Хиро Шиносава [Золото]"
+    },
+    {
+      "id": "highscore-rush-shro-001-ranking-003",
+      "name": "Месяц усилений~Мерцание звёзд~ Хиро Шиносава [Серебро]"
+    },
+    {
+      "id": "highscore-rush-shro-001-ranking-004",
+      "name": "Месяц усилений~Мерцание звёзд~ Хиро Шиносава [Бронза]"
+    },
+    {
+      "id": "highscore-rush-ssmk-001-ranking-001",
+      "name": "Месяц усилений~Мерцание звёзд~ Сумика Шиун [Радуга]"
+    },
+    {
+      "id": "highscore-rush-ssmk-001-ranking-002",
+      "name": "Месяц усилений~Мерцание звёзд~ Сумика Шиун [Золото]"
+    },
+    {
+      "id": "highscore-rush-ssmk-001-ranking-003",
+      "name": "Месяц усилений~Мерцание звёзд~ Сумика Шиун [Серебро]"
+    },
+    {
+      "id": "highscore-rush-ssmk-001-ranking-004",
+      "name": "Месяц усилений~Мерцание звёзд~ Сумика Шиун [Бронза]"
+    },
+    {
+      "id": "highscore-rush-ttmr-001-ranking-001",
+      "name": "Месяц усилений~Мерцание звёзд~ Темари Цукимура [Радуга]"
+    },
+    {
+      "id": "highscore-rush-ttmr-001-ranking-002",
+      "name": "Месяц усилений~Мерцание звёзд~ Темари Цукимура [Золото]"
+    },
+    {
+      "id": "highscore-rush-ttmr-001-ranking-003",
+      "name": "Месяц усилений~Мерцание звёзд~ Темари Цукимура [Серебро]"
+    },
+    {
+      "id": "highscore-rush-ttmr-001-ranking-004",
+      "name": "Месяц усилений~Мерцание звёзд~ Темари Цукимура [Бронза]"
+    },
+    {
+      "id": "highscore-shro-01",
+      "name": "Месяц улучшений [Золото]"
+    },
+    {
+      "id": "highscore-shro-02",
+      "name": "Месяц улучшений [Серебро]"
+    },
+    {
+      "id": "highscore-shro-03",
+      "name": "Месяц улучшений [Бронза]"
+    },
+    {
+      "id": "highscore-ssmk-01",
+      "name": "Месяц улучшений [Золото]"
+    },
+    {
+      "id": "highscore-ssmk-02",
+      "name": "Месяц улучшений [Серебро]"
+    },
+    {
+      "id": "highscore-ssmk-03",
+      "name": "Месяц улучшений [Бронза]"
+    },
+    {
+      "id": "highscore-ttmr-01",
+      "name": "Месяц улучшений [Золото]"
+    },
+    {
+      "id": "highscore-ttmr-02",
+      "name": "Месяц улучшений [Серебро]"
+    },
+    {
+      "id": "highscore-ttmr-03",
+      "name": "Месяц улучшений [Бронза]"
+    },
+    {
+      "id": "highscorerush-pre-01",
+      "name": "Месяц усилений - переработка [Золото]"
+    },
+    {
+      "id": "highscorerush-pre-02",
+      "name": "Месяц усилений - переработка [Серебро]"
+    },
+    {
+      "id": "highscorerush-pre-03",
+      "name": "Месяц усилений - переработка [Бронза]"
+    },
+    {
+      "id": "idol-amao-01",
+      "name": "Мао Аримура"
+    },
+    {
+      "id": "idol-atbm-01",
+      "name": "Цубамэ Амая"
+    },
+    {
+      "id": "idol-fktn-01",
+      "name": "Котоне Фудзита"
+    },
+    {
+      "id": "idol-hmsz-01",
+      "name": "Мисудзу Хатая"
+    },
+    {
+      "id": "idol-hrnm-01",
+      "name": "Ринами Химэсаки"
+    },
+    {
+      "id": "idol-hski-01",
+      "name": "Саки Ханами"
+    },
+    {
+      "id": "idol-hume-01",
+      "name": "Умэ Ханами"
+    },
+    {
+      "id": "idol-jsna-01",
+      "name": "Сена Дзюо"
+    },
+    {
+      "id": "idol-kcna-01",
+      "name": "Чина Курамото"
+    },
+    {
+      "id": "idol-kllj-01",
+      "name": "Лилья Кацураги"
+    },
+    {
+      "id": "idol-shro-01",
+      "name": "Хиро Шиносава"
+    },
+    {
+      "id": "idol-ssmk-01",
+      "name": "Сумика Шиун"
+    },
+    {
+      "id": "idol-ttmr-01",
+      "name": "Темари Цукимура"
+    },
+    {
+      "id": "idolroad-logo-001",
+      "name": "Часть визитки «Путь айдола»"
+    },
+    {
+      "id": "music-logo-all-live-01",
+      "name": "Части визитки «Памятный MOIW2025»"
+    },
+    {
+      "id": "music-logo-amao-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-first-live-05",
+      "name": "Часть визитки «1-й период лайва»"
+    },
+    {
+      "id": "music-logo-first-live-06",
+      "name": "Часть визитки «1-й период лайва»"
+    },
+    {
+      "id": "music-logo-fktn-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-hmsz-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-hrnm-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-hski-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-hume-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-jsna-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-kcna-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-kllj-002",
+      "name": ""
+    },
+    {
+      "id": "music-logo-shro-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-ssmk-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-ttmr-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-ttmr-005",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0001",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0002",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0003",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0004",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0005",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0006",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0007",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0008",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0009",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0010",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0011",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0012",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0013",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0014",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0015",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0016",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0017",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0018",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0019",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0020",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0021",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0022",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0023",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0024",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0025",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0026",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0027",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0028",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0029",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0030",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0031",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0032",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0033",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0034",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0035",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0036",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0037",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0038",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0039",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0040",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0041",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0042",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0043",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0044",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0045",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0046",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0047",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0048",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0049",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0050",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0051",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0052",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0053",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0054",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0055",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0056",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0057",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0058",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0059",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0060",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0061",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0062",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0063",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0064",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0065",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0066",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0067",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0068",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0069",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0070",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0071",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0072",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0073",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0074",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0075",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0076",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0077",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0078",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0079",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0080",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0081",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0082",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0083",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0084",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0085",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0086",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0087",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0088",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0089",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0090",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0091",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0092",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0093",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0094",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0095",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0096",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0097",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0098",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0099",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0100",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0101",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0102",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0103",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0104",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0105",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0106",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0107",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0108",
+      "name": ""
+    },
+    {
+      "id": "pict-icon-0109",
+      "name": ""
+    },
+    {
+      "id": "pr-contest-01",
+      "name": "Фест Хацубоси: выставка, конкурс иллюстраций"
+    },
+    {
+      "id": "pr-contest-02",
+      "name": "Фест Хацубоси: выставка, конкурс фото"
+    },
+    {
+      "id": "pr-contest-03",
+      "name": "Фест Хацубоси: выставка, конкурс поэзии"
+    },
+    {
+      "id": "sd-amao-01",
+      "name": "Мао Аримура"
+    },
+    {
+      "id": "sd-atbm-01",
+      "name": "Цубамэ Амая"
+    },
+    {
+      "id": "sd-fktn-01",
+      "name": "Котоне Фудзита"
+    },
+    {
+      "id": "sd-hmsz-01",
+      "name": "Мисудзу Хатая"
+    },
+    {
+      "id": "sd-hmsz-02",
+      "name": "Мисудзу Хатая①"
+    },
+    {
+      "id": "sd-hmsz-03",
+      "name": "Мисудзу Хатая②"
+    },
+    {
+      "id": "sd-hmsz-04",
+      "name": "Мисудзу Хатая③"
+    },
+    {
+      "id": "sd-hmsz-05",
+      "name": "Мисудзу Хатая④"
+    },
+    {
+      "id": "sd-hmsz-06",
+      "name": "Мисудзу Хатая⑤"
+    },
+    {
+      "id": "sd-hmsz-07",
+      "name": "Мисудзу Хатая⑥"
+    },
+    {
+      "id": "sd-hmsz-08",
+      "name": "Мисудзу Хатая⑦"
+    },
+    {
+      "id": "sd-hrnm-01",
+      "name": "Ринами Химэсаки"
+    },
+    {
+      "id": "sd-hski-01",
+      "name": "Саки Ханами"
+    },
+    {
+      "id": "sd-hume-01",
+      "name": "Умэ Ханами"
+    },
+    {
+      "id": "sd-jsna-01",
+      "name": "Сена Дзюо"
+    },
+    {
+      "id": "sd-kcna-01",
+      "name": "Чина Курамото"
+    },
+    {
+      "id": "sd-kllj-01",
+      "name": "Лилья Кацураги"
+    },
+    {
+      "id": "sd-reversi-01",
+      "name": "REVERSI Tokimeki Emotion"
+    },
+    {
+      "id": "sd-shro-01",
+      "name": "Хиро Шиносава"
+    },
+    {
+      "id": "sd-ssmk-01",
+      "name": "Сумика Шиун"
+    },
+    {
+      "id": "sd-ttmr-01",
+      "name": "Темари Цукимура"
+    },
+    {
+      "id": "sd-yumepathy-01",
+      "name": "Юмепаси"
+    },
+    {
+      "id": "sign-amao-02",
+      "name": "Мао Аримура"
+    },
+    {
+      "id": "sign-amao-03",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "sign-atbm-02",
+      "name": "Цубамэ Амая"
+    },
+    {
+      "id": "sign-fktn-02",
+      "name": "Котоне Фудзита"
+    },
+    {
+      "id": "sign-fktn-03",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "sign-hmsz-02",
+      "name": "Мисудзу Хатая"
+    },
+    {
+      "id": "sign-hrnm-02",
+      "name": "Ринами Химэсаки"
+    },
+    {
+      "id": "sign-hrnm-03",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "sign-hski-02",
+      "name": "Саки Ханами"
+    },
+    {
+      "id": "sign-hski-03",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "sign-hume-02",
+      "name": "Умэ Ханами"
+    },
+    {
+      "id": "sign-hume-03",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "sign-jsna-02",
+      "name": "Сена Дзюо"
+    },
+    {
+      "id": "sign-kcna-02",
+      "name": "Чина Курамото"
+    },
+    {
+      "id": "sign-kcna-03",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "sign-kllj-02",
+      "name": "Лилья Кацураги"
+    },
+    {
+      "id": "sign-kllj-03",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "sign-shro-02",
+      "name": "Хиро Шиносава"
+    },
+    {
+      "id": "sign-shro-03",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "sign-ssmk-02",
+      "name": "Сумика Шиун"
+    },
+    {
+      "id": "sign-ssmk-03",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "sign-ttmr-02",
+      "name": "Темари Цукимура"
+    },
+    {
+      "id": "sign-ttmr-03",
+      "name": "Части визитки Айдола"
+    },
+    {
+      "id": "stamp-amao-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-amao-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-amao-03",
+      "name": ""
+    },
+    {
+      "id": "stamp-atbm-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-atbm-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-fktn-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-fktn-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-fktn-03",
+      "name": ""
+    },
+    {
+      "id": "stamp-hmsz-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-hmsz-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-hrnm-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-hrnm-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-hrnm-03",
+      "name": ""
+    },
+    {
+      "id": "stamp-hski-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-hski-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-hski-03",
+      "name": ""
+    },
+    {
+      "id": "stamp-hume-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-hume-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-hume-03",
+      "name": ""
+    },
+    {
+      "id": "stamp-jsna-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-jsna-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-kcna-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-kcna-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-kcna-03",
+      "name": ""
+    },
+    {
+      "id": "stamp-kllj-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-kllj-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-kllj-03",
+      "name": ""
+    },
+    {
+      "id": "stamp-shro-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-shro-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-shro-03",
+      "name": ""
+    },
+    {
+      "id": "stamp-ssmk-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-ssmk-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-ssmk-03",
+      "name": ""
+    },
+    {
+      "id": "stamp-ttmr-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-ttmr-02",
+      "name": ""
+    },
+    {
+      "id": "stamp-ttmr-03",
+      "name": ""
+    }
+  ]
+}

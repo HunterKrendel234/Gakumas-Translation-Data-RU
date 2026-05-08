@@ -1,0 +1,29 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "shop_costume",
+      "name": "Костюмы"
+    },
+    {
+      "id": "shop_jewel",
+      "name": "Драгоценные камни"
+    },
+    {
+      "id": "shop_pack",
+      "name": "Наборы"
+    },
+    {
+      "id": "shop_pass",
+      "name": "Пропуск"
+    },
+    {
+      "id": "shop_webstore",
+      "name": "Платежи"
+    }
+  ]
+}

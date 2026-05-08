@@ -1,0 +1,77 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "highscore-event-001",
+      "name": "Месяц усиления айдолов Kunio Juo"
+    },
+    {
+      "id": "highscore-event-002",
+      "name": "Событие рекордов"
+    },
+    {
+      "id": "highscore-event-003",
+      "name": "Событие рекордов"
+    },
+    {
+      "id": "highscore-event-004",
+      "name": "Событие рекордов"
+    },
+    {
+      "id": "highscorerush-event-001",
+      "name": "Месяц усиления айдолов Kunio Juo — переработанная версия"
+    },
+    {
+      "id": "highscorerush-event-002",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звёзд〜"
+    },
+    {
+      "id": "highscorerush-event-003",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звёзд〜"
+    },
+    {
+      "id": "highscorerush-event-004",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звёзд〜"
+    },
+    {
+      "id": "highscorerush-event-005",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звёзд〜"
+    },
+    {
+      "id": "highscorerush-event-006",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звёзд〜"
+    },
+    {
+      "id": "highscorerush-event-007",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звёзд〜"
+    },
+    {
+      "id": "highscorerush-event-008",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звёзд〜"
+    },
+    {
+      "id": "highscorerush-event-009",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звёзд〜"
+    },
+    {
+      "id": "highscorerush-event-010",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звёзд〜"
+    },
+    {
+      "id": "highscorerush-event-011",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звёзд〜"
+    },
+    {
+      "id": "highscorerush-event-012",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звёзд〜"
+    },
+    {
+      "id": "highscorerush-event-013",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звёзд〜"
+    }
+  ]
+}

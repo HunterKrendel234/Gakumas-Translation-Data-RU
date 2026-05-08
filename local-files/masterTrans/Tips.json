@@ -1,0 +1,159 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "tips-out-help-0001",
+      "title": "Медиа",
+      "description": "Смотрите видео и 1-комиксы."
+    },
+    {
+      "id": "tips-out-help-0002",
+      "title": "Ур. продюсера",
+      "description": "Повышайте ур. продюсера, чтобы открывать награды и функции."
+    },
+    {
+      "id": "tips-out-help-0003",
+      "title": "Обмен валюты",
+      "description": "Обмен обновляется ежедневно. Проверяйте нужные материалы."
+    },
+    {
+      "id": "tips-out-help-0004",
+      "title": "Пропуск миссий",
+      "description": "Зарабатывайте очки пропуска за миссии, чтобы получать награды."
+    },
+    {
+      "id": "tips-out-help-0005",
+      "title": "Обмен AP",
+      "description": "Тратьте AP на обмен предметов для усиления наград Продюсирования."
+    },
+    {
+      "id": "tips-out-world-0001",
+      "title": "Академия Хацубоси",
+      "description": "Топ-айдолы выступают на регулярных концертах."
+    },
+    {
+      "id": "tips-pro-help-0001",
+      "title": "Планы",
+      "description": "У каждого плана свои карты навыков и P-предметы. Учитывайте их особенности."
+    },
+    {
+      "id": "comic_0001",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0002",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0003",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0004",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0005",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0006",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0007",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0008",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0009",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0010",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0011",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0012",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0013",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0014",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0015",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0016",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0017",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0018",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0019",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0020",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0021",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0023",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0024",
+      "title": "",
+      "description": ""
+    }
+  ]
+}

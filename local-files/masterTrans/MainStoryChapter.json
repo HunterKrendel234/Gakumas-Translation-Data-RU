@@ -1,0 +1,34 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "mainStoryPartId",
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "mainStoryPartId": "story-main-01",
+      "id": "story-main-01-01",
+      "title": "Гл.1",
+      "description": "Добро пожаловать в академию Hatsuboshi"
+    },
+    {
+      "mainStoryPartId": "story-main-01",
+      "id": "story-main-01-02",
+      "title": "Гл.2",
+      "description": "Айдолы, живущие вместе"
+    },
+    {
+      "mainStoryPartId": "story-main-01",
+      "id": "story-main-01-03",
+      "title": "Гл.3",
+      "description": "Мы — Re:IRIS"
+    },
+    {
+      "mainStoryPartId": "story-main-01",
+      "id": "story-main-01-04",
+      "title": "Гл.4",
+      "description": "Hatsuboshi IDOL FESTIVAL"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "producer_ranking_season-000",
+      "name": "Сезон 0"
+    },
+    {
+      "id": "producer_ranking_season-001",
+      "name": "Сезон 1"
+    },
+    {
+      "id": "producer_ranking_season-002",
+      "name": "Сезон 2"
+    }
+  ]
+}

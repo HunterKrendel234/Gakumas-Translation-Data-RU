@@ -1,0 +1,25 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "main_task_group-01-01",
+      "title": "H-задания"
+    },
+    {
+      "id": "main_task_group-02-01",
+      "title": "P-задания"
+    },
+    {
+      "id": "main_task_group-03-01",
+      "title": "P-задания 2"
+    },
+    {
+      "id": "main_task_group-04-01",
+      "title": "P-задания 3"
+    }
+  ]
+}

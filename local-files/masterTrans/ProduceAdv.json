@@ -1,0 +1,170 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "produceType",
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_BeforeFinalLessonHard",
+      "title": "Начало урока перед финальным экзаменом!"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_BeforeMid1LessonHard",
+      "title": "Начало урока перед финальным экзаменом!"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_BeforeMid2LessonHard",
+      "title": "Начало урока перед финальным экзаменом!"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
+      "title": "День перед финальным экзаменом"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
+      "title": "День перед промежуточным экзаменом"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
+      "title": "День перед промежуточным экзаменом"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_Opening",
+      "title": "Обычное выступление «Hajime»"
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultTrueEnd",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultA",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultB",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultC",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultFailedFinal",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultFailedMid1",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_FirstStar",
+      "type": "ProduceAdvType_ProduceResultFailedMid2",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeFinalLessonHard",
+      "title": "Начало урока перед финальным экзаменом!"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeMid1LessonHard",
+      "title": "Начало урока перед финальным экзаменом!"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeMid2LessonHard",
+      "title": "Начало урока перед финальным экзаменом!"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
+      "title": "День перед финальным прослушиванием"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
+      "title": "День перед 1-м прослушиванием"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
+      "title": "День перед 2-м прослушиванием"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeFinalAuditionSelect",
+      "title": "Выбор для финального прослушивания"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeMid1AuditionSelect",
+      "title": "Выбор для 1-го прослушивания"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_BeforeMid2AuditionSelect",
+      "title": "Выбор для 2-го прослушивания"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_StepSkip",
+      "title": "Давай сегодня отдохнём"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_Opening",
+      "title": "NEXT IDOL AUDITION"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultTrueEnd",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultA",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultB",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultC",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultFailedFinal",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultFailedMid1",
+      "title": "Итоговые результаты..."
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "type": "ProduceAdvType_ProduceResultFailedMid2",
+      "title": "Итоговые результаты..."
+    }
+  ]
+}

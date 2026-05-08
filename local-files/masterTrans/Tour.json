@@ -1,0 +1,29 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "storyGroupId",
+      "tourStageTimelineId"
+    ]
+  },
+  "data": [
+    {
+      "id": "tour-april-001",
+      "storyGroupId": "april_event_group-001",
+      "tourStageTimelineId": "liveapril-001_timeline-01",
+      "name": "Сцена мечты 1 апреля"
+    },
+    {
+      "id": "tour-event-001",
+      "storyGroupId": "livetour_event_group-001",
+      "tourStageTimelineId": "livetour-event-001_timeline-01",
+      "name": "Событие живого тура — Осака"
+    },
+    {
+      "id": "tour-event-002",
+      "storyGroupId": "livetour_event_group-002",
+      "tourStageTimelineId": "tour-stage-timeline_tour-event-002",
+      "name": "Событие живого тура — Сибуя"
+    }
+  ]
+}

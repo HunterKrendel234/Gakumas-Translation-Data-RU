@@ -1,0 +1,57 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "eventType"
+    ]
+  },
+  "data": [
+    {
+      "eventType": "EventType_MissionDailyRelease",
+      "name": "Спецмиссии"
+    },
+    {
+      "eventType": "EventType_MissionPanel",
+      "name": "Панельные миссии"
+    },
+    {
+      "eventType": "EventType_ProduceHighScore",
+      "name": "Месяц усиления айдолов Кунио Дзё"
+    },
+    {
+      "eventType": "EventType_StoryCampaign",
+      "name": "Период бесплатной разблокировки комью"
+    },
+    {
+      "eventType": "EventType_StoryEvent",
+      "name": "Сюжет"
+    },
+    {
+      "eventType": "EventType_StoryEventMainStory",
+      "name": "Комью Хацубоси"
+    },
+    {
+      "eventType": "EventType_StoryEventBoxGasha",
+      "name": "Live Tour"
+    },
+    {
+      "eventType": "EventType_StoryEventGuildMission",
+      "name": "Сюжет"
+    },
+    {
+      "eventType": "EventType_GvgRaid",
+      "name": "Региональный тур"
+    },
+    {
+      "eventType": "EventType_DearnessBoost",
+      "name": "Кампания усиления связи"
+    },
+    {
+      "eventType": "EventType_Tour",
+      "name": "Live Tour"
+    },
+    {
+      "eventType": "EventType_Research",
+      "name": "Семинар продюсирования Асари-сэнсэя"
+    }
+  ]
+}

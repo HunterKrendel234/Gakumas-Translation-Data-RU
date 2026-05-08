@@ -1,0 +1,125 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "mission-group-comeback_daily_release_mission_001_daily",
+      "name": "Миссии возвращения"
+    },
+    {
+      "id": "mission-group-comeback_daily_release_mission_003_daily",
+      "name": "Ежедневные миссии возвращения"
+    },
+    {
+      "id": "mission-group-daily_mission_NIA_clear_daily",
+      "name": "Испытание «N.I.A.» в продюсировании"
+    },
+    {
+      "id": "mission-group-highscore-event-003_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscore-event-004_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscorerush-event-001_daily",
+      "name": "Месяц усиления айдолов Кунио Джуо — обновлённый"
+    },
+    {
+      "id": "mission-group-highscorerush-event-002_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscorerush-event-003_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscorerush-event-004_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscorerush-event-005_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscorerush-event-006_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscorerush-event-007_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscorerush-event-008_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscorerush-event-009_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscorerush-event-010_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscorerush-event-011_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscorerush-event-012_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-highscorerush-event-013_daily",
+      "name": "Миссии события"
+    },
+    {
+      "id": "mission-group-main-story-event-001_daily",
+      "name": "Событие Hatsuboshi Commu"
+    },
+    {
+      "id": "mission-group-main-story-event-002_daily",
+      "name": "Событие Hatsuboshi Commu"
+    },
+    {
+      "id": "mission-group-main-story-event-003_daily",
+      "name": "Событие Hatsuboshi Commu"
+    },
+    {
+      "id": "mission-group-main-story-event-004_daily",
+      "name": "Событие Hatsuboshi Commu"
+    },
+    {
+      "id": "mission-group-main-story-event-005_daily",
+      "name": "Событие Hatsuboshi Commu"
+    },
+    {
+      "id": "mission-group-main-story-event-006_daily",
+      "name": "Событие Hatsuboshi Commu"
+    },
+    {
+      "id": "mission-group-main-story-event-007_daily",
+      "name": "Событие Hatsuboshi Commu"
+    },
+    {
+      "id": "mission-group-main-story-event-008_daily",
+      "name": "Событие Hatsuboshi Commu"
+    },
+    {
+      "id": "mission-group-main-story-event-009_daily",
+      "name": "Событие Hatsuboshi Commu"
+    },
+    {
+      "id": "mission-group-main-story-event-010_daily",
+      "name": "Событие Hatsuboshi Commu"
+    },
+    {
+      "id": "mission-release_memorial_group",
+      "name": "Памятные миссии поступления"
+    }
+  ]
+}

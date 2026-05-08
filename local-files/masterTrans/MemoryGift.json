@@ -1,0 +1,29 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "memory_gift-20251116-kcna",
+      "name": "Память «School Life: Тина Курамото»"
+    },
+    {
+      "id": "memory_gift-20251116-shro",
+      "name": "Память «School Life: Хиро Синосава»"
+    },
+    {
+      "id": "memory_gift-fktn",
+      "name": "Hajime live"
+    },
+    {
+      "id": "memory_gift-hski",
+      "name": "Hajime live"
+    },
+    {
+      "id": "memory_gift-ttmr",
+      "name": "Hajime live"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "swapType"
+    ]
+  },
+  "data": [
+    {
+      "id": "Swap_Convert_001",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Урок "
+    },
+    {
+      "id": "Swap_Convert_001",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Ход "
+    },
+    {
+      "id": "Swap_Convert_002",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Урок "
+    },
+    {
+      "id": "Swap_Convert_002",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Exam/Stage "
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Урок ПРОЙДЕН "
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Счёт "
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_NotClear",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Урок НЕ ПРОЙДЕН "
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_NotClear",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Счёт 999 или меньше "
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_100",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "10%"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_100",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "100"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_1000",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "100%"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_1000",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "1000"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_300",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "30%"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_300",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "300"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_500",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "50%"
+    },
+    {
+      "id": "Swap_Convert_ConditionThreshold_Value_500",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "500"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_DanceLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "【Только Dance Lesson/Dance Turn】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_DanceLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Если это Dance Turn, "
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_SpLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "【Только SP Lesson】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_SpLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "【Только SP Lesson】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_VisualLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "【Только Visual Lesson/Visual Turn】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_VisualLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Если это Visual Turn, "
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_VocalLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "【Только Vocal Lesson/Vocal Turn】"
+    },
+    {
+      "id": "Swap_Convert_StepLessonType_VocalLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Если это Vocal Turn, "
+    },
+    {
+      "id": "Swap_Label_Audition",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Exam/Audition "
+    },
+    {
+      "id": "Swap_Label_Audition",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Exam/Audition "
+    },
+    {
+      "id": "Swap_Label_ExamCardUpgrade",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Улучшение во время урока "
+    },
+    {
+      "id": "Swap_Label_ExamCardUpgrade",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Улучшение во время Exam/Stage "
+    },
+    {
+      "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Прирост параметра +"
+    },
+    {
+      "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Прирост счёта +"
+    },
+    {
+      "id": "Swap_Label_ExamLesson",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Параметры"
+    },
+    {
+      "id": "Swap_Label_ExamLesson",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Счёт "
+    },
+    {
+      "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Изменение прироста параметра +"
+    },
+    {
+      "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Изменение счёта +"
+    },
+    {
+      "id": "Swap_Label_ExamLessonFix",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Фиксированные параметры "
+    },
+    {
+      "id": "Swap_Label_ExamLessonFix",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Фиксированный счёт "
+    },
+    {
+      "id": "Swap_Label_ExamLessonValueMultiple",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Усиление параметра +"
+    },
+    {
+      "id": "Swap_Label_ExamLessonValueMultiple",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Прирост счёта +"
+    },
+    {
+      "id": "Swap_Label_ExamLessonValueMultipleDown",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Усиление параметра -"
+    },
+    {
+      "id": "Swap_Label_ExamLessonValueMultipleDown",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Прирост счёта -"
+    },
+    {
+      "id": "Swap_Label_ExamStaminaDamage",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Выносливость -"
+    },
+    {
+      "id": "Swap_Label_ExamStaminaDamage",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Выносливость -"
+    },
+    {
+      "id": "Swap_Label_ExamStaminaRecoverFix",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Выносливость +"
+    },
+    {
+      "id": "Swap_Label_ExamStaminaRecoverFix",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Выносливость +"
+    },
+    {
+      "id": "Swap_Label_LessonAdd",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Значение параметра +"
+    },
+    {
+      "id": "Swap_Label_LessonAdd",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Значение счёта +"
+    },
+    {
+      "id": "Swap_Label_LessonCountAdd",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Количество усилений параметра +"
+    },
+    {
+      "id": "Swap_Label_LessonCountAdd",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Количество увеличений счёта +"
+    },
+    {
+      "id": "Swap_Label_LessonCountReduce",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Количество усилений параметра -"
+    },
+    {
+      "id": "Swap_Label_LessonCountReduce",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Количество увеличений счёта -"
+    },
+    {
+      "id": "Swap_Label_LessonReduce",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Значение параметра -"
+    },
+    {
+      "id": "Swap_Label_LessonReduce",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Значение счёта -"
+    },
+    {
+      "id": "Swap_Label_ProduceCardMovePositionType_Lost",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Один раз за урок "
+    },
+    {
+      "id": "Swap_Label_ProduceCardMovePositionType_Lost",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Один раз за Exam/Stage "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Верх колоды "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Верх колоды "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckLast",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Низ колоды "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckLast",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Низ колоды "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Случайная позиция в колоде "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Случайная позиция в колоде "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Grave",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Сброс "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Grave",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Сброс "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Hand",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Рука "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Hand",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Рука "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Lost",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "Исключение "
+    },
+    {
+      "id": "Swap_Label_ProduceCardPositionType_Lost",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "Исключение "
+    }
+  ]
+}

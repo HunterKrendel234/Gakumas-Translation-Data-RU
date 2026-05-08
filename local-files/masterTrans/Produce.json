@@ -1,0 +1,33 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "produce-001",
+      "name": "Обычный"
+    },
+    {
+      "id": "produce-002",
+      "name": "Про"
+    },
+    {
+      "id": "produce-003",
+      "name": "Мастер"
+    },
+    {
+      "id": "produce-004",
+      "name": "Про"
+    },
+    {
+      "id": "produce-005",
+      "name": "Мастер"
+    },
+    {
+      "id": "produce-006",
+      "name": "Легенда"
+    }
+  ]
+}

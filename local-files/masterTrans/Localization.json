@@ -1,0 +1,225 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "achievement.true_end.receive.initial_status",
+      "description": "Начальные параметры"
+    },
+    {
+      "id": "achievement.true_end.receive.lesson_bonus",
+      "description": "Бонус параметров"
+    },
+    {
+      "id": "card.detail.enhance.invalid.point.exp.short",
+      "description": "Недостаточно очков тренировки"
+    },
+    {
+      "id": "card.produce_card_customize.detail_sheet.nia_condition",
+      "description": "※Настройка доступна через спец. руководство"
+    },
+    {
+      "id": "common.story_event_point",
+      "description": "Семинар продюсирования Асари-сэнсэя"
+    },
+    {
+      "id": "competition.rehearsal_battle_confirm.label.description",
+      "description": "※Попытки не расходуются / Pt рейтинга не начисляются"
+    },
+    {
+      "id": "competition.unit.score",
+      "description": "Pt"
+    },
+    {
+      "id": "dearness.dearness_level_detail_sheet.title",
+      "description": "Детали уровня связи"
+    },
+    {
+      "id": "exchange.complete.confirm",
+      "description": "Обменено"
+    },
+    {
+      "id": "high_score_event.top.adv.title_label",
+      "description": "Месяц усиления айдолов\n〜Сияние звёзд〜"
+    },
+    {
+      "id": "home.gasha.continuous_share.share_text",
+      "description": "\\ В честь показа TVCM проходит безлимитная гача /\n\nКрутите бесплатно, пока доступно!\nГарантирован минимум 1 SSR!\n\n#学マス #引き放題って好き"
+    },
+    {
+      "id": "home.gasha.continuous_share.title",
+      "description": "Результаты безлимитной гачи TVCM"
+    },
+    {
+      "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
+      "description": "При получении целевого P-айдола"
+    },
+    {
+      "id": "home.gasha.draw_button.item",
+      "description": "Билет "
+    },
+    {
+      "id": "home.gasha.item_confirm_sheet.ticket.short_balance_alert",
+      "description": "Недостаточно"
+    },
+    {
+      "id": "home.pvp.contest.out_of_term_toast",
+      "description": "Вне периода события"
+    },
+    {
+      "id": "idol_dearness.step3_condition",
+      "description": "Откроется после окончания кампании бонуса связи"
+    },
+    {
+      "id": "idol_dearness.top.mission_unlock_description",
+      "description": "Откроется {0}"
+    },
+    {
+      "id": "memory.inherit.select_produce_card.before_select.message",
+      "description": "Выберите карту навыка для замены"
+    },
+    {
+      "id": "mission.mission_list.max_point_text.event",
+      "description": "Недельный лимит очков достигнут"
+    },
+    {
+      "id": "mission.panel.mission_text",
+      "description": "{0}"
+    },
+    {
+      "id": "produce_prepare.easy_mode_apply",
+      "description": "Режим помощи активен"
+    },
+    {
+      "id": "produce_prepare.easy_mode.continue_sheet.message",
+      "description": "Отключить режим помощи?"
+    },
+    {
+      "id": "produce_prepare.easy_mode.continue_sheet.title",
+      "description": "Подтверждение режима помощи"
+    },
+    {
+      "id": "produce_prepare.easy_mode.setting_sheet.confirm",
+      "description": "Применить\nрежим помощи"
+    },
+    {
+      "id": "produce_prepare.easy_mode.setting_sheet.message",
+      "description": "Начать Продюсирование в режиме помощи на сложности {0}: {1}"
+    },
+    {
+      "id": "produce_prepare.easy_mode.setting_sheet.title",
+      "description": "Настройки режима помощи"
+    },
+    {
+      "id": "produce_prepare.easy_mode.start_produce_sheet.message",
+      "description": "Начать Продюсирование в режиме помощи\nПродолжить?"
+    },
+    {
+      "id": "produce_prepare.edit.warning",
+      "description": "Состав настраивается отдельно для каждого Продюсирования. Изменения не применяются к другим."
+    },
+    {
+      "id": "produce_prepare.top.event_icon.high_score_rush.description",
+      "description": "Теперь можно получать «Звёздное сияние» за Продюсирование"
+    },
+    {
+      "id": "produce_prepare.top.event_icon.high_score_rush.title",
+      "description": "Месяц усиления айдолов Кунио Дзюо"
+    },
+    {
+      "id": "produce_prepare.top.event_icon.research.description",
+      "description": "Теперь можно получать стикеры Асари-сэнсэя, тануки семинара и очки события за Продюсирование."
+    },
+    {
+      "id": "produce.card.move_position.deckall",
+      "description": "Другой слот состава"
+    },
+    {
+      "id": "produce.card.rarity.legend",
+      "description": "Легенда"
+    },
+    {
+      "id": "produce.high_score_rush.gold.description",
+      "description": "Предмет из «Месяца усиления айдолов Кунио Дзюо 〜Сияние звёзд〜». Используется в гаче события."
+    },
+    {
+      "id": "produce.lesson.no_effect.stance_over_preservation",
+      "description": "Из-за установки «Расслабленно» эффект смены на «Сохранение» не сработает"
+    },
+    {
+      "id": "produce.server_force_reset.confirm.description",
+      "description": "Данные текущего Продюсирования удалены"
+    },
+    {
+      "id": "producer_ranking.character_reward.description",
+      "description": "Награды выдаются после периода подсчёта в зависимости от ранга продюсера по итогам сезона."
+    },
+    {
+      "id": "profile.badge_select.thumb_empty.empty.toast",
+      "description": "Можно получить в рейтинге продюсеров"
+    },
+    {
+      "id": "profile.report.share.text",
+      "description": "#学マス #初星学園通知表"
+    },
+    {
+      "id": "research_event.target_idol_sheet.description",
+      "description": "Только подходящие P-айдолы могут участвовать в режиме события"
+    },
+    {
+      "id": "setting.produce.easy_mode_confirm",
+      "description": "Отображение режима помощи"
+    },
+    {
+      "id": "setting.produce.easy_mode_confirm.description",
+      "description": "Если включено, при выполнении условий будет появляться предложение включить режим помощи."
+    },
+    {
+      "id": "setting.produce.easy_mode_setting",
+      "description": "Настройки режима помощи"
+    },
+    {
+      "id": "setting.produce.easy_mode_setting.description",
+      "description": "Если включено,\nрежим помощи применяется при сложности NEXT IDOL AUDITION: PRO."
+    },
+    {
+      "id": "setting.produce.easy_mode.title",
+      "description": "【Продюсирование】Режим помощи"
+    },
+    {
+      "id": "shop.web_store.confirm.description",
+      "description": "Открыть браузер?\nДата рождения задаётся в [Меню > Прочее > Дата рождения]."
+    },
+    {
+      "id": "story.story_event.section.normal_condition_lock_text",
+      "description": "Заработайте очки события и прочитайте предыдущую комью для разблокировки "
+    },
+    {
+      "id": "tour.exam.to_home.alert",
+      "description": "※Если есть приостановленные данные, их можно продолжить в спец. событии в период события\n※При входе с другого устройства данные будут удалены"
+    },
+    {
+      "id": "tour.play_consumption_item_detail.add_initial_daily_diff_count.annotation",
+      "description": "※Доступно только в период события"
+    },
+    {
+      "id": "tour.play_consumption_item_detail.annotation",
+      "description": "※Доступно только в период события"
+    },
+    {
+      "id": "tour.play_consumption_item_detail.message",
+      "description": "Предмет для прохождения этапов спец. событий"
+    },
+    {
+      "id": "tour.top.user_status.point_complete_label",
+      "description": " "
+    },
+    {
+      "id": "voice.idol_use_produce_card",
+      "description": "Использовать уникальную карту навыка P-айдола"
+    }
+  ]
+}

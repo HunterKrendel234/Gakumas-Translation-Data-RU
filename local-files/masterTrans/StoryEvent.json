@@ -1,0 +1,137 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "box-gasha-event-001",
+      "title": "Летний лайв-фестиваль в разгаре лета"
+    },
+    {
+      "id": "box-gasha-event-002",
+      "title": "Летнее вечернее противостояние"
+    },
+    {
+      "id": "box-gasha-event-003",
+      "title": "Хэллоуинская рапсодия"
+    },
+    {
+      "id": "box-gasha-event-004",
+      "title": "Другмас вокруг торта"
+    },
+    {
+      "id": "box-gasha-event-005",
+      "title": "Валентиновский концерт"
+    },
+    {
+      "id": "box-gasha-event-006",
+      "title": "Хинамацури подменышей"
+    },
+    {
+      "id": "box-gasha-event-007",
+      "title": "Порхающая сакура на стартовой линии"
+    },
+    {
+      "id": "box-gasha-event-015",
+      "title": "Событие Live Tour - Hiroshima"
+    },
+    {
+      "id": "box-gasha-event-019",
+      "title": "Событие Live Tour - Nagoya"
+    },
+    {
+      "id": "main-story-event-001",
+      "title": "Hatsuboshi Commu Ch2: Айдолы, живущие вместе vol.1"
+    },
+    {
+      "id": "main-story-event-002",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "main-story-event-003",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "main-story-event-004",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "main-story-event-005",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "main-story-event-006",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "main-story-event-007",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "main-story-event-008",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "main-story-event-009",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "main-story-event-010",
+      "title": "Hatsuboshi Commu"
+    },
+    {
+      "id": "story-event-001",
+      "title": "Айдолы класса 1-1"
+    },
+    {
+      "id": "story-event-002",
+      "title": "Hatsuboshi Onsen ~Развеянные зимним ветром~"
+    },
+    {
+      "id": "story-event-003",
+      "title": "Айдолы класса 1-2"
+    },
+    {
+      "id": "story-event-004",
+      "title": "Айдолы студсовета"
+    },
+    {
+      "id": "story-event-006",
+      "title": "Спортивный фестиваль Hatsuboshi"
+    },
+    {
+      "id": "story-event-007",
+      "title": "Лучшие подруги? Повседневные проказы одной троицы"
+    },
+    {
+      "id": "story-event-008",
+      "title": "Повседневная жизнь класса 3-1"
+    },
+    {
+      "id": "story-event-009",
+      "title": "Повседневная жизнь Lilja и Sumika"
+    },
+    {
+      "id": "story-event-010",
+      "title": "Повседневная жизнь Sena и Tsubame"
+    },
+    {
+      "id": "story-event-011",
+      "title": "Повседневная жизнь Kotone и Mao"
+    },
+    {
+      "id": "story-event-012",
+      "title": "Повседневная жизнь Temari и Hiro"
+    },
+    {
+      "id": "story-event-013",
+      "title": "Экскурсия класса 3-1"
+    },
+    {
+      "id": "story-event-014",
+      "title": "Повседневная жизнь членов студсовета первого года"
+    }
+  ]
+}

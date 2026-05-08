@@ -1,0 +1,109 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "characterId"
+    ]
+  },
+  "data": [
+    {
+      "characterId": "amao",
+      "name": "Mao Arimura",
+      "regexp": "Mao$"
+    },
+    {
+      "characterId": "atbm",
+      "name": "Tsubame Amaya",
+      "regexp": "Tsubame$"
+    },
+    {
+      "characterId": "fktn",
+      "name": "Kotone Fujita",
+      "regexp": "Kotone"
+    },
+    {
+      "characterId": "gkgt",
+      "name": "Академия Gokugetsu",
+      "regexp": "Gokugetsu Academy"
+    },
+    {
+      "characterId": "hmsz",
+      "name": "Misuzu Hataya",
+      "regexp": "Misuzu"
+    },
+    {
+      "characterId": "hrnm",
+      "name": "Rinami Himesaki",
+      "regexp": "Rinami"
+    },
+    {
+      "characterId": "hski",
+      "name": "Saki Hanami",
+      "regexp": "Saki$"
+    },
+    {
+      "characterId": "hume",
+      "name": "Ume Hanami",
+      "regexp": "Ume$"
+    },
+    {
+      "characterId": "jkno",
+      "name": "Kunio Juo",
+      "regexp": "Kunio"
+    },
+    {
+      "characterId": "jsna",
+      "name": "Sena Juo",
+      "regexp": "Sena$"
+    },
+    {
+      "characterId": "kcna",
+      "name": "China Kuramoto",
+      "regexp": "China$"
+    },
+    {
+      "characterId": "kllj",
+      "name": "Lilja Katsuragi",
+      "regexp": "Lilja$"
+    },
+    {
+      "characterId": "myu0",
+      "name": "Mashiro Yu",
+      "regexp": "Yu"
+    },
+    {
+      "characterId": "nasr",
+      "name": "Asari Neo",
+      "regexp": "Asari-Sensei"
+    },
+    {
+      "characterId": "shro",
+      "name": "Hiro Shinosawa",
+      "regexp": "Hiro$"
+    },
+    {
+      "characterId": "ssmk",
+      "name": "Sumika Shiun",
+      "regexp": "Sumika$"
+    },
+    {
+      "characterId": "trda",
+      "name": "Dance Trainer",
+      "regexp": "Dance Trainer"
+    },
+    {
+      "characterId": "trvi",
+      "name": "Visual Trainer",
+      "regexp": "Visual Trainer"
+    },
+    {
+      "characterId": "trvo",
+      "name": "Vocal Trainer",
+      "regexp": "Vocal Trainer"
+    },
+    {
+      "characterId": "ttmr",
+      "name": "Temari Tsukimura",
+      "regexp": "Temari$"
+    }
+  ]
+}

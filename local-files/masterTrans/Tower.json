@@ -1,0 +1,61 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "tower_001-amao",
+      "title": "Путь айдола Mao Arimura"
+    },
+    {
+      "id": "tower_001-atbm",
+      "title": "Путь айдола Tsubame Amaya"
+    },
+    {
+      "id": "tower_001-fktn",
+      "title": "Путь айдола Kotone Fujita"
+    },
+    {
+      "id": "tower_001-hmsz",
+      "title": "Путь айдола Misuzu Hataya"
+    },
+    {
+      "id": "tower_001-hrnm",
+      "title": "Путь айдола Rinami Himesaki"
+    },
+    {
+      "id": "tower_001-hski",
+      "title": "Путь айдола Saki Hanami"
+    },
+    {
+      "id": "tower_001-hume",
+      "title": "Путь айдола Ume Hanami"
+    },
+    {
+      "id": "tower_001-jsna",
+      "title": "Путь айдола Sena Juo"
+    },
+    {
+      "id": "tower_001-kcna",
+      "title": "Путь айдола China Kuramoto"
+    },
+    {
+      "id": "tower_001-kllj",
+      "title": "Путь айдола Lilja Katsuragi"
+    },
+    {
+      "id": "tower_001-shro",
+      "title": "Путь айдола Hiro Shinosawa"
+    },
+    {
+      "id": "tower_001-ssmk",
+      "title": "Путь айдола Sumika Shiun"
+    },
+    {
+      "id": "tower_001-ttmr",
+      "title": "Путь айдола Temari Tsukimura"
+    }
+  ]
+}

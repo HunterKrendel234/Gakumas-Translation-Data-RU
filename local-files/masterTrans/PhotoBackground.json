@@ -1,0 +1,37 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "photo_background-danceroom-01",
+      "name": "Зал танцевальных уроков"
+    },
+    {
+      "id": "photo_background-hotspring-01",
+      "name": "Онсэн Хацубоси"
+    },
+    {
+      "id": "photo_background-riverbed",
+      "name": "Берег реки"
+    },
+    {
+      "id": "photo_background-rooftop-01",
+      "name": "Крыша здания"
+    },
+    {
+      "id": "photo_background-visualroom-01",
+      "name": "Зал визуальных уроков"
+    },
+    {
+      "id": "photo_background-vocalroom-01",
+      "name": "Зал вокальных уроков"
+    },
+    {
+      "id": "photo_photobooth-01",
+      "name": "Animate"
+    }
+  ]
+}

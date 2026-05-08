@@ -1,0 +1,1737 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "item_gacha-coin-continuous-001",
+      "name": "Монета ТВ-рекламы: безлимитная гача",
+      "description": "Монета для безлимитной гачи в честь ТВ-рекламы",
+      "acquisitionRouteDescription": "TVCM Broadcast Login Bonus, TVCM Broadcast Missions"
+    },
+    {
+      "id": "item-coin-box-gasha-event-001",
+      "name": "Азасси",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-coin-box-gasha-event-002",
+      "name": "Сверкающий браслет вечернего сияния",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-coin-box-gasha-event-003",
+      "name": "Много шалостей",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-coin-box-gasha-event-004",
+      "name": "Весёлый Санта",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-coin-box-gasha-event-005",
+      "name": "Безумный шоколад",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-coin-box-gasha-event-006",
+      "name": "Весеннее украшение с персиком",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-coin-box-gasha-event-007",
+      "name": "Цветочные украшения",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-coin-box-gasha-event-015",
+      "name": "Медаль тура Хиросимы",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-coin-box-gasha-event-019",
+      "name": "Медаль тура Нагои",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-001",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-002",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-003",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-004",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-005",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-006",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи «Месяц усиления айдолов 〜Мерцание звёзд〜 (China Kuramoto / Sumika Shiun)»",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-007",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи «Месяц усиления айдолов 〜Сияние звёзд〜 (Mao Arimura/Ume Hanami)»",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-008",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи «Месяц усиления айдолов 〜Сияние звёзд〜 (Lilja/Sena)»",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-009",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи «Месяц усиления айдолов 〜Сияние звёзд〜 (Temari/Saki)»",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-010",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи «Месяц усиления айдолов 〜Сияние звёзд〜 (Sena Juo / Tsubame Amaya)»",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-011",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи «Месяц усиления айдолов 〜Сияние звёзд〜 (Saki Hanami / Lilja Katsuragi)»",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-012",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи «Месяц усиления айдолов 〜Сияние звёзд〜 (Ume Hanami/Rinami Himesaki)»",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-013",
+      "name": "Звёздный свет",
+      "description": "Предмет для ивент-гачи «Месяц усиления айдолов 〜Сияние звёзд〜 (Misuzu Hataya / Hiro Shinosawa)»",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-common-idol_card-piece-r",
+      "name": "Фрагмент R Айдола",
+      "description": "Предмет для пробуждения R айдолов Продюсирования",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-common-idol_card-piece-sr",
+      "name": "Фрагмент SR Айдола",
+      "description": "Предмет для пробуждения SR айдолов Продюсирования",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-common-idol_card-piece-ssr",
+      "name": "Фрагмент SSR Айдола",
+      "description": "Предмет для пробуждения SSR айдолов Продюсирования",
+      "acquisitionRouteDescription": "The Idol Road, etc."
+    },
+    {
+      "id": "item-common-support_card-limit-r",
+      "name": "Бронзовый билет разблокировки",
+      "description": "Предмет для снятия лимита R Карты поддержки",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-common-support_card-limit-sr",
+      "name": "Золотой билет разблокировки",
+      "description": "Предмет для снятия лимита SR Карты поддержки",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-common-support_card-limit-ssr",
+      "name": "Радужный билет разблокировки",
+      "description": "Предмет для снятия лимита SSR Карты поддержки",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-commu-key-001",
+      "name": "Ключ записи",
+      "description": "Предмет для разблокировки коммью",
+      "acquisitionRouteDescription": "Money Exchange Shop, etc."
+    },
+    {
+      "id": "item-dearness-unlock-amao",
+      "name": "Ключ записи Мао",
+      "description": "Предмет для разблокировки коммью связи STEP3 Мао Аримуры",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-dearness-unlock-fktn",
+      "name": "Ключ записи Котоне",
+      "description": "Предмет для разблокировки коммью связи STEP3 Котоне Фудзиты",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-dearness-unlock-hrnm",
+      "name": "Ключ записи Ринами",
+      "description": "Предмет для разблокировки коммью связи STEP3 Ринами Химэсаки",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-dearness-unlock-hski",
+      "name": "Ключ записи Саки",
+      "description": "Предмет для разблокировки коммью связи STEP3 Саки Ханами",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-dearness-unlock-hume",
+      "name": "Ключ записей с Умэ",
+      "description": "Предмет для разблокировки коммью связи STEP3 Умэ Ханами",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-dearness-unlock-jsna",
+      "name": "Ключ записи Сены",
+      "description": "Предмет для разблокировки коммью связи STEP3 Сены Дзё",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-dearness-unlock-kcna",
+      "name": "Ключ записи Чины",
+      "description": "Предмет для разблокировки коммью связи STEP3 Чины Курамото",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-dearness-unlock-kllj",
+      "name": "Ключ записи Лильи",
+      "description": "Предмет для разблокировки коммью связи STEP3 Лильи Кацураги",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-dearness-unlock-shro",
+      "name": "Ключ записи Хиро",
+      "description": "Предмет для разблокировки коммью связи STEP3 Хиро Синосава",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-dearness-unlock-ssmk",
+      "name": "Ключ записи Сумики",
+      "description": "Предмет для разблокировки коммью связи STEP3 Сумики Сиун",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-dearness-unlock-ttmr",
+      "name": "Ключ записи Темари",
+      "description": "Предмет для разблокировки коммью связи STEP3 Темари Цукимуры",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
+      "id": "item-friend_coin",
+      "name": "Монета дружбы",
+      "description": "Монета для гачи дружбы",
+      "acquisitionRouteDescription": "Rental, Circle Donations, etc."
+    },
+    {
+      "id": "item-gacha-coin-18m-aniv-001",
+      "name": "Монета Хацумитян 1.5-летия",
+      "description": "Монета для гачи 1.5-летия",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-gacha-coin-anniversary-001",
+      "name": "Монета Хацумитян",
+      "description": "Монета для гачи 1-летия",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-gacha-coin-hif-001",
+      "name": "Монета ивента Pre-H.I.F",
+      "description": "Монета для гачи ивента Pre-H.I.F",
+      "acquisitionRouteDescription": "Produce"
+    },
+    {
+      "id": "item-gacha-coin-newyear-001",
+      "name": "Лотерейный билет Хацубоси 2025",
+      "description": "Предмет для новогодней гачи-лотереи",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-gacha-coin-newyear-002",
+      "name": "Лотерейный билет Хацубоси 2026",
+      "description": "Предмет для новогодней гачи-лотереи",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-gasha_200limit-exchange",
+      "name": "Билет обмена в честь трансляции Story of Re;IRIS",
+      "description": "Соберите 20 для обмена на айдолов Продюсирования или Карты поддержки в магазине обмена",
+      "acquisitionRouteDescription": "Story of Re;IRIS Broadcast Commemoration SSR 1.5x Select Pickup Gacha"
+    },
+    {
+      "id": "item-gasha-ticket-ssr-fix-seasons-2511-001",
+      "name": "Билет гачи SSR с гарантией 1.5-летия (сезонный)",
+      "description": "Билет для сезонной гачи SSR с гарантией 1.5-летия",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaitem-10_01",
+      "name": "Билет на 10 бесплатных призывов Hatsumi Brand★",
+      "description": "До 100 бесплатных призывов! Предмет гачи 10 бесплатных призывов в честь ТВ-рекламы",
+      "acquisitionRouteDescription": "TVCM Broadcast Commemoration Login Bonus"
+    },
+    {
+      "id": "item-gashaticket-1",
+      "name": "Платиновый билет гачи",
+      "description": "Билет для платиновой гачи",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-10",
+      "name": "Платиновый билет на 10 призывов",
+      "description": "Билет на 10 призывов для платиновой гачи",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-aniv-001",
+      "name": "Билет гачи 10 призывов 1-летия",
+      "description": "Билеты для бесплатной гачи на 10 призывов в честь 1-летия",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-christmas-001",
+      "name": "Рождественский билет гачи на 10 призывов",
+      "description": "Билет для гачи бонуса входа на Рождество",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-fix_1",
+      "name": "Билет гачи SSR с гарантией",
+      "description": "Билет для гачи с гарантией SSR",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-fix_1_1st-anniversary-001",
+      "name": "Билет SSR с гарантией 1-летия",
+      "description": "Билет для гачи SSR с гарантией 1-летия",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-fix_10-hoten",
+      "name": "Билет гачи SSR на 10 призывов",
+      "description": "Билет для гачи «SSR гарантированно за 10 призывов 1-летия» (48 часов)",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-fix_5",
+      "name": "Билет гачи SSR с гарантией 1.5-летия",
+      "description": "Билет для гачи SSR с гарантией 1.5-летия",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-fix_7",
+      "name": "Билет гачи SSR P-айдаола на 10 призывов (поддержка новичков)",
+      "description": "Билет для гачи SSR P-айдаола на 10 призывов (поддержка новичков)",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-idol-fix_1",
+      "name": "Билет SSR P-айдаола с гарантией",
+      "description": "Билет для гачи SSR P-айдаола с гарантией",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-idol-fix_2",
+      "name": "Памятный билет SSR P-айдаола с гарантией (1-й период)",
+      "description": "Билет для гачи SSR P-айдаола с гарантией (1-й период)",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-idol-fix_3",
+      "name": "Памятный билет SSR P-айдаола MOIW2025 с гарантией",
+      "description": "Билет для гачи SSR P-айдаола MOIW2025 с гарантией",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-idol-season-fix_4",
+      "name": "Сезонный билет SSR P-айдаола с гарантией",
+      "description": "Билет для сезонной гачи SSR P-айдаола с гарантией",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-support-fix_1",
+      "name": "Билет SSR поддержки с гарантией",
+      "description": "Билет для гачи SSR карты поддержки с гарантией",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-support-fix-nia-1",
+      "name": "Билет SSR карты поддержки с гарантией N.I.A Challenge",
+      "description": "Билет для гачи SSR карты поддержки с гарантией N.I.A Challenge",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-support-season-fix_1",
+      "name": "Сезонный билет SSR карты поддержки с гарантией",
+      "description": "Билет для сезонной гачи SSR карты поддержки с гарантией",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-valentine-001",
+      "name": "Валентиновский билет гачи на 10 призывов",
+      "description": "Билет для гачи бонуса входа ко Дню святого Валентина",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-001-1",
+      "name": "Особый билет Саки",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-001-10",
+      "name": "Особый билет Саки",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-002-1",
+      "name": "Особый билет Темари",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-002-10",
+      "name": "Особый билет Темари",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-003-1",
+      "name": "Особый билет Котоне",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-003-10",
+      "name": "Особый билет Котоне",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-004-1",
+      "name": "Особый билет Цубамэ",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-005-1",
+      "name": "Особый билет Мао",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-006-1",
+      "name": "Особый билет Лильи",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-007-1",
+      "name": "Особый билет Чины",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-008-1",
+      "name": "Особый билет Сумики",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-009-1",
+      "name": "Особый билет Хиро",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-010-1",
+      "name": "Особый билет Сены",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-010-10",
+      "name": "Особый билет Сены",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-011-1",
+      "name": "Особый билет Мисудзу",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-012-1",
+      "name": "Особый билет Умэ",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-fainal-26-013-1",
+      "name": "Особый билет Ринами",
+      "description": "Билет для гачи Daily Gakuen Wednesday Final Season",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-hif-aniv-001",
+      "name": "Купон обмена предкампании H.I.F",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce"
+    },
+    {
+      "id": "item-Idolcardpiece-exchange-1",
+      "name": "Цветок",
+      "description": "Предмет для магазинов обмена",
+      "acquisitionRouteDescription": "Gacha, Idol Piece Exchange, etc."
+    },
+    {
+      "id": "item-limitovermaterial-1",
+      "name": "Учебная заметка",
+      "description": "Предмет для тренировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Produce, Tasks, Achievements, etc."
+    },
+    {
+      "id": "item-limitovermaterial-2",
+      "name": "Заметка ветерана",
+      "description": "Предмет для тренировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Produce, Jobs, Coin Gacha, etc."
+    },
+    {
+      "id": "item-limitovermaterial-2-a-1",
+      "name": "Заметка Sense (Вокал)",
+      "description": "Предмет для тренировки айдолов Продюсирования Sense в плане",
+      "acquisitionRouteDescription": "Produce (Plan: Sense Produce Idols), etc."
+    },
+    {
+      "id": "item-limitovermaterial-2-a-2",
+      "name": "Заметка Sense (Танец)",
+      "description": "Предмет для тренировки айдолов Продюсирования Sense в плане",
+      "acquisitionRouteDescription": "Produce (Plan: Sense Produce Idols), etc."
+    },
+    {
+      "id": "item-limitovermaterial-2-a-3",
+      "name": "Заметка Sense (Визуал)",
+      "description": "Предмет для тренировки айдолов Продюсирования Sense в плане",
+      "acquisitionRouteDescription": "Produce (Plan: Sense Produce Idols), etc."
+    },
+    {
+      "id": "item-limitovermaterial-2-b-1",
+      "name": "Заметка Logic (Вокал)",
+      "description": "Предмет для тренировки айдолов Продюсирования Logic в плане",
+      "acquisitionRouteDescription": "Produce (Plan: Logic Produce Idols), etc."
+    },
+    {
+      "id": "item-limitovermaterial-2-b-2",
+      "name": "Заметка Logic (Танец)",
+      "description": "Предмет для тренировки айдолов Продюсирования Logic в плане",
+      "acquisitionRouteDescription": "Produce (Plan: Logic Produce Idols), etc."
+    },
+    {
+      "id": "item-limitovermaterial-2-b-3",
+      "name": "Заметка Logic (Визуал)",
+      "description": "Предмет для тренировки айдолов Продюсирования Logic в плане",
+      "acquisitionRouteDescription": "Produce (Plan: Logic Produce Idols), etc."
+    },
+    {
+      "id": "item-limitovermaterial-2-c-1",
+      "name": "Заметка Anomaly (Вокал)",
+      "description": "Предмет для тренировки айдолов Продюсирования Anomaly в плане",
+      "acquisitionRouteDescription": "Produce (Plan: Anomaly Produce Idols), etc."
+    },
+    {
+      "id": "item-limitovermaterial-2-c-2",
+      "name": "Заметка Anomaly (Танец)",
+      "description": "Предмет для тренировки айдолов Продюсирования Anomaly в плане",
+      "acquisitionRouteDescription": "Produce (Plan: Anomaly Produce Idols), etc."
+    },
+    {
+      "id": "item-limitovermaterial-2-c-3",
+      "name": "Заметка Anomaly (Визуал)",
+      "description": "Предмет для тренировки айдолов Продюсирования Anomaly в плане",
+      "acquisitionRouteDescription": "Produce (Plan: Anomaly Produce Idols), etc."
+    },
+    {
+      "id": "item-limitovermaterial-3",
+      "name": "Мастерская заметка",
+      "description": "Предмет для тренировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Produce, Contest Exchange Shop, Events, etc."
+    },
+    {
+      "id": "item-limitovermaterial-4",
+      "name": "Легендарная заметка",
+      "description": "Предмет для тренировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Item Exchange etc."
+    },
+    {
+      "id": "item-medal-circle-battle-event-001",
+      "name": "Медаль регионального тура",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Regional Tour Event"
+    },
+    {
+      "id": "item-medal-event-all-001",
+      "name": "Трофей Хацубоси",
+      "description": "Предмет для магазина обмена трофеев Хацубоси",
+      "acquisitionRouteDescription": "Events, etc."
+    },
+    {
+      "id": "item-medal-main-story-event-001",
+      "name": "Закладка Хацубоси",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Obtained from Produce"
+    },
+    {
+      "id": "item-medal-main-story-event-002",
+      "name": "Закладка Хацубоси",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-main-story-event-003",
+      "name": "Закладка Хацубоси",
+      "description": "Собирайте в событиях коммью Хацубоси для обмена на предметы",
+      "acquisitionRouteDescription": "Obtained from Produce"
+    },
+    {
+      "id": "item-medal-main-story-event-004",
+      "name": "Закладка Хацубоси",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-main-story-event-005",
+      "name": "Закладка Хацубоси",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-main-story-event-006",
+      "name": "Закладка Хацубоси",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-main-story-event-007",
+      "name": "Закладка Хацубоси",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-main-story-event-008",
+      "name": "Закладка Хацубоси",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-main-story-event-009",
+      "name": "Закладка Хацубоси",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-main-story-event-010",
+      "name": "Закладка Хацубоси",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-research-event-006",
+      "name": "Тануки семинара",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-001",
+      "name": "Дружелюбный поппер",
+      "description": "Награды для обмена в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-002",
+      "name": "Листья, разметанные зимним ветром",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-003",
+      "name": "Тайбрейкер",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-004",
+      "name": "Сияние новой звезды",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-006",
+      "name": "Связывающая повязка",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-007",
+      "name": "Купон Томокацу",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-008",
+      "name": "Памятный знак класса 3-1",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-009",
+      "name": "Воспоминания о пикнике",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-010",
+      "name": "Пейзаж под сияющими звёздами",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-011",
+      "name": "От всех в общежитии",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-012",
+      "name": "Подарок на день рождения",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-013",
+      "name": "Сувениры со школьной поездки",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-story-event-014",
+      "name": "Самодельная бумажная гирлянда",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-tour-event-001",
+      "name": "Медаль тура Осаки",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Live Tour Event"
+    },
+    {
+      "id": "item-medal-tour-event-002",
+      "name": "Медаль тура Сибуи",
+      "description": "Предмет для обмена на награды в магазине события",
+      "acquisitionRouteDescription": "Live Tour Event, Produce"
+    },
+    {
+      "id": "item-memory_exchange-class1",
+      "name": "Монета Sense",
+      "description": "Монета для гачи Sense",
+      "acquisitionRouteDescription": "Produce (Plan: Sense Produce Idols), etc."
+    },
+    {
+      "id": "item-memory_exchange-class2",
+      "name": "Монета Logic",
+      "description": "Монета для гачи Logic",
+      "acquisitionRouteDescription": "Produce (Plan: Logic Produce Idols), etc."
+    },
+    {
+      "id": "item-memory_exchange-class3",
+      "name": "Монета Anomaly",
+      "description": "Монета для гачи Anomaly",
+      "acquisitionRouteDescription": "Produce (Plan: Anomaly Produce Idols), etc."
+    },
+    {
+      "id": "item-memory-inherit",
+      "name": "Билет слияния памяти",
+      "description": "Билет для слияния памяти",
+      "acquisitionRouteDescription": "Plan Coin Gacha, etc."
+    },
+    {
+      "id": "item-money",
+      "name": "Деньги",
+      "description": "Предмет для тренировки и магазина обмена денег",
+      "acquisitionRouteDescription": "Activity Expenses, Jobs, etc."
+    },
+    {
+      "id": "item-piece-idol_amao-1-000",
+      "name": "[Campus Life] Фрагмент Мао Аримуры",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_amao-1-001",
+      "name": "[First Love] Фрагмент Мао Аримуры",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_amao-2-000",
+      "name": "[Starting Cool] Фрагмент Мао Аримуры",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_amao-3-000",
+      "name": "[Fluorite] Фрагмент Мао Аримуры",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_amao-3-001",
+      "name": "[Kimi to Semi Blue] Фрагмент Мао Аримуры",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Event Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_amao-3-002",
+      "name": "[Feel Jewel Dream] Фрагмент Мао Аримуры",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_amao-3-007",
+      "name": "[Campus mode!!] Фрагмент Мао Аримуры",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_amao-3-009",
+      "name": "[Yukidoke ni] Фрагмент Мао Аримуры",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_amao-3-013",
+      "name": "[Mirakuru na Nau(゚∀゚)! ] Фрагмент Мао Аримуры",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_amao-3-015",
+      "name": "[Mite] Фрагмент Мао Аримуры",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_atbm-1-000",
+      "name": "[School Life] Фрагмент Цубамэ Амии",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_atbm-2-000",
+      "name": "[Single-Minded] Фрагмент Цубамэ Амии",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_atbm-3-000",
+      "name": "[Rironbusou Shite] Фрагмент Цубамэ Амии",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_atbm-3-012",
+      "name": "[Campus mode!!] Фрагмент Цубамэ Амии",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_fktn-1-000",
+      "name": "[Campus Life] Фрагмент Котоне Фудзиты",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_fktn-1-001",
+      "name": "[First Voice] Фрагмент Котоне Фудзиты",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_fktn-2-000",
+      "name": "[Just Started Being Cute♡] Фрагмент Котоне Фудзиты",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_fktn-3-000",
+      "name": "[Sekaiichi Kawaii Watashi] Фрагмент Котоне Фудзиты",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_fktn-3-001",
+      "name": "[Yellow Big Bang!] Фрагмент Котоне Фудзиты",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_fktn-3-002",
+      "name": "[Kamurogiku] Фрагмент Котоне Фудзиты",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_fktn-3-006",
+      "name": "[White Night! White Wish!] Фрагмент Котоне Фудзиты",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Event Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_fktn-3-007",
+      "name": "[Campus mode!!] Фрагмент Котоне Фудзиты",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_fktn-3-011",
+      "name": "[Ameagari no Iris] Фрагмент Котоне Фудзиты",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_fktn-3-013",
+      "name": "[Jiko Kouteikan Bakuage↑↑] Фрагмент Котоне Фудзиты",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_fktn-3-016",
+      "name": "[Gamushara ni Ikou!] Фрагмент Котоне Фудзиты",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hmsz-1-000",
+      "name": "[School life] Фрагмент Мисудзу Хатая",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hmsz-1-001",
+      "name": "[First Battle] Фрагмент Мисудзу Хатая",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hmsz-2-000",
+      "name": "[Slowly, one step at a time] Фрагмент Мисудзу Хатая",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hmsz-3-000",
+      "name": "[Tsuki no Kame] Фрагмент Мисудзу Хатая",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hmsz-3-005",
+      "name": "[Campus mode!!] Фрагмент Мисудзу Хатая",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hmsz-3-010",
+      "name": "[Star-mine] Фрагмент Мисудзу Хатая",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hmsz-3-014",
+      "name": "[Superlative] Фрагмент Мисудзу Хатая",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hmsz-3-015",
+      "name": "[ENDLESS DANCE] Фрагмент Мисудзу Хатая",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Event Exchange Shop, etc."
+    },
+    {
+      "id": "item-piece-idol_hmsz-3-016",
+      "name": "[VEIL] Фрагмент Мисудзу Хатая",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hrnm-1-000",
+      "name": "[Campus Life] Фрагмент Ринами Химесаки",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hrnm-1-001",
+      "name": "[Beginner] Фрагмент Ринами Химесаки",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hrnm-2-000",
+      "name": "[Beginning of『My Self』] Фрагмент Ринами Химесаки",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-000",
+      "name": "[clumsy trick] Фрагмент Ринами Химесаки",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-001",
+      "name": "[Kimi to Semi Blue] Фрагмент Ринами Химесаки",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-002",
+      "name": "[L.U.V] Фрагмент Ринами Химесаки",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-004",
+      "name": "[Welcome to Hatsuboshi Onsen] Фрагмент Ринами Химесаки",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-007",
+      "name": "[Campus mode!!] Фрагмент Ринами Химесаки",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-008",
+      "name": "[Happy Millefeuille] Фрагмент Ринами Химесаки",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-012",
+      "name": "[Howling over the World] Фрагмент Ринами Химесаки",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Event Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hrnm-3-013",
+      "name": "[36℃ U・B・U] Фрагмент Ринами Химесаки",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-1-000",
+      "name": "[Campus Life] Фрагмент Саки Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-1-001",
+      "name": "[First Voice] Фрагмент Саки Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-2-000",
+      "name": "[I'm the Best!] Фрагмент Саки Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-3-000",
+      "name": "[Fighting My Way] Фрагмент Саки Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-3-001",
+      "name": "[Boom Boom Pow] Фрагмент Саки Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-3-002",
+      "name": "[Kamurogiku] Фрагмент Саки Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Event Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-3-006",
+      "name": "[Kokon Touzai Chochoi no Choi] Фрагмент Саки Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-3-008",
+      "name": "[Campus mode!!] Фрагмент Саки Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-3-011",
+      "name": "[Sakura Photograph] Фрагмент Саки Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-3-012",
+      "name": "[Ameagari no Iris] Фрагмент Саки Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-3-015",
+      "name": "[Gamushara ni Ikou!!] Фрагмент Саки Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Event Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-3-017",
+      "name": "[Wildest Flower] Фрагмент Саки Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hume-1-000",
+      "name": "[Campus Life] Фрагмент Умэ Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hume-1-001",
+      "name": "[First Battle] Фрагмент Умэ Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hume-2-000",
+      "name": "[Idol, Let's Begin!] Фрагмент Умэ Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hume-3-000",
+      "name": "[The Rolling Riceball] Фрагмент Умэ Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hume-3-005",
+      "name": "[White Night! White Wish!] Фрагмент Умэ Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hume-3-006",
+      "name": "[Campus mode!!] Фрагмент Умэ Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hume-3-009",
+      "name": "[Gu-Su-Pi] Фрагмент Умэ Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hume-3-012",
+      "name": "[Star-mine] Фрагмент Умэ Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hume-3-016",
+      "name": "[ENDLESS DANCE] Фрагмент Умэ Ханами",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hume-3-017",
+      "name": "[Masshiroi Page to Suisai no Shujinkou] Фрагмент Умэ",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_jsna-1-000",
+      "name": "[Campus Life] Фрагмент Сены Дзюо",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_jsna-1-001",
+      "name": "[First Battle] Фрагмент Сены Дзюо",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_jsna-2-000",
+      "name": "[The Prima Stella] Фрагмент Сены Дзюо",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_jsna-3-000",
+      "name": "[Chiisana Yabou] Фрагмент Сены Дзюо",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_jsna-3-002",
+      "name": "[Campus mode!!] Фрагмент Сены Дзюо",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_jsna-3-003",
+      "name": "[Happy Millefeuille] Фрагмент Сены Дзюо",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_jsna-3-006",
+      "name": "[Our Chant] Фрагмент Сены Дзюо",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_jsna-3-011",
+      "name": "[Star-mine] Фрагмент Сены Дзюо",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_jsna-3-015",
+      "name": "[Sekirara] Фрагмент Сены Дзюо",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_jsna-3-016",
+      "name": "[ENDLESS DANCE] Фрагмент Сены Дзюо",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kcna-1-000",
+      "name": "[Campus Life] Фрагмент Чины Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kcna-1-001",
+      "name": "[Beginner] Фрагмент Чины Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kcna-2-000",
+      "name": "[Step Forward with Pride] Фрагмент Чины Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kcna-3-000",
+      "name": "[Wonder Scale] Фрагмент Чины Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kcna-3-001",
+      "name": "[Hibi, Hakkenteki Step!] Фрагмент Чины Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kcna-3-002",
+      "name": "[Kasou Kyousoukyoku] Фрагмент Чины Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Event Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kcna-3-005",
+      "name": "[Welcome to Hatsuboshi Onsen] Фрагмент Чины Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kcna-3-007",
+      "name": "[Campus mode!!] Фрагмент Чины Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kcna-3-009",
+      "name": "[Yukidoke ni] Фрагмент Чины Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kcna-3-012",
+      "name": "[Howling over the World] Фрагмент Чины Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kcna-3-014",
+      "name": "[Sora to Yakusoku] Фрагмент Чины Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kcna-3-016",
+      "name": "[Michinaru Hirogaru] Фрагмент Чины Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kllj-1-000",
+      "name": "[Campus Life] Фрагмент Лильи Кацураги",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kllj-1-001",
+      "name": "[Beginner] Фрагмент Лильи Кацураги",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kllj-2-000",
+      "name": "[One Step Forward] Фрагмент Лильи Кацураги",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kllj-3-000",
+      "name": "[Hakusen] Фрагмент Лильи Кацураги",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kllj-3-001",
+      "name": "[Kamurogiku] Фрагмент Лильи Кацураги",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kllj-3-005",
+      "name": "[White Night! White Wish!] Фрагмент Лильи Кацураги",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kllj-3-006",
+      "name": "[Campus mode!!] Фрагмент Лильи Кацураги",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kllj-3-008",
+      "name": "[Kyokkou] Фрагмент Лильи Кацураги",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kllj-3-010",
+      "name": "[Sakura Photograph] Фрагмент Лильи Кацураги",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Event Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kllj-3-012",
+      "name": "[Howling over the World] Фрагмент Лильи Кацураги",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kllj-3-015",
+      "name": "[Atmosphere] Фрагмент Лильи Кацураги",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_kllj-3-017",
+      "name": "[Tokimeki Emotion] Фрагмент Лильи Кацураги",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_shro-1-000",
+      "name": "[Campus Life] Фрагмент Хиро Синосава",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_shro-1-001",
+      "name": "[First Love] Фрагмент Хиро Синосава",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_shro-2-000",
+      "name": "[Least Suitable Thing] Фрагмент Хиро Синосава",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_shro-3-000",
+      "name": "[Koukei] Фрагмент Хиро Синосава",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_shro-3-001",
+      "name": "[Contrast] Фрагмент Хиро Синосава",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_shro-3-002",
+      "name": "[Kasou Kyousoukyoku] Фрагмент Хиро Синосава",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_shro-3-007",
+      "name": "[Campus mode!!] Фрагмент Хиро Синосава",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_shro-3-008",
+      "name": "[Happy Millefeuille] Фрагмент Хиро Синосава",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Event Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_shro-3-012",
+      "name": "[SUNFADED] Фрагмент Хиро Синосава",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_shro-3-014",
+      "name": "[Mirakuru na Nau(゚∀゚)! ] Фрагмент Хиро Синосава",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_shro-3-016",
+      "name": "[Michinaru Hirogaru] Фрагмент Хиро Синосава",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ssmk-1-000",
+      "name": "[Campus Life] Фрагмент Сумики Сиун",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ssmk-1-001",
+      "name": "[First Love] Фрагмент Сумики Сиун",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ssmk-2-000",
+      "name": "[Restart to Dreams] Фрагмент Сумики Сиун",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-000",
+      "name": "[Tame-Lie-One-Step] Фрагмент Сумики Сиун",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-001",
+      "name": "[Kimi to Semi Blue] Фрагмент Сумики Сиун",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-002",
+      "name": "[Kakushita Watashi] Фрагмент Сумики Сиун",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-007",
+      "name": "[Campus mode!!] Фрагмент Сумики Сиун",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-010",
+      "name": "[Sakura Photograph] Фрагмент Сумики Сиун",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-012",
+      "name": "[Love & Joy] Фрагмент Сумики Сиун",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-014",
+      "name": "[Mirakuru na Nau(゚∀゚)! ] Фрагмент Сумики Сиун",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Event Exchange Shop, etc."
+    },
+    {
+      "id": "item-piece-idol_ssmk-3-017",
+      "name": "[Tokimeki Emotion] Фрагмент Сумики Сиун",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ttmr-1-000",
+      "name": "[Campus Life] Фрагмент Темари Цукимура",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ttmr-1-001",
+      "name": "[First Voice] Фрагмент Темари Цукимура",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ttmr-2-000",
+      "name": "[Lone Wolf] Фрагмент Темари Цукимура",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-000",
+      "name": "[Luna say maybe] Фрагмент Темари Цукимура",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-001",
+      "name": "[IVY] Фрагмент Темари Цукимура",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-002",
+      "name": "[Kasou Kyousoukyoku] Фрагмент Темари Цукимура",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-007",
+      "name": "[Campus mode!!] Фрагмент Темари Цукимура",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-009",
+      "name": "[Yukidoke ni] Фрагмент Темари Цукимура",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Event Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-011",
+      "name": "[Ameagari no Iris] Фрагмент Темари Цукимура",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-015",
+      "name": "[Gamushara ni Ikou!!] Фрагмент Темари Цукимура",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-016",
+      "name": "[Ittai Itsukara] Фрагмент Темари Цукимура",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-play-ticket_april-001",
+      "name": "Билет испытания лайва",
+      "description": "Предмет для прохождения этапов в особых событиях",
+      "acquisitionRouteDescription": "Special Event"
+    },
+    {
+      "id": "item-play-ticket_tour-event-001",
+      "name": "Билет испытания лайва (Осака)",
+      "description": "Предмет для прохождения этапов в событии Live Tour",
+      "acquisitionRouteDescription": "Live Tour Event"
+    },
+    {
+      "id": "item-play-ticket_tour-event-002",
+      "name": "Билет испытания лайва (Сибуя)",
+      "description": "Предмет для прохождения этапов в событии Live Tour",
+      "acquisitionRouteDescription": "Live Tour Event"
+    },
+    {
+      "id": "item-produce_continue-1",
+      "name": "Билет повтора",
+      "description": "Билет для повторов в Продюсировании",
+      "acquisitionRouteDescription": "AP Exchange Shop, etc."
+    },
+    {
+      "id": "item-produce-reroll-memory-001",
+      "name": "Билет восстановления памяти",
+      "description": "Билет для восстановления памяти в Продюсировании",
+      "acquisitionRouteDescription": "AP Exchange Shop, etc."
+    },
+    {
+      "id": "item-produceboostreward_limitovermaterial-1",
+      "name": "Увеличение получаемых нот",
+      "description": "Увеличивает получение тренировочных предметов на 200% при старте Продюсирования",
+      "acquisitionRouteDescription": "AP Exchange Shop, etc."
+    },
+    {
+      "id": "item-produceboostreward_support_card_enhance_point-1",
+      "name": "Бонус получения Pt улучшения поддержки",
+      "description": "Увеличивает получение Pt улучшения поддержки на 200% при старте Продюсирования",
+      "acquisitionRouteDescription": "AP Exchange Shop, etc."
+    },
+    {
+      "id": "item-pvp_rate_coin-1",
+      "name": "Медаль конкурса",
+      "description": "Медали для магазинов обмена",
+      "acquisitionRouteDescription": "Contest"
+    },
+    {
+      "id": "item-research-event-001",
+      "name": "Печать Асари-сэнсэя",
+      "description": "Предмет для переролла способностей памяти в событии семинара Продюсирования Асари-сэнсэя",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-research-event-002",
+      "name": "Печать Асари-сэнсэя",
+      "description": "Предмет для переролла способностей памяти в событии семинара Продюсирования Асари-сэнсэя",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-research-event-003",
+      "name": "Печать Асари-сэнсэя",
+      "description": "Предмет для переролла способностей памяти в событии семинара Продюсирования Асари-сэнсэя",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-research-event-004",
+      "name": "Печать Асари-сэнсэя",
+      "description": "Предмет для переролла способностей памяти в событии семинара Продюсирования Асари-сэнсэя",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-research-event-005",
+      "name": "Печать Асари-сэнсэя",
+      "description": "Предмет для переролла способностей памяти в событии семинара Продюсирования Асари-сэнсэя",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-research-event-006",
+      "name": "Печать Асари-сэнсэя",
+      "description": "Предмет для переролла способностей памяти в событии семинара Продюсирования Асари-сэнсэя",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-selection-ticket-001",
+      "name": "Выборочный билет полугодовщины",
+      "description": "Билет для обмена на айдолов Продюсирования и карты поддержки в магазине билетов",
+      "acquisitionRouteDescription": "Shop, etc."
+    },
+    {
+      "id": "item-selection-ticket-002",
+      "name": "Выборочные билеты 1-й годовщины",
+      "description": "Билет для обмена на айдолов Продюсирования и карты поддержки в магазине билетов",
+      "acquisitionRouteDescription": "Shop, etc."
+    },
+    {
+      "id": "item-selection-ticket-003",
+      "name": "Памятный выборочный билет 3 млн загрузок",
+      "description": "Билет для обмена на айдолов Продюсирования и карты поддержки в магазине билетов",
+      "acquisitionRouteDescription": "Shop, etc."
+    },
+    {
+      "id": "item-selection-ticket-004",
+      "name": "Выборочный билет 1.5 годовщины",
+      "description": "Билет для обмена на айдолов Продюсирования и карты поддержки в магазине билетов",
+      "acquisitionRouteDescription": "Shop, etc."
+    },
+    {
+      "id": "item-selection-ticket-005",
+      "name": "Выборочный билет карты поддержки",
+      "description": "Билет для обмена на карты поддержки в обмене билетов",
+      "acquisitionRouteDescription": "Pre-H.I.F Campaign Event Coin Gacha"
+    },
+    {
+      "id": "item-staminaregen-1",
+      "name": "AP-напиток",
+      "description": "Восстанавливает 20 AP",
+      "acquisitionRouteDescription": "Missions, Producer Level-Up Rewards, etc."
+    },
+    {
+      "id": "item-support_card_enhance_point",
+      "name": "Pt улучшения поддержки",
+      "description": "Очки для улучшения карт поддержки",
+      "acquisitionRouteDescription": "Produce, Jobs, Tasks, Achievements, etc."
+    },
+    {
+      "id": "item-support_card-exchange-1",
+      "name": "Значок поддержки",
+      "description": "Предмет для магазинов обмена",
+      "acquisitionRouteDescription": "Support Conversion, etc."
+    }
+  ]
+}

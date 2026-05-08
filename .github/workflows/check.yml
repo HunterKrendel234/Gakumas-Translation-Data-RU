@@ -1,0 +1,129 @@
+name: Check
+
+on:
+  push:
+    branches:
+      - '**'
+    tags-ignore:
+      - '**'
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+
+    runs-on: ubuntu-22.04
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Validate JSON and YAML
+      id: json-yaml-validate
+      uses: GrantBirki/json-yaml-validate@v3
+      with:
+        use_gitignore: false
+
+    - name: Validate Resource
+      id: resource-validate
+      run: python ./scripts/resource_validator.py ./local-files/resource
+
+  format:
+
+    runs-on: ubuntu-22.04
+
+    needs: validate
+
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Install Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+
+    - name: Install Dependencies
+      run: npm install --global prettier sort-json
+
+    - name: Run Prettier
+      run: prettier --write "local-files/genericTrans/index/*.json" "local-files/genericTrans/lyrics/*.json" "local-files/generic.json" "local-files/localization.json"
+
+    # Do not ever sort lyrics alphabetically...
+    - name: Sort JSON files
+      run: |
+        find local-files/genericTrans/index -type f -exec sort-json {} +
+        sort-json local-files/generic.json
+        sort-json local-files/localization.json
+
+    - name: Authorize Git
+      run: |
+        git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
+        git config --global user.name "$GITHUB_ACTOR"
+
+    - name: Commit Changes
+      run: |
+        git commit -am "chore(format): Format and Sort JSON files"
+        if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+          git push origin HEAD:${{ github.head_ref }}
+        else
+          git push origin HEAD
+        fi
+      continue-on-error: true
+
+  update:
+
+    runs-on: ubuntu-22.04
+
+    needs: [validate, format]
+
+    permissions:
+      contents: write
+
+    if: github.event_name != 'pull_request'
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Authorize Git
+      run: |
+        git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
+        git config --global user.name "$GITHUB_ACTOR"
+
+    - name: Write Branch and Hash Info with Date
+      run: |
+        branch=$(git rev-parse --abbrev-ref HEAD)
+        hash=$(git rev-parse --short=7 HEAD)
+        datetime=$(date +'%Y%m%d.%H%M%S')
+        echo "$datetime.$branch.$hash" > version.txt
+        echo "VERSION=$datetime.$branch.$hash" >> $GITHUB_ENV
+        echo "RELEASE_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+    - name: Create ZIP Archive
+      run: |
+        zip -r ${{ github.event.repository.name }}-${{ env.VERSION }}.zip local-files version.txt
+
+    - name: Create GitHub Release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: ${{ env.VERSION }}
+        name: Translation Update ${{ env.RELEASE_DATE }}
+        body: |      
+          This is an automated release of the latest translation data.
+
+        files: |
+          ${{ github.event.repository.name }}-${{ env.VERSION }}.zip
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

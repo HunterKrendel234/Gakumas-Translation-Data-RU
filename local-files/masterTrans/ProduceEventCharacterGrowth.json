@@ -1,0 +1,244 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "characterId",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "characterId": "amao",
+      "number": 1,
+      "title": "Новая я",
+      "description": "Visual 300 или выше"
+    },
+    {
+      "characterId": "amao",
+      "number": 2,
+      "title": "Доказательство роста",
+      "description": "Vocal 450 или выше"
+    },
+    {
+      "characterId": "amao",
+      "number": 3,
+      "title": "Ближе к моей мечте",
+      "description": "Visual 1000 или выше"
+    },
+    {
+      "characterId": "atbm",
+      "number": 1,
+      "title": "Превращая недостатки в силу",
+      "description": "Visual 300 или выше"
+    },
+    {
+      "characterId": "atbm",
+      "number": 2,
+      "title": "Стабильные способности",
+      "description": "Vocal 450 или выше"
+    },
+    {
+      "characterId": "atbm",
+      "number": 3,
+      "title": "Сила поглотить вершину",
+      "description": "Dance 1000 или выше"
+    },
+    {
+      "characterId": "fktn",
+      "number": 1,
+      "title": "Улучшая свой образ жизни",
+      "description": "Dance 300 или выше"
+    },
+    {
+      "characterId": "fktn",
+      "number": 2,
+      "title": "Блистательный талант",
+      "description": "Visual 450 или выше"
+    },
+    {
+      "characterId": "fktn",
+      "number": 3,
+      "title": "Сила веры",
+      "description": "Dance 1000 или выше"
+    },
+    {
+      "characterId": "hmsz",
+      "number": 1,
+      "title": "Понемногу",
+      "description": "Vocal 300 или выше"
+    },
+    {
+      "characterId": "hmsz",
+      "number": 2,
+      "title": "Уверенно",
+      "description": "Visual 450 или выше"
+    },
+    {
+      "characterId": "hmsz",
+      "number": 3,
+      "title": "На более высокий уровень",
+      "description": "Vocal 1000 или выше"
+    },
+    {
+      "characterId": "hrnm",
+      "number": 1,
+      "title": "Способности ученицы 3-го года",
+      "description": "Vocal 200 или выше"
+    },
+    {
+      "characterId": "hrnm",
+      "number": 2,
+      "title": "Снова ухватиться за мечту",
+      "description": "Dance 450 или выше"
+    },
+    {
+      "characterId": "hrnm",
+      "number": 3,
+      "title": "Старшая сестрёнка для всех",
+      "description": "Visual 1000 или выше"
+    },
+    {
+      "characterId": "hski",
+      "number": 1,
+      "title": "Уверенный шаг вперёд",
+      "description": "Dance 200 или выше"
+    },
+    {
+      "characterId": "hski",
+      "number": 2,
+      "title": "Полный вперёд",
+      "description": "Vocal 450 или выше"
+    },
+    {
+      "characterId": "hski",
+      "number": 3,
+      "title": "Сила никогда не проигрывать",
+      "description": "Visual 900 или выше"
+    },
+    {
+      "characterId": "hume",
+      "number": 1,
+      "title": "Начиная с минуса",
+      "description": "Dance 300 или выше"
+    },
+    {
+      "characterId": "hume",
+      "number": 2,
+      "title": "Безграничный талант",
+      "description": "Vocal 450 или выше"
+    },
+    {
+      "characterId": "hume",
+      "number": 3,
+      "title": "Рождение взрыва",
+      "description": "Dance 1000 или выше"
+    },
+    {
+      "characterId": "jsna",
+      "number": 1,
+      "title": "Рестарт",
+      "description": "Dance 200 или выше"
+    },
+    {
+      "characterId": "jsna",
+      "number": 2,
+      "title": "Элита, идущая вперёд",
+      "description": "Vocal 450 или выше"
+    },
+    {
+      "characterId": "jsna",
+      "number": 3,
+      "title": "Сияя ярко",
+      "description": "Visual 900 или выше"
+    },
+    {
+      "characterId": "kcna",
+      "number": 1,
+      "title": "Первый шаг",
+      "description": "Vocal 200 или выше"
+    },
+    {
+      "characterId": "kcna",
+      "number": 2,
+      "title": "Сила быть милой и энергичной",
+      "description": "Visual 450 или выше"
+    },
+    {
+      "characterId": "kcna",
+      "number": 3,
+      "title": "Шаг к моей мечте",
+      "description": "Dance 1000 или выше"
+    },
+    {
+      "characterId": "kllj",
+      "number": 1,
+      "title": "Шаг за шагом, понемногу",
+      "description": "Dance 200 или выше"
+    },
+    {
+      "characterId": "kllj",
+      "number": 2,
+      "title": "Сила доносить",
+      "description": "Vocal 450 или выше"
+    },
+    {
+      "characterId": "kllj",
+      "number": 3,
+      "title": "Идеальный образ",
+      "description": "Visual 1000 или выше"
+    },
+    {
+      "characterId": "shro",
+      "number": 1,
+      "title": "Необходимая базовая сила",
+      "description": "Vocal 300 или выше"
+    },
+    {
+      "characterId": "shro",
+      "number": 2,
+      "title": "Выносливость, чтобы протанцевать до конца",
+      "description": "Dance 450 или выше"
+    },
+    {
+      "characterId": "shro",
+      "number": 3,
+      "title": "Сила продолжать петь",
+      "description": "Vocal 1000 или выше"
+    },
+    {
+      "characterId": "ssmk",
+      "number": 1,
+      "title": "Шаг вперёд",
+      "description": "Dance 300 или выше"
+    },
+    {
+      "characterId": "ssmk",
+      "number": 2,
+      "title": "Отточенная улыбка",
+      "description": "Visual 450 или выше"
+    },
+    {
+      "characterId": "ssmk",
+      "number": 3,
+      "title": "Танцуя ещё раз",
+      "description": "Dance 1000 или выше"
+    },
+    {
+      "characterId": "ttmr",
+      "number": 1,
+      "title": "Показывая свои настоящие способности",
+      "description": "Vocal 200 или выше"
+    },
+    {
+      "characterId": "ttmr",
+      "number": 2,
+      "title": "Преодолевая слабости",
+      "description": "Dance 450 или выше"
+    },
+    {
+      "characterId": "ttmr",
+      "number": 3,
+      "title": "Прорывая пределы",
+      "description": "Vocal 1000 или выше"
+    }
+  ]
+}

@@ -1,0 +1,3961 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-amao",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-atbm",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-fktn",
+      "name": "Игриво подпрыгивает"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-hmsz",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-hrnm",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-hski",
+      "name": "Указывает"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-hume",
+      "name": "Игриво подпрыгивает"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-jsna",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-kcna",
+      "name": "Игриво подпрыгивает"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-kllj",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-shro",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-ssmk",
+      "name": "Указывает"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-ttmr",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-amao",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-atbm",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-fktn",
+      "name": "Поза победы"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-hmsz",
+      "name": "Руки вместе"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-hrnm",
+      "name": "Руки вместе"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-hski",
+      "name": "Воодушевлён"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-hume",
+      "name": "Поза победы"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-jsna",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-kcna",
+      "name": "Поза победы"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-kllj",
+      "name": "Руки вместе"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-shro",
+      "name": "Руки вместе"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-ssmk",
+      "name": "Воодушевлён"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-ttmr",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-amao",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-atbm",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-fktn",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-hmsz",
+      "name": "Милая улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-hrnm",
+      "name": "Милая улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-hski",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-hume",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-jsna",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-kcna",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-kllj",
+      "name": "Милая улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-shro",
+      "name": "Стоит прямо"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-ssmk",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-ttmr",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-amao",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-atbm",
+      "name": "Указывает"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-fktn",
+      "name": "Милая стойка"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-hmsz",
+      "name": "Улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-hrnm",
+      "name": "Изящная улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-hski",
+      "name": "Уверенность"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-hume",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-jsna",
+      "name": "Резкий взгляд"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-kcna",
+      "name": "Мотивирован"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-kllj",
+      "name": "Лёгкий наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-shro",
+      "name": "Стоит прямо"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-ssmk",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-ttmr",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-amao",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-atbm",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-fktn",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-hmsz",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-hrnm",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-hski",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-hume",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-jsna",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-kcna",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-kllj",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-shro",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-ssmk",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-ttmr",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-amao",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-atbm",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-fktn",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-hmsz",
+      "name": "Руки на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-hrnm",
+      "name": "Руки на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-hski",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-hume",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-jsna",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-kcna",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-kllj",
+      "name": "Руки на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-shro",
+      "name": "Руки на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-ssmk",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-ttmr",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-amao",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-atbm",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-fktn",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-hmsz",
+      "name": "Руки на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-hrnm",
+      "name": "Руки на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-hski",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-hume",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-jsna",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-kcna",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-kllj",
+      "name": "Руки на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-shro",
+      "name": "Руки на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-ssmk",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-ttmr",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-amao",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-atbm",
+      "name": "Левая рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-fktn",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-hmsz",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-hrnm",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-hski",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-hume",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-jsna",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-kcna",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-kllj",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-shro",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-ssmk",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-ttmr",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-amao",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-atbm",
+      "name": "Приподнимает левую руку"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-fktn",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-hmsz",
+      "name": "Выразительная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-hrnm",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-hski",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-hume",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-jsna",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-kcna",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-kllj",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-shro",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-ssmk",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-ttmr",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-amao",
+      "name": "Поднятая рука"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-atbm",
+      "name": "Обнимает колени"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-fktn",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-hmsz",
+      "name": "Поднятая рука"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-hrnm",
+      "name": "Поднятая рука"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-hski",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-hume",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-jsna",
+      "name": "Обнимает колени"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-kcna",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-kllj",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-shro",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-ssmk",
+      "name": "Поза с указанием"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-ttmr",
+      "name": "Поднятая рука"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-amao",
+      "name": "Поза с указанием"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-atbm",
+      "name": "Крутая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-fktn",
+      "name": "Энергично"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-hmsz",
+      "name": "Обнимает колени"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-hrnm",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-hski",
+      "name": "Поза с указанием"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-hume",
+      "name": "Энергично"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-jsna",
+      "name": "Крутая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-kcna",
+      "name": "Обнимает колени"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-kllj",
+      "name": "Обнимает колени"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-shro",
+      "name": "Крутая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-ssmk",
+      "name": "Крутая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-ttmr",
+      "name": "Обнимает колени"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-amao",
+      "name": "Крутая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-atbm",
+      "name": "Колени обняты"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-fktn",
+      "name": "Поза с указанием"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-hmsz",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-hrnm",
+      "name": "Колени обняты"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-hski",
+      "name": "Колени обняты"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-hume",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-jsna",
+      "name": "Колени обняты"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-kcna",
+      "name": "Колени обняты"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-kllj",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-shro",
+      "name": "Обнимает колени"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-ssmk",
+      "name": "Колени обняты"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-ttmr",
+      "name": "Крутая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-amao",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-atbm",
+      "name": "Разворот"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-fktn",
+      "name": "Умоляющий взгляд"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-hmsz",
+      "name": "Разворот"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-hrnm",
+      "name": "Разворот"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-hski",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-hume",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-jsna",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-kcna",
+      "name": "Умоляющий взгляд"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-kllj",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-shro",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-ssmk",
+      "name": "Умоляющий взгляд"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-ttmr",
+      "name": "Разворот"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-amao",
+      "name": "Руки на бёдрах"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-atbm",
+      "name": "Руки на бёдрах"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-fktn",
+      "name": "Милая стойка"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-hmsz",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-hrnm",
+      "name": "Милая стойка"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-hski",
+      "name": "Разворот"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-hume",
+      "name": "Умоляющий взгляд"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-jsna",
+      "name": "Руки на бёдрах"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-kcna",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-kllj",
+      "name": "Умоляющий взгляд"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-shro",
+      "name": "Разворот"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-ssmk",
+      "name": "Руки на бёдрах"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-ttmr",
+      "name": "Руки на бёдрах"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-amao",
+      "name": "Рука на подбородке"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-atbm",
+      "name": "Рука на подбородке"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-fktn",
+      "name": "Шепчет"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-hmsz",
+      "name": "Шепчет"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-hrnm",
+      "name": "Шепчет"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-hski",
+      "name": "Руки на бёдрах"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-hume",
+      "name": "Милая стойка"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-jsna",
+      "name": "Рука на подбородке"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-kcna",
+      "name": "Милая стойка"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-kllj",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-shro",
+      "name": "Рука на подбородке"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-ssmk",
+      "name": "Шепчет"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-ttmr",
+      "name": "Рука на подбородке"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-amao",
+      "name": "Резкий стиль"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-atbm",
+      "name": "Рука на земле"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-fktn",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-hmsz",
+      "name": "Рука на земле"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-hrnm",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-hski",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-hume",
+      "name": "Руки широко"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-jsna",
+      "name": "Рука на земле"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-kcna",
+      "name": "Руки широко"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-kllj",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-shro",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-ssmk",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-ttmr",
+      "name": "Расслабленно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-amao",
+      "name": "Смотрит в сторону"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-atbm",
+      "name": "Смотрит в сторону"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-fktn",
+      "name": "Руки широко"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-hmsz",
+      "name": "Изящно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-hrnm",
+      "name": "Рука на земле"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-hski",
+      "name": "Резкий стиль"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-hume",
+      "name": "Рука на земле"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-jsna",
+      "name": "Смотрит в сторону"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-kcna",
+      "name": "Рука на земле"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-kllj",
+      "name": "Изящно"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-shro",
+      "name": "Рука на земле"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-ssmk",
+      "name": "Резкий стиль"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-ttmr",
+      "name": "Смотрит в сторону"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-amao",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-atbm",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-fktn",
+      "name": "Победный жест"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-hmsz",
+      "name": "Победный жест"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-hrnm",
+      "name": "Победный жест"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-hski",
+      "name": "Смотрит в сторону"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-hume",
+      "name": "Победный жест"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-jsna",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-kcna",
+      "name": "Победный жест"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-kllj",
+      "name": "Победный жест"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-shro",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-ssmk",
+      "name": "Смотрит в сторону"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-ttmr",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-amao",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-atbm",
+      "name": "Приподнимает левую руку"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-fktn",
+      "name": "Выражает радость"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-hmsz",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-hrnm",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-hski",
+      "name": "Уверенность"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-hume",
+      "name": "Выражает радость"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-jsna",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-kcna",
+      "name": "Выражает радость"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-kllj",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-shro",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-ssmk",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-ttmr",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-amao",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-atbm",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-fktn",
+      "name": "Милая стойка"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-hmsz",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-hrnm",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-hski",
+      "name": "Указывает"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-hume",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-jsna",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-kcna",
+      "name": "Радостная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-kllj",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-shro",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-ssmk",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-ttmr",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-amao",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-atbm",
+      "name": "Указывает"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-fktn",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-hmsz",
+      "name": "Руки у груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-hrnm",
+      "name": "Руки у груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-hski",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-hume",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-jsna",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-kcna",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-kllj",
+      "name": "Руки у груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-shro",
+      "name": "Руки у груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-ssmk",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-ttmr",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-amao",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-atbm",
+      "name": "Правая рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-fktn",
+      "name": "Милая стойка"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-hmsz",
+      "name": "Улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-hrnm",
+      "name": "Изящная улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-hski",
+      "name": "Уверенное указание"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-hume",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-jsna",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-kcna",
+      "name": "Мотивирован"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-kllj",
+      "name": "Лёгкий наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-shro",
+      "name": "Показывает радость"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-ssmk",
+      "name": "Резкий стиль"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-ttmr",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-amao",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-atbm",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-fktn",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-hmsz",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-hrnm",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-hski",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-hume",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-jsna",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-kcna",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-kllj",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-shro",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-ssmk",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-ttmr",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-amao",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-atbm",
+      "name": "Приподнимает левую руку"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-fktn",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-hmsz",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-hrnm",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-hski",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-hume",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-jsna",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-kcna",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-kllj",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-shro",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-ssmk",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-ttmr",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-amao",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-atbm",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-fktn",
+      "name": "Подмигивает и показывает «мир»"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-hmsz",
+      "name": "Руки впереди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-hrnm",
+      "name": "Руки впереди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-hski",
+      "name": "Уверенность"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-hume",
+      "name": "Полная радость"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-jsna",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-kcna",
+      "name": "Радостная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-kllj",
+      "name": "Руки впереди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-shro",
+      "name": "Руки впереди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-ssmk",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-ttmr",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-amao",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-atbm",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-fktn",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-hmsz",
+      "name": "Милая улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-hrnm",
+      "name": "Милая улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-hski",
+      "name": "Воодушевлён"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-hume",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-jsna",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-kcna",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-kllj",
+      "name": "Милая улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-shro",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-ssmk",
+      "name": "Воодушевлён"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-ttmr",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-amao",
+      "name": "Эффектная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-atbm",
+      "name": "Указывает"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-fktn",
+      "name": "Победная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-hmsz",
+      "name": "Эффектная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-hrnm",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-hski",
+      "name": "Указывает"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-hume",
+      "name": "Победная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-jsna",
+      "name": "Острый взгляд"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-kcna",
+      "name": "Победная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-kllj",
+      "name": "Показывает радость"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-shro",
+      "name": "Стоит прямо"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-ssmk",
+      "name": "Указывает"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-ttmr",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-amao",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-atbm",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-fktn",
+      "name": "Шаг вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-hmsz",
+      "name": "Милая гордость"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-hrnm",
+      "name": "Милая гордость"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-hski",
+      "name": "Энергичный жест"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-hume",
+      "name": "Шаг вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-jsna",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-kcna",
+      "name": "Шаг вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-kllj",
+      "name": "Милая гордость"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-shro",
+      "name": "Милая гордость"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-ssmk",
+      "name": "Энергичный жест"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-ttmr",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-amao",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-atbm",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-fktn",
+      "name": "Подмигивает и показывает «мир»"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-hmsz",
+      "name": "Улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-hrnm",
+      "name": "Изящная улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-hski",
+      "name": "Уверенное указание"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-hume",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-jsna",
+      "name": "Острый взгляд"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-kcna",
+      "name": "Мотивирован"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-kllj",
+      "name": "Лёгкий наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-shro",
+      "name": "Стоит прямо"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-ssmk",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-ttmr",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-amao",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-atbm",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-fktn",
+      "name": "Милая стойка"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-hmsz",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-hrnm",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-hski",
+      "name": "Воодушевлён"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-hume",
+      "name": "Победная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-jsna",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-kcna",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-kllj",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-shro",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-ssmk",
+      "name": "Воодушевлён"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-ttmr",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-amao",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-atbm",
+      "name": "Указывает"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-fktn",
+      "name": "Подмигивает и показывает «мир»"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-hmsz",
+      "name": "Эффектная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-hrnm",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-hski",
+      "name": "Уверенность"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-hume",
+      "name": "Полная радость"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-jsna",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-kcna",
+      "name": "Радостная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-kllj",
+      "name": "Лёгкий наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-shro",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-ssmk",
+      "name": "Резкий стиль"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-ttmr",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-amao",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-atbm",
+      "name": "Правая рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-fktn",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-hmsz",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-hrnm",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-hski",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-hume",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-jsna",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-kcna",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-kllj",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-shro",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-ssmk",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-ttmr",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-amao",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-atbm",
+      "name": "Приподнимает левую руку"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-fktn",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-hmsz",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-hrnm",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-hski",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-hume",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-jsna",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-kcna",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-kllj",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-shro",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-ssmk",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-ttmr",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-amao",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-atbm",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-fktn",
+      "name": "Игриво подпрыгивает"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-hmsz",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-hrnm",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-hski",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-hume",
+      "name": "Игриво подпрыгивает"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-jsna",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-kcna",
+      "name": "Игриво подпрыгивает"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-kllj",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-shro",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-ssmk",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-ttmr",
+      "name": "Сильная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-amao",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-atbm",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-fktn",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-hmsz",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-hrnm",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-hski",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-hume",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-jsna",
+      "name": "Острый взгляд"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-kcna",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-kllj",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-shro",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-ssmk",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-ttmr",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-amao",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-atbm",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-fktn",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-hmsz",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-hrnm",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-hski",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-hume",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-jsna",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-kcna",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-kllj",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-shro",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-ssmk",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-ttmr",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-amao",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-atbm",
+      "name": "Левая рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-fktn",
+      "name": "Милая стойка"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-hmsz",
+      "name": "Эффектная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-hrnm",
+      "name": "Изящная улыбка"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-hski",
+      "name": "Уверенность"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-hume",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-jsna",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-kcna",
+      "name": "Мотивирован"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-kllj",
+      "name": "Лёгкий наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-shro",
+      "name": "Показывает радость"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-ssmk",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-ttmr",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-amao",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-atbm",
+      "name": "Приподнимает левую руку"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-fktn",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-hmsz",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-hrnm",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-hski",
+      "name": "Победная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-hume",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-jsna",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-kcna",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-kllj",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-shro",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-ssmk",
+      "name": "Победная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-ttmr",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-amao",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-atbm",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-fktn",
+      "name": "Смелое указание"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-hmsz",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-hrnm",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-hski",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-hume",
+      "name": "Смелое указание"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-jsna",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-kcna",
+      "name": "Смелое указание"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-kllj",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-shro",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-ssmk",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-ttmr",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-1-reaction-atbm",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-1-reaction-hmsz",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-1-reaction-jsna",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-2-reaction-atbm",
+      "name": "Левая рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-2-reaction-hmsz",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-2-reaction-jsna",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-3-reaction-atbm",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-3-reaction-hmsz",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-3-reaction-jsna",
+      "name": "Острый взгляд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-1-reaction-atbm",
+      "name": "Левая рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-1-reaction-hmsz",
+      "name": "Эффектная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-1-reaction-jsna",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-2-reaction-atbm",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-2-reaction-hmsz",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-2-reaction-jsna",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-3-reaction-atbm",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-3-reaction-hmsz",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-3-reaction-jsna",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-1-reaction-atbm",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-1-reaction-hmsz",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-1-reaction-jsna",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-2-reaction-atbm",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-2-reaction-hmsz",
+      "name": "Руки вместе"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-2-reaction-jsna",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-3-reaction-atbm",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-3-reaction-hmsz",
+      "name": "Улыбка"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-3-reaction-jsna",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-1-reaction-atbm",
+      "name": "Указывает"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-1-reaction-hmsz",
+      "name": "Эффектная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-1-reaction-jsna",
+      "name": "Острый взгляд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-2-reaction-atbm",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-2-reaction-hmsz",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-2-reaction-jsna",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-3-reaction-atbm",
+      "name": "Приподнимает левую руку"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-3-reaction-hmsz",
+      "name": "Указывает пальцем"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-3-reaction-jsna",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-reaction-amao",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-reaction-fktn",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-reaction-hrnm",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-reaction-hski",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-reaction-hume",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-reaction-kcna",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-reaction-kllj",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-reaction-shro",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-reaction-ssmk",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-reaction-ttmr",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-2-reaction-amao",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-2-reaction-fktn",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-2-reaction-hrnm",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-2-reaction-hski",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-2-reaction-hume",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-2-reaction-kcna",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-2-reaction-kllj",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-2-reaction-shro",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-2-reaction-ssmk",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-2-reaction-ttmr",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-3-reaction-amao",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-3-reaction-fktn",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-3-reaction-hrnm",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-3-reaction-hski",
+      "name": "Уверенность"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-3-reaction-hume",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-3-reaction-kcna",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-3-reaction-kllj",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-3-reaction-shro",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-3-reaction-ssmk",
+      "name": "Резкий стиль"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-1-3-reaction-ttmr",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-reaction-amao",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-reaction-fktn",
+      "name": "Милая стойка"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-reaction-hrnm",
+      "name": "Изящная улыбка"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-reaction-hski",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-reaction-hume",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-reaction-kcna",
+      "name": "Мотивирован"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-reaction-kllj",
+      "name": "Лёгкий наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-reaction-shro",
+      "name": "Расслаблен"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-reaction-ssmk",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-reaction-ttmr",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-2-reaction-amao",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-2-reaction-fktn",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-2-reaction-hrnm",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-2-reaction-hski",
+      "name": "Победная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-2-reaction-hume",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-2-reaction-kcna",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-2-reaction-kllj",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-2-reaction-shro",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-2-reaction-ssmk",
+      "name": "Победная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-2-reaction-ttmr",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-3-reaction-amao",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-3-reaction-fktn",
+      "name": "Смелое указание"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-3-reaction-hrnm",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-3-reaction-hski",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-3-reaction-hume",
+      "name": "Смелое указание"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-3-reaction-kcna",
+      "name": "Смелое указание"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-3-reaction-kllj",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-3-reaction-shro",
+      "name": "Кивок"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-3-reaction-ssmk",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-1-2-3-reaction-ttmr",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-reaction-amao",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-reaction-fktn",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-reaction-hrnm",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-reaction-hski",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-reaction-hume",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-reaction-kcna",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-reaction-kllj",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-reaction-shro",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-reaction-ssmk",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-reaction-ttmr",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-2-reaction-amao",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-2-reaction-fktn",
+      "name": "Победная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-2-reaction-hrnm",
+      "name": "Руки вместе"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-2-reaction-hski",
+      "name": "В боевом настрое"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-2-reaction-hume",
+      "name": "Победная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-2-reaction-kcna",
+      "name": "Победная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-2-reaction-kllj",
+      "name": "Руки вместе"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-2-reaction-shro",
+      "name": "Руки вместе"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-2-reaction-ssmk",
+      "name": "В боевом настрое"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-2-reaction-ttmr",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-3-reaction-amao",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-3-reaction-fktn",
+      "name": "Смелое указание"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-3-reaction-hrnm",
+      "name": "Милая улыбка"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-3-reaction-hski",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-3-reaction-hume",
+      "name": "Смелое указание"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-3-reaction-kcna",
+      "name": "Смелое указание"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-3-reaction-kllj",
+      "name": "Милая улыбка"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-3-reaction-shro",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-3-reaction-ssmk",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-1-3-reaction-ttmr",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-reaction-amao",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-reaction-fktn",
+      "name": "Милая стойка"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-reaction-hrnm",
+      "name": "Изящная улыбка"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-reaction-hski",
+      "name": "Уверенность"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-reaction-hume",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-reaction-kcna",
+      "name": "Мотивирован"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-reaction-kllj",
+      "name": "Лёгкий наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-reaction-shro",
+      "name": "Расслаблен"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-reaction-ssmk",
+      "name": "Резкий стиль"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-reaction-ttmr",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-2-reaction-amao",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-2-reaction-fktn",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-2-reaction-hrnm",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-2-reaction-hski",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-2-reaction-hume",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-2-reaction-kcna",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-2-reaction-kllj",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-2-reaction-shro",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-2-reaction-ssmk",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-2-reaction-ttmr",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-3-reaction-amao",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-3-reaction-fktn",
+      "name": "Указывает пальцем"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-3-reaction-hrnm",
+      "name": "Указывает пальцем"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-3-reaction-hski",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-3-reaction-hume",
+      "name": "Указывает пальцем"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-3-reaction-kcna",
+      "name": "Указывает пальцем"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-3-reaction-kllj",
+      "name": "Указывает пальцем"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-3-reaction-shro",
+      "name": "Указывает пальцем"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-3-reaction-ssmk",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-01-2-2-3-reaction-ttmr",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-amao",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-atbm",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-fktn",
+      "name": "Знак мира"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-hmsz",
+      "name": "Милая улыбка"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-hrnm",
+      "name": "Милая улыбка"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-hski",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-hume",
+      "name": "Знак мира"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-jsna",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-kcna",
+      "name": "Радостная поза"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-kllj",
+      "name": "Милая улыбка"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-shro",
+      "name": "Руки у груди"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-ssmk",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-ttmr",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-amao",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-atbm",
+      "name": "Поднимает левую руку"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-fktn",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-hmsz",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-hrnm",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-hski",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-hume",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-jsna",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-kcna",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-kllj",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-shro",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-ssmk",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-ttmr",
+      "name": "Машет"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-amao",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-atbm",
+      "name": "Скрещённые руки"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-fktn",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-hmsz",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-hrnm",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-hski",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-hume",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-jsna",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-kcna",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-kllj",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-shro",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-ssmk",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-ttmr",
+      "name": "Рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-amao",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-atbm",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-fktn",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-hmsz",
+      "name": "Эффектная поза"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-hrnm",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-hski",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-hume",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-jsna",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-kcna",
+      "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-kllj",
+      "name": "Лёгкий наклон"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-shro",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-ssmk",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-ttmr",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-amao",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-atbm",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-fktn",
+      "name": "Игриво подпрыгивает"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-hmsz",
+      "name": "Милая гордость"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-hrnm",
+      "name": "Милая гордость"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-hski",
+      "name": "Указывает"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-hume",
+      "name": "Игриво подпрыгивает"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-jsna",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-kcna",
+      "name": "Игриво подпрыгивает"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-kllj",
+      "name": "Милая гордость"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-shro",
+      "name": "Милая гордость"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-ssmk",
+      "name": "Указывает"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-ttmr",
+      "name": "Рука на талии"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-amao",
+      "name": "Эффектная поза"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-atbm",
+      "name": "Правая рука вперёд"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-fktn",
+      "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-hmsz",
+      "name": "Руки на груди"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-hrnm",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-hski",
+      "name": "Уверенно указывает"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-hume",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-jsna",
+      "name": "Острый взгляд"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-kcna",
+      "name": "Мотивирован"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-kllj",
+      "name": "Сложенные руки"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-shro",
+      "name": "Стоит прямо"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-ssmk",
+      "name": "Резкий стиль"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-ttmr",
+      "name": "Скрещённые руки"
+    }
+  ]
+}

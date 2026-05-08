@@ -1,0 +1,2180 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "mainTaskGroupId",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 1,
+      "title": "H-задание 1",
+      "description": "Пройдите режим Продюсирования",
+      "homeDescription": "Challenge Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 2,
+      "title": "H-задание 2",
+      "description": "Просмотрите гл.1, эп.1",
+      "homeDescription": "Watch Ch.1, Ep.1"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 3,
+      "title": "H-задание 3",
+      "description": "Улучшите карты поддержки",
+      "homeDescription": "Upgrade Support Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 4,
+      "title": "H-задание 4",
+      "description": "Измените визитку",
+      "homeDescription": "Edit your Business Card"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 5,
+      "title": "H-задание 5",
+      "description": "Подпишитесь на другого Продюсера",
+      "homeDescription": "Follow another Producer"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 6,
+      "title": "H-задание 6",
+      "description": "Пройдите 1 модуль тренировки",
+      "homeDescription": "Clear 1 Training module"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 7,
+      "title": "H-задание 7",
+      "description": "Пройдите 1 экзаменационный модуль",
+      "homeDescription": "Clear 1 Exam Training module"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 8,
+      "title": "H-задание 8",
+      "description": "Пройдите режим Продюсирования",
+      "homeDescription": "Challenge Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 9,
+      "title": "H-задание 9",
+      "description": "Просмотрите гл.1, эп.2",
+      "homeDescription": "Watch Ch.1, Ep.2"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 10,
+      "title": "H-задание 10",
+      "description": "Тренируйте айдола Продюсирования",
+      "homeDescription": "Train a Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 11,
+      "title": "H-задание 11",
+      "description": "Соберите средства деятельности",
+      "homeDescription": "Collect Activity Funds"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 12,
+      "title": "H-задание 12",
+      "description": "Обменяйтесь в магазине валюты",
+      "homeDescription": "Exchange in the Money Exchange Shop"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 13,
+      "title": "H-задание 13",
+      "description": "Пройдите режим Продюсирования",
+      "homeDescription": "Challenge Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 14,
+      "title": "H-задание 14",
+      "description": "Просмотрите гл.1, эп.3",
+      "homeDescription": "Watch Ch.1, Ep.3"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 15,
+      "title": "H-задание 15",
+      "description": "Начните работу",
+      "homeDescription": "Start a Job"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 16,
+      "title": "H-задание 16",
+      "description": "Пройдите режим Продюсирования\n[Условие]: План: Sense Айдол Продюсирования",
+      "homeDescription": "Challenge Produce Mode\n[Condition]: Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 17,
+      "title": "H-задание 17",
+      "description": "Сделайте 1 прокрутку Sense гачи",
+      "homeDescription": "Pull the Sense Gacha once"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 18,
+      "title": "H-задание 18",
+      "description": "Просмотрите гл.1, эп.4",
+      "homeDescription": "Watch Ch.1, Ep.4"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 19,
+      "title": "H-задание 19",
+      "description": "Повысьте {threshold} карт поддержки до Lv20",
+      "homeDescription": "Raise {threshold} Support Cards to Lv20"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 20,
+      "title": "H-задание 20",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 21,
+      "title": "H-задание 21",
+      "description": "Пройдите режим Продюсирования\n[Условие]: План: Logic Айдол Продюсирования",
+      "homeDescription": "Challenge Produce Mode\n[Condition]: Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 22,
+      "title": "H-задание 22",
+      "description": "Сделайте 1 прокрутку Logic гачи",
+      "homeDescription": "Pull the Logic Gacha once"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 23,
+      "title": "H-задание 23",
+      "description": "Просмотрите гл.1, эп.5",
+      "homeDescription": "Watch Ch.1, Ep.5"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 24,
+      "title": "H-задание 24",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 25,
+      "title": "H-задание 25",
+      "description": "Завершите продюсирование {threshold} разных айдолов",
+      "homeDescription": "Complete the production of {threshold} different idols"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 26,
+      "title": "H-задание 26",
+      "description": "Сформируйте юнит для конкурса",
+      "homeDescription": "Form a unit for a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 27,
+      "title": "H-задание 27",
+      "description": "Повышайте уровень связи айдола до {threshold}",
+      "homeDescription": "Raise any idol’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 28,
+      "title": "H-задание 28",
+      "description": "Просмотрите гл.1, эп.6",
+      "homeDescription": "Watch Ch.1, Ep.6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 29,
+      "title": "H-задание 29",
+      "description": "Повысьте {threshold} карт поддержки до Lv20",
+      "homeDescription": "Raise {threshold} Support Cards to Lv20"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 30,
+      "title": "H-задание 30",
+      "description": "Достигните рейтинга C+ в режиме Продюсирования",
+      "homeDescription": "Achieve a C+ Rating in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 31,
+      "title": "H-задание 31",
+      "description": "Просмотрите гл.1, эп.7",
+      "homeDescription": "Watch Ch.1, Ep.7"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 32,
+      "title": "H-задание 32",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 33,
+      "title": "H-задание 33",
+      "description": "Пройдите тренировку [Продвинутая 1]: План: Sense",
+      "homeDescription": "Clear Training [Advanced 1]: Plan: Sense"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 34,
+      "title": "H-задание 34",
+      "description": "Достигните рейтинга C+ в режиме Продюсирования\n[Условие]: План: Sense Айдол Продюсирования",
+      "homeDescription": "Achieve a C+ Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 35,
+      "title": "H-задание 35",
+      "description": "Просмотрите гл.1, эп.8",
+      "homeDescription": "Watch Ch.1, Ep.8"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 36,
+      "title": "H-задание 36",
+      "description": "Пройдите тренировку [Продвинутая 2]: План: Logic",
+      "homeDescription": "Clear Training [Advanced 2]: Plan: Logic"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 37,
+      "title": "H-задание 37",
+      "description": "Достигните рейтинга C+ в режиме Продюсирования\n[Условие]: План: Logic Айдол Продюсирования",
+      "homeDescription": "Achieve a C+ Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 38,
+      "title": "H-задание 38",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 39,
+      "title": "H-задание 39",
+      "description": "Просмотрите гл.1, эп.9",
+      "homeDescription": "Watch Ch.1, Ep.9"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 40,
+      "title": "H-задание 40",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 2",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 2"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 41,
+      "title": "H-задание 41",
+      "description": "Hajime: пройти проф. {threshold} раз",
+      "homeDescription": "Hajime : Challenge pro {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 42,
+      "title": "H-задание 42",
+      "description": "Повысьте {threshold} карт поддержки до Lv20",
+      "homeDescription": "Raise {threshold} Support Cards to Lv20"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 43,
+      "title": "H-задание 43",
+      "description": "Просмотрите гл.1, эп.10",
+      "homeDescription": "Watch Ch.1, Ep.10"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 44,
+      "title": "H-задание 44",
+      "description": "Повышайте уровень связи айдола до {threshold}",
+      "homeDescription": "Raise any idol’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 45,
+      "title": "H-задание 45",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 46,
+      "title": "H-задание 46",
+      "description": "Повышайте любой параметр до 600+ в режиме Продюсирования",
+      "homeDescription": "Raise any parameter to 600 or more in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 47,
+      "title": "H-задание 47",
+      "description": "Просмотрите гл.1, эп.11",
+      "homeDescription": "Watch Ch.1, Ep.11"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 48,
+      "title": "H-задание 48",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 49,
+      "title": "H-задание 49",
+      "description": "Достигните рейтинга B в режиме Продюсирования\n[Условие]: План: Sense Айдол Продюсирования",
+      "homeDescription": "Achieve a B Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 50,
+      "title": "H-задание 50",
+      "description": "Достигните рейтинга B в режиме Продюсирования\n[Условие]: План: Logic Айдол Продюсирования",
+      "homeDescription": "Achieve a B Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 51,
+      "title": "H-задание 51",
+      "description": "Просмотрите гл.1, эп.12",
+      "homeDescription": "Watch Ch.1, Ep.12"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 52,
+      "title": "H-задание 52",
+      "description": "Повышайте уровень карты поддержки до {threshold}",
+      "homeDescription": "Raise the Level of a Support Card to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 53,
+      "title": "H-задание 53",
+      "description": "Займите 1 место на финальном экзамене",
+      "homeDescription": "Place 1st in the Final Exam"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 54,
+      "title": "H-задание 54",
+      "description": "Просмотрите гл.1, эп.13",
+      "homeDescription": "Watch Ch.1, Ep.13"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 55,
+      "title": "H-задание 55",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 56,
+      "title": "H-задание 56",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 3",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 3"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 57,
+      "title": "H-задание 57",
+      "description": "Повышайте любой параметр до 800+ в режиме Продюсирования",
+      "homeDescription": "Raise any parameter to 800 or more in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 58,
+      "title": "H-задание 58",
+      "description": "Просмотрите гл.1, эп.14",
+      "homeDescription": "Watch Ch.1, Ep.14"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 59,
+      "title": "H-задание 59",
+      "description": "Повышайте уровень связи айдола до {threshold}",
+      "homeDescription": "Raise any idol’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-01-01",
+      "number": 60,
+      "title": "H-задание 60",
+      "description": "Просмотрите True End",
+      "homeDescription": "Watch the True End"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 1,
+      "title": "P-задание 1",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 2,
+      "title": "P-задание 2",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 3,
+      "title": "P-задание 3",
+      "description": "Повышайте любой параметр до 1000+ в режиме Продюсирования",
+      "homeDescription": "Raise any parameter to 1000 or more in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 4,
+      "title": "P-задание 4",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 5,
+      "title": "P-задание 5",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 6,
+      "title": "P-задание 6",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 3",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 3"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 7,
+      "title": "P-задание 7",
+      "description": "Пройдите SP-уроки {threshold} раз",
+      "homeDescription": "Clear SP Lessons {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 8,
+      "title": "P-задание 8",
+      "description": "Повысьте {threshold} карт поддержки до Lv30",
+      "homeDescription": "Raise {threshold} Support Cards to Lv30"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 9,
+      "title": "P-задание 9",
+      "description": "Получите {threshold} типов карт навыков",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 10,
+      "title": "P-задание 10",
+      "description": "Достигните рейтинга B+ в режиме Продюсирования",
+      "homeDescription": "Achieve a B+ Rating in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 11,
+      "title": "P-задание 11",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 12,
+      "title": "P-задание 12",
+      "description": "Отработайте всего {threshold} часов",
+      "homeDescription": "Work a total of {threshold} hours"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 13,
+      "title": "P-задание 13",
+      "description": "Достигните рейтинга B+ в режиме Продюсирования\n[Условие]: План: Sense Айдол Продюсирования",
+      "homeDescription": "Achieve a B+ Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 14,
+      "title": "P-задание 14",
+      "description": "Достигните рейтинга B+ в режиме Продюсирования\n[Условие]: План: Logic Айдол Продюсирования",
+      "homeDescription": "Achieve a B+ Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 15,
+      "title": "P-задание 15",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 16,
+      "title": "P-задание 16",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 3",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 3"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 17,
+      "title": "P-задание 17",
+      "description": "Получите {threshold} достижений True End",
+      "homeDescription": "Get {threshold} TrueEnd Achievement"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 18,
+      "title": "P-задание 18",
+      "description": "Повышайте уровень карты поддержки до {threshold}",
+      "homeDescription": "Raise the Level of a Support Card to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 19,
+      "title": "P-задание 19",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 20,
+      "title": "P-задание 20",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 21,
+      "title": "P-задание 21",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 22,
+      "title": "P-задание 22",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 23,
+      "title": "P-задание 23",
+      "description": "Получите {threshold} типов карт навыков",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 24,
+      "title": "P-задание 24",
+      "description": "Повысьте {threshold} карт поддержки до Lv30",
+      "homeDescription": "Raise {threshold} Support Cards to Lv30"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 25,
+      "title": "P-задание 25",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 4",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 4"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 26,
+      "title": "P-задание 26",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 27,
+      "title": "P-задание 27",
+      "description": "Пройдите конкурс",
+      "homeDescription": "Challenge a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 28,
+      "title": "P-задание 28",
+      "description": "Получите {threshold} достижений True End",
+      "homeDescription": "Get {threshold} TrueEnd Achievement"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 29,
+      "title": "P-задание 29",
+      "description": "Повысьте {threshold} карт поддержки до Lv30",
+      "homeDescription": "Raise {threshold} Support Cards to Lv30"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 30,
+      "title": "P-задание 30",
+      "description": "Пройдите финальный экзамен в режиме Продюсирования\n[Условие]: Saki Hanami",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Saki Hanami"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 31,
+      "title": "P-задание 31",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 32,
+      "title": "P-задание 32",
+      "description": "Пройдите финальный экзамен в режиме Продюсирования\n[Условие]: Temari Tsukimura",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Temari Tsukimura"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 33,
+      "title": "P-задание 33",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 34,
+      "title": "P-задание 34",
+      "description": "Пройдите финальный экзамен в режиме Продюсирования\n[Условие]: Kotone Fujita",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Kotone Fujita"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 35,
+      "title": "P-задание 35",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 36,
+      "title": "P-задание 36",
+      "description": "Получите {threshold} видов P-дринков",
+      "homeDescription": "Let's get {threshold} kinds of P-drinks!"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 37,
+      "title": "P-задание 37",
+      "description": "Пройдите финальный экзамен в режиме Продюсирования\n[Условие]: Mao Arimura",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Mao Arimura"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 38,
+      "title": "P-задание 38",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 39,
+      "title": "P-задание 39",
+      "description": "Пройдите финальный экзамен в режиме Продюсирования\n[Условие]: Rinami Himesaki",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Rinami Himesaki"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 40,
+      "title": "P-задание 40",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 41,
+      "title": "P-задание 41",
+      "description": "Пройдите финальный экзамен в режиме Продюсирования\n[Условие]: Lilja Katsuragi",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Lilja Katsuragi"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 42,
+      "title": "P-задание 42",
+      "description": "Пройдите конкурс",
+      "homeDescription": "Challenge a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 43,
+      "title": "P-задание 43",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 4",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 4"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 44,
+      "title": "P-задание 44",
+      "description": "Пройдите финальный экзамен в режиме Продюсирования\n[Условие]: Sumika Shiun",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Sumika Shiun"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 45,
+      "title": "P-задание 45",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 46,
+      "title": "P-задание 46",
+      "description": "Пройдите финальный экзамен в режиме Продюсирования\n[Условие]: Hiro Shinosawa",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: Hiro Shinosawa"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 47,
+      "title": "P-задание 47",
+      "description": "Повысьте {threshold} карт поддержки до Lv40",
+      "homeDescription": "Raise {threshold} Support Cards to Lv40"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 48,
+      "title": "P-задание 48",
+      "description": "Пройдите финальный экзамен в режиме Продюсирования\n[Условие]: China Kuramoto",
+      "homeDescription": "Pass the Final Exam in Produce Mode\n[Condition]: China Kuramoto"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 49,
+      "title": "P-задание 49",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 50,
+      "title": "P-задание 50",
+      "description": "Получите {threshold} типов карт навыков",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 51,
+      "title": "P-задание 51",
+      "description": "Достигните рейтинга A в режиме Продюсирования",
+      "homeDescription": "Achieve an A Rating in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 52,
+      "title": "P-задание 52",
+      "description": "Отработайте всего {threshold} часов",
+      "homeDescription": "Work a total of {threshold} hours"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 53,
+      "title": "P-задание 53",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 4",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 4"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 54,
+      "title": "P-задание 54",
+      "description": "Достигните рейтинга A в режиме Продюсирования\n[Условие]: План: Sense Айдол Продюсирования",
+      "homeDescription": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 55,
+      "title": "P-задание 55",
+      "description": "Достигните рейтинга A в режиме Продюсирования\n[Условие]: План: Logic Айдол Продюсирования",
+      "homeDescription": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 56,
+      "title": "P-задание 56",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 57,
+      "title": "P-задание 57",
+      "description": "Пройдите конкурс",
+      "homeDescription": "Challenge a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 58,
+      "title": "P-задание 58",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 59,
+      "title": "P-задание 59",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 60,
+      "title": "P-задание 60",
+      "description": "Повышайте уровень связи айдола до {threshold}",
+      "homeDescription": "Raise any idol’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 61,
+      "title": "P-задание 61",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 62,
+      "title": "P-задание 62",
+      "description": "Достигните рейтинга A в режиме Продюсирования",
+      "homeDescription": "Achieve an A Rating in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 63,
+      "title": "P-задание 63",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 64,
+      "title": "P-задание 64",
+      "description": "Повысьте {threshold} карт поддержки до Lv40",
+      "homeDescription": "Raise {threshold} Support Cards to Lv40"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 65,
+      "title": "P-задание 65",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 66,
+      "title": "P-задание 66",
+      "description": "Достигните рейтинга A в режиме Продюсирования\n[Условие]: План: Sense Айдол Продюсирования",
+      "homeDescription": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 67,
+      "title": "P-задание 67",
+      "description": "Достигните рейтинга A в режиме Продюсирования\n[Условие]: План: Logic Айдол Продюсирования",
+      "homeDescription": "Achieve an A Rating in Produce Mode\n[Condition]: Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 68,
+      "title": "P-задание 68",
+      "description": "Достигните всего {threshold} фанатов",
+      "homeDescription": "Reach a total of {threshold} fans"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 69,
+      "title": "P-задание 69",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 70,
+      "title": "P-задание 70",
+      "description": "Улучшите карты навыков {threshold} раз в режиме Продюсирования",
+      "homeDescription": "Upgrade Skill Cards {threshold} times in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 71,
+      "title": "P-задание 71",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 72,
+      "title": "P-задание 72",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 73,
+      "title": "P-задание 73",
+      "description": "Получите {threshold} достижений True End",
+      "homeDescription": "Get {threshold} TrueEnd Achievement"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 74,
+      "title": "P-задание 74",
+      "description": "Повысьте {threshold} карт поддержки до Lv40",
+      "homeDescription": "Raise {threshold} Support Cards to Lv40"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 75,
+      "title": "P-задание 75",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 76,
+      "title": "P-задание 76",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 77,
+      "title": "P-задание 77",
+      "description": "Пройдите финальный экзамен и получите рейтинг A {threshold} раз с Hiro Shinosawa",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Hiro Shinosawa"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 78,
+      "title": "P-задание 78",
+      "description": "Пройдите финальный экзамен и получите рейтинг A {threshold} раз с China Kuramoto",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with China Kuramoto"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 79,
+      "title": "P-задание 79",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 80,
+      "title": "P-задание 80",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 81,
+      "title": "P-задание 81",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 82,
+      "title": "P-задание 82",
+      "description": "Пройдите финальный экзамен и получите рейтинг A {threshold} раз с Lilja Katsuragi",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Lilja Katsuragi"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 83,
+      "title": "P-задание 83",
+      "description": "Пройдите финальный экзамен и получите рейтинг A {threshold} раз с Sumika Shiun",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Sumika Shiun"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 84,
+      "title": "P-задание 84",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 5",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 5"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 85,
+      "title": "P-задание 85",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 86,
+      "title": "P-задание 86",
+      "description": "Получите всего {threshold} рейтингов Продюсирования",
+      "homeDescription": "Earn a total of {threshold} Produce Ratings"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 87,
+      "title": "P-задание 87",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 88,
+      "title": "P-задание 88",
+      "description": "Пройдите финальный экзамен и получите рейтинг A {threshold} раз с Mao Arimura",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Mao Arimura"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 89,
+      "title": "P-задание 89",
+      "description": "Пройдите финальный экзамен и получите рейтинг A {threshold} раз с Rinami Himesaki",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Rinami Himesaki"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 90,
+      "title": "P-задание 90",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 91,
+      "title": "P-задание 91",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 92,
+      "title": "P-задание 92",
+      "description": "Пройдите финальный экзамен и получите рейтинг A {threshold} раз с Temari Tsukimura",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Temari Tsukimura"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 93,
+      "title": "P-задание 93",
+      "description": "Пройдите финальный экзамен и получите рейтинг A {threshold} раз с Kotone Fujita",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Kotone Fujita"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 94,
+      "title": "P-задание 94",
+      "description": "Получите {threshold} типов Карта навыка",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 95,
+      "title": "P-задание 95",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 96,
+      "title": "P-задание 96",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 6",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 97,
+      "title": "P-задание 97",
+      "description": "Пройдите финальный экзамен и получите рейтинг A {threshold} раз с Saki Hanami",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Saki Hanami"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 98,
+      "title": "P-задание 98",
+      "description": "Пройдите финальный экзамен и получите рейтинг A {threshold} раз с Ume Hanami",
+      "homeDescription": "Pass the Final Exam and achieve an A Rating {threshold} times with Ume Hanami"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 99,
+      "title": "P-задание 99",
+      "description": "Получите {threshold} достижений True End",
+      "homeDescription": "Get {threshold} TrueEnd Achievement"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-02-01",
+      "number": 100,
+      "title": "P-задание 100",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 1,
+      "title": "P-задание 2-1",
+      "description": "Пройдите тренировку [Basic 7]: Полная отдача",
+      "homeDescription": "Clear Training [Basic 7]: All-Out Effort"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 2,
+      "title": "P-задание 2-2",
+      "description": "Пройдите тренировку [Basic 8]: Уверенность",
+      "homeDescription": "Clear Training [Basic 8]: Confidence"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 3,
+      "title": "P-задание 2-3",
+      "description": "С айдолом Продюсирования «План: Anomaly» пройдите финальный экзамен {threshold} раз",
+      "homeDescription": "With a \"Plan: Anomaly\" Produce Idol, pass the Final Exam {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 4,
+      "title": "P-задание 2-4",
+      "description": "Сделайте {threshold} призывов в Anomaly гаче",
+      "homeDescription": "Pull the Anomaly Gacha {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 5,
+      "title": "P-задание 2-5",
+      "description": "Пройдите тренировку [Advanced 5]: План: Anomaly",
+      "homeDescription": "Clear Training [Advanced 5]: Plan: Anomaly"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 6,
+      "title": "P-задание 2-6",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 4",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 4"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 7,
+      "title": "P-задание 2-7",
+      "description": "Повышайте уровень связи Sena Juo до {threshold}",
+      "homeDescription": "Raise Sena Juo’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 8,
+      "title": "P-задание 2-8",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 9,
+      "title": "P-задание 2-9",
+      "description": "Получите {threshold} типов Карта навыка",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 10,
+      "title": "P-задание 2-10",
+      "description": "Повышайте уровень связи Sena Juo до {threshold}",
+      "homeDescription": "Raise Sena Juo’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 11,
+      "title": "P-задание 2-11",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 12,
+      "title": "P-задание 2-12",
+      "description": "Повышайте уровень связи Sena Juo до {threshold}",
+      "homeDescription": "Raise Sena Juo’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 13,
+      "title": "P-задание 2-13",
+      "description": "Пройдите любой модуль «Тренировка продюсера»",
+      "homeDescription": "Clear any \"Producer Training\" module"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 14,
+      "title": "P-задание 2-14",
+      "description": "Hajime: Пройдите мастер {threshold} раз",
+      "homeDescription": "Hajime : Challenge master {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 15,
+      "title": "P-задание 2-15",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 16,
+      "title": "P-задание 2-16",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 17,
+      "title": "P-задание 2-17",
+      "description": "Повысьте {threshold} Карта поддержки до Lv40",
+      "homeDescription": "Raise {threshold} Support Cards to Lv40"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 18,
+      "title": "P-задание 2-18",
+      "description": "С айдолом Продюсирования «План: Anomaly» пройдите финальный экзамен и получите рейтинг A {threshold} раз",
+      "homeDescription": "With a \"Plan: Anomaly\" Produce Idol, pass the Final Exam and achieve an A Rating {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 19,
+      "title": "P-задание 2-19",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 6",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 20,
+      "title": "P-задание 2-20",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 21,
+      "title": "P-задание 2-21",
+      "description": "Потратьте {threshold} AP",
+      "homeDescription": "Let's spend {threshold} of AP!"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 22,
+      "title": "P-задание 2-22",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 23,
+      "title": "P-задание 2-23",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 24,
+      "title": "P-задание 2-24",
+      "description": "Повышайте любой параметр до 1500+ в режиме Продюсирования",
+      "homeDescription": "Raise any parameter to 1500 or more in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 25,
+      "title": "P-задание 2-25",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 26,
+      "title": "P-задание 2-26",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 27,
+      "title": "P-задание 2-27",
+      "description": "Получите {threshold} типов Карта навыка",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 28,
+      "title": "P-задание 2-28",
+      "description": "Достигните всего {threshold} фанатов",
+      "homeDescription": "Reach a total of {threshold} fans"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 29,
+      "title": "P-задание 2-29",
+      "description": "Hajime: Пройдите финальный экзамен {threshold} раз как мастер\n【Условие】План: Anomaly Айдол Продюсирования",
+      "homeDescription": "Hajime : Pass the final exam {threshold} times as a master\n【Condition】Plan: Anomaly Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 30,
+      "title": "P-задание 2-30",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 31,
+      "title": "P-задание 2-31",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 32,
+      "title": "P-задание 2-32",
+      "description": "Отработайте всего {threshold} часов",
+      "homeDescription": "Work a total of {threshold} hours"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 33,
+      "title": "P-задание 2-33",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 6",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 34,
+      "title": "P-задание 2-34",
+      "description": "Достигните рейтинга A+ в режиме Продюсирования",
+      "homeDescription": "Achieve an A+ Rating in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 35,
+      "title": "P-задание 2-35",
+      "description": "Получите {threshold} фанатов для Sena Juo",
+      "homeDescription": "Earn {threshold} fans for Sena Juo"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 36,
+      "title": "P-задание 2-36",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 37,
+      "title": "P-задание 2-37",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 38,
+      "title": "P-задание 2-38",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 39,
+      "title": "P-задание 2-39",
+      "description": "Повышайте уровень связи Saki Hanami до {threshold}",
+      "homeDescription": "Raise Saki Hanami’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 40,
+      "title": "P-задание 2-40",
+      "description": "Повышайте уровень связи Temari Tsukimura до {threshold}",
+      "homeDescription": "Raise Temari Tsukimura’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 41,
+      "title": "P-задание 2-41",
+      "description": "Повышайте уровень связи Kotone Fujita до {threshold}",
+      "homeDescription": "Raise Kotone Fujita’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 42,
+      "title": "P-задание 2-42",
+      "description": "Повышайте уровень связи Mao Arimura до {threshold}",
+      "homeDescription": "Raise Mao Arimura’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 43,
+      "title": "P-задание 2-43",
+      "description": "Повышайте уровень связи Lilja Katsuragi до {threshold}",
+      "homeDescription": "Raise Lilja Katsuragi’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 44,
+      "title": "P-задание 2-44",
+      "description": "Повышайте уровень связи China Kuramoto до {threshold}",
+      "homeDescription": "Raise China Kuramoto’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 45,
+      "title": "P-задание 2-45",
+      "description": "Повышайте уровень связи Sumika Shiun до {threshold}",
+      "homeDescription": "Raise Sumika Shiun’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 46,
+      "title": "P-задание 2-46",
+      "description": "Повышайте уровень связи Hiro Shinosawa до {threshold}",
+      "homeDescription": "Raise Hiro Shinosawa’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 47,
+      "title": "P-задание 2-47",
+      "description": "Повышайте уровень связи Ume Hanami до {threshold}",
+      "homeDescription": "Raise Ume Hanami’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 48,
+      "title": "P-задание 2-48",
+      "description": "Повышайте уровень связи Rinami Himesaki до {threshold}",
+      "homeDescription": "Raise Rinami Himesaki’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 49,
+      "title": "P-задание 2-49",
+      "description": "Повышайте уровень связи Sena Juo до {threshold}",
+      "homeDescription": "Raise Sena Juo’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 50,
+      "title": "P-задание 2-50",
+      "description": "Достигните рейтинга S в режиме Продюсирования",
+      "homeDescription": "Achieve an S Rating in Produce Mode"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 51,
+      "title": "P-задание 51",
+      "description": "Сразитесь с N.I.A в Продюсировании",
+      "homeDescription": "Take on N.I.A in Production."
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 52,
+      "title": "P-задание 52",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 53,
+      "title": "P-задание 53",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 6",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 54,
+      "title": "P-задание 54",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 55,
+      "title": "P-задание 55",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 56,
+      "title": "P-задание 56",
+      "description": "Пройдите конкурс",
+      "homeDescription": "Challenge a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 57,
+      "title": "P-задание 57",
+      "description": "Настройте карту навыка {threshold} раз",
+      "homeDescription": "Customize a Skill Card {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 58,
+      "title": "P-задание 58",
+      "description": "Получите {threshold} голосов фанатов в N.I.A",
+      "homeDescription": "Gain {threshold} fan votes in N.I.A"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 59,
+      "title": "P-задание 59",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 60,
+      "title": "P-задание 60",
+      "description": "Пройдите финальное прослушивание в N.I.A",
+      "homeDescription": "Pass the final audition in N.I.A"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 61,
+      "title": "P-задание 61",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 62,
+      "title": "P-задание 62",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 63,
+      "title": "P-задание 63",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 64,
+      "title": "P-задание 64",
+      "description": "Достигните всего {threshold} фанатов",
+      "homeDescription": "Reach a total of {threshold} fans"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 65,
+      "title": "P-задание 65",
+      "description": "Отработайте всего {threshold} часов",
+      "homeDescription": "Work a total of {threshold} hours"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 66,
+      "title": "P-задание 66",
+      "description": "Пройдите финальное прослушивание N.I.A и получите рейтинг S или выше\n【Условие】План: Sense Айдол Продюсирования",
+      "homeDescription": "Pass the final audition with N.I.A and achieve an S rating or higher\n【Condition】Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 67,
+      "title": "P-задание 67",
+      "description": "Займите 1-е место на финальном экзамене",
+      "homeDescription": "Place 1st in the Final Exam"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 68,
+      "title": "P-задание 68",
+      "description": "Получите {threshold} типов Карта навыка",
+      "homeDescription": "Acquire {threshold} types of Skill Cards"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 69,
+      "title": "P-задание 69",
+      "description": "Настройте карту навыка {threshold} раз",
+      "homeDescription": "Customize a Skill Card {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 70,
+      "title": "P-задание 70",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 71,
+      "title": "P-задание 71",
+      "description": "Выберите Sp. Consult {threshold} раз в Продюсировании",
+      "homeDescription": "Select Sp. Consult {threshold} times in Production"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 72,
+      "title": "P-задание 72",
+      "description": "Повышайте уровень связи любого айдола до {threshold}",
+      "homeDescription": "Raise any idol’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 73,
+      "title": "P-задание 73",
+      "description": "Отработайте всего {threshold} часов",
+      "homeDescription": "Work a total of {threshold} hours"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 74,
+      "title": "P-задание 74",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 75,
+      "title": "P-задание 75",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 76,
+      "title": "P-задание 76",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 77,
+      "title": "P-задание 77",
+      "description": "Получите {threshold} голосов фанатов в N.I.A",
+      "homeDescription": "Gain {threshold} fan votes in N.I.A"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 78,
+      "title": "P-задание 78",
+      "description": "Пройдите финальное прослушивание N.I.A и получите рейтинг S или выше\n【Условие】План: Logic Айдол Продюсирования",
+      "homeDescription": "Pass the final audition with N.I.A and achieve an S rating or higher\n【Condition】Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 79,
+      "title": "P-задание 79",
+      "description": "Достигните всего {threshold} фанатов",
+      "homeDescription": "Reach a total of {threshold} fans"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 80,
+      "title": "P-задание 80",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 81,
+      "title": "P-задание 81",
+      "description": "Пройдите финальное прослушивание N.I.A и получите рейтинг S или выше\n【Условие】План: Anomaly Айдол Продюсирования",
+      "homeDescription": "Pass the final audition with N.I.A and achieve an S rating or higher\n【Condition】Plan: Anomaly Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 82,
+      "title": "P-задание 82",
+      "description": "Повышайте уровень связи Saki Hanami до {threshold}",
+      "homeDescription": "Raise Saki Hanami’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 83,
+      "title": "P-задание 83",
+      "description": "Повышайте уровень связи Temari Tsukimura до {threshold}",
+      "homeDescription": "Raise Temari Tsukimura’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 84,
+      "title": "P-задание 84",
+      "description": "Повышайте уровень связи Kotone Fujita до {threshold}",
+      "homeDescription": "Raise Kotone Fujita’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 85,
+      "title": "P-задание 85",
+      "description": "Повышайте уровень связи Mao Arimura до {threshold}",
+      "homeDescription": "Raise Mao Arimura’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 86,
+      "title": "P-задание 86",
+      "description": "Повышайте уровень связи Lilja Katsuragi до {threshold}",
+      "homeDescription": "Raise Lilja Katsuragi’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 87,
+      "title": "P-задание 87",
+      "description": "Повышайте уровень связи China Kuramoto до {threshold}",
+      "homeDescription": "Raise China Kuramoto’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 88,
+      "title": "P-задание 88",
+      "description": "Повышайте уровень связи Sumika Shiun до {threshold}",
+      "homeDescription": "Raise Sumika Shiun’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 89,
+      "title": "P-задание 89",
+      "description": "Повышайте уровень связи Hiro Shinosawa до {threshold}",
+      "homeDescription": "Raise Hiro Shinosawa’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 90,
+      "title": "P-задание 90",
+      "description": "Повышайте уровень связи Sena Juo до {threshold}",
+      "homeDescription": "Raise Sena Juo’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 91,
+      "title": "P-задание 91",
+      "description": "Повышайте уровень связи Ume Hanami до {threshold}",
+      "homeDescription": "Raise Ume Hanami’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 92,
+      "title": "P-задание 92",
+      "description": "Повышайте уровень связи Rinami Himesaki до {threshold}",
+      "homeDescription": "Raise Rinami Himesaki’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 93,
+      "title": "P-задание 93",
+      "description": "Настройте карту навыка {threshold} раз",
+      "homeDescription": "Customize a Skill Card {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 94,
+      "title": "P-задание 94",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 95,
+      "title": "P-задание 95",
+      "description": "Получите True End N.I.A {threshold} раз",
+      "homeDescription": "Get N.I.A True End {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 96,
+      "title": "P-задание 96",
+      "description": "Повышайте суммарную силу юнита до {threshold}+ в конкурсе",
+      "homeDescription": "Raise the Total Unit Power in a Contest to {threshold} or higher"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 97,
+      "title": "P-задание 97",
+      "description": "Наберите {threshold}+ очков в конкурсе",
+      "homeDescription": "Earn a score of {threshold} or higher in a Contest"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 98,
+      "title": "P-задание 98",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 99,
+      "title": "P-задание 99",
+      "description": "Пройдите Продюсирование и получите рейтинг S+ или выше",
+      "homeDescription": "Take on Production and achieve an S+ or higher rating"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-03-01",
+      "number": 100,
+      "title": "P-задание 100",
+      "description": "Получите True End N.I.A {threshold} раз",
+      "homeDescription": "Get N.I.A True End {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 1,
+      "title": "P-задание 04-1",
+      "description": "Пройдите «N.I.A: Master» в Продюсировании {threshold} раз",
+      "homeDescription": "Challenge “N.I.A: Master” in Produce {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 2,
+      "title": "P-задание 04-2",
+      "description": "Получите ранг SS или выше в Продюсировании",
+      "homeDescription": "Earn Rank SS or higher in Produce"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 3,
+      "title": "P-задание 04-3",
+      "description": "Повышайте уровень связи Misuzu Hataya до {threshold}",
+      "homeDescription": "Raise Misuzu Hataya’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 4,
+      "title": "P-задание 04-4",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 5,
+      "title": "P-задание 04-5",
+      "description": "Получите True End N.I.A {threshold} раз",
+      "homeDescription": "Get N.I.A True End {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 6,
+      "title": "P-задание 04-6",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 7,
+      "title": "P-задание 04-7",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 8,
+      "title": "P-задание 04-8",
+      "description": "Повышайте уровень связи Misuzu Hataya до {threshold}",
+      "homeDescription": "Raise Misuzu Hataya’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 9,
+      "title": "P-задание 04-9",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 10,
+      "title": "P-задание 04-10",
+      "description": "Повышайте уровень связи Saki Hanami до {threshold}",
+      "homeDescription": "Raise Saki Hanami’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 11,
+      "title": "P-задание 04-11",
+      "description": "Повышайте уровень связи Temari Tsukimura до {threshold}",
+      "homeDescription": "Raise Temari Tsukimura’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 12,
+      "title": "P-задание 04-12",
+      "description": "Повышайте уровень связи Kotone Fujita до {threshold}",
+      "homeDescription": "Raise Kotone Fujita’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 13,
+      "title": "P-задание 04-13",
+      "description": "Повышайте уровень связи Mao Arimura до {threshold}",
+      "homeDescription": "Raise Mao Arimura’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 14,
+      "title": "P-задание 04-14",
+      "description": "Повышайте уровень связи Lilja Katsuragi до {threshold}",
+      "homeDescription": "Raise Lilja Katsuragi’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 15,
+      "title": "P-задание 04-15",
+      "description": "Повышайте уровень связи China Kuramoto до {threshold}",
+      "homeDescription": "Raise China Kuramoto’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 16,
+      "title": "P-задание 04-16",
+      "description": "Повышайте уровень связи Sumika Shiun до {threshold}",
+      "homeDescription": "Raise Sumika Shiun’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 17,
+      "title": "P-задание 04-17",
+      "description": "Повышайте уровень связи Hiro Shinosawa до {threshold}",
+      "homeDescription": "Raise Hiro Shinosawa’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 18,
+      "title": "P-задание 04-18",
+      "description": "Повышайте уровень связи Ume Hanami до {threshold}",
+      "homeDescription": "Raise Ume Hanami’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 19,
+      "title": "P-задание 04-19",
+      "description": "Повышайте уровень связи Rinami Himesaki до {threshold}",
+      "homeDescription": "Raise Rinami Himesaki’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 20,
+      "title": "P-задание 04-20",
+      "description": "Повышайте уровень связи Sena Juo до {threshold}",
+      "homeDescription": "Raise Sena Juo’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 21,
+      "title": "P-задание 04-21",
+      "description": "Повышайте уровень связи Misuzu Hataya до {threshold}",
+      "homeDescription": "Raise Misuzu Hataya’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 22,
+      "title": "P-задание 04-22",
+      "description": "N.I.A: Пройдите финальное прослушивание (Master)\n【Условие】План: Sense Айдол Продюсирования",
+      "homeDescription": "N.I.A: Pass the Final Audition in Master\n[Condition] Plan: Sense Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 23,
+      "title": "P-задание 04-23",
+      "description": "N.I.A: Пройдите финальное прослушивание (Master)\n【Условие】План: Logic Айдол Продюсирования",
+      "homeDescription": "N.I.A: Pass the Final Audition in Master\n[Condition] Plan: Logic Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 24,
+      "title": "P-задание 04-24",
+      "description": "N.I.A: Пройдите финальное прослушивание (Master)\n【Условие】План: Anomaly Айдол Продюсирования",
+      "homeDescription": "N.I.A: Pass the Final Audition in Master\n[Condition] Plan: Anomaly Produce Idol"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 25,
+      "title": "P-задание 04-25",
+      "description": "Настройте карту навыка {threshold} раз",
+      "homeDescription": "Customize a Skill Card {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 26,
+      "title": "P-задание 04-26",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 6",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 27,
+      "title": "P-задание 04-27",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 28,
+      "title": "P-задание 04-28",
+      "description": "Повысьте {threshold} Карта поддержки до Lv50",
+      "homeDescription": "Get {threshold} Support Cards to Lv50"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 29,
+      "title": "P-задание 04-29",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 30,
+      "title": "P-задание 04-30",
+      "description": "С Saki Hanami пройдите финальный экзамен и получите ранг SS или выше {threshold} раз",
+      "homeDescription": "With Saki Hanami, pass the Final Exam and earn Rank SS or higher {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 31,
+      "title": "P-задание 04-31",
+      "description": "С Temari Tsukimura пройдите финальный экзамен и получите ранг SS или выше {threshold} раз",
+      "homeDescription": "With Temari Tsukimura, pass the Final Exam and earn Rank SS or higher {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 32,
+      "title": "P-задание 04-32",
+      "description": "С Kotone Fujita пройдите финальный экзамен и получите ранг SS или выше {threshold} раз",
+      "homeDescription": "With Kotone Fujita, pass the Final Exam and earn Rank SS or higher {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 33,
+      "title": "P-задание 04-33",
+      "description": "С Mao Arimura пройдите финальный экзамен и получите ранг SS или выше {threshold} раз",
+      "homeDescription": "With Mao Arimura, pass the Final Exam and earn Rank SS or higher {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 34,
+      "title": "P-задание 04-34",
+      "description": "С Lilja Katsuragi пройдите финальный экзамен и получите ранг SS или выше {threshold} раз",
+      "homeDescription": "With Lilja Katsuragi, pass the Final Exam and earn Rank SS or higher {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 35,
+      "title": "P-задание 04-35",
+      "description": "С China Kuramoto пройдите финальный экзамен и получите ранг SS или выше {threshold} раз",
+      "homeDescription": "With China Kuramoto, pass the Final Exam and earn Rank SS or higher {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 36,
+      "title": "P-задание 04-36",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 37,
+      "title": "P-задание 04-37",
+      "description": "Получите {threshold} достижений",
+      "homeDescription": "Obtain {threshold} Achievements"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 38,
+      "title": "P-задание 04-38",
+      "description": "С Sumika Shiun пройдите финальный экзамен и получите ранг SS или выше {threshold} раз",
+      "homeDescription": "With Sumika Shiun, pass the Final Exam and earn Rank SS or higher {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 39,
+      "title": "P-задание 04-39",
+      "description": "С Hiro Shinosawa пройдите финальный экзамен и получите ранг SS или выше {threshold} раз",
+      "homeDescription": "With Hiro Shinosawa, pass the Final Exam and earn Rank SS or higher {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 40,
+      "title": "P-задание 04-40",
+      "description": "С Ume Hanami пройдите финальный экзамен и получите ранг SS или выше {threshold} раз",
+      "homeDescription": "With Ume Hanami, pass the Final Exam and earn Rank SS or higher {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 41,
+      "title": "P-задание 04-41",
+      "description": "С Rinami Himesaki пройдите финальный экзамен и получите ранг SS или выше {threshold} раз",
+      "homeDescription": "With Rinami Himesaki, pass the Final Exam and earn Rank SS or higher {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 42,
+      "title": "P-задание 04-42",
+      "description": "С Sena Juo пройдите финальный экзамен и получите ранг SS или выше {threshold} раз",
+      "homeDescription": "With Sena Juo, pass the Final Exam and earn Rank SS or higher {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 43,
+      "title": "P-задание 04-43",
+      "description": "С Misuzu Hataya пройдите финальный экзамен и получите ранг SS или выше {threshold} раз",
+      "homeDescription": "With Misuzu Hataya, pass the Final Exam and earn Rank SS or higher {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 44,
+      "title": "P-задание 04-44",
+      "description": "Повышайте уровень связи любого айдола до {threshold}",
+      "homeDescription": "Raise any idol’s Bond Lv to {threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 45,
+      "title": "P-задание 04-45",
+      "description": "Настройте карту навыка {threshold} раз",
+      "homeDescription": "Customize a Skill Card {threshold} times"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 46,
+      "title": "P-задание 04-46",
+      "description": "Повышайте этап тренировки {threshold} айдолов Продюсирования до 6",
+      "homeDescription": "Raise the Training Stage of {threshold} Produce Idols to 6"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 47,
+      "title": "P-задание 04-47",
+      "description": "Получите всего {threshold}★ в The Idol Road",
+      "homeDescription": "Earn a total of {threshold}★ in The Idol Road"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 48,
+      "title": "P-задание 04-48",
+      "description": "Повысьте {threshold} Карта поддержки до Lv60",
+      "homeDescription": "Get {threshold} Support Cards to Lv60"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 49,
+      "title": "P-задание 04-49",
+      "description": "Достигните Lv{threshold} Продюсера",
+      "homeDescription": "Reach Producer Lv{threshold}"
+    },
+    {
+      "mainTaskGroupId": "main_task_group-04-01",
+      "number": 50,
+      "title": "P-задание 04-50",
+      "description": "Повышайте {threshold} айдолов Продюсирования до этапа тренировки 7",
+      "homeDescription": "Raise {threshold} Produce Idols to Training Stage 7"
+    }
+  ]
+}

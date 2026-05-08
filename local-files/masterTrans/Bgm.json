@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "page"
+    ]
+  },
+  "data": [
+    {
+      "page": "StoryEventTop",
+      "name": "Главная"
+    },
+    {
+      "page": "TowerTop",
+      "name": "Башня"
+    }
+  ]
+}

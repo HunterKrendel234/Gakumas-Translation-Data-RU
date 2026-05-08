@@ -1,0 +1,2881 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "music-all-001-inst",
+      "title": "Hajime [Инструментал]",
+      "displayTitle": "Hajime [Instrumental]",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-002-inst",
+      "title": "Campus mode!! [Инструментал]",
+      "displayTitle": "Campus mode!! [Instrumental]",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-003-inst",
+      "title": "Kimi to Semi Blue [Инструментал]",
+      "displayTitle": "Kimi to Semi Blue [Instrumental]",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-004-inst",
+      "title": "Kamurogiku [Инструментал]",
+      "displayTitle": "Kamurogiku [Instrumental]",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-005-inst",
+      "title": "Kasou Kyousoukyoku [Инструментал]",
+      "displayTitle": "Kasou Kyousoukyoku [Instrumental]",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-006-inst",
+      "title": "White Night! White Wish! [Инструментал]",
+      "displayTitle": "White Night! White Wish! [Instrumental]",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-007-inst",
+      "title": "Happy Millefeuille [Инструментал]",
+      "displayTitle": "Happy Millefeuille [Instrumental]",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-008-inst",
+      "title": "Kokon Touzai Chochoi no Choi [Инструментал]",
+      "displayTitle": "Kokon Touzai Chochoi no Choi [Instrumental]",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-009-inst",
+      "title": "Yukidoke ni [Инструментал]",
+      "displayTitle": "Yukidoke ni [Instrumental]",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-010-inst",
+      "title": "Sakura Photograph [Инструментал]",
+      "displayTitle": "Sakura Photograph [Instrumental]",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-011-inst",
+      "title": "Howling over the World [Инструментал]",
+      "displayTitle": "Howling over the World [Instrumental]",
+      "lyrics": "Karasuyasabou",
+      "composer": "Karasuyasabou",
+      "arranger": "Karasuyasabou"
+    },
+    {
+      "id": "music-all-012-inst",
+      "title": "Mirakuru na Nau(゚∀゚)! [Инструментал]",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)! [Instrumental]",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-013-inst",
+      "title": "Gamushara ni Ikou! [Инструментал]",
+      "displayTitle": "Gamushara ni Ikou! [Instrumental]",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-014-inst",
+      "title": "ENDLESS DANCE [Инструментал]",
+      "displayTitle": "ENDLESS DANCE [Instrumental]",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-022-teama",
+      "title": "SEARCH RIGHT",
+      "displayTitle": "SEARCH RIGHT",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Shinji Suzuki",
+      "arranger": "Shinji Suzuki"
+    },
+    {
+      "id": "music-all-022-teamb",
+      "title": "SEARCH RIGHT",
+      "displayTitle": "SEARCH RIGHT",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Shinji Suzuki",
+      "arranger": "Shinji Suzuki"
+    },
+    {
+      "id": "music-all-022-teamc",
+      "title": "SEARCH RIGHT",
+      "displayTitle": "SEARCH RIGHT",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Shinji Suzuki",
+      "arranger": "Shinji Suzuki"
+    },
+    {
+      "id": "music-all-amao-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-amao-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-amao-003",
+      "title": "Kimi to Semi Blue",
+      "displayTitle": "",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-amao-004",
+      "title": "Kamurogiku",
+      "displayTitle": "Kamurogiku",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-amao-005",
+      "title": "Kasou Kyousoukyoku",
+      "displayTitle": "Kasou Kyousoukyoku",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-amao-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-amao-007",
+      "title": "Happy Millefeuille",
+      "displayTitle": "Happy Millefeuille",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-amao-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-amao-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-amao-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-amao-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "Karasuyasabou",
+      "composer": "Karasuyasabou",
+      "arranger": "Karasuyasabou"
+    },
+    {
+      "id": "music-all-amao-012",
+      "title": "Mirakuru na Nau(゚∀゚)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-amao-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-amao-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-atbm-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-atbm-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-atbm-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-atbm-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-atbm-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-fktn-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-fktn-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-fktn-003",
+      "title": "Kimi to Semi Blue",
+      "displayTitle": "",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-fktn-004",
+      "title": "Kamurogiku",
+      "displayTitle": "Kamurogiku",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-fktn-005",
+      "title": "Kasou Kyousoukyoku",
+      "displayTitle": "Kasou Kyousoukyoku",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-fktn-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-fktn-007",
+      "title": "Happy Millefeuille",
+      "displayTitle": "Happy Millefeuille",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-fktn-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-fktn-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-fktn-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-fktn-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "Karasuyasabou",
+      "composer": "Karasuyasabou",
+      "arranger": "Karasuyasabou"
+    },
+    {
+      "id": "music-all-fktn-012",
+      "title": "Mirakuru na Nau(゚∀゚)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-fktn-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-fktn-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-hmsz-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-hmsz-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-hmsz-003",
+      "title": "Kimi to Semi Blue",
+      "displayTitle": "Kimi to Semi Blue",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-hmsz-004",
+      "title": "Kamurogiku",
+      "displayTitle": "Kamurogiku",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-hmsz-005",
+      "title": "Kasou Kyousoukyoku",
+      "displayTitle": "Kasou Kyousoukyoku",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-hmsz-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-hmsz-007",
+      "title": "Happy Millefeuille",
+      "displayTitle": "Happy Millefeuille",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-hmsz-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-hmsz-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-hmsz-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-hmsz-012",
+      "title": "Mirakuru na Nau(゚∀゚)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-hmsz-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-hmsz-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-hrnm-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-hrnm-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-hrnm-003",
+      "title": "Kimi to Semi Blue",
+      "displayTitle": "",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-hrnm-004",
+      "title": "Kamurogiku",
+      "displayTitle": "Kamurogiku",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-hrnm-005",
+      "title": "Kasou Kyousoukyoku",
+      "displayTitle": "Kasou Kyousoukyoku",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-hrnm-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-hrnm-007",
+      "title": "Happy Millefeuille",
+      "displayTitle": "Happy Millefeuille",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-hrnm-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-hrnm-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-hrnm-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-hrnm-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "Karasuyasabou",
+      "composer": "Karasuyasabou",
+      "arranger": "Karasuyasabou"
+    },
+    {
+      "id": "music-all-hrnm-012",
+      "title": "Mirakuru na Nau(゚∀゚)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-hrnm-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-hrnm-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-hski-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-hski-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-hski-003",
+      "title": "Kimi to Semi Blue",
+      "displayTitle": "",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-hski-004",
+      "title": "Kamurogiku",
+      "displayTitle": "Kamurogiku",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-hski-005",
+      "title": "Kasou Kyousoukyoku",
+      "displayTitle": "Kasou Kyousoukyoku",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-hski-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-hski-007",
+      "title": "Happy Millefeuille",
+      "displayTitle": "Happy Millefeuille",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-hski-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-hski-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-hski-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-hski-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "Karasuyasabou",
+      "composer": "Karasuyasabou",
+      "arranger": "Karasuyasabou"
+    },
+    {
+      "id": "music-all-hski-012",
+      "title": "Mirakuru na Nau(゚∀゚)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-hski-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-hski-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-hume-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-hume-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-hume-003",
+      "title": "Kimi to Semi Blue",
+      "displayTitle": "",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-hume-004",
+      "title": "Kamurogiku",
+      "displayTitle": "Kamurogiku",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-hume-005",
+      "title": "Kasou Kyousoukyoku",
+      "displayTitle": "Kasou Kyousoukyoku",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-hume-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-hume-007",
+      "title": "Happy Millefeuille",
+      "displayTitle": "Happy Millefeuille",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-hume-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-hume-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-hume-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-hume-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "Karasuyasabou",
+      "composer": "Karasuyasabou",
+      "arranger": "Karasuyasabou"
+    },
+    {
+      "id": "music-all-hume-012",
+      "title": "Mirakuru na Nau(゚∀゚)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-hume-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-hume-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-jsna-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-jsna-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-jsna-003",
+      "title": "Kimi to Semi Blue",
+      "displayTitle": "Kimi to Semi Blue",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-jsna-004",
+      "title": "Kamurogiku",
+      "displayTitle": "Kamurogiku",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-jsna-005",
+      "title": "Kasou Kyousoukyoku",
+      "displayTitle": "Kasou Kyousoukyoku",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-jsna-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-jsna-007",
+      "title": "Happy Millefeuille",
+      "displayTitle": "Happy Millefeuille",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-jsna-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-jsna-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-jsna-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-jsna-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "Karasuyasabou",
+      "composer": "Karasuyasabou",
+      "arranger": "Karasuyasabou"
+    },
+    {
+      "id": "music-all-jsna-012",
+      "title": "Mirakuru na Nau(゚∀゚)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-jsna-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-jsna-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-kcna-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-kcna-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-kcna-003",
+      "title": "Kimi to Semi Blue",
+      "displayTitle": "",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-kcna-004",
+      "title": "Kamurogiku",
+      "displayTitle": "Kamurogiku",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-kcna-005",
+      "title": "Kasou Kyousoukyoku",
+      "displayTitle": "Kasou Kyousoukyoku",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-kcna-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-kcna-007",
+      "title": "Happy Millefeuille",
+      "displayTitle": "Happy Millefeuille",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-kcna-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-kcna-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-kcna-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-kcna-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "Karasuyasabou",
+      "composer": "Karasuyasabou",
+      "arranger": "Karasuyasabou"
+    },
+    {
+      "id": "music-all-kcna-012",
+      "title": "Mirakuru na Nau(゚∀゚)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-kcna-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-kcna-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-kllj-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-kllj-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-kllj-003",
+      "title": "Kimi to Semi Blue",
+      "displayTitle": "",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-kllj-004",
+      "title": "Kamurogiku",
+      "displayTitle": "Kamurogiku",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-kllj-005",
+      "title": "Kasou Kyousoukyoku",
+      "displayTitle": "Kasou Kyousoukyoku",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-kllj-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-kllj-007",
+      "title": "Happy Millefeuille",
+      "displayTitle": "Happy Millefeuille",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-kllj-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-kllj-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-kllj-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-kllj-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "Karasuyasabou",
+      "composer": "Karasuyasabou",
+      "arranger": "Karasuyasabou"
+    },
+    {
+      "id": "music-all-kllj-012",
+      "title": "Mirakuru na Nau(゚∀゚)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-kllj-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-kllj-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-nasr-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-nasr-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-shro-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-shro-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-shro-003",
+      "title": "Kimi to Semi Blue",
+      "displayTitle": "",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-shro-004",
+      "title": "Kamurogiku",
+      "displayTitle": "Kamurogiku",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-shro-005",
+      "title": "Kasou Kyousoukyoku",
+      "displayTitle": "Kasou Kyousoukyoku",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-shro-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-shro-007",
+      "title": "Happy Millefeuille",
+      "displayTitle": "Happy Millefeuille",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-shro-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-shro-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-shro-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-shro-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "Karasuyasabou",
+      "composer": "Karasuyasabou",
+      "arranger": "Karasuyasabou"
+    },
+    {
+      "id": "music-all-shro-012",
+      "title": "Mirakuru na Nau(゚∀゚)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-shro-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-shro-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-ssmk-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-ssmk-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-ssmk-003",
+      "title": "Kimi to Semi Blue",
+      "displayTitle": "",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-ssmk-004",
+      "title": "Kamurogiku",
+      "displayTitle": "Kamurogiku",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-ssmk-005",
+      "title": "Kasou Kyousoukyoku",
+      "displayTitle": "Kasou Kyousoukyoku",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-ssmk-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-ssmk-007",
+      "title": "Happy Millefeuille",
+      "displayTitle": "Happy Millefeuille",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-ssmk-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-ssmk-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-ssmk-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-ssmk-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "Karasuyasabou",
+      "composer": "Karasuyasabou",
+      "arranger": "Karasuyasabou"
+    },
+    {
+      "id": "music-all-ssmk-012",
+      "title": "Mirakuru na Nau(゚∀゚)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-ssmk-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-ssmk-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-studentcouncil-022",
+      "title": "SEARCH RIGHT",
+      "displayTitle": "SEARCH RIGHT",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Shinji Suzuki",
+      "arranger": "Shinji Suzuki"
+    },
+    {
+      "id": "music-all-studentcouncil-022-inst",
+      "title": "SEARCH RIGHT [Инструментал]",
+      "displayTitle": "SEARCH RIGHT [Instrumental]",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Shinji Suzuki",
+      "arranger": "Shinji Suzuki"
+    },
+    {
+      "id": "music-all-ttmr-001",
+      "title": "Hajime",
+      "displayTitle": "Hajime",
+      "lyrics": "Sasuke Haraguchi",
+      "composer": "Sasuke Haraguchi",
+      "arranger": "Dan Miyakawa, Sasuke Haraguchi"
+    },
+    {
+      "id": "music-all-ttmr-002",
+      "title": "Campus mode!!",
+      "displayTitle": "Campus mode!!",
+      "lyrics": "Tomoya Tabuchi",
+      "composer": "Tomoya Tabuchi",
+      "arranger": "Shunsuke Takizawa (TRYTONELABO)"
+    },
+    {
+      "id": "music-all-ttmr-003",
+      "title": "Kimi to Semi Blue",
+      "displayTitle": "",
+      "lyrics": "Oto Itsuki",
+      "composer": "Hajime Mitsumasu (FirstCall)",
+      "arranger": "Hajime Mitsumasu (FirstCall)"
+    },
+    {
+      "id": "music-all-ttmr-004",
+      "title": "Kamurogiku",
+      "displayTitle": "Kamurogiku",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Hirotaka Hayakawa (Rebrast), Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-ttmr-005",
+      "title": "Kasou Kyousoukyoku",
+      "displayTitle": "Kasou Kyousoukyoku",
+      "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+      "composer": "FAKE TYPE.",
+      "arranger": "DYES IWASAKI (FAKE TYPE.)"
+    },
+    {
+      "id": "music-all-ttmr-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!",
+      "lyrics": "Hideki Hayashi",
+      "composer": "Junichi Sato (fhána)",
+      "arranger": "Junichi Sato (fhána)"
+    },
+    {
+      "id": "music-all-ttmr-007",
+      "title": "Happy Millefeuille",
+      "displayTitle": "Happy Millefeuille",
+      "lyrics": "Nanahoshi Orchestra",
+      "composer": "Takashi Iwami",
+      "arranger": "Nanahoshi Orchestra"
+    },
+    {
+      "id": "music-all-ttmr-008",
+      "title": "Kokon Touzai Chochoi no Choi",
+      "displayTitle": "Kokon Touzai Chochoi no Choi",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-ttmr-009",
+      "title": "Yukidoke ni",
+      "displayTitle": "Yukidoke ni",
+      "lyrics": "Kyouko Ohyama (Rebrast)",
+      "composer": "Reo Kawahara (Rebrast)",
+      "arranger": "Reo Kawahara (Rebrast)"
+    },
+    {
+      "id": "music-all-ttmr-010",
+      "title": "Sakura Photograph",
+      "displayTitle": "Sakura Photograph",
+      "lyrics": "Safari Natsukawa",
+      "composer": "Hitoshi Harukawa (sixth floor)",
+      "arranger": "Hitoshi Harukawa (sixth floor)"
+    },
+    {
+      "id": "music-all-ttmr-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "Karasuyasabou",
+      "composer": "Karasuyasabou",
+      "arranger": "Karasuyasabou"
+    },
+    {
+      "id": "music-all-ttmr-012",
+      "title": "Mirakuru na Nau(゚∀゚)!",
+      "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "lyrics": "YUC'e",
+      "composer": "YUC'e",
+      "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-ttmr-013",
+      "title": "Gamushara ni Ikou!",
+      "displayTitle": "Gamushara ni Ikou!",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-all-ttmr-014",
+      "title": "ENDLESS DANCE",
+      "displayTitle": "ENDLESS DANCE",
+      "lyrics": "YOSHIKATSU SHUTO",
+      "composer": "YOSHIKATSU SHUTO",
+      "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-bgm-01_001",
+      "title": "Момент в классе",
+      "displayTitle": "Moment in the Classroom",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_002",
+      "title": "Продюсирование, старт!",
+      "displayTitle": "Production, Start!",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_003",
+      "title": "К финальному экзамену",
+      "displayTitle": "Toward the Final Exam",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_004",
+      "title": "Дни занятий",
+      "displayTitle": "Days of Lessons",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_005",
+      "title": "Давай, постарайся~!",
+      "displayTitle": "Push Yourself～！",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_006",
+      "title": "Хорошая работа!",
+      "displayTitle": "Good Work!",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_007",
+      "title": "Результаты твоих усилий!",
+      "displayTitle": "Results of Your Effort!",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_008",
+      "title": "TOWN (Gakumas Mix)",
+      "displayTitle": "TOWN (Gakumas Mix)",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_009",
+      "title": "Захватывающий конкурс",
+      "displayTitle": "Heart-Pounding Contest",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_010",
+      "title": "Начало",
+      "displayTitle": "The Beginning",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_011",
+      "title": "Битва выступлений",
+      "displayTitle": "Performance Showdown",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_012",
+      "title": "Повседневная жизнь учеников",
+      "displayTitle": "Daily Life of the Students",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_013",
+      "title": "Бурное начало",
+      "displayTitle": "A Turbulent Start",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_014",
+      "title": "Скрытые чувства",
+      "displayTitle": "Hidden Feelings",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_015",
+      "title": "Вперёд!",
+      "displayTitle": "Ready go!",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_016",
+      "title": "Внутренние переживания",
+      "displayTitle": "Inner Struggles",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_017",
+      "title": "Весёлая школьная жизнь",
+      "displayTitle": "Fun School Life",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_018",
+      "title": "Прогулка♪",
+      "displayTitle": "Outing♪",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_019",
+      "title": "Сумерки",
+      "displayTitle": "Dusk",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_020",
+      "title": "Солнце снова взойдёт",
+      "displayTitle": "The Sun Will Rise Again",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_021",
+      "title": "Полный хаос",
+      "displayTitle": "Chaotic Chaos",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_022",
+      "title": "Создатели проблем",
+      "displayTitle": "Trouble Makers",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_023",
+      "title": "Начало нового",
+      "displayTitle": "Start of Something New",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_024",
+      "title": "Сохраняй изящество",
+      "displayTitle": "Stay Graceful",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_025",
+      "title": "Следующий шаг",
+      "displayTitle": "The Next Step",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_026",
+      "title": "Непобедимая старшая сестра",
+      "displayTitle": "The Invincible Big Sis",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_027",
+      "title": "Строгая, но противоречивая",
+      "displayTitle": "Stoic Yet Contradictory",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_028",
+      "title": "Нет~ денег~ совсем",
+      "displayTitle": "No～ Money～ Hoome",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_029",
+      "title": "Ничего, если не всё под контролем",
+      "displayTitle": "It’s Okay Not to Have Control",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_030",
+      "title": "Allegro",
+      "displayTitle": "Allegro",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_031",
+      "title": "Чистые чувства, сильные желания",
+      "displayTitle": "Pure Feelings, Strong Wishes",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_032",
+      "title": "Та я, которую ты любишь",
+      "displayTitle": "The Me You Like",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_033",
+      "title": "Оставь это мне",
+      "displayTitle": "Leave It to Me",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_034",
+      "title": "В перерыве, с тобой",
+      "displayTitle": "In the Interlude, With You",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_035",
+      "title": "Путь айдола",
+      "displayTitle": "The Idol Road",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-bgm-01_036",
+      "title": "Shirube [BGM Arrange]",
+      "displayTitle": "Shirube [BGM Arrange]",
+      "lyrics": "",
+      "composer": "",
+      "arranger": ""
+    },
+    {
+      "id": "music-char-amao-001",
+      "title": "Fluorite",
+      "displayTitle": "",
+      "lyrics": "Kana Yaginuma",
+      "composer": "Moe Shop",
+      "arranger": "Moe Shop"
+    },
+    {
+      "id": "music-char-amao-001-inst",
+      "title": "Fluorite [Инструментал]",
+      "displayTitle": "Fluorite [Instrumental]",
+      "lyrics": "Kana Yaginuma",
+      "composer": "Moe Shop",
+      "arranger": "Moe Shop"
+    },
+    {
+      "id": "music-char-amao-002",
+      "title": "Feel Jewel Dream",
+      "displayTitle": "",
+      "lyrics": "DÉ DÉ MOUSE",
+      "composer": "DÉ DÉ MOUSE",
+      "arranger": "DÉ DÉ MOUSE"
+    },
+    {
+      "id": "music-char-amao-002-inst",
+      "title": "Feel Jewel Dream [Инструментал]",
+      "displayTitle": "Feel Jewel Dream [Instrumental]",
+      "lyrics": "DÉ DÉ MOUSE",
+      "composer": "DÉ DÉ MOUSE",
+      "arranger": "DÉ DÉ MOUSE"
+    },
+    {
+      "id": "music-char-amao-003",
+      "title": "Sweet Magic",
+      "displayTitle": "",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)",
+      "arranger": "SHOW (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-amao-003-inst",
+      "title": "Sweet Magic [Инструментал]",
+      "displayTitle": "Sweet Magic [Instrumental]",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)",
+      "arranger": "SHOW (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-amao-004",
+      "title": "Mite",
+      "displayTitle": "Mite",
+      "lyrics": "kamome sano",
+      "composer": "kamome sano",
+      "arranger": "kamome sano"
+    },
+    {
+      "id": "music-char-amao-004-inst",
+      "title": "Mite [Инструментал]",
+      "displayTitle": "Mite [Instrumental]",
+      "lyrics": "kamome sano",
+      "composer": "kamome sano",
+      "arranger": "kamome sano"
+    },
+    {
+      "id": "music-char-amao-005",
+      "title": "Top Secret",
+      "displayTitle": "Top Secret",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)",
+      "arranger": "SHOW (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-amao-005-inst",
+      "title": "Top Secret [Инструментал]",
+      "displayTitle": "Top Secret [Instrumental]",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)",
+      "arranger": "SHOW (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-atbm-001",
+      "title": "Rironbusou Shite",
+      "displayTitle": "Rironbusou Shite",
+      "lyrics": "Kenta Matsukuma, GBB Ayaka",
+      "composer": "Kenta Matsukuma",
+      "arranger": "SCRAMBLES"
+    },
+    {
+      "id": "music-char-atbm-001-inst",
+      "title": "Rironbusou Shite [Инструментал]",
+      "displayTitle": "Rironbusou Shite [Instrumental]",
+      "lyrics": "Kenta Matsukuma, GBB Ayaka",
+      "composer": "Kenta Matsukuma",
+      "arranger": "SCRAMBLES"
+    },
+    {
+      "id": "music-char-fktn-001",
+      "title": "Sekaiichi Kawaii Watashi",
+      "displayTitle": "",
+      "lyrics": "HoneyWorks",
+      "composer": "HoneyWorks",
+      "arranger": "HoneyWorks"
+    },
+    {
+      "id": "music-char-fktn-001-inst",
+      "title": "Sekaiichi Kawaii Watashi [Инструментал]",
+      "displayTitle": "Sekaiichi Kawaii Watashi [Instrumental]",
+      "lyrics": "HoneyWorks",
+      "composer": "HoneyWorks",
+      "arranger": "HoneyWorks"
+    },
+    {
+      "id": "music-char-fktn-002",
+      "title": "Yellow Big Bang!",
+      "displayTitle": "",
+      "lyrics": "Kana Yaginuma",
+      "composer": "Shotaro Seo (MONACA)",
+      "arranger": "Shotaro Seo (MONACA)"
+    },
+    {
+      "id": "music-char-fktn-002-inst",
+      "title": "Yellow Big Bang! [Инструментал]",
+      "displayTitle": "Yellow Big Bang！ [Instrumental]",
+      "lyrics": "Kana Yaginuma",
+      "composer": "Shotaro Seo (MONACA)",
+      "arranger": "Shotaro Seo (MONACA)"
+    },
+    {
+      "id": "music-char-fktn-003",
+      "title": "The Cute!!!",
+      "displayTitle": "The Cute!!!",
+      "lyrics": "Kanayama Shuji (Dream Monster)",
+      "composer": "Kanayama Shuji (Dream Monster)",
+      "arranger": "Kanayama Shuji (Dream Monster)"
+    },
+    {
+      "id": "music-char-fktn-003-inst",
+      "title": "The Cute!!! [Инструментал]",
+      "displayTitle": "The Cute!!! [Instrumental]",
+      "lyrics": "Kanayama Shuji (Dream Monster)",
+      "composer": "Kanayama Shuji (Dream Monster)",
+      "arranger": "Kanayama Shuji (Dream Monster)"
+    },
+    {
+      "id": "music-char-fktn-004",
+      "title": "Jiko Kouteikan Bakuage↑↑ ",
+      "displayTitle": "Jiko Kouteikan Bakuage↑↑ ",
+      "lyrics": "Hige Driver",
+      "composer": "Hige Driver",
+      "arranger": "Hige Driver"
+    },
+    {
+      "id": "music-char-fktn-004-inst",
+      "title": "Jiko Kouteikan Bakuage↑↑ [Инструментал]",
+      "displayTitle": "Jiko Kouteikan Bakuage↑↑ [Instrumental]",
+      "lyrics": "Hige Driver",
+      "composer": "Hige Driver",
+      "arranger": "Hige Driver"
+    },
+    {
+      "id": "music-char-fktn-005",
+      "title": "FuwaFuwa",
+      "displayTitle": "FuwaFuwa",
+      "lyrics": "Itsukishi Nagawa",
+      "composer": "Hiroya Katou",
+      "arranger": "Yuugen Sudou, Hiroya Katou"
+    },
+    {
+      "id": "music-char-fktn-005-inst",
+      "title": "FuwaFuwa [Инструментал]",
+      "displayTitle": "FuwaFuwa [Instrumental]",
+      "lyrics": "Itsukishi Nagawa",
+      "composer": "Hiroya Katou",
+      "arranger": "Yuugen Sudou, Hiroya Katou"
+    },
+    {
+      "id": "music-char-hmsz-001",
+      "title": "Tsuki no Kame",
+      "displayTitle": "Tsuki no Kame",
+      "lyrics": "mifumei (Bandai Namco Studios Inc.)",
+      "composer": "mifumei (Bandai Namco Studios Inc.)",
+      "arranger": "mifumei (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-char-hmsz-001-inst",
+      "title": "Tsuki no Kame [Инструментал]",
+      "displayTitle": "Tsuki no Kame [Instrumental]",
+      "lyrics": "mifumei (Bandai Namco Studios Inc.)",
+      "composer": "mifumei (Bandai Namco Studios Inc.)",
+      "arranger": "mifumei (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-char-hmsz-002",
+      "title": "Superlative",
+      "displayTitle": "Superlative",
+      "lyrics": "siqlo",
+      "composer": "siqlo",
+      "arranger": "siqlo"
+    },
+    {
+      "id": "music-char-hmsz-002-inst",
+      "title": "Superlative [Инструментал]",
+      "displayTitle": "Superlative [Instrumental]",
+      "lyrics": "siqlo",
+      "composer": "siqlo",
+      "arranger": "siqlo"
+    },
+    {
+      "id": "music-char-hmsz-003",
+      "title": "Taisetsu na Mono",
+      "displayTitle": "Taisetsu na Mono",
+      "lyrics": "Fuwari (Dream Monster)",
+      "composer": "Fuwari (Dream Monster)",
+      "arranger": "Fuwari (Dream Monster)"
+    },
+    {
+      "id": "music-char-hmsz-003-inst",
+      "title": "Taisetsu na Mono [Инструментал]",
+      "displayTitle": "Taisetsu na Mono [Instrumental]",
+      "lyrics": "Fuwari (Dream Monster)",
+      "composer": "Fuwari (Dream Monster)",
+      "arranger": "Fuwari (Dream Monster)"
+    },
+    {
+      "id": "music-char-hmsz-004",
+      "title": "VEIL",
+      "displayTitle": "VEIL",
+      "lyrics": "GUCCHO",
+      "composer": "GUCCHO, Dubscribe",
+      "arranger": "Dubscribe, GUCCHO"
+    },
+    {
+      "id": "music-char-hmsz-004-inst",
+      "title": "VEIL [Инструментал]",
+      "displayTitle": "VEIL [Instrumental]",
+      "lyrics": "GUCCHO",
+      "composer": "GUCCHO, Dubscribe",
+      "arranger": "Dubscribe, GUCCHO"
+    },
+    {
+      "id": "music-char-hmsz-005",
+      "title": "Yoru Nite",
+      "displayTitle": "Yoru Nite",
+      "lyrics": "Shogo Nomura(Bandai Namco Studios Inc.)",
+      "composer": "Shogo Nomura(Bandai Namco Studios Inc.)",
+      "arranger": "Shogo Nomura(Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-char-hmsz-005-inst",
+      "title": "Yoru Nite [Инструментал]",
+      "displayTitle": "Yoru Nite [Instrumental]",
+      "lyrics": "Shogo Nomura(Bandai Namco Studios Inc.)",
+      "composer": "Shogo Nomura(Bandai Namco Studios Inc.)",
+      "arranger": "Shogo Nomura(Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-char-hrnm-001",
+      "title": "clumsy trick",
+      "displayTitle": "",
+      "lyrics": "Sho Watanabe",
+      "composer": "Sho Watanabe",
+      "arranger": "Shinpei Nasuno"
+    },
+    {
+      "id": "music-char-hrnm-001-inst",
+      "title": "clumsy trick [Инструментал]",
+      "displayTitle": "clumsy trick [Instrumental]",
+      "lyrics": "Sho Watanabe",
+      "composer": "Sho Watanabe",
+      "arranger": "Shinpei Nasuno"
+    },
+    {
+      "id": "music-char-hrnm-002",
+      "title": "L.U.V",
+      "displayTitle": "",
+      "lyrics": "Yukichi Kasaku/men",
+      "composer": "Yukichi Kasaku/men",
+      "arranger": "Tatsuya Kurauchi"
+    },
+    {
+      "id": "music-char-hrnm-002-inst",
+      "title": "L.U.V [Инструментал]",
+      "displayTitle": "L.U.V [Instrumental]",
+      "lyrics": "Yukichi Kasaku/men",
+      "composer": "Yukichi Kasaku/men",
+      "arranger": "Tatsuya Kurauchi"
+    },
+    {
+      "id": "music-char-hrnm-003",
+      "title": "marble heart",
+      "displayTitle": "marble heart",
+      "lyrics": "Itsukishi Nagawa",
+      "composer": "Sudo Yugen",
+      "arranger": "Sudo Yugen"
+    },
+    {
+      "id": "music-char-hrnm-003-inst",
+      "title": "marble heart [Инструментал]",
+      "displayTitle": "marble heart [Instrumental]",
+      "lyrics": "Itsukishi Nagawa",
+      "composer": "Sudo Yugen",
+      "arranger": "Sudo Yugen"
+    },
+    {
+      "id": "music-char-hrnm-004",
+      "title": "36℃ U・B・U",
+      "displayTitle": "36℃ U･B･U",
+      "lyrics": "Soflan Daichi",
+      "composer": "Tsubasa Ito",
+      "arranger": "Tsubasa Ito"
+    },
+    {
+      "id": "music-char-hrnm-004-inst",
+      "title": "36℃ U・B・U [Инструментал]",
+      "displayTitle": "36℃ U･B･U [Instrumental]",
+      "lyrics": "Soflan Daichi",
+      "composer": "Tsubasa Ito",
+      "arranger": "Tsubasa Ito"
+    },
+    {
+      "id": "music-char-hrnm-005",
+      "title": "Utagoe wa Kimiiro",
+      "displayTitle": "Utagoe wa Kimiiro",
+      "lyrics": "Kenta Kuriyama, Honoka Watanabe",
+      "composer": "Hinano Tanaka (IKW) ",
+      "arranger": "Hinano Tanaka (IKW) "
+    },
+    {
+      "id": "music-char-hrnm-005-inst",
+      "title": "Utagoe wa Kimiiro [Инструментал]",
+      "displayTitle": "Utagoe wa Kimiiro [Instrumental]",
+      "lyrics": "Kenta Kuriyama, Honoka Watanabe",
+      "composer": "Hinano Tanaka (IKW) ",
+      "arranger": "Hinano Tanaka (IKW) "
+    },
+    {
+      "id": "music-char-hski-001",
+      "title": "Fighting My Way",
+      "displayTitle": "",
+      "lyrics": "HIROMI",
+      "composer": "Giga",
+      "arranger": "Giga"
+    },
+    {
+      "id": "music-char-hski-001-inst",
+      "title": "Fighting My Way [Инструментал]",
+      "displayTitle": "Fighting My Way [Instrumental]",
+      "lyrics": "HIROMI",
+      "composer": "Giga",
+      "arranger": "Giga"
+    },
+    {
+      "id": "music-char-hski-002",
+      "title": "Boom Boom Pow",
+      "displayTitle": "",
+      "lyrics": "KENTZ",
+      "composer": "KENTZ, ERECA",
+      "arranger": "KENTZ"
+    },
+    {
+      "id": "music-char-hski-002-inst",
+      "title": "Boom Boom Pow [Инструментал]",
+      "displayTitle": "Boom Boom Pow [Instrumental]",
+      "lyrics": "KENTZ",
+      "composer": "KENTZ, ERECA",
+      "arranger": "KENTZ"
+    },
+    {
+      "id": "music-char-hski-003",
+      "title": "Try it now",
+      "displayTitle": "Try it now",
+      "lyrics": "Kijibato(Dream Monster)",
+      "composer": "Kijibato(Dream Monster)",
+      "arranger": "Kijibato(Dream Monster)"
+    },
+    {
+      "id": "music-char-hski-003-inst",
+      "title": "Try it now [Инструментал]",
+      "displayTitle": "Try it now [Instrumental]",
+      "lyrics": "Kijibato(Dream Monster)",
+      "composer": "Kijibato(Dream Monster)",
+      "arranger": "Kijibato(Dream Monster)"
+    },
+    {
+      "id": "music-char-hski-004",
+      "title": "Wildest Flower",
+      "displayTitle": "Wildest Flower",
+      "lyrics": "HIROMI",
+      "composer": "Giga",
+      "arranger": "Giga"
+    },
+    {
+      "id": "music-char-hski-004-inst",
+      "title": "Wildest Flower [Инструментал]",
+      "displayTitle": "Wildest Flower [Instrumental]",
+      "lyrics": "HIROMI",
+      "composer": "Giga",
+      "arranger": "Giga"
+    },
+    {
+      "id": "music-char-hski-005",
+      "title": "EGO",
+      "displayTitle": "EGO",
+      "lyrics": "Kijibato (Dream Monster)",
+      "composer": "Kijibato (Dream Monster)",
+      "arranger": "Kijibato (Dream Monster)"
+    },
+    {
+      "id": "music-char-hski-005-inst",
+      "title": "EGO [Инструментал]",
+      "displayTitle": "EGO [Instrumental]",
+      "lyrics": "Kijibato (Dream Monster)",
+      "composer": "Kijibato (Dream Monster)",
+      "arranger": "Kijibato (Dream Monster)"
+    },
+    {
+      "id": "music-char-hume-001",
+      "title": "The Rolling Riceball",
+      "displayTitle": "",
+      "lyrics": "Takafumi Satou (Bandai Namco Studios Inc.)",
+      "composer": "Takafumi Satou (Bandai Namco Studios Inc.)",
+      "arranger": "Akinori Handa"
+    },
+    {
+      "id": "music-char-hume-001-inst",
+      "title": "The Rolling Riceball [Инструментал]",
+      "displayTitle": "The Rolling Riceball [Instrumental]",
+      "lyrics": "Takafumi Satou (Bandai Namco Studios Inc.)",
+      "composer": "Takafumi Satou (Bandai Namco Studios Inc.)",
+      "arranger": "Akinori Handa"
+    },
+    {
+      "id": "music-char-hume-002",
+      "title": "Gu-Su-Pi",
+      "displayTitle": "Gu-Su-Pi",
+      "lyrics": "Takafumi Satou (Bandai Namco Studios Inc.)",
+      "composer": "Takafumi Satou (Bandai Namco Studios Inc.)",
+      "arranger": "Takafumi Satou (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-char-hume-002-inst",
+      "title": "Gu-Su-Pi [Инструментал]",
+      "displayTitle": "Gu-Su-Pi [Instrumental]",
+      "lyrics": "Takafumi Satou (Bandai Namco Studios Inc.)",
+      "composer": "Takafumi Satou (Bandai Namco Studios Inc.)",
+      "arranger": "Takafumi Satou (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-char-hume-003",
+      "title": "Tsuyotsuyo Saikyou Exercise ",
+      "displayTitle": "Tsuyotsuyo Saikyou Exercise ",
+      "lyrics": "Rihito Tsuboi (Bandai Namco Studio Inc.)",
+      "composer": "Rihito Tsuboi, Takafumi Satou (Bandai Namco Studio Inc.)",
+      "arranger": "Rihito Tsuboi (Bandai Namco Studio Inc.)"
+    },
+    {
+      "id": "music-char-hume-003-inst",
+      "title": "Tsuyotsuyo Saikyou Exercise [Инструментал]",
+      "displayTitle": "Tsuyotsuyo Saikyou Exercise [Instrumental]",
+      "lyrics": "Rihito Tsuboi (Bandai Namco Studio Inc.)",
+      "composer": "Rihito Tsuboi, Takafumi Satou (Bandai Namco Studio Inc.)",
+      "arranger": "Rihito Tsuboi (Bandai Namco Studio Inc.)"
+    },
+    {
+      "id": "music-char-hume-004",
+      "title": "Masshiroi Page to Suisai no Shujinkou",
+      "displayTitle": "Masshiroi Page to Suisai no Shujinkou",
+      "lyrics": "Takafumi Satou",
+      "composer": "Takafumi Satou",
+      "arranger": "Tsubasa Handa"
+    },
+    {
+      "id": "music-char-hume-004-inst",
+      "title": "Masshiroi Page to Suisai no Shujinkou [Инструментал]",
+      "displayTitle": "Masshiroi Page to Suisai no Shujinkou [Instrumental]",
+      "lyrics": "Takafumi Satou",
+      "composer": "Takafumi Satou",
+      "arranger": "Tsubasa Handa"
+    },
+    {
+      "id": "music-char-hume-005",
+      "title": "Kin no Ono, Gin no Ono, Emerald no Ono",
+      "displayTitle": "Kin no Ono, Gin no Ono, Emerald no Ono",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-char-hume-005-inst",
+      "title": "Kin no Ono, Gin no Ono, Emerald no Ono [Инструментал]",
+      "displayTitle": "Kin no Ono, Gin no Ono, Emerald no Ono [Instrumental]",
+      "lyrics": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "composer": "Mei Osawa (Bandai Namco Studios Inc.)",
+      "arranger": "Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-char-jsna-001",
+      "title": "Chiisana Yabou",
+      "displayTitle": "",
+      "lyrics": "Mitsuko Komuro",
+      "composer": "Go Shiina",
+      "arranger": "Go Shiina"
+    },
+    {
+      "id": "music-char-jsna-001-inst",
+      "title": "Chiisana Yabou [Инструментал]",
+      "displayTitle": "Chiisana Yabou [Instrumental]",
+      "lyrics": "Mitsuko Komuro",
+      "composer": "Go Shiina",
+      "arranger": "Go Shiina"
+    },
+    {
+      "id": "music-char-jsna-002",
+      "title": "Our Chant",
+      "displayTitle": "Our Chant",
+      "lyrics": "Fra",
+      "composer": "Junichi Nakatsuru, Fra",
+      "arranger": "Junichi Nakatsuru"
+    },
+    {
+      "id": "music-char-jsna-002-inst",
+      "title": "Our Chant [Инструментал]",
+      "displayTitle": "Our Chant [Instrumental]",
+      "lyrics": "Fra",
+      "composer": "Junichi Nakatsuru, Fra",
+      "arranger": "Junichi Nakatsuru"
+    },
+    {
+      "id": "music-char-jsna-003",
+      "title": "Cosmetic",
+      "displayTitle": "",
+      "lyrics": "Stephanie Topalian, MOMONADY",
+      "composer": "MOMONADY, YUKI FUNAKOSHI (Digz, Inc. Group)",
+      "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-jsna-003-inst",
+      "title": "Cosmetic [Инструментал]",
+      "displayTitle": "Cosmetic [Instrumental]",
+      "lyrics": "Stephanie Topalian, MOMONADY",
+      "composer": "MOMONADY, YUKI FUNAKOSHI (Digz, Inc. Group)",
+      "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-jsna-004",
+      "title": "Sekirara",
+      "displayTitle": "Sekirara",
+      "lyrics": "Yuho Iwasato",
+      "composer": "Keiichi Okabe (MONACA)",
+      "arranger": "Keiichi Okabe (MONACA)"
+    },
+    {
+      "id": "music-char-jsna-004-inst",
+      "title": "Sekirara [Инструментал]",
+      "displayTitle": "Sekirara [Instrumental]",
+      "lyrics": "Yuho Iwasato",
+      "composer": "Keiichi Okabe (MONACA)",
+      "arranger": "Keiichi Okabe (MONACA)"
+    },
+    {
+      "id": "music-char-jsna-005",
+      "title": "Choo Choo Choo",
+      "displayTitle": "Choo Choo Choo",
+      "lyrics": "BOYHOOD (Digz, Inc. Group)",
+      "composer": "BOYHOOD (Digz, Inc. Group)",
+      "arranger": "BOYHOOD (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-jsna-005-inst",
+      "title": "Choo Choo Choo [Инструментал]",
+      "displayTitle": "Choo Choo Choo [Instrumental]",
+      "lyrics": "BOYHOOD (Digz, Inc. Group)",
+      "composer": "BOYHOOD (Digz, Inc. Group)",
+      "arranger": "BOYHOOD (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-kcna-001",
+      "title": "Wonder Scale",
+      "displayTitle": "",
+      "lyrics": "Shouko Omori",
+      "composer": "Shu Kanematsu",
+      "arranger": "Shu Kanematsu"
+    },
+    {
+      "id": "music-char-kcna-001-inst",
+      "title": "Wonder Scale [Инструментал]",
+      "displayTitle": "Wonder Scale [Instrumental]",
+      "lyrics": "Shouko Omori",
+      "composer": "Shu Kanematsu",
+      "arranger": "Shu Kanematsu"
+    },
+    {
+      "id": "music-char-kcna-002",
+      "title": "Hibi, Hakkenteki Step!",
+      "displayTitle": "Hibi, Hakkenteki Step!",
+      "lyrics": "Hinako Tsubakiyama(Dream Monster)",
+      "composer": "Hinako Tsubakiyama(Dream Monster)",
+      "arranger": "Hinako Tsubakiyama(Dream Monster)"
+    },
+    {
+      "id": "music-char-kcna-002-inst",
+      "title": "Hibi, Hakkenteki Step! [Инструментал]",
+      "displayTitle": "Hibi, Hakkenteki Step! [Instrumental]",
+      "lyrics": "Hinako Tsubakiyama(Dream Monster)",
+      "composer": "Hinako Tsubakiyama(Dream Monster)",
+      "arranger": "Hinako Tsubakiyama(Dream Monster)"
+    },
+    {
+      "id": "music-char-kcna-003",
+      "title": "Akogare o Ippai",
+      "displayTitle": "",
+      "lyrics": "Ryuichi Takagi (Dream Monster)",
+      "composer": "Ryuichi Takagi (Dream Monster)",
+      "arranger": "Ryuichi Takagi (Dream Monster)"
+    },
+    {
+      "id": "music-char-kcna-003-inst",
+      "title": "Akogare o Ippai [Инструментал]",
+      "displayTitle": "Akogare o Ippai [Instrumental]",
+      "lyrics": "Ryuichi Takagi (Dream Monster)",
+      "composer": "Ryuichi Takagi (Dream Monster)",
+      "arranger": "Ryuichi Takagi (Dream Monster)"
+    },
+    {
+      "id": "music-char-kcna-004",
+      "title": "Sora to Yakusoku",
+      "displayTitle": "Sora to Yakusoku",
+      "lyrics": "Shouko Omori",
+      "composer": "Evan Call",
+      "arranger": "Evan Call"
+    },
+    {
+      "id": "music-char-kcna-004-inst",
+      "title": "Sora to Yakusoku [Инструментал]",
+      "displayTitle": "Sora to Yakusoku [Instrumental]",
+      "lyrics": "Shouko Omori",
+      "composer": "Evan Call",
+      "arranger": "Evan Call"
+    },
+    {
+      "id": "music-char-kcna-005",
+      "title": "Tokimeki no Solfege",
+      "displayTitle": "Tokimeki no Solfege",
+      "lyrics": "Cocoro. (Dream Monster)",
+      "composer": "Tomoari Taguma (Dream Monster) ",
+      "arranger": "Tomoari Taguma (Dream Monster) "
+    },
+    {
+      "id": "music-char-kcna-005-inst",
+      "title": "Tokimeki no Solfege [Инструментал]",
+      "displayTitle": "Tokimeki no Solfege [Instrumental]",
+      "lyrics": "Cocoro. (Dream Monster)",
+      "composer": "Tomoari Taguma (Dream Monster) ",
+      "arranger": "Tomoari Taguma (Dream Monster) "
+    },
+    {
+      "id": "music-char-kllj-001",
+      "title": "Hakusen",
+      "displayTitle": "",
+      "lyrics": "NayutalieN",
+      "composer": "NayutalieN",
+      "arranger": "NayutalieN"
+    },
+    {
+      "id": "music-char-kllj-001-inst",
+      "title": "Hakusen [Инструментал]",
+      "displayTitle": "Hakusen [Instrumental]",
+      "lyrics": "NayutalieN",
+      "composer": "NayutalieN",
+      "arranger": "NayutalieN"
+    },
+    {
+      "id": "music-char-kllj-002",
+      "title": "Kyokkou",
+      "displayTitle": "Kyokkou",
+      "lyrics": "Ryosuke Shigenaga",
+      "composer": "Ryosuke Shigenaga",
+      "arranger": "Ryosuke Shigenaga"
+    },
+    {
+      "id": "music-char-kllj-002-inst",
+      "title": "Kyokkou [Инструментал]",
+      "displayTitle": "Kyokkou [Instrumental]",
+      "lyrics": "Ryosuke Shigenaga",
+      "composer": "Ryosuke Shigenaga",
+      "arranger": "Ryosuke Shigenaga"
+    },
+    {
+      "id": "music-char-kllj-003",
+      "title": "Wake up!!",
+      "displayTitle": "Wake up!!",
+      "lyrics": "Touma Tanaka (Dream Monster)",
+      "composer": "Touma Tanaka (Dream Monster)",
+      "arranger": "Ash Inoue (Dream Monster), Touma Tanaka (Dream Monster)"
+    },
+    {
+      "id": "music-char-kllj-003-inst",
+      "title": "Wake up!! [Инструментал]",
+      "displayTitle": "Wake up!! [Instrumental]",
+      "lyrics": "Touma Tanaka (Dream Monster)",
+      "composer": "Touma Tanaka (Dream Monster)",
+      "arranger": "Ash Inoue (Dream Monster), Touma Tanaka (Dream Monster)"
+    },
+    {
+      "id": "music-char-kllj-004",
+      "title": "Atmosphere",
+      "displayTitle": "Atmosphere",
+      "lyrics": "Heart's Cry",
+      "composer": "Heart's Cry",
+      "arranger": "Heart's Cry"
+    },
+    {
+      "id": "music-char-kllj-004-inst",
+      "title": "Atmosphere [Инструментал]",
+      "displayTitle": "Atmosphere [Instrumental]",
+      "lyrics": "Heart's Cry",
+      "composer": "Heart's Cry",
+      "arranger": "Heart's Cry"
+    },
+    {
+      "id": "music-char-kllj-005",
+      "title": "Fragile Heart",
+      "displayTitle": "Fragile Heart",
+      "lyrics": "Asshu Inoue (Dream Monster)",
+      "composer": "Asshu Inoue (Dream Monster)",
+      "arranger": "Asshu Inoue (Dream Monster)"
+    },
+    {
+      "id": "music-char-kllj-005-inst",
+      "title": "Fragile Heart [Инструментал]",
+      "displayTitle": "Fragile Heart [Instrumental]",
+      "lyrics": "Asshu Inoue (Dream Monster)",
+      "composer": "Asshu Inoue (Dream Monster)",
+      "arranger": "Asshu Inoue (Dream Monster)"
+    },
+    {
+      "id": "music-char-shro-001",
+      "title": "Koukei",
+      "displayTitle": "",
+      "lyrics": "Hakushi Hasegawa",
+      "composer": "Hakushi Hasegawa",
+      "arranger": "Hakushi Hasegawa"
+    },
+    {
+      "id": "music-char-shro-001-inst",
+      "title": "Koukei [Инструментал]",
+      "displayTitle": "Koukei [Instrumental]",
+      "lyrics": "Hakushi Hasegawa",
+      "composer": "Hakushi Hasegawa",
+      "arranger": "Hakushi Hasegawa"
+    },
+    {
+      "id": "music-char-shro-002",
+      "title": "Contrast",
+      "displayTitle": "Contrast",
+      "lyrics": "Eri Sasaki",
+      "composer": "Eri Sasaki, Daiki Ukai, Hiro Nakamura",
+      "arranger": "Hiro Nakamura"
+    },
+    {
+      "id": "music-char-shro-002-inst",
+      "title": "Contrast [Инструментал]",
+      "displayTitle": "Contrast [Instrumental]",
+      "lyrics": "Eri Sasaki",
+      "composer": "Eri Sasaki, Daiki Ukai, Hiro Nakamura",
+      "arranger": "Hiro Nakamura"
+    },
+    {
+      "id": "music-char-shro-003",
+      "title": "Mekurume",
+      "displayTitle": "",
+      "lyrics": "Frog96",
+      "composer": "Frog96",
+      "arranger": "Frog96"
+    },
+    {
+      "id": "music-char-shro-003-inst",
+      "title": "Mekurume [Инструментал]",
+      "displayTitle": "Mekurume [Instrumental]",
+      "lyrics": "Frog96",
+      "composer": "Frog96",
+      "arranger": "Frog96"
+    },
+    {
+      "id": "music-char-shro-004",
+      "title": "SUNFADED",
+      "displayTitle": "SUNFADED",
+      "lyrics": "Hakushi Hasegawa",
+      "composer": "Hakushi Hasegawa",
+      "arranger": "Hakushi Hasegawa"
+    },
+    {
+      "id": "music-char-shro-004-inst",
+      "title": "SUNFADED [Инструментал]",
+      "displayTitle": "SUNFADED [Instrumental]",
+      "lyrics": "Hakushi Hasegawa",
+      "composer": "Hakushi Hasegawa",
+      "arranger": "Hakushi Hasegawa"
+    },
+    {
+      "id": "music-char-shro-005",
+      "title": "Contemporary no Dance",
+      "displayTitle": "Contemporary no Dance",
+      "lyrics": "mashima yuro",
+      "composer": "mashima yuro",
+      "arranger": "mashima yuro"
+    },
+    {
+      "id": "music-char-shro-005-inst",
+      "title": "Contemporary no Dance [Инструментал]",
+      "displayTitle": "Contemporary no Dance [Instrumental]",
+      "lyrics": "mashima yuro",
+      "composer": "mashima yuro",
+      "arranger": "mashima yuro"
+    },
+    {
+      "id": "music-char-ssmk-001",
+      "title": "Tame-Lie-One-Step",
+      "displayTitle": "",
+      "lyrics": "Yuuta Azuma",
+      "composer": "Yuuta Azuma",
+      "arranger": "Yuuta Azuma"
+    },
+    {
+      "id": "music-char-ssmk-001-inst",
+      "title": "Tame-Lie-One-Step [Инструментал]",
+      "displayTitle": "Tame-Lie-One-Step [Instrumental]",
+      "lyrics": "Yuuta Azuma",
+      "composer": "Yuuta Azuma",
+      "arranger": "Yuuta Azuma"
+    },
+    {
+      "id": "music-char-ssmk-002",
+      "title": "Kakushita Watashi",
+      "displayTitle": "Kakushita Watashi",
+      "lyrics": "Yuuta Azuma",
+      "composer": "Yuuta Azuma",
+      "arranger": "Yuuta Azuma"
+    },
+    {
+      "id": "music-char-ssmk-002-inst",
+      "title": "Kakushita Watashi [Инструментал]",
+      "displayTitle": "Kakushita Watashi [Instrumental]",
+      "lyrics": "Yuuta Azuma",
+      "composer": "Yuuta Azuma",
+      "arranger": "Yuuta Azuma"
+    },
+    {
+      "id": "music-char-ssmk-003",
+      "title": "Ride on Beat",
+      "displayTitle": "",
+      "lyrics": "Ryuuji Tanaka (Rebrast)",
+      "composer": "Ryuuji Tanaka (Rebrast), Hikaru Kakisako (Rebrast), Hirotaka Hayakawa (Rebrast)",
+      "arranger": "Hikaru Kakisako (Rebrast), Hirotaka Hayakawa (Rebrast)"
+    },
+    {
+      "id": "music-char-ssmk-003-inst",
+      "title": "Ride on Beat [Инструментал]",
+      "displayTitle": "Ride on Beat [Instrumental]",
+      "lyrics": "Ryuuji Tanaka (Rebrast)",
+      "composer": "Ryuuji Tanaka (Rebrast), Hikaru Kakisako (Rebrast), Hirotaka Hayakawa (Rebrast)",
+      "arranger": "Hikaru Kakisako (Rebrast), Hirotaka Hayakawa (Rebrast)"
+    },
+    {
+      "id": "music-char-ssmk-004",
+      "title": "Love & Joy",
+      "displayTitle": "Love & Joy",
+      "lyrics": "Yuuta Azuma",
+      "composer": "Kazuhiro Hara",
+      "arranger": "Kazuhiro Hara"
+    },
+    {
+      "id": "music-char-ssmk-004-inst",
+      "title": "Love & Joy [Инструментал]",
+      "displayTitle": "Love & Joy [Instrumental]",
+      "lyrics": "Yuuta Azuma",
+      "composer": "Kazuhiro Hara",
+      "arranger": "Kazuhiro Hara"
+    },
+    {
+      "id": "music-char-ssmk-005",
+      "title": "Kira Kira",
+      "displayTitle": "Kira Kira",
+      "lyrics": "Chica",
+      "composer": "Dirty Orange (Digz, Inc. Group)、MOMONADY、Chica",
+      "arranger": "Dirty Orange (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-ssmk-005-inst",
+      "title": "Kira Kira [Инструментал]",
+      "displayTitle": "Kira Kira [Instrumental]",
+      "lyrics": "Chica",
+      "composer": "Dirty Orange (Digz, Inc. Group)、MOMONADY、Chica",
+      "arranger": "Dirty Orange (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-ttmr-001",
+      "title": "Luna say maybe",
+      "displayTitle": "",
+      "lyrics": "Minami",
+      "composer": "Minami",
+      "arranger": "Minami, Katsuhiro Mafune"
+    },
+    {
+      "id": "music-char-ttmr-001-inst",
+      "title": "Luna say maybe [Инструментал]",
+      "displayTitle": "Luna say maybe [Instrumental]",
+      "lyrics": "Minami",
+      "composer": "Minami",
+      "arranger": "Minami, Katsuhiro Mafune"
+    },
+    {
+      "id": "music-char-ttmr-002",
+      "title": "IVY",
+      "displayTitle": "",
+      "lyrics": "tsumiki",
+      "composer": "tsumiki",
+      "arranger": "tsumiki"
+    },
+    {
+      "id": "music-char-ttmr-002-inst",
+      "title": "IVY [Инструментал]",
+      "displayTitle": "IVY [Instrumental]",
+      "lyrics": "tsumiki",
+      "composer": "tsumiki",
+      "arranger": "tsumiki"
+    },
+    {
+      "id": "music-char-ttmr-003",
+      "title": "Kanaetai, Koto Bakari",
+      "displayTitle": "",
+      "lyrics": "Touma Tanaka (Dream Monster)",
+      "composer": "Touma Tanaka (Dream Monster)",
+      "arranger": "Touma Tanaka (Dream Monster)"
+    },
+    {
+      "id": "music-char-ttmr-003-inst",
+      "title": "Kanaetai, Koto Bakari [Инструментал]",
+      "displayTitle": "Kanaetai, Koto Bakari [Instrumental]",
+      "lyrics": "Touma Tanaka (Dream Monster)",
+      "composer": "Touma Tanaka (Dream Monster)",
+      "arranger": "Touma Tanaka (Dream Monster)"
+    },
+    {
+      "id": "music-char-ttmr-004",
+      "title": "Ittai Itsukara",
+      "displayTitle": "Ittai Itsukara",
+      "lyrics": "Chippoke Ohashi",
+      "composer": "Chippoke Ohashi",
+      "arranger": "Ryuuichi Iwasaki"
+    },
+    {
+      "id": "music-char-ttmr-004-inst",
+      "title": "Ittai Itsukara [Инструментал]",
+      "displayTitle": "Ittai Itsukara [Instrumental]",
+      "lyrics": "Chippoke Ohashi",
+      "composer": "Chippoke Ohashi",
+      "arranger": "Ryuuichi Iwasaki"
+    },
+    {
+      "id": "music-char-ttmr-005",
+      "title": "Unhappy Light",
+      "displayTitle": "Unhappy Light",
+      "lyrics": "Aira (Dream Monster)",
+      "composer": "Aira (Dream Monster)",
+      "arranger": "Aira (Dream Monster)"
+    },
+    {
+      "id": "music-char-ttmr-005-inst",
+      "title": "Unhappy Light [Инструментал]",
+      "displayTitle": "Unhappy Light [Instrumental]",
+      "lyrics": "Aira (Dream Monster)",
+      "composer": "Aira (Dream Monster)",
+      "arranger": "Aira (Dream Monster)"
+    },
+    {
+      "id": "music-unit-begrazia-002",
+      "title": "Star-mine",
+      "displayTitle": "Star-mine",
+      "lyrics": "Jin",
+      "composer": "Jin",
+      "arranger": "Jin"
+    },
+    {
+      "id": "music-unit-begrazia-002 -inst",
+      "title": "Star-mine [Инструментал]",
+      "displayTitle": "Star-mine [Instrumental]",
+      "lyrics": "Jin",
+      "composer": "Jin",
+      "arranger": "Jin"
+    },
+    {
+      "id": "music-unit-kcnashro-003",
+      "title": "Michinaru Hirogaru",
+      "displayTitle": "Michinaru Hirogaru",
+      "lyrics": "Iyowa",
+      "composer": "Iyowa",
+      "arranger": "Iyowa"
+    },
+    {
+      "id": "music-unit-kcnashro-003-inst",
+      "title": "Michinaru Hirogaru [Инструментал]",
+      "displayTitle": "Michinaru Hirogaru [Instrumental]",
+      "lyrics": "Iyowa",
+      "composer": "Iyowa",
+      "arranger": "Iyowa"
+    },
+    {
+      "id": "music-unit-klljssmk-005",
+      "title": "Tokimeki Emotion",
+      "displayTitle": "Tokimeki Emotion",
+      "lyrics": "Yoh Kamiyama",
+      "composer": "Yoh Kamiyama",
+      "arranger": "Yoh Kamiyama"
+    },
+    {
+      "id": "music-unit-klljssmk-005-inst",
+      "title": "Tokimeki Emotion [Инструментал]",
+      "displayTitle": "Tokimeki Emotion [Instrumental]",
+      "lyrics": "Yoh Kamiyama",
+      "composer": "Yoh Kamiyama",
+      "arranger": "Yoh Kamiyama"
+    },
+    {
+      "id": "music-unit-reiris-001",
+      "title": "Ameagari no Iris",
+      "displayTitle": "Ameagari no Iris",
+      "lyrics": "Saori Codama",
+      "composer": "Satoru Kousaki (MONACA)",
+      "arranger": "Satoru Kousaki (MONACA)"
+    },
+    {
+      "id": "music-unit-reiris-001-inst",
+      "title": "Ameagari no Iris [Инструментал]",
+      "displayTitle": "Ameagari no Iris [Instrumental]",
+      "lyrics": "Saori Codama",
+      "composer": "Satoru Kousaki (MONACA)",
+      "arranger": "Satoru Kousaki (MONACA)"
+    }
+  ]
+}
