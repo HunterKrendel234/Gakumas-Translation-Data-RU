@@ -978,7 +978,7 @@
     },
     {
       "id": "p_story-001-amao-ending-normal-05",
-      "title": "[E End] Превратить неудачу в топливо",
+      "title": "[E End] Превратить неудачу в\nтопливо",
       "produceEventHintProduceConditionDescriptions": [
         " Place 6th in the final test"
       ]
@@ -1179,7 +1179,7 @@
     },
     {
       "id": "p_story-001-atbm-ending-normal-01",
-      "title": "[A End] Совершенно естественное желание",
+      "title": "[A End] Совершенно естественное\nжелание",
       "produceEventHintProduceConditionDescriptions": [
         " Reach Bond Lv 4 or higher ",
         " Place 1st in the final test"
@@ -1195,7 +1195,7 @@
     },
     {
       "id": "p_story-001-atbm-ending-normal-03",
-      "title": "[C End] Решимость доверить свою судьбу",
+      "title": "[C End] Решимость доверить свою\nсудьбу",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final test"
       ]
@@ -1657,7 +1657,7 @@
     },
     {
       "id": "p_story-001-hmsz-ending-normal-03",
-      "title": "[C End] Всё именно так, как мы хотели",
+      "title": "[C End] Всё именно так, как мы\nхотели",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final test"
       ]
@@ -2812,7 +2812,7 @@
     },
     {
       "id": "p_story-001-kcna-ending-normal-03",
-      "title": "[C End] Из тебя выйдет отличный айдол",
+      "title": "[C End] Из тебя выйдет отличный\nайдол",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final test"
       ]
@@ -3027,7 +3027,7 @@
     },
     {
       "id": "p_story-001-kllj-ending-normal-01",
-      "title": "[A End] Отпраздновать на широкую ногу",
+      "title": "[A End] Отпраздновать на широкую\nногу",
       "produceEventHintProduceConditionDescriptions": [
         " Reach Bond Lv 4 or higher ",
         " Place 1st in the final test"
@@ -3043,7 +3043,7 @@
     },
     {
       "id": "p_story-001-kllj-ending-normal-03",
-      "title": "[C End] Снятие стресса по-стилю Lilja",
+      "title": "[C End] Снятие стресса по-стилю\nLilja",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final test"
       ]
@@ -3266,7 +3266,7 @@
     },
     {
       "id": "p_story-001-shro-ending-normal-02",
-      "title": "[B End] Что по-настоящему страшно...",
+      "title": "[B End] Что по-настоящему\nстрашно...",
       "produceEventHintProduceConditionDescriptions": [
         " Reach Bond Lv 4 or higher ",
         " Place 2nd in the final test"
@@ -3489,7 +3489,7 @@
     },
     {
       "id": "p_story-001-ssmk-ending-normal-01",
-      "title": "[A End] Где находится следующая цель",
+      "title": "[A End] Где находится следующая\nцель",
       "produceEventHintProduceConditionDescriptions": [
         " Reach Bond Lv 4 or higher ",
         " Place 1st in the final test"
@@ -3497,7 +3497,7 @@
     },
     {
       "id": "p_story-001-ssmk-ending-normal-02",
-      "title": "[B End] Нет стены, что была бы слишком высокой",
+      "title": "[B End] Нет стены, что была бы\nслишком высокой",
       "produceEventHintProduceConditionDescriptions": [
         " Reach Bond Lv 4 or higher ",
         " Place 2nd in the final test"
@@ -3750,7 +3750,7 @@
     },
     {
       "id": "p_story-001-ttmr-ending-normal-05",
-      "title": "[E End] В следующий раз — моё любимое",
+      "title": "[E End] В следующий раз — моё\nлюбимое",
       "produceEventHintProduceConditionDescriptions": [
         " Place 6th in the final test"
       ]
@@ -3879,7 +3879,7 @@
     },
     {
       "id": "p_story-event-001_amao_activity_011",
-      "title": "Почему-то выглядит очень счастливой",
+      "title": "Почему-то выглядит очень\nсчастливой",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4014,7 +4014,7 @@
     },
     {
       "id": "p_story-event-001_atbm_activity_005",
-      "title": "Есть магазины, которые посоветуешь?",
+      "title": "Есть магазины, которые\nпосоветуешь?",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4139,7 +4139,7 @@
     },
     {
       "id": "p_story-event-001_atbm_school_008",
-      "title": "Число, которое не положительное и не отрицательное",
+      "title": "Число, которое не положительное и\nне отрицательное",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4544,7 +4544,7 @@
     },
     {
       "id": "p_story-event-001_hrnm_activity_012",
-      "title": "Если бы я не была твоей старшей сестрой",
+      "title": "Если бы я не была твоей старшей\nсестрой",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4604,7 +4604,7 @@
     },
     {
       "id": "p_story-event-001_hrnm_school_002",
-      "title": "Советы для непринуждённых разговоров",
+      "title": "Советы для непринуждённых\nразговоров",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5174,12 +5174,12 @@
     },
     {
       "id": "p_story-event-001_kcna_activity_006",
-      "title": "Введение в исследование актёрской игры",
+      "title": "Введение в исследование актёрской\nигры",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-event-001_kcna_activity_007",
-      "title": "Самостоятельные занятия, которыми я хочу заняться",
+      "title": "Самостоятельные занятия, которыми\nя хочу заняться",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5204,7 +5204,7 @@
     },
     {
       "id": "p_story-event-001_kcna_activity_012",
-      "title": "Пожалуйста, дай мне отблагодарить тебя!",
+      "title": "Пожалуйста, дай мне отблагодарить\nтебя!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5769,7 +5769,7 @@
     },
     {
       "id": "p_story-event-001_ssmk_school_004",
-      "title": "Чувство собственной несостоятельности",
+      "title": "Чувство собственной\nнесостоятельности",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12294,7 +12294,7 @@
     },
     {
       "id": "p_story-s_card-2-0007-01",
-      "title": "Эти двое во время обеденного перерыва",
+      "title": "Эти двое во время обеденного\nперерыва",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12319,7 +12319,7 @@
     },
     {
       "id": "p_story-s_card-2-0009-02",
-      "title": "Внезапно! Случайный? Челлендж на Выносливость",
+      "title": "Внезапно! Случайный? Челлендж на\nВыносливость",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12329,7 +12329,7 @@
     },
     {
       "id": "p_story-s_card-2-0010-02",
-      "title": "Когда устал, съешь что-нибудь сладкое",
+      "title": "Когда устал, съешь что-нибудь\nсладкое",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12344,7 +12344,7 @@
     },
     {
       "id": "p_story-s_card-2-0012-01",
-      "title": "Одноклассница, которую нельзя игнорировать",
+      "title": "Одноклассница, которую нельзя\nигнорировать",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12404,7 +12404,7 @@
     },
     {
       "id": "p_story-s_card-2-0018-01",
-      "title": "Стремиться стать мастером изгибов...?",
+      "title": "Стремиться стать мастером\nизгибов...?",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12484,7 +12484,7 @@
     },
     {
       "id": "p_story-s_card-2-0026-01",
-      "title": "Пожалуйста, позволь мне присоединиться",
+      "title": "Пожалуйста, позволь мне\nприсоединиться",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12499,7 +12499,7 @@
     },
     {
       "id": "p_story-s_card-2-0027-02",
-      "title": "Суровая сторона президента студсовета",
+      "title": "Суровая сторона президента\nстудсовета",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12599,7 +12599,7 @@
     },
     {
       "id": "p_story-s_card-2-0037-02",
-      "title": "Вечеринка с горячим котлом для всех!",
+      "title": "Вечеринка с горячим котлом для\nвсех!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12649,7 +12649,7 @@
     },
     {
       "id": "p_story-s_card-2-0042-02",
-      "title": "С любовью и заботой сделано вручную",
+      "title": "С любовью и заботой сделано\nвручную",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12809,7 +12809,7 @@
     },
     {
       "id": "p_story-s_card-2-0060-02",
-      "title": "Кусочек Mont Blanc — обязателен к пробе♪",
+      "title": "Кусочек Mont Blanc — обязателен к\nпробе♪",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12829,7 +12829,7 @@
     },
     {
       "id": "p_story-s_card-2-0062-02",
-      "title": "Спасибо приходит в виде горько-сладкого желе",
+      "title": "Спасибо приходит в виде\nгорько-сладкого желе",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13054,7 +13054,7 @@
     },
     {
       "id": "p_story-s_card-3-0006-03",
-      "title": "Старшая айдол, которой хочется восхищаться",
+      "title": "Старшая айдол, которой хочется\nвосхищаться",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13084,7 +13084,7 @@
     },
     {
       "id": "p_story-s_card-3-0008-03",
-      "title": "Давайте устроим вечеринку с крепами!",
+      "title": "Давайте устроим вечеринку с\nкрепами!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13294,7 +13294,7 @@
     },
     {
       "id": "p_story-s_card-3-0022-03",
-      "title": "Это тоже обязанность старосты общежития",
+      "title": "Это тоже обязанность старосты\nобщежития",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13309,12 +13309,12 @@
     },
     {
       "id": "p_story-s_card-3-0023-03",
-      "title": "А что, если бы мы поменялись местами",
+      "title": "А что, если бы мы поменялись\nместами",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-s_card-3-0024-01",
-      "title": "Партнёрство, на которое можно положиться?",
+      "title": "Партнёрство, на которое можно\nположиться?",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13324,7 +13324,7 @@
     },
     {
       "id": "p_story-s_card-3-0024-03",
-      "title": "Senpai, которая заботится о младших!",
+      "title": "Senpai, которая заботится о\nмладших!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13424,7 +13424,7 @@
     },
     {
       "id": "p_story-s_card-3-0031-02",
-      "title": "Как пользоваться бенгальскими огнями",
+      "title": "Как пользоваться бенгальскими\nогнями",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13559,7 +13559,7 @@
     },
     {
       "id": "p_story-s_card-3-0040-02",
-      "title": "Вкус, который я хочу тебе дать попробовать",
+      "title": "Вкус, который я хочу тебе дать\nпопробовать",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13634,12 +13634,12 @@
     },
     {
       "id": "p_story-s_card-3-0045-02",
-      "title": "Больше, чем раньше, больше, чем сейчас",
+      "title": "Больше, чем раньше, больше, чем\nсейчас",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-s_card-3-0045-03",
-      "title": "Давайте улыбнёмся и скажем, что у нас получится!",
+      "title": "Давайте улыбнёмся и скажем, что у\nнас получится!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13649,7 +13649,7 @@
     },
     {
       "id": "p_story-s_card-3-0046-02",
-      "title": "«Brightest Star» — единственная в своём роде",
+      "title": "«Brightest Star» — единственная в\nсвоём роде",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13674,7 +13674,7 @@
     },
     {
       "id": "p_story-s_card-3-0048-01",
-      "title": "Длинная очередь на День святого Валентина",
+      "title": "Длинная очередь на День святого\nВалентина",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13684,7 +13684,7 @@
     },
     {
       "id": "p_story-s_card-3-0048-03",
-      "title": "Шоколад, достойный называться сокровищем",
+      "title": "Шоколад, достойный называться\nсокровищем",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13889,7 +13889,7 @@
     },
     {
       "id": "p_story-s_card-3-0062-02",
-      "title": "По крайней мере, смелости им не занимать",
+      "title": "По крайней мере, смелости им не\nзанимать",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13899,7 +13899,7 @@
     },
     {
       "id": "p_story-s_card-3-0063-01",
-      "title": "Весёлая деятельность по продвижению♪",
+      "title": "Весёлая деятельность по\nпродвижению♪",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13909,7 +13909,7 @@
     },
     {
       "id": "p_story-s_card-3-0063-03",
-      "title": "Этот косплей-образ невозможно игнорировать",
+      "title": "Этот косплей-образ невозможно\nигнорировать",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13949,7 +13949,7 @@
     },
     {
       "id": "p_story-s_card-3-0066-02",
-      "title": "Тайна, которую мне хочется разгадать",
+      "title": "Тайна, которую мне хочется\nразгадать",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13969,7 +13969,7 @@
     },
     {
       "id": "p_story-s_card-3-0067-03",
-      "title": "В следующий раз давайте соревноваться как айдолы!",
+      "title": "В следующий раз давайте\nсоревноваться как айдолы!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14009,7 +14009,7 @@
     },
     {
       "id": "p_story-s_card-3-0070-02",
-      "title": "Чрезмерно заботливый вице-президент",
+      "title": "Чрезмерно заботливый\nвице-президент",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14019,7 +14019,7 @@
     },
     {
       "id": "p_story-s_card-3-0071-01",
-      "title": "Пора как следует раскачать атмосферу!",
+      "title": "Пора как следует раскачать\nатмосферу!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14054,7 +14054,7 @@
     },
     {
       "id": "p_story-s_card-3-0073-02",
-      "title": "Стремись поступить в старшую школу!",
+      "title": "Стремись поступить в старшую\nшколу!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14079,7 +14079,7 @@
     },
     {
       "id": "p_story-s_card-3-0075-01",
-      "title": "Чаепитие, чтобы поделиться чувствами",
+      "title": "Чаепитие, чтобы поделиться\nчувствами",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14119,12 +14119,12 @@
     },
     {
       "id": "p_story-s_card-3-0077-03",
-      "title": "Отношение, с которого стоит брать пример",
+      "title": "Отношение, с которого стоит брать\nпример",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-s_card-3-0078-01",
-      "title": "Брось вызов пришельцу в армрестлинге!",
+      "title": "Брось вызов пришельцу в\nармрестлинге!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14169,7 +14169,7 @@
     },
     {
       "id": "p_story-s_card-3-0081-01",
-      "title": "Обмен нашими подарками «я люблю тебя»",
+      "title": "Обмен нашими подарками «я люблю\nтебя»",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14194,7 +14194,7 @@
     },
     {
       "id": "p_story-s_card-3-0082-03",
-      "title": "Это просто внезапно пришло мне в голову!",
+      "title": "Это просто внезапно пришло мне в\nголову!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14214,7 +14214,7 @@
     },
     {
       "id": "p_story-s_card-3-0084-01",
-      "title": "Кажется, меня просто водили за нос!",
+      "title": "Кажется, меня просто водили за\nнос!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14229,7 +14229,7 @@
     },
     {
       "id": "p_story-s_card-3-0085-01",
-      "title": "Идеальные отношения Senpai и kouhai",
+      "title": "Идеальные отношения Senpai и\nkouhai",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14254,7 +14254,7 @@
     },
     {
       "id": "p_story-s_card-3-0086-03",
-      "title": "Примем вызов свидания с подругой детства!",
+      "title": "Примем вызов свидания с подругой\nдетства!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14269,7 +14269,7 @@
     },
     {
       "id": "p_story-s_card-3-0087-03",
-      "title": "Чтобы отплатить за оказанную мне доброту",
+      "title": "Чтобы отплатить за оказанную мне\nдоброту",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14404,7 +14404,7 @@
     },
     {
       "id": "p_story-s_card-3-0096-03",
-      "title": "Воспоминания о море, которое мы смотрели вместе",
+      "title": "Воспоминания о море, которое мы\nсмотрели вместе",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
