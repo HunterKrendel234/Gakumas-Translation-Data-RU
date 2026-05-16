@@ -34,7 +34,7 @@
     {
       "id": "help-competition",
       "order": 12,
-      "name": "Link Contest",
+      "name": "Линк-контест",
       "texts": [],
       "hiddenHelpList": false
     },
@@ -249,7 +249,7 @@
     {
       "id": "help-tower",
       "order": 13,
-      "name": "Idol Road",
+      "name": "Дорога Айдола",
       "texts": [],
       "hiddenHelpList": false
     }

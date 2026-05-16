@@ -1716,6 +1716,12 @@
       "acquisitionRouteDescription": "Pre-H.I.F Campaign Event Coin Gacha"
     },
     {
+      "id": "item-selection-ticket-006",
+      "name": "2nd Anniversary Selection Ticket",
+      "description": "Ticket exchangeable for Produce Idols and Support Cards at the ticket shop",
+      "acquisitionRouteDescription": "Shop, etc."
+    },
+    {
       "id": "item-staminaregen-1",
       "name": "AP-напиток",
       "description": "Восстанавливает 20 AP",

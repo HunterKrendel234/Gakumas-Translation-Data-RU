@@ -974,12 +974,24 @@
       "name": "Напоминание о наборе осколков Тэмари"
     },
     {
+      "id": "hidden_mission-produce-audition-failure_hmsz_initial-card",
+      "name": "Failed Misuzu's initial SSR produce"
+    },
+    {
+      "id": "hidden_mission-produce-audition-failure_jsna_initial-card",
+      "name": "Failed Sena's initial SSR produce"
+    },
+    {
       "id": "hidden_mission-produce-audition-failure_kcna_initial-card",
       "name": "Провалить продюсирование с начальными картами SSR/SR/R Чины"
     },
     {
       "id": "hidden_mission-produce-audition-failure_shro_initial-card",
       "name": "Провалить продюсирование с начальными картами SSR/SR/R Хиро"
+    },
+    {
+      "id": "hidden_mission-reward-sr-idol-present-support-memory-001",
+      "name": "Completed Hajime produce once"
     },
     {
       "id": "hidden_mission-tower_amao-clear_star_40",
