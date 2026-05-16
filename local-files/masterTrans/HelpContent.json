@@ -254,13 +254,6 @@
     },
     {
       "helpCategoryId": "help-contest",
-      "id": "contest-myunit",
-      "order": 6,
-      "name": "My Unit",
-      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4c576837c4b64a0fa4ca6c494af379aa9ddcc6ecd27467f69286f6446a9f26bf/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
-    },
-    {
-      "helpCategoryId": "help-contest",
       "id": "contest-preparation-period",
       "order": 7,
       "name": "Период подготовки",
