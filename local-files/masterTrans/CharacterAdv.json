@@ -66,6 +66,16 @@
       "regexp": "Lilja$"
     },
     {
+      "characterId": "krnh",
+      "name": "Rinha Kaya",
+      "regexp": "Rinha$"
+    },
+    {
+      "characterId": "ktko",
+      "name": "Kuroi Takao",
+      "regexp": "Takao"
+    },
+    {
       "characterId": "myu0",
       "name": "Mashiro Yu",
       "regexp": "Yu"
@@ -87,17 +97,17 @@
     },
     {
       "characterId": "trda",
-      "name": "Dance Trainer",
+      "name": "Тренер по танцам",
       "regexp": "Dance Trainer"
     },
     {
       "characterId": "trvi",
-      "name": "Visual Trainer",
+      "name": "Тренер визуала",
       "regexp": "Visual Trainer"
     },
     {
       "characterId": "trvo",
-      "name": "Vocal Trainer",
+      "name": "Тренер вокала",
       "regexp": "Vocal Trainer"
     },
     {

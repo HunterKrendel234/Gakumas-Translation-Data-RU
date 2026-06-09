@@ -199,6 +199,12 @@
       "description": "Гача ×10"
     },
     {
+      "id": "gasha_button-00890-wednesday-001-ticket-01",
+      "order": 2,
+      "name": "Снять с билета",
+      "description": "Снять с билета"
+    },
+    {
       "id": "gasha_button-010-item_01",
       "order": 3,
       "name": "Гача предметов ×10",
@@ -221,6 +227,12 @@
       "order": 2,
       "name": "Тянуть за предметы",
       "description": "Безлимитная гача"
+    },
+    {
+      "id": "gasha_button-continuous-002",
+      "order": 2,
+      "name": "Получить с Предметами",
+      "description": "Гача без ограничений"
     },
     {
       "id": "gasha_button-free-10-01",
@@ -331,6 +343,18 @@
       "description": "Гача ×10"
     },
     {
+      "id": "gasha_ticket_anniversary-001",
+      "order": 1,
+      "name": "Билет на пулл 10‑разового гача (2-й юбилей)",
+      "description": "10‑разовый гача"
+    },
+    {
+      "id": "gasha_ticket_anniversary-002",
+      "order": 1,
+      "name": "Гарантированный 10-пулл Гача билет с 2-й годовщиной Live Tour SSR P Айдол",
+      "description": "Ограниченный Live Tour SSR P Айдол, гарантированный 10-пулл"
+    },
+    {
       "id": "gasha_ticket_christmas-001",
       "order": 3,
       "name": "Использовать рождественские билеты гачи",
@@ -395,6 +419,18 @@
       "order": 1,
       "name": "Памятный билет SSR P-айдон MOIW2025",
       "description": "Гарантированный SSR Айдол ×1"
+    },
+    {
+      "id": "gasha_ticket_ssr_button-7",
+      "order": 1,
+      "name": "Пулл с 2-й годовщины - SSR Guaranteed Ticket",
+      "description": "SSR гарантирован - 1 раз"
+    },
+    {
+      "id": "gasha_ticket_ssr_button-8",
+      "order": 1,
+      "name": "Тяните с билетом 10‑разовый Гача – гарантированный SSR P Айдол из ограниченного сезона 2-го периода",
+      "description": "Гарантированный SSR Айдол 1‑раз"
     },
     {
       "id": "gasha_ticket_valentine-001",

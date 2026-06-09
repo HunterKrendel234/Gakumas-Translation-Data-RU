@@ -59,7 +59,7 @@
     },
     {
       "id": "effect_group-visible-exam_block-000",
-      "name": "Energy "
+      "name": "Энергия "
     },
     {
       "id": "effect_group-visible-exam_card_draw-000",
@@ -95,7 +95,7 @@
     },
     {
       "id": "effect_group-visible-exam_full_power-000",
-      "name": "Full Power "
+      "name": "Полная Сила "
     },
     {
       "id": "effect_group-visible-exam_gimmick_slump-000",
@@ -107,11 +107,11 @@
     },
     {
       "id": "effect_group-visible-exam_lesson_buff_reduce-000",
-      "name": "Focus -"
+      "name": "Концентрация -"
     },
     {
       "id": "effect_group-visible-exam_lesson_buff-000",
-      "name": "Focus "
+      "name": "Концентрация "
     },
     {
       "id": "effect_group-visible-exam_lesson_depend_block-000",
@@ -139,7 +139,7 @@
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
-      "name": "Excellent Shape "
+      "name": "Excellent shape"
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_reduce-000",
@@ -163,7 +163,7 @@
     },
     {
       "id": "effect_group-visible-exam_review-000",
-      "name": "Good Impression "
+      "name": "Хорошее Впечатление "
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_add_fix-000",
@@ -203,11 +203,11 @@
     },
     {
       "id": "effect_group-visible-produce_point_addition-000",
-      "name": "P-Points +"
+      "name": "P-Очки +"
     },
     {
       "id": "effect_group-visible-produce_point_reduce_fix-000",
-      "name": "P-Points -"
+      "name": "P-Очки -"
     },
     {
       "id": "effect_group-visible-shop_price_discount_multiple-000",
@@ -263,11 +263,11 @@
     },
     {
       "id": "effect_group-visible-visual_addition-000",
-      "name": "Visual +"
+      "name": "Визуал +"
     },
     {
       "id": "effect_group-visible-vocal_addition-000",
-      "name": "Vocal +"
+      "name": "Вокал +"
     }
   ]
 }

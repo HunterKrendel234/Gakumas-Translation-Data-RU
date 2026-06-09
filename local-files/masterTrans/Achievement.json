@@ -222,7 +222,7 @@
     },
     {
       "id": "achieve-i_card-atbm-2-000-02",
-      "name": "Single-Minded",
+      "name": "Сосредоточенный",
       "description": "【Single-Minded】Повысить уровень тренировки Цубамэ Амии до {threshold}"
     },
     {
@@ -232,17 +232,17 @@
     },
     {
       "id": "achieve-i_card-atbm-2-000-04",
-      "name": "Single-Minded +",
+      "name": "Сосредоточенный+",
       "description": "【Single-Minded】Повысить уровень тренировки Цубамэ Амии до {threshold}"
     },
     {
       "id": "achieve-i_card-atbm-2-000-05",
-      "name": "Single-Minded ++",
+      "name": "Сосредоточенный ++",
       "description": "【Single-Minded】Повысить уровень тренировки Цубамэ Амии до {threshold}"
     },
     {
       "id": "achieve-i_card-atbm-2-000-06",
-      "name": "Single-Minded +++",
+      "name": "Сосредоточенный +++",
       "description": "【Single-Minded】Повысить уровень тренировки Цубамэ Амии до {threshold}"
     },
     {
@@ -392,7 +392,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-002-06",
-      "name": "Kamugiroku +++",
+      "name": "Камугироку +++",
       "description": "【Kamurogiku】Повысить уровень SP-тренировки Котонэ Фудзиты до {threshold}"
     },
     {
@@ -492,27 +492,27 @@
     },
     {
       "id": "achieve-i_card-fktn-3-013-02",
-      "name": "Jiko Kouteikan Bakuage↑↑",
+      "name": "Jiko Kouteikan Bakuage↑↑Shuki Shuki Song",
       "description": "【Jiko Kouteikan Bakuage↑↑】Повысить уровень тренировки Котонэ Фудзиты до {threshold}"
     },
     {
       "id": "achieve-i_card-fktn-3-013-03",
-      "name": "SHUKISHUKISHUKI~♡",
+      "name": "SHUKISHUKI~♡",
       "description": "【Jiko Kouteikan Bakuage↑↑】Получить ранг A+ или выше {threshold} раз(а) в продюсировании Котонэ Фудзиты"
     },
     {
       "id": "achieve-i_card-fktn-3-013-04",
-      "name": "Jiko Kouteikan Bakuage↑↑ +",
+      "name": "Jiko Kouteikan Bakuage↑↑Shuki Shuki Song +",
       "description": "【Jiko Kouteikan Bakuage↑↑】Повысить уровень тренировки Котонэ Фудзиты до {threshold}"
     },
     {
       "id": "achieve-i_card-fktn-3-013-05",
-      "name": "Jiko Kouteikan Bakuage↑↑ ++",
+      "name": "Jiko Kouteikan Bakuage↑↑Shuki Shuki Song ++",
       "description": "【Jiko Kouteikan Bakuage↑↑】Повысить уровень тренировки Котонэ Фудзиты до {threshold}"
     },
     {
       "id": "achieve-i_card-fktn-3-013-06",
-      "name": "Jiko Kouteikan Bakuage↑↑ +++",
+      "name": "Jiko Kouteikan Bakuage↑↑Shuki Shuki Song +++",
       "description": "【Jiko Kouteikan Bakuage↑↑】Повысить уровень тренировки Котонэ Фудзиты до {threshold}"
     },
     {
@@ -552,7 +552,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-2-000-02",
-      "name": "Slowly, one step at a time",
+      "name": "Постепенно, шаг за шагом",
       "description": "【Slowly, one step at a time】Повысить уровень SP-тренировки Мисудзу Хатая до {threshold}"
     },
     {
@@ -562,17 +562,17 @@
     },
     {
       "id": "achieve-i_card-hmsz-2-000-04",
-      "name": "Slowly, one step at a time +",
+      "name": "Постепенно, шаг за шагом +",
       "description": "【Slowly, one step at a time】Повысить уровень SP-тренировки Мисудзу Хатая до {threshold}"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-05",
-      "name": "Slowly, one step at a time ++",
+      "name": "Постепенно, шаг за шагом ++",
       "description": "【Slowly, one step at a time】Повысить уровень SP-тренировки Мисудзу Хатая до {threshold}"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-06",
-      "name": "Slowly, one step at a time +++",
+      "name": "Медленно, шаг за шагом +++",
       "description": "【Slowly, one step at a time】Повысить уровень SP-тренировки Мисудзу Хатая до {threshold}"
     },
     {
@@ -852,7 +852,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-004-02",
-      "name": "Welcome to Hatsuboshi Onsen",
+      "name": "Добро пожаловать в Hatsuboshi Onsen",
       "description": "【Welcome to Hatsuboshi Onsen】Повысить уровень SP-тренировки Ринами Химэсаки до {threshold}"
     },
     {
@@ -862,17 +862,17 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-004-04",
-      "name": "Welcome to Hatsuboshi Onsen +",
+      "name": "Добро пожаловать в Hatsuboshi Onsen +",
       "description": "【Welcome to Hatsuboshi Onsen】Повысить уровень SP-тренировки Ринами Химэсаки до {threshold}"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-05",
-      "name": "Welcome to Hatsuboshi Onsen ++",
+      "name": "Добро пожаловать в Hatsuboshi Onsen ++",
       "description": "【Welcome to Hatsuboshi Onsen】Повысить уровень SP-тренировки Ринами Химэсаки до {threshold}"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-06",
-      "name": "Welcome to Hatsuboshi Onsen +++",
+      "name": "Добро пожаловать в Hatsuboshi Onsen +++",
       "description": "【Welcome to Hatsuboshi Onsen】Повысить уровень SP-тренировки Ринами Химэсаки до {threshold}"
     },
     {
@@ -996,6 +996,36 @@
       "description": "【36℃ U・B・U】Повысить уровень тренировки Ринами до {threshold}"
     },
     {
+      "id": "achieve-i_card-hrnm-3-017-01",
+      "name": "Чутьё старшей сестры",
+      "description": "【Garakuta Road】Пройди Финальный Экзамен в продюсировании Ринами Химесаки"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-02",
+      "name": "Garakuta Road",
+      "description": "Повысить уровень тренировки Rinami Himesaki до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-03",
+      "name": "Эта большая сестра хочет больше времени",
+      "description": "【Гаракут Роуд】Получить оценку А+ и выше за продюсирование Rinami Himesaki {threshold} раз"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-04",
+      "name": "Garakuta Road +",
+      "description": "Поднять стадию тренировок Rinami Himesaki до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-05",
+      "name": "Garakuta Road ++",
+      "description": "Поднять этап тренировок Ринами Химесаки до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-06",
+      "name": "Garakuta Road +++",
+      "description": "【Garakuta Road】Повысить тренировочный этап Rinami Himesaki до {threshold}"
+    },
+    {
       "id": "achieve-i_card-hski-2-000-04",
       "name": "Я лучшая! +",
       "description": "【I am the best!】Повысить уровень SP-тренировки Саки Ханами до {threshold}"
@@ -1027,7 +1057,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-001-01",
-      "name": "POW!",
+      "name": "ПАУ!",
       "description": "【Boom Boom Pow】Пройти финальный экзамен в продюсировании Саки Ханами"
     },
     {
@@ -1272,7 +1302,7 @@
     },
     {
       "id": "achieve-i_card-hume-2-000-02",
-      "name": "Idol, Start!",
+      "name": "Айдол, Старт!",
       "description": "【Idol, Start!】Повысить уровень SP-тренировки Умэ Ханами до {threshold}"
     },
     {
@@ -1282,17 +1312,17 @@
     },
     {
       "id": "achieve-i_card-hume-2-000-04",
-      "name": "Idol, Start! +",
+      "name": "Айдол, Старт! +",
       "description": "【Idol, Start!】Повысить уровень SP-тренировки Умэ Ханами до {threshold}"
     },
     {
       "id": "achieve-i_card-hume-2-000-05",
-      "name": "Idol, Start! ++",
+      "name": "Айдол, Старт! ++",
       "description": "【Idol, Start!】Повысить уровень SP-тренировки Умэ Ханами до {threshold}"
     },
     {
       "id": "achieve-i_card-hume-2-000-06",
-      "name": "Idol, Start! +++",
+      "name": "Айдол, Старт! +++",
       "description": "【Idol, Start!】Повысить уровень SP-тренировки Умэ Ханами до {threshold}"
     },
     {
@@ -1392,7 +1422,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-009-02",
-      "name": "Gu-Su-Pi",
+      "name": "Gu-Su-Pi ",
       "description": "【Gu-Su-Pi】Установить уровень тренировки Умэ Ханами до {threshold}"
     },
     {
@@ -1842,7 +1872,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-005-02",
-      "name": "Welcome to Hatsuboshi Onsen",
+      "name": "Добро пожаловать в Hatsuboshi Onsen",
       "description": "【Welcome to Hatsuboshi Onsen】Повысить уровень SP-тренировки Чины Курамото до {threshold}"
     },
     {
@@ -1852,17 +1882,17 @@
     },
     {
       "id": "achieve-i_card-kcna-3-005-04",
-      "name": "Welcome to Hatsuboshi Onsen +",
+      "name": "Добро пожаловать в Hatsuboshi Onsen +",
       "description": "【Welcome to Hatsuboshi Onsen】Повысить уровень SP-тренировки Чины Курамото до {threshold}"
     },
     {
       "id": "achieve-i_card-kcna-3-005-05",
-      "name": "Welcome to Hatsuboshi Onsen ++",
+      "name": "Добро пожаловать в Hatsuboshi Onsen ++",
       "description": "【Welcome to Hatsuboshi Onsen】Повысить уровень SP-тренировки Чины Курамото до {threshold}"
     },
     {
       "id": "achieve-i_card-kcna-3-005-06",
-      "name": "Welcome to Hatsuboshi Onsen +++",
+      "name": "Добро пожаловать в Hatsuboshi Onsen +++",
       "description": "【Welcome to Hatsuboshi Onsen】Повысить уровень SP-тренировки Чины Курамото до {threshold}"
     },
     {
@@ -2467,7 +2497,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-014-01",
-      "name": "DECORATE MAGIC",
+      "name": "Украшение магии",
       "description": "【Mirakuru na Nau(゚∀゚)!】Пройти финальный экзамен в продюсировании Хиро Шиносавы"
     },
     {
@@ -2732,7 +2762,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-014-06",
-      "name": "Mirakuru na Nau(゚∀゚)! +++",
+      "name": "Чудо на Нау (゚∀゚)! +++",
       "description": "【Mirakuru na Nau(゚∀゚)!】Повысить уровень тренировки Сумики Шиун до {threshold}"
     },
     {
@@ -2822,7 +2852,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-001-06",
-      "name": "Ivy +++",
+      "name": "IVY +++",
       "description": "【IVY】Повысить уровень SP-тренировки Темари Цукимуры до {threshold}"
     },
     {
@@ -3004,6 +3034,36 @@
       "id": "achieve-i_card-ttmr-3-016-06",
       "name": "Ittai Itsukara+++",
       "description": "【Ittai Itsukara】Повысить уровень SP-тренировки Темари Цукимуры до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-01",
+      "name": "Крутой айдол",
+      "description": "【Garakuta Road】Пройди Финальный Экзамен в продюсировании Temari Tsukimura"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-02",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Поднять стадию Тренировки Темари Цукимура до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-03",
+      "name": "Определение крутости Айдола",
+      "description": "【Garakuta Road】Получите оценку A+ или выше в продюсировании Темари Цукимура {threshold} раз"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-04",
+      "name": "Garakuta Road +",
+      "description": "【Garakuta Road】Поднимите тренировочный этап Temari Tsukimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-05",
+      "name": "Garakuta Road ++",
+      "description": "【Garakuta Road】Увеличьте этап тренировки Темари Цукимура до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-06",
+      "name": "Garakuta Road +++",
+      "description": "«Garakuta Road» Поднимите этап тренировки Темари Тсукимуры до {threshold}"
     },
     {
       "id": "achieve-m_amao-001",
@@ -3196,6 +3256,11 @@
       "description": "Войти в топ-100 ранга 7 в конкурсе"
     },
     {
+      "id": "achieve-o_028",
+      "name": "Дорога к H.I.F",
+      "description": "Достигните {threshold} прогресса на бонусной панели с H.I.F Bonus"
+    },
+    {
       "id": "achieve-p_common-001",
       "name": "Незаметный герой",
       "description": "Заработать всего {threshold} P-очков"
@@ -3341,6 +3406,21 @@
       "description": "Сдать финальный экзамен с рангом SSS+ или выше {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_common-030",
+      "name": "One Who Stays Close to Dreams",
+      "description": "Сдать Финальный Экзамен со счётом S4 или выше {threshold} раз"
+    },
+    {
+      "id": "achieve-p_common-031",
+      "name": "Тот, кто ведет к свету",
+      "description": "Пройди Финальный Экзамен со счётом S4+ или выше {threshold} раз"
+    },
+    {
+      "id": "achieve-p_common-032",
+      "name": "Лучший студент курса продюсера",
+      "description": "Разблокируйте «Prima Stella» для {threshold} айдолов."
+    },
+    {
       "id": "achieve-p_idol-amao-000",
       "name": "Настоящая я",
       "description": "Открыть True End с Мао Аримурой"
@@ -3349,6 +3429,11 @@
       "id": "achieve-p_idol-amao-000-1",
       "name": "Маленький принц",
       "description": "Открыть True End: N.I.A с Мао Аримурой"
+    },
+    {
+      "id": "achieve-p_idol-amao-000-2",
+      "name": "Смотри на меня",
+      "description": "Посмотреть True End : H.I.F с Mao Arimura"
     },
     {
       "id": "achieve-p_idol-amao-001",
@@ -3469,6 +3554,21 @@
       "id": "achieve-p_idol-amao-024",
       "name": "К одной мечте",
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Мао Аримурой {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-amao-025",
+      "name": "Позиция «Number 0»",
+      "description": "Сдать финальный экзамен H.I.F с Mao Arimura и получить оценку S4+ или выше"
+    },
+    {
+      "id": "achieve-p_idol-amao-026",
+      "name": "Дни, когда мы преследовали наши мечты вместе",
+      "description": "Пройди финальный экзамен H.I.F с Mao Arimura {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-amao-027",
+      "name": "Настоящий выбор",
+      "description": "Пройди Финальный Экзамен с Mao Arimura и получай оценку S4+ {threshold} раз"
     },
     {
       "id": "achieve-p_idol-atbm-000",
@@ -3596,6 +3696,11 @@
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Цубамэ Амаей {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-atbm-027",
+      "name": "Самый Старый Фанат",
+      "description": "Сдайте Финальный экзамен с Tsubame Amaya и получите оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-card-amao-002-1",
       "name": "Уникальность",
       "description": "【A Cool Beginning】Сдать финальный экзамен в продюсировании Мао Аримуры"
@@ -3677,7 +3782,7 @@
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-2",
-      "name": "clumsy trick",
+      "name": "Clumsy trick",
       "description": "【clumsy trick】Повысить уровень SP-тренировки Ринами Химэсаки до {threshold}"
     },
     {
@@ -3842,7 +3947,7 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-2",
-      "name": "Wolf",
+      "name": "Волк",
       "description": "【Wolf】Повысить уровень SP-тренировки Темари Цукимуры до {threshold}"
     },
     {
@@ -3996,6 +4101,11 @@
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Котоне Фудзитой {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-fktn-027",
+      "name": "Долг полностью погашён!",
+      "description": "Сдать Финальный Экзамен с Kotone Fujita и получить оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-hmsz-000",
       "name": "Лучший день в моей жизни",
       "description": "Открыть True End с Мисудзу Хатая"
@@ -4004,6 +4114,11 @@
       "id": "achieve-p_idol-hmsz-000-1",
       "name": "Готовы зевать вместе",
       "description": "Открыть True End: N.I.A с Мисудзу Хатая"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-000-2",
+      "name": "Фвааа… Аах",
+      "description": "Посмотреть True End : H.I.F с Misuzu Hataya"
     },
     {
       "id": "achieve-p_idol-hmsz-001",
@@ -4121,6 +4236,21 @@
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Мисудзу Хатая {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-hmsz-025",
+      "name": "Начало нашей мечты",
+      "description": "Сдайте Финальный Экзамен H.I.F с Misuzu Hataya и получите оценку S4+ или выше."
+    },
+    {
+      "id": "achieve-p_idol-hmsz-026",
+      "name": "Благословенное путешествие",
+      "description": "Пройди финальный Экзамен H.I.F с Misuzu Hataya за {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-027",
+      "name": "Отношения, вышедшие за рамки",
+      "description": "Сдайте Финальный Экзамен с Misuzu Hataya и получите оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-hrnm-000",
       "name": "Настоящие чувства",
       "description": "Открыть True End с Ринами Химэсаки"
@@ -4129,6 +4259,11 @@
       "id": "achieve-p_idol-hrnm-000-1",
       "name": "Ты взял мою руку",
       "description": "Открыть True End: N.I.A с Ринами Химэсаки"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-000-2",
+      "name": "В здравии и в болезни",
+      "description": "Посмотреть True End: H.I.F с Rinami Himesaki"
     },
     {
       "id": "achieve-p_idol-hrnm-001",
@@ -4249,6 +4384,21 @@
       "id": "achieve-p_idol-hrnm-024",
       "name": "Вернуться к истокам",
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Ринами Химэсаки {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-025",
+      "name": "Посмотрите под Prima Stella",
+      "description": "Сдайте финальный экзамен H.I.F с Ринами Химесакі и получите оценку S4+ или выше"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-026",
+      "name": "Время, пройденное вдвоём",
+      "description": "Сдать финальный экзамен H.I.F с Rinami Himesaki {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-027",
+      "name": "Настоящие чувства",
+      "description": "Сдайте финальный экзамен с Ринами Химесакі и получите оценку S4+ {threshold} раз"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -4381,6 +4531,11 @@
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Саки Ханами {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-hski-027",
+      "name": "Новый Saki Hanami",
+      "description": "Сдайте Финальный Экзамен с Saki Hanami и получите оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "Лучшая игра в моей жизни",
       "description": "Открыть True End с Умэ Ханами"
@@ -4504,6 +4659,11 @@
       "id": "achieve-p_idol-hume-024",
       "name": "Стать целью для сестры",
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Умэ Ханами {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-hume-027",
+      "name": "Не просто имитация — реальная сущность",
+      "description": "Пройди Финальный экзамен с Ume Hanami и получи оценку S4 или выше {threshold} раз"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -4636,6 +4796,11 @@
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Сеной Дзюо {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-jsna-027",
+      "name": "Амбиция выполнена",
+      "description": "Сдайте Финальный Экзамен с Sena Juo и получите оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "Айдол-новичок ур.1",
       "description": "Открыть True End с Чиной Курамото"
@@ -4761,6 +4926,11 @@
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Чиной Курамото {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-kcna-027",
+      "name": "Следующий Председатель СК, подтверждён!",
+      "description": "Сдать финальный экзамен с China Kuramoto и получить оценку S4+ {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-kllj-000",
       "name": "Свет",
       "description": "Открыть True End с Лильей Кацураги"
@@ -4884,6 +5054,11 @@
       "id": "achieve-p_idol-kllj-024",
       "name": "Критическая ситуация",
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Лильей Кацураги {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-kllj-027",
+      "name": "Рождение барьерного Айдола",
+      "description": "Пройди Финальный Экзамен с Lilja Katsuragi и получи оценку S4 или выше {threshold} раз"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -5016,6 +5191,11 @@
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Хиро Синосавой {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-shro-027",
+      "name": "Божественность как Айдол",
+      "description": "Сдать Финальный экзамен с Hiro Shinosawa и получить оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-ssmk-000",
       "name": "Сделан шаг",
       "description": "Открыть True End с Сумикой Сиун"
@@ -5141,6 +5321,11 @@
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Сумикой Сиун {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-ssmk-027",
+      "name": "Моё первое эгоистичное желание",
+      "description": "Сдайте Финальный Экзамен с Sumika Shiun и получите оценку S4 и выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-ttmr-000",
       "name": "Мой единственный Продюсер",
       "description": "Открыть True End с Темари Цукимурой"
@@ -5149,6 +5334,11 @@
       "id": "achieve-p_idol-ttmr-000-1",
       "name": "Выше оригинала",
       "description": "Открыть True End: N.I.A с Темари Цукимурой"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-000-2",
+      "name": "Лучший сегодняшний я",
+      "description": "Посмотреть True End : H.I.F с Temari Tsukimura"
     },
     {
       "id": "achieve-p_idol-ttmr-001",
@@ -5269,6 +5459,21 @@
       "id": "achieve-p_idol-ttmr-024",
       "name": "Я догоню тебя!",
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Темари Цукимурой {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-025",
+      "name": "Сокровище, которым я восхищался",
+      "description": "Сдайте Финальный Экзамен H.I.F с Темари Тсукимурой и получите оценку S4+ или выше"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-026",
+      "name": "Бег каждый день к цели",
+      "description": "Сдать финальный Экзамен H.I.F с Temari Tsukimura {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-027",
+      "name": "Преодоление моего восхищения",
+      "description": "Пройдите Финальный Экзамен с Темари Цукимурой и получите оценку S4 или выше {threshold} раз"
     },
     {
       "id": "achievement_char_hume-024",

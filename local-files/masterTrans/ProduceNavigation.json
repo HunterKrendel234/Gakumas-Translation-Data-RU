@@ -1310,6 +1310,461 @@
       "id": "p_navi-produce_group-002-normal",
       "number": 63,
       "description": "Похоже, Визуал сильно недостаточен\n<COLOR_VISUAL>Visual</color> занятия рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 1,
+      "description": "Вы, кажется, обладаете более чем достаточной\nспособностью пройти Экзамен!"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 2,
+      "description": "Похоже, ваш Вокал немного недостаточен\nДавайте улучшим его с помощью уроков <COLOR_VOCAL>Вокал</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 3,
+      "description": "Похоже, ваш Танец немного не хватает\nДавайте улучшить его с уроками <COLOR_DANCE>Танец</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 4,
+      "description": "Похоже, ваш Визуал немного слаб\nДавайте улучшим его с помощью уроков <COLOR_VISUAL>Визуал</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 5,
+      "description": "Похоже, у тебя немного не хватает вокала\nДавай улучшим это с помощью <COLOR_VOCAL>Вокал</color> уроков"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 6,
+      "description": "Похоже, у тебя немного не хватает танца\nДавай улучшим это с помощью <COLOR_DANCE>Танец</color> уроков"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 7,
+      "description": "Похоже, ваш Визуал немного не хватает\nДавайте улучшить это с помощью уроков по <COLOR_VISUAL>Визуалу</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 8,
+      "description": "Похоже, ваш Вокал немного не хватает\nДавайте улучшить это с помощью уроков по <COLOR_VOCAL>Вокалу</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 9,
+      "description": "Похоже, ваш Танец немного слаб.\nДавайте улучшим это с уроками <COLOR_DANCE>Танец</color>а"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 10,
+      "description": "Похоже, ваш Визуал немного не хватает\nДавайте улучшим это с помощью уроков <COLOR_VISUAL>Визуала</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 11,
+      "description": "Похоже, у тебя недостаточно вокала\nДавай улучшим это с уроками <COLOR_VOCAL>Вокал</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 12,
+      "description": "Похоже, у тебя недостаточно танца\nДавай улучшим это с уроками <COLOR_DANCE>Танец</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 13,
+      "description": "Похоже, ваш Визуал недостаточен.\nДавайте улучшим его с помощью уроков <COLOR_VISUAL>Visual</color>."
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 14,
+      "description": "Похоже, ваш Вокал недостаточен.\nДавайте улучшим его с помощью уроков <COLOR_VOCAL>Vocal</color>."
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 15,
+      "description": "Похоже, у вас недостаточно Танца\nДавайте улучшим это с помощью уроков <COLOR_DANCE>Dance</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 16,
+      "description": "Похоже, у вас недостаточно Визуала\nДавайте улучшим это с помощью уроков <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 17,
+      "description": "Похоже, у вас недостаточно вокала\nДавайте улучшим это с помощью уроков <COLOR_VOCAL>Вокал</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 18,
+      "description": "Похоже, у вас недостаточно танца\nДавайте улучшим это с помощью уроков <COLOR_DANCE>Танец</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 19,
+      "description": "Похоже, у вас недостаточно Визуала\nДавайте улучшим его с помощью уроков по <COLOR_VISUAL>Визуал</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 20,
+      "description": "Похоже, у вас недостаточно Вокала\nУроки по <COLOR_VOCAL>Вокал</color> рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 21,
+      "description": "Похоже, ваш танец недостаточен\n<COLOR_DANCE>Танец</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 22,
+      "description": "Похоже, ваш визуал недостаточен\n<COLOR_VISUAL>Визуал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 23,
+      "description": "Кажется, ваш вокал недостаточен\\n<COLOR_VOCAL>вокал</color>\n уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 24,
+      "description": "Кажется, ваш танец недостаточен\\n<COLOR_DANCE>танец</color>\n уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 25,
+      "description": "Похоже, ваш Визуал недостаточен\n<COLOR_VISUAL>Визуал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 26,
+      "description": "Похоже, ваш Вокал недостаточен\n<COLOR_VOCAL>Вокал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 27,
+      "description": "Похоже, ваш Танец недостаточен\n<COLOR_DANCE>Танец</color> Уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-audition",
+      "number": 28,
+      "description": "Похоже, ваш Визуал недостаточен\n<COLOR_VISUAL>Визуал</color> Уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 1,
+      "description": "Чем выше ваш Звездный потенциал,\nтем больше будет бонус к Счету"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 2,
+      "description": "Похоже, у вас закончилась выносливость\nПопробуйте более тщательно управлять своей выносливостью"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 3,
+      "description": "Похоже, возникла небольшая разница в Вокале\nУлучшим это с помощью уроков <COLOR_VOCAL>Вокал</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 4,
+      "description": "Похоже, возникла небольшая разница в Танце\nУлучшим это с помощью уроков <COLOR_DANCE>Танец</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 5,
+      "description": "Похоже, в Визуале есть небольшой пробел.\nДавайте улучшим его с помощью уроков <COLOR_VISUAL>Визуал</color>."
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 6,
+      "description": "Похоже, в Вокале есть небольшой пробел.\nДавайте улучшим его с помощью уроков <COLOR_VOCAL>Вокал</color>."
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 7,
+      "description": "Похоже, в Танце был небольшой пробел\nДавайте улучшим это с уроками <COLOR_DANCE>Танец</color>а"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 8,
+      "description": "Похоже, возник небольшой пробел в Визуал\nДавайте улучшим это с помощью уроков <COLOR_VISUAL>Visual</color>"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 9,
+      "description": "Похоже, в вокале был пробел\nУкрепим его уроками <COLOR_VOCAL>Вокал</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 10,
+      "description": "Похоже, в танце был пробел\nУкрепим его уроками <COLOR_DANCE>Танец</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 11,
+      "description": "Похоже, в Визуал появился пробел\nУкрепим его с помощью уроков <COLOR_VISUAL>Визуал</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 12,
+      "description": "Похоже, в Вокал появился пробел\nУкрепим его с помощью уроков <COLOR_VOCAL>Вокал</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 13,
+      "description": "Кажется, в Танце есть пробел.\nДавайте укрепим его с помощью уроков <COLOR_DANCE>Танец</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 14,
+      "description": "Кажется, в Визуале есть пробел.\nДавайте укрепим его с помощью уроков <COLOR_VISUAL>Визуал</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 15,
+      "description": "Кажется, в Вокале есть пробел\nУкрепим его с помощью уроков <COLOR_VOCAL>Вокал</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 16,
+      "description": "Кажется, в Танце есть пробел\nУкрепим его с помощью уроков <COLOR_DANCE>Танец</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 17,
+      "description": "Похоже, возникла пробел в Визуале\\nДавайте усилим\n его с помощью уроков <COLOR_VISUAL>Визуал</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 18,
+      "description": "Похоже, возникла пробел в Вокале\\nДавайте усилим\n его с помощью уроков <COLOR_VOCAL>Вокал</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 19,
+      "description": "Похоже, возникла разница в Танце\nДавайте укрепим его с помощью <COLOR_DANCE>Dance</color> уроков!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 20,
+      "description": "Похоже, возникла разница в Визуале\nДавайте укрепим его с помощью <COLOR_VISUAL>Visual</color> уроков!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 21,
+      "description": "Похоже, в навыке Вокал есть пробел\nДавайте усилим его уроками <COLOR_VOCAL>Вокал</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 22,
+      "description": "Похоже, в навыке Танец есть пробел\nДавайте усилим его уроками <COLOR_DANCE>Танец</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 23,
+      "description": "Похоже, в Визуале есть пропуск\nДавайте усилим его с помощью <COLOR_VISUAL>Визуал</color> уроков!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 24,
+      "description": "Похоже, в Вокале есть пропуск\nДавайте усилим его с помощью <COLOR_VOCAL>Вокал</color> уроков!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 25,
+      "description": "Похоже, в Танце появился пробел\nУкрепим это уроками <COLOR_DANCE>Танец</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-lose",
+      "number": 26,
+      "description": "Похоже, в Визуале появился пробел\nУкрепим это уроками <COLOR_VISUAL>Визуал</color>!"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 2,
+      "description": "У вас есть P-Очки. С консультацией,\nхотите подготовиться к экзамену?"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 3,
+      "description": "У вас есть P-Очки.\nПочему бы не проконсультироваться с учителем и подготовиться?"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 4,
+      "description": "Похоже, лучше сократить\nколичество карт навыка, которые у вас есть."
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 5,
+      "description": "У вас P-Очки.\nПочему бы не подготовиться через Специальную консультацию или Консультацию?"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 6,
+      "description": "Похоже лучше сократить\nколичество Карт навыка у вас"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 7,
+      "description": "Ваша способность уже достаточна. Чтобы добиться высоких счётов,\nрекомендуется повысить параметры специализации!"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 8,
+      "description": "Похоже, ваш Вокал немного недостаточен\n<COLOR_VOCAL>Вокал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 9,
+      "description": "Похоже, ваш Танец немного недостаточен\n<COLOR_DANCE>Танец</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 10,
+      "description": "Похоже, у вас немного не хватает визуала\n<COLOR_VISUAL>Визуал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 11,
+      "description": "Похоже, у вас немного не хватает вокала\n<COLOR_VOCAL>Вокал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 12,
+      "description": "Похоже, ваш Танец немного слабый\n<COLOR_DANCE>Танец</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 13,
+      "description": "Похоже, ваш Визуал немного слабый\n<COLOR_VISUAL>Визуал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 14,
+      "description": "Похоже, ваш вокал немного не хватает\n<COLOR_VOCAL>Вокал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 15,
+      "description": "Похоже, ваш танец немного не хватает\n<COLOR_DANCE>Танец</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 16,
+      "description": "Похоже, ваш Визуал немного не хватает\n<COLOR_VISUAL>Визуал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 17,
+      "description": "Похоже, ваш Вокал немного не хватает\n<COLOR_VOCAL>Вокал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 18,
+      "description": "Похоже, ваш Танец немного не хватает\n<COLOR_DANCE>Танец</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 19,
+      "description": "Похоже, ваш Визуал немного не хватает\n<COLOR_VISUAL>Визуал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 20,
+      "description": "Похоже, у вас недостаточно вокала\n<COLOR_VOCAL>Вокал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 21,
+      "description": "Похоже, у вас недостаточно танца\n<COLOR_DANCE>Танец</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 22,
+      "description": "Похоже, ваш Визуал не хватает\n<COLOR_VISUAL>Визуал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 23,
+      "description": "Похоже, ваш Вокал не хватает\n<COLOR_VOCAL>Вокал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 24,
+      "description": "Похоже, у тебя недостаточно Танца\n<COLOR_DANCE>Танец</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 25,
+      "description": "Похоже, у тебя недостаточно Визуала\n<COLOR_VISUAL>Визуал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 26,
+      "description": "Похоже, у тебя недостаточно Вокала\n<COLOR_VOCAL>Вокал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 27,
+      "description": "Похоже, у тебя недостаточно Танца\n<COLOR_DANCE>Танец</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 28,
+      "description": "Похоже, ваш Визуал не хватает\n<COLOR_VISUAL>Визуал</color> уроки рекомендуются."
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 29,
+      "description": "Похоже, ваш Вокал не хватает\n<COLOR_VOCAL>Вокал</color> уроки рекомендуются."
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 30,
+      "description": "Похоже, ваш Танец недостаточен\n<COLOR_DANCE>Dance</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 31,
+      "description": "Похоже, ваш Визуал недостаточен\n<COLOR_VISUAL>Visual</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 32,
+      "description": "Похоже, ваш Вокал недостаточен\n<COLOR_VOCAL>Вокал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 33,
+      "description": "Похоже, ваш Танец недостаточен\n<COLOR_DANCE>Танец</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 34,
+      "description": "Похоже, ваш Визуал недостаточен\n<COLOR_VISUAL>Визуал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 35,
+      "description": "Похоже, ваш Вокал недостаточен\n<COLOR_VOCAL>Вокал</color> уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 36,
+      "description": "Похоже, ваш Dance недостаточен\n<COLOR_DANCE>Dance</color> Уроки рекомендуются"
+    },
+    {
+      "id": "p_navi-produce_group-003-normal",
+      "number": 37,
+      "description": "Похоже, ваш Visual недостаточен\n<COLOR_VISUAL>Visual</color> Уроки рекомендуются"
     }
   ]
 }

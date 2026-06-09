@@ -31,7 +31,7 @@
     },
     {
       "eventType": "EventType_StoryEventBoxGasha",
-      "name": "Live Tour"
+      "name": "Тур Live"
     },
     {
       "eventType": "EventType_StoryEventGuildMission",
@@ -47,7 +47,7 @@
     },
     {
       "eventType": "EventType_Tour",
-      "name": "Live Tour"
+      "name": "Тур Live"
     },
     {
       "eventType": "EventType_Research",

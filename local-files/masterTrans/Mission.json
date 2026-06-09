@@ -326,6 +326,22 @@
       "name": "С Котоной Фудзитой сдать финальный экзамен и получить оценку SS или выше {threshold} раз(а)"
     },
     {
+      "id": "dearness_event_relaunch_hmsz-001",
+      "name": "Выполни Продюсирование с Вокалом Misuzu Hataya 1800+"
+    },
+    {
+      "id": "dearness_event_relaunch_hmsz-002",
+      "name": "Настрой Карты навыка {threshold} раз в Продюсировании Misuzu Hataya"
+    },
+    {
+      "id": "dearness_event_relaunch_hmsz-003",
+      "name": "Сдать уроки вокала {threshold} раз с Misuzu Hataya"
+    },
+    {
+      "id": "dearness_event_relaunch_hmsz-004",
+      "name": "С Misuzu Hataya сдайте Финальный Экзамен и получите ранг SS или выше {threshold} раз"
+    },
+    {
       "id": "dearness_event_relaunch_hrnm-001",
       "name": "Повысить Визуал до 1800+ и завершить продюсирование"
     },
@@ -974,12 +990,24 @@
       "name": "Напоминание о наборе осколков Тэмари"
     },
     {
+      "id": "hidden_mission-produce-audition-failure_hmsz_initial-card",
+      "name": "Неудачное начальное SSR-Продюсирование Misuzu"
+    },
+    {
+      "id": "hidden_mission-produce-audition-failure_jsna_initial-card",
+      "name": "Неудачное начальное SSR-Продюсирование Sena"
+    },
+    {
       "id": "hidden_mission-produce-audition-failure_kcna_initial-card",
       "name": "Провалить продюсирование с начальными картами SSR/SR/R Чины"
     },
     {
       "id": "hidden_mission-produce-audition-failure_shro_initial-card",
       "name": "Провалить продюсирование с начальными картами SSR/SR/R Хиро"
+    },
+    {
+      "id": "hidden_mission-reward-sr-idol-present-support-memory-001",
+      "name": "Завершено одно продюсирование Hajime"
     },
     {
       "id": "hidden_mission-tower_amao-clear_star_40",
@@ -1096,6 +1124,22 @@
     {
       "id": "hidden_mission-view-ending-c-hmsz",
       "name": "Получить C End с Мисузу"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-amao",
+      "name": "Достичь A-End с Mao"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-hmsz",
+      "name": "Посмотреть A-End с Misuzu"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-hrnm",
+      "name": "Получить A-End с Rinami"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-ttmr",
+      "name": "Достигните A-End с Temari Tsukimura"
     },
     {
       "id": "hidden_mission-view-ending-normal-a-amao",
@@ -1338,6 +1382,10 @@
       "name": "Достичь True End с Тэмари Цукимурой"
     },
     {
+      "id": "hidden_mission-view-ending-true-produce_group-003",
+      "name": "Достигните True End в H.I.F"
+    },
+    {
       "id": "hidden_mission-view-ending-true-shro",
       "name": "Просмотреть True End с Хиро"
     },
@@ -1376,6 +1424,26 @@
     {
       "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
       "name": "Выполнить SSR 1.5x Select Pickup гача «Story of Re;IRIS» {threshold} раз(а)"
+    },
+    {
+      "id": "hidden_mission-view-gasha-200limit-select-pickup-002",
+      "name": "Пулить SSR с 1,5× повышением шанса! Ограниченный 200‑пул выбор карты поддержки в гаче {threshold} раз"
+    },
+    {
+      "id": "limited-time-mission-001-mission_1",
+      "name": "Выполнить план: Чутьё Продюсирование в H.I.F {threshold} раз"
+    },
+    {
+      "id": "limited-time-mission-001-mission_2",
+      "name": "Выполнить план: продюсировать Логику в H.I.F {threshold} раз"
+    },
+    {
+      "id": "limited-time-mission-001-mission_3",
+      "name": "Выполнить план: продюсировать Аномалию в H.I.F {threshold} раз"
+    },
+    {
+      "id": "limited-time-mission-001-mission_4",
+      "name": "Пройди Финальный Экзамен со счётом S4+ или выше"
     },
     {
       "id": "mission-april-event-001-mission_1",
@@ -1940,6 +2008,42 @@
     {
       "id": "mission-continuous-gasha-mission_001-mission_3",
       "name": "Сдать финальный экзамен {threshold} раз(а)"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_11",
+      "name": "Выполни «H.I.F»: Квалификационные матчи в Продюсировании {threshold} раз"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_12",
+      "name": "Завершить «H.I.F»: финалы в продюсировании Mao Arimura за {threshold} раз"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_15",
+      "name": "Завершить «H.I.F»: финалы в продюсировании Misuzu Hataya за {threshold} раз"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_16",
+      "name": "Выполните «H.I.F»: Финалы в продюсировании Rinami Himesaki за {threshold} раз"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_24",
+      "name": "Выполните «H.I.F»: Финалы в продюсировании Temari Tsukimura за {threshold} раз"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_25",
+      "name": "Поднимите Ур. отношений Mao Arimura до {threshold}"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_28",
+      "name": "Поднимите Ур. отношений Misuzu Hataya до {threshold}"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_29",
+      "name": "Поднять Ур. отношения Rinami Himesaki до {threshold}"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_37",
+      "name": "Поднять Ур. отношения Temari Tsukimura до {threshold}"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_11",
@@ -7498,6 +7602,30 @@
       "name": "【36℃ U・B・U】Повысить этап тренировки Rinami до {threshold}"
     },
     {
+      "id": "achieve-i_card-hrnm-3-017-01",
+      "name": "【Garakuta Road】Сдать Финальный Экзамен в Продюсировании Ринами Химески"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-02",
+      "name": "【Garakuta Road】Увеличить этап тренировки Ринами Химески до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-03",
+      "name": "Получить оценку A+ или выше в продюсировании Rinami Himesaki {threshold} раз"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-04",
+      "name": "Поднять этап тренировки Rinami Himesaki до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-05",
+      "name": "【Garakuta Road】Поднять этап тренировки Rinami Himesaki до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-06",
+      "name": "【Garakuta Road】Поднять этап тренировки Rinami Himesaki до {threshold}"
+    },
+    {
       "id": "achieve-i_card-hski-2-000-04",
       "name": "【I am the best!】Установить SP этап тренировки Saki Hanami на {threshold}"
     },
@@ -9106,6 +9234,30 @@
       "name": "【Ittai Itsukara】Повысить SP этап тренировки Темари Цукимуры до {threshold}"
     },
     {
+      "id": "achieve-i_card-ttmr-3-018-01",
+      "name": "【Garakuta Road】Сдать финальный экзамен в продюсировании Темари Тсукимура"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-02",
+      "name": "【Garakuta Road】Увеличить этап тренировки Темари Тсукимура до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-03",
+      "name": "【Garakuta Road】Получить оценку A+ или выше в продюсировании Temari Tsukimura {threshold} раз"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-04",
+      "name": "【Garakuta Road】Поднимите Этап Тренировки Temari Tsukimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-05",
+      "name": "【Garakuta Road】Повысить этап тренировки Temari Tsukimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-06",
+      "name": "【Garakuta Road】Повысить этап тренировки Temari Tsukimura до {threshold}"
+    },
+    {
       "id": "achieve-m_amao-001",
       "name": "Получить {threshold} звёзд достижений Мао Аримуры"
     },
@@ -9258,6 +9410,10 @@
       "name": "Войти в топ-100 ранга 7 конкурса"
     },
     {
+      "id": "achieve-o_028",
+      "name": "Достигните {threshold} прогресса в бонусной панели с бонусом H.I.F"
+    },
+    {
       "id": "achieve-p_common-001",
       "name": "Собрать всего {threshold} P-очков"
     },
@@ -9374,12 +9530,28 @@
       "name": "Сдать финальный экзамен на SSS+ или выше {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_common-030",
+      "name": "Сдайте Финальный экзамен со счётом S4 или выше {threshold} раз"
+    },
+    {
+      "id": "achieve-p_common-031",
+      "name": "Сдать Экзамен с оценкой S4+ или выше {threshold} раз"
+    },
+    {
+      "id": "achieve-p_common-032",
+      "name": "Разблокировать «Prima Stella» для {threshold} айдолов"
+    },
+    {
       "id": "achieve-p_idol-amao-000",
       "name": "Посмотреть True End с Мао Аримурой"
     },
     {
       "id": "achieve-p_idol-amao-000-1",
       "name": "Посмотреть True End: NIA с Мао Аримурой"
+    },
+    {
+      "id": "achieve-p_idol-amao-000-2",
+      "name": "Посмотреть True End : H.I.F с Mao Arimura"
     },
     {
       "id": "achieve-p_idol-amao-001",
@@ -9476,6 +9648,18 @@
     {
       "id": "achieve-p_idol-amao-024",
       "name": "Сдать финальный экзамен с Мао Аримурой на SS+ или выше {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-amao-025",
+      "name": "Пройди финальный Экзамен H.I.F с Mao Arimura и получи оценку S4+ или выше"
+    },
+    {
+      "id": "achieve-p_idol-amao-026",
+      "name": "Сдать H.I.F Финальный Экзамен с Mao Arimura {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-amao-027",
+      "name": "Сдать Финальный Экзамен с Mao Arimura и получить оценку S4+ {threshold} раз"
     },
     {
       "id": "achieve-p_idol-atbm-000",
@@ -9576,6 +9760,10 @@
     {
       "id": "achieve-p_idol-atbm-024",
       "name": "Сдать финальный экзамен с Цубамэ Амая на SSS+ или выше {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-atbm-027",
+      "name": "Сдать Экзамен с Tsubame Amaya и получить оценку S4 или выше {threshold} раз"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -9898,12 +10086,20 @@
       "name": "Сдать финальный экзамен с Котоной Фудзитой на SSS+ или выше {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-fktn-027",
+      "name": "Сдать Экзамен с Kotone Fujita и получить оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-hmsz-000",
       "name": "Посмотреть True End с Мисудзу Хатая"
     },
     {
       "id": "achieve-p_idol-hmsz-000-1",
       "name": "Посмотреть True End: N.I.A с Мисудзу Хатая"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-000-2",
+      "name": "Посмотреть True End : H.I.F с Misuzu Hataya"
     },
     {
       "id": "achieve-p_idol-hmsz-001",
@@ -9998,12 +10194,28 @@
       "name": "Сдать финальный экзамен с Мисудзу Хатая на SSS+ или выше {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-hmsz-025",
+      "name": "Сдать H.I.F Финальный Экзамен с Misuzu Hataya и получить оценку S4+ или выше"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-026",
+      "name": "Сдать H.I.F Финальный Экзамен с Misuzu Hataya {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-027",
+      "name": "Сдать Финальный Экзамен с Misuzu Hataya и получить оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-hrnm-000",
       "name": "Посмотреть True End с Ринами Химэсаки"
     },
     {
       "id": "achieve-p_idol-hrnm-000-1",
       "name": "Посмотреть True End: NIA с Ринами Химэсаки"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-000-2",
+      "name": "Посмотреть True End: H.I.F с Rinami Himesaki"
     },
     {
       "id": "achieve-p_idol-hrnm-001",
@@ -10100,6 +10312,18 @@
     {
       "id": "achieve-p_idol-hrnm-024",
       "name": "Сдать финальный экзамен с Ринами Химэсаки на SSS+ или выше {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-025",
+      "name": "Сдайте финальный Экзамен H.I.F с Rinami Himesaki и получите оценку S4+ или выше."
+    },
+    {
+      "id": "achieve-p_idol-hrnm-026",
+      "name": "Сдать экзамен H.I.F с Rinami Himesaki {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-027",
+      "name": "Сдать экзамен с Rinami Himesaki и получить оценку S4 или выше {threshold} раз(а)"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -10206,6 +10430,10 @@
       "name": "Сдать финальный экзамен с Саки Ханами на SSS+ или выше {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-hski-027",
+      "name": "Пройди Финальный Экзамен с Saki Hanami и получи оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "Посмотреть True End с Умэ Ханами"
     },
@@ -10304,6 +10532,10 @@
     {
       "id": "achieve-p_idol-hume-024",
       "name": "Сдать финальный экзамен с Умэ Ханами на SSS+ или выше {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-hume-027",
+      "name": "Пройди Финальный Экзамен с Ume Hanami и получи оценку S4 или выше {threshold} раз"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -10410,6 +10642,10 @@
       "name": "Сдать финальный экзамен с Сеной Дзюо на SSS+ или выше {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-jsna-027",
+      "name": "Сдать Экзамен с Sena Juo и получить оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "Посмотреть True End с Чиной Курамото"
     },
@@ -10510,6 +10746,10 @@
       "name": "Сдать финальный экзамен с Чиной Курамото на SSS+ или выше {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-kcna-027",
+      "name": "Сдать Экзамен с China Kuramoto и получить оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-kllj-000",
       "name": "Посмотреть True End с Лильей Кацураги"
     },
@@ -10608,6 +10848,10 @@
     {
       "id": "achieve-p_idol-kllj-024",
       "name": "Сдать финальный экзамен с Лильей Кацураги на SSS+ или выше {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-kllj-027",
+      "name": "Сдать Финальный экзамен с Lilja Katsuragi и получить оценку S4 или выше {threshold} раз"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -10714,6 +10958,10 @@
       "name": "Сдать финальный экзамен с Хиро Шиносавой на SSS+ или выше {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-shro-027",
+      "name": "Сдать Финальный экзамен с Hiro Shinosawa и получить оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-ssmk-000",
       "name": "Посмотреть True End с Сумикой Сиун"
     },
@@ -10814,12 +11062,20 @@
       "name": "Сдать финальный экзамен с Сумикой Сиун на SSS+ или выше {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-ssmk-027",
+      "name": "Пройди Финальный Экзамен с Sumika Shiun и получи оценку S4 или выше {threshold} раз"
+    },
+    {
       "id": "achieve-p_idol-ttmr-000",
       "name": "Посмотреть True End с Темари Цукимурой"
     },
     {
       "id": "achieve-p_idol-ttmr-000-1",
       "name": "Посмотреть True End: NIA с Темари Цукимурой"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-000-2",
+      "name": "Посмотреть True End : H.I.F с Temari Tsukimura"
     },
     {
       "id": "achieve-p_idol-ttmr-001",
@@ -10916,6 +11172,18 @@
     {
       "id": "achieve-p_idol-ttmr-024",
       "name": "Сдать финальный экзамен с Темари Цукимурой на SSS+ или выше {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-025",
+      "name": "Сдать Финальный Экзамен H.I.F с Temari Tsukimura и получить оценку S4+ или выше"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-026",
+      "name": "Пройди финальный экзамен H.I.F с Темари Цукимурой {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-027",
+      "name": "Сдать финальный экзамен с Temari Tsukimura и получить оценку S4 или выше {threshold} раз"
     },
     {
       "id": "achievement_char_hume-024",

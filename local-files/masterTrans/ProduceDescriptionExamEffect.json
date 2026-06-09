@@ -332,6 +332,10 @@
     {
       "type": "ProduceExamEffectType_ExamReviewCountAdd",
       "name": "Добавлено хорошее впечатление "
+    },
+    {
+      "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
+      "name": "Повторить"
     }
   ]
 }

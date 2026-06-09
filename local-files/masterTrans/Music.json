@@ -118,6 +118,14 @@
       "arranger": "Ryutaro Fujinaga (Elements Garden)"
     },
     {
+      "id": "music-all-016-inst",
+      "title": "Garakuta Road [Instrumental]",
+      "displayTitle": "Garakuta Road [Instrumental]",
+      "lyrics": "Rou-hou",
+      "composer": "Takafumi Satou",
+      "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
       "id": "music-all-022-teama",
       "title": "SEARCH RIGHT",
       "displayTitle": "SEARCH RIGHT",
@@ -254,6 +262,14 @@
       "arranger": "Ryutaro Fujinaga (Elements Garden)"
     },
     {
+      "id": "music-all-amao-016",
+      "title": "Garakuta Road",
+      "displayTitle": "Garakuta Road",
+      "lyrics": "Rou-hou",
+      "composer": "Takafumi Satou",
+      "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
       "id": "music-all-atbm-001",
       "title": "Hajime",
       "displayTitle": "Hajime",
@@ -383,7 +399,7 @@
     },
     {
       "id": "music-all-fktn-012",
-      "title": "Mirakuru na Nau(゚∀゚)!",
+      "title": "Удивительно, правда! (゚∀゚)!",
       "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
@@ -510,6 +526,14 @@
       "arranger": "Ryutaro Fujinaga (Elements Garden)"
     },
     {
+      "id": "music-all-hmsz-016",
+      "title": "Garakuta Road",
+      "displayTitle": "Garakuta Road",
+      "lyrics": "Rou-hou",
+      "composer": "Takafumi Satou",
+      "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
       "id": "music-all-hrnm-001",
       "title": "Hajime",
       "displayTitle": "Hajime",
@@ -620,6 +644,14 @@
       "lyrics": "YOSHIKATSU SHUTO",
       "composer": "YOSHIKATSU SHUTO",
       "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-hrnm-016",
+      "title": "Garakuta Road",
+      "displayTitle": "Garakuta Road",
+      "lyrics": "Rou-hou",
+      "composer": "Takafumi Satou",
+      "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
     },
     {
       "id": "music-all-hski-001",
@@ -935,7 +967,7 @@
     },
     {
       "id": "music-all-jsna-012",
-      "title": "Mirakuru na Nau(゚∀゚)!",
+      "title": "Миракуру на Нау(゚∀゚)!",
       "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
@@ -1287,7 +1319,7 @@
     },
     {
       "id": "music-all-shro-012",
-      "title": "Mirakuru na Nau(゚∀゚)!",
+      "title": "Чудо сейчас(゚∀゚)!",
       "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
@@ -1550,6 +1582,14 @@
       "arranger": "Ryutaro Fujinaga (Elements Garden)"
     },
     {
+      "id": "music-all-ttmr-016",
+      "title": "Garakuta Road",
+      "displayTitle": "Garakuta Road",
+      "lyrics": "Rou-hou",
+      "composer": "Takafumi Satou",
+      "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
       "id": "music-bgm-01_001",
       "title": "Момент в классе",
       "displayTitle": "Moment in the Classroom",
@@ -1783,7 +1823,7 @@
     },
     {
       "id": "music-bgm-01_030",
-      "title": "Allegro",
+      "title": "Альерго",
       "displayTitle": "Allegro",
       "lyrics": "",
       "composer": "",
@@ -1934,6 +1974,22 @@
       "arranger": "SCRAMBLES"
     },
     {
+      "id": "music-char-atbm-003",
+      "title": "MY STAGE",
+      "displayTitle": "MY STAGE",
+      "lyrics": "MOMONADY",
+      "composer": "MOMONADY, YUKI FUNAKOSHI (Digz, Inc. Group)",
+      "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-atbm-003-inst",
+      "title": "МОЙ ЭТАП [Инструментальный]",
+      "displayTitle": "MY STAGE [Instrumental]",
+      "lyrics": "MOMONADY",
+      "composer": "MOMONADY, YUKI FUNAKOSHI (Digz, Inc. Group)",
+      "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
+    },
+    {
       "id": "music-char-fktn-001",
       "title": "Sekaiichi Kawaii Watashi",
       "displayTitle": "",
@@ -1983,7 +2039,7 @@
     },
     {
       "id": "music-char-fktn-004",
-      "title": "Jiko Kouteikan Bakuage↑↑ ",
+      "title": "Jiko Kouteikan Bakuage↑↑Shuki Shuki Song ",
       "displayTitle": "Jiko Kouteikan Bakuage↑↑ ",
       "lyrics": "Hige Driver",
       "composer": "Hige Driver",
@@ -2447,7 +2503,7 @@
     },
     {
       "id": "music-char-kcna-003",
-      "title": "Akogare o Ippai",
+      "title": "Полно страсти",
       "displayTitle": "",
       "lyrics": "Ryuichi Takagi (Dream Monster)",
       "composer": "Ryuichi Takagi (Dream Monster)",

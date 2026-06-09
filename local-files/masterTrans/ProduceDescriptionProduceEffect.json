@@ -286,6 +286,10 @@
       "name": "Начальные P-очки +"
     },
     {
+      "type": "ProduceEffectType_ParameterLimitUp",
+      "name": "Увеличение предела параметра"
+    },
+    {
       "type": "ProduceEffectType_ExamTurnUp",
       "name": "Количество ходов +"
     },
@@ -348,6 +352,26 @@
     {
       "type": "ProduceEffectType_AuditionNpcWeaken",
       "name": "Очки соперника "
+    },
+    {
+      "type": "ProduceEffectType_StarPermilUp",
+      "name": "Увеличение прироста Звездного потенциала"
+    },
+    {
+      "type": "ProduceEffectType_StarAddition",
+      "name": "Получить Звездный потенциал "
+    },
+    {
+      "type": "ProduceEffectType_ProduceCardChangeSelect",
+      "name": "Выбрать изменение "
+    },
+    {
+      "type": "ProduceEffectType_ProduceDrinkPossessLimitUp",
+      "name": "Увеличение лимита переноски напитков"
+    },
+    {
+      "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiplePermanent",
+      "name": "Скидка на карты навыков Консультации"
     }
   ]
 }

@@ -12,6 +12,12 @@
       "acquisitionRouteDescription": "TVCM Broadcast Login Bonus, TVCM Broadcast Missions"
     },
     {
+      "id": "item_gacha-coin-continuous-002",
+      "name": "H.I.F Празднование запуска – Неограниченная гача монета",
+      "description": "Монета, используемая в H.I.F Launch Celebration бесконечной Гаче",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-coin-box-gasha-event-001",
       "name": "Азасси",
       "description": "Предмет для ивент-гачи",
@@ -198,6 +204,12 @@
       "acquisitionRouteDescription": "Exchange Shop, etc."
     },
     {
+      "id": "item-dearness-unlock-hmsz",
+      "name": "Ключ записи Misuzu",
+      "description": "Предмет для разблокировки STEP3 Отношений Комму Misuzu Hataya",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
       "id": "item-dearness-unlock-hrnm",
       "name": "Ключ записи Ринами",
       "description": "Предмет для разблокировки коммью связи STEP3 Ринами Химэсаки",
@@ -288,6 +300,18 @@
       "acquisitionRouteDescription": "Produce, etc."
     },
     {
+      "id": "item-gachaticket-2nd-anniv-10-001",
+      "name": "2-й юбилей 10‑тян Gacha Ticket",
+      "description": "Билет для 10‑пул Гачи 2-го юбилея",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gachaticket-ssr-8",
+      "name": "Тикет гачи гарантированного 10‑разового броска для ограниченного SSR P-Айдола на 2-й годовщину Live Tour",
+      "description": "Тикет, используемый в гаче гарантированного 10‑разового броска для ограниченного SSR P-Айдола на 2-й годовщину Live Tour",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gasha_200limit-exchange",
       "name": "Билет обмена в честь трансляции Story of Re;IRIS",
       "description": "Соберите 20 для обмена на айдолов Продюсирования или Карты поддержки в магазине обмена",
@@ -316,6 +340,12 @@
       "name": "Платиновый билет на 10 призывов",
       "description": "Билет на 10 призывов для платиновой гачи",
       "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-200limit-10-2026-01",
+      "name": "Тикет обмена ко второму юбилею",
+      "description": "Соберите 20, чтобы обменять их за карту поддержки в пункте обмена предметами.",
+      "acquisitionRouteDescription": "200-Pull Limited Support Card Select Pickup Gacha"
     },
     {
       "id": "item-gashaticket-aniv-001",
@@ -378,6 +408,18 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-ssr-idol-fix_4",
+      "name": "Гарантированный билет Гача SSR P-Айдол (2-й юб.)",
+      "description": "Билет, используемый в гаче гарантированного билета Гача SSR P-Айдол (2-й юб.)",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-idol-fix_5",
+      "name": "Ограниченный билет гарантированного 10-выборов (SSR P-Айдол) «Второй период сезона»",
+      "description": "Билет, используемый в гаче «Второй период сезона» ограниченного SSR P-Айдола гарантированного 10-выборов",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-idol-season-fix_4",
       "name": "Сезонный билет SSR P-айдаола с гарантией",
       "description": "Билет для сезонной гачи SSR P-айдаола с гарантией",
@@ -405,6 +447,12 @@
       "id": "item-gashaticket-valentine-001",
       "name": "Валентиновский билет гачи на 10 призывов",
       "description": "Билет для гачи бонуса входа ко Дню святого Валентина",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-260520",
+      "name": "Билет Gakumas Wednesday Гача",
+      "description": "Билет, используемый в Gakumas Wednesday Гача.",
       "acquisitionRouteDescription": ""
     },
     {
@@ -1068,6 +1116,12 @@
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
+      "id": "item-piece-idol_hrnm-3-017",
+      "name": "[Garakuta Road] Rinami Himesaki Piece",
+      "description": "Предмет для пробуждения и разблокировки продюсируемых айдолов",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
       "id": "item-piece-idol_hski-1-000",
       "name": "[Campus Life] Фрагмент Саки Ханами",
       "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
@@ -1602,6 +1656,12 @@
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
+      "id": "item-piece-idol_ttmr-3-018",
+      "name": "[Garakuta Road] Temari Tsukimura Кусок",
+      "description": "Предмет, используемый для пробуждения и разблокирования продюсируемых айдолов.",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
       "id": "item-play-ticket_april-001",
       "name": "Билет испытания лайва",
       "description": "Предмет для прохождения этапов в особых событиях",
@@ -1620,10 +1680,46 @@
       "acquisitionRouteDescription": "Live Tour Event"
     },
     {
+      "id": "item-primastellamaterial-common-001",
+      "name": "Prima Stella Note",
+      "description": "Предмет, используемый для разблокировки «Prima Stella» продюсируемого айдола",
+      "acquisitionRouteDescription": "Item Exchange etc."
+    },
+    {
+      "id": "item-primastellamaterial-idol_amao-001",
+      "name": "Mao's Prima Stella Light",
+      "description": "Предмет, используемый для разблокировки «Prima Stella» Mao Arimura.",
+      "acquisitionRouteDescription": "Achievements, etc."
+    },
+    {
+      "id": "item-primastellamaterial-idol_hmsz-001",
+      "name": "Свет «Prima Stella» от Misuzu",
+      "description": "Предмет, используемый для разблокировки «Prima Stella» от Misuzu Hataya",
+      "acquisitionRouteDescription": "Achievements, etc."
+    },
+    {
+      "id": "item-primastellamaterial-idol_hrnm-001",
+      "name": "Rinami's Prima Stella Light",
+      "description": "Предмет, используемый для разблокировки «Prima Stella» Rinami Himesaki.",
+      "acquisitionRouteDescription": "Achievements, etc."
+    },
+    {
+      "id": "item-primastellamaterial-idol_ttmr-001",
+      "name": "Свет Prima Stella Temari",
+      "description": "Предмет для разблокировки «Prima Stella» Temari Tsukimura",
+      "acquisitionRouteDescription": "Achievements, etc."
+    },
+    {
       "id": "item-produce_continue-1",
       "name": "Билет повтора",
       "description": "Билет для повторов в Продюсировании",
       "acquisitionRouteDescription": "AP Exchange Shop, etc."
+    },
+    {
+      "id": "item-produce-produce_growth_panel_sheet_point-hif",
+      "name": "H.I.F Бонус Очки",
+      "description": "Очки для разблокировки и усиления H.I.F Бонусов",
+      "acquisitionRouteDescription": "Produce, etc."
     },
     {
       "id": "item-produce-reroll-memory-001",
@@ -1714,6 +1810,12 @@
       "name": "Выборочный билет карты поддержки",
       "description": "Билет для обмена на карты поддержки в обмене билетов",
       "acquisitionRouteDescription": "Pre-H.I.F Campaign Event Coin Gacha"
+    },
+    {
+      "id": "item-selection-ticket-006",
+      "name": "2-й юбилейный билет",
+      "description": "Билет для обмена на Продюсируемые Айдолы и Карты поддержки в магазине билетов",
+      "acquisitionRouteDescription": "Shop, etc."
     },
     {
       "id": "item-staminaregen-1",

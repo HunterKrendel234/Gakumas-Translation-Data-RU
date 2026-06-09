@@ -10,6 +10,10 @@
       "name": "Памятное MOIW 2025"
     },
     {
+      "id": "all-live-02",
+      "name": "Празднование 2-го периода выборочного экзамена H.I.F"
+    },
+    {
       "id": "amao-001",
       "name": "Мастер-достижение Мао"
     },
@@ -24,6 +28,10 @@
     {
       "id": "atbm-001",
       "name": "Мастер-достижение Цубамэ"
+    },
+    {
+      "id": "atbm-birthday-01",
+      "name": "Tsubame Amaya: День рождения 2026"
     },
     {
       "id": "common-aprilfool2026-001",
@@ -207,7 +215,7 @@
     },
     {
       "id": "hume-birthday-01",
-      "name": "Tsuyotsuyo Saikyou Exercise "
+      "name": "Tsuyotsuyo Saikyou Exercise"
     },
     {
       "id": "hume-birthday-02",

@@ -239,12 +239,12 @@
     {
       "id": "voice_group-amao-cstm-0120-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0120_01",
-      "title": "Mirakuru na Nau(゚∀゚)! "
+      "title": "Чудо в Нау(゚∀゚)!"
     },
     {
       "id": "voice_group-amao-cstm-0120-cmmn",
       "voiceAssetId": "sud_vo_system_amao-cstm-0120_02",
-      "title": "Mirakuru na Nau(゚∀゚)! "
+      "title": "Чудо в Нау(゚∀゚)!"
     },
     {
       "id": "voice_group-amao-cstm-0125-cmmn",
@@ -4055,6 +4055,66 @@
       "id": "voice_group-cidol-hrnm-3-016-detail",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0128_02",
       "title": "Смена ②"
+    },
+    {
+      "id": "voice_group-cidol-hrnm-3-017_home",
+      "voiceAssetId": "sud_vo_system_cidol-hrnm-3-017_home_cmmn-01",
+      "title": "Главная ①"
+    },
+    {
+      "id": "voice_group-cidol-hrnm-3-017_home",
+      "voiceAssetId": "sud_vo_system_cidol-hrnm-3-017_home_cmmn-02",
+      "title": "Главная ②"
+    },
+    {
+      "id": "voice_group-cidol-hrnm-3-017_home",
+      "voiceAssetId": "sud_vo_system_cidol-hrnm-3-017_home_cmmn-03",
+      "title": "Главная ③"
+    },
+    {
+      "id": "voice_group-cidol-hrnm-3-017-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hrnm-3-017_home_cmmn-01",
+      "title": "Главная ①"
+    },
+    {
+      "id": "voice_group-cidol-hrnm-3-017-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hrnm-3-017_home_cmmn-02",
+      "title": "Главная ②"
+    },
+    {
+      "id": "voice_group-cidol-hrnm-3-017-detail",
+      "voiceAssetId": "sud_vo_system_cidol-hrnm-3-017_home_cmmn-03",
+      "title": "Главная ③"
+    },
+    {
+      "id": "voice_group-cidol-hrnm-3-017-detail",
+      "voiceAssetId": "sud_vo_system_hrnm-cstm-0136_01",
+      "title": "Сменить ①"
+    },
+    {
+      "id": "voice_group-cidol-hrnm-3-017-detail",
+      "voiceAssetId": "sud_vo_system_hrnm-cstm-0136_02",
+      "title": "Сменить ②"
+    },
+    {
+      "id": "voice_group-cidol-hrnm-3-017-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hrnm-3-017_produce_schedule-01",
+      "title": "Продюсирование ①"
+    },
+    {
+      "id": "voice_group-cidol-hrnm-3-017-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hrnm-3-017_produce_schedule-02",
+      "title": "Продюсирование ②"
+    },
+    {
+      "id": "voice_group-cidol-hrnm-3-017-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hrnm-3-017_produce_schedule-03",
+      "title": "Продюсирование ③"
+    },
+    {
+      "id": "voice_group-cidol-hrnm-3-017-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-hrnm-3-017_produce_schedule-04",
+      "title": "Продюсирование ④"
     },
     {
       "id": "voice_group-cidol-hski-1-000-detail",
@@ -11077,6 +11137,66 @@
       "title": "Смена ②"
     },
     {
+      "id": "voice_group-cidol-ttmr-3-018_home",
+      "voiceAssetId": "sud_vo_system_cidol-ttmr-3-018_home_cmmn-01",
+      "title": "Главная ①"
+    },
+    {
+      "id": "voice_group-cidol-ttmr-3-018_home",
+      "voiceAssetId": "sud_vo_system_cidol-ttmr-3-018_home_cmmn-02",
+      "title": "Главная ②"
+    },
+    {
+      "id": "voice_group-cidol-ttmr-3-018_home",
+      "voiceAssetId": "sud_vo_system_cidol-ttmr-3-018_home_cmmn-03",
+      "title": "Главная ③"
+    },
+    {
+      "id": "voice_group-cidol-ttmr-3-018-detail",
+      "voiceAssetId": "sud_vo_system_cidol-ttmr-3-018_home_cmmn-01",
+      "title": "Главная ①"
+    },
+    {
+      "id": "voice_group-cidol-ttmr-3-018-detail",
+      "voiceAssetId": "sud_vo_system_cidol-ttmr-3-018_home_cmmn-02",
+      "title": "Главная ②"
+    },
+    {
+      "id": "voice_group-cidol-ttmr-3-018-detail",
+      "voiceAssetId": "sud_vo_system_cidol-ttmr-3-018_home_cmmn-03",
+      "title": "Главная ③"
+    },
+    {
+      "id": "voice_group-cidol-ttmr-3-018-detail",
+      "voiceAssetId": "sud_vo_system_ttmr-cstm-0136_01",
+      "title": "Смена ①"
+    },
+    {
+      "id": "voice_group-cidol-ttmr-3-018-detail",
+      "voiceAssetId": "sud_vo_system_ttmr-cstm-0136_02",
+      "title": "Смена ②"
+    },
+    {
+      "id": "voice_group-cidol-ttmr-3-018-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-ttmr-3-018_produce_schedule-01",
+      "title": "Продюсирование ①"
+    },
+    {
+      "id": "voice_group-cidol-ttmr-3-018-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-ttmr-3-018_produce_schedule-02",
+      "title": "Продюсирование ②"
+    },
+    {
+      "id": "voice_group-cidol-ttmr-3-018-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-ttmr-3-018_produce_schedule-03",
+      "title": "Продюсирование ③"
+    },
+    {
+      "id": "voice_group-cidol-ttmr-3-018-produce_schedule",
+      "voiceAssetId": "sud_vo_system_cidol-ttmr-3-018_produce_schedule-04",
+      "title": "Продюсирование ④"
+    },
+    {
       "id": "voice_group-fktn-casl-0000-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-casl-0000_01",
       "title": "Повседневный наряд"
@@ -11199,22 +11319,22 @@
     {
       "id": "voice_group-fktn-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0072_01",
-      "title": "Golden Glow"
+      "title": "Золотой блеск"
     },
     {
       "id": "voice_group-fktn-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0072_02",
-      "title": "Golden Glow"
+      "title": "Золотой блеск"
     },
     {
       "id": "voice_group-fktn-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0073_01",
-      "title": "Platinum Glow"
+      "title": "Платиновый блеск"
     },
     {
       "id": "voice_group-fktn-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0073_02",
-      "title": "Platinum Glow"
+      "title": "Платиновый блеск"
     },
     {
       "id": "voice_group-fktn-cstm-0075-cmmn",
@@ -11249,12 +11369,12 @@
     {
       "id": "voice_group-fktn-cstm-0086-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0086_01",
-      "title": "Jiko Kouteikan Bakuage↑↑"
+      "title": "Jiko Kouteikan Bakuage↑↑Shuki Shuki Song"
     },
     {
       "id": "voice_group-fktn-cstm-0086-cmmn",
       "voiceAssetId": "sud_vo_system_fktn-cstm-0086_02",
-      "title": "Jiko Kouteikan Bakuage↑↑"
+      "title": "Jiko Kouteikan Bakuage↑↑Shuki Shuki Song"
     },
     {
       "id": "voice_group-fktn-cstm-0110-cmmn",
@@ -11469,12 +11589,12 @@
     {
       "id": "voice_group-hmsz-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0072_01",
-      "title": "Golden Glow"
+      "title": "Золотое сияние"
     },
     {
       "id": "voice_group-hmsz-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_hmsz-cstm-0072_02",
-      "title": "Golden Glow"
+      "title": "Золотое сияние"
     },
     {
       "id": "voice_group-hmsz-cstm-0073-cmmn",
@@ -11759,22 +11879,22 @@
     {
       "id": "voice_group-hrnm-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0072_01",
-      "title": "Golden Glow"
+      "title": "Золотой свет"
     },
     {
       "id": "voice_group-hrnm-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0072_02",
-      "title": "Golden Glow"
+      "title": "Золотой свет"
     },
     {
       "id": "voice_group-hrnm-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0073_01",
-      "title": "Platinum Glow"
+      "title": "Платиновый блеск"
     },
     {
       "id": "voice_group-hrnm-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0073_02",
-      "title": "Platinum Glow"
+      "title": "Платиновый блеск"
     },
     {
       "id": "voice_group-hrnm-cstm-0075-cmmn",
@@ -11885,6 +12005,16 @@
       "id": "voice_group-hrnm-cstm-0128-cmmn",
       "voiceAssetId": "sud_vo_system_hrnm-cstm-0128_02",
       "title": "ENDLESS DANCE"
+    },
+    {
+      "id": "voice_group-hrnm-cstm-0136-cmmn",
+      "voiceAssetId": "sud_vo_system_hrnm-cstm-0136_01",
+      "title": "Garakuta Road"
+    },
+    {
+      "id": "voice_group-hrnm-cstm-0136-cmmn",
+      "voiceAssetId": "sud_vo_system_hrnm-cstm-0136_02",
+      "title": "Garakuta Road"
     },
     {
       "id": "voice_group-hrnm-othr-0002-cmmn",
@@ -12039,22 +12169,22 @@
     {
       "id": "voice_group-hski-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0072_01",
-      "title": "Golden Glow"
+      "title": "Золотой блеск"
     },
     {
       "id": "voice_group-hski-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0072_02",
-      "title": "Golden Glow"
+      "title": "Золотой блеск"
     },
     {
       "id": "voice_group-hski-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0073_01",
-      "title": "Platinum Glow"
+      "title": "Платиновый свет"
     },
     {
       "id": "voice_group-hski-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_hski-cstm-0073_02",
-      "title": "Platinum Glow"
+      "title": "Платиновый свет"
     },
     {
       "id": "voice_group-hski-cstm-0075-cmmn",
@@ -12329,12 +12459,12 @@
     {
       "id": "voice_group-hume-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0072_01",
-      "title": "Golden Glow"
+      "title": "Золотой свет"
     },
     {
       "id": "voice_group-hume-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_hume-cstm-0072_02",
-      "title": "Golden Glow"
+      "title": "Золотой свет"
     },
     {
       "id": "voice_group-hume-cstm-0073-cmmn",
@@ -12609,12 +12739,12 @@
     {
       "id": "voice_group-jsna-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0072_01",
-      "title": "Golden Glow"
+      "title": "Золотой свет"
     },
     {
       "id": "voice_group-jsna-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_jsna-cstm-0072_02",
-      "title": "Golden Glow"
+      "title": "Золотой свет"
     },
     {
       "id": "voice_group-jsna-cstm-0073-cmmn",
@@ -12919,12 +13049,12 @@
     {
       "id": "voice_group-kcna-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0072_01",
-      "title": "Golden Glow"
+      "title": "Золотой свет"
     },
     {
       "id": "voice_group-kcna-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0072_02",
-      "title": "Golden Glow"
+      "title": "Золотой свет"
     },
     {
       "id": "voice_group-kcna-cstm-0073-cmmn",
@@ -13019,12 +13149,12 @@
     {
       "id": "voice_group-kcna-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0122_01",
-      "title": "Mirakuru na Nau(゚∀゚)! "
+      "title": "Mirakuru na Nau(゚∀゚)!"
     },
     {
       "id": "voice_group-kcna-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-cstm-0122_02",
-      "title": "Mirakuru na Nau(゚∀゚)! "
+      "title": "Mirakuru na Nau(゚∀゚)!"
     },
     {
       "id": "voice_group-kcna-cstm-0125-cmmn",
@@ -13059,12 +13189,12 @@
     {
       "id": "voice_group-kcna-othr-0002-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-othr-0002_01",
-      "title": "【Hatsuboshi Onsen】China"
+      "title": "【Hatsuboshi Onsen】Китай"
     },
     {
       "id": "voice_group-kcna-othr-0002-cmmn",
       "voiceAssetId": "sud_vo_system_kcna-othr-0002_02",
-      "title": "【Hatsuboshi Onsen】China"
+      "title": "【Hatsuboshi Onsen】Китай"
     },
     {
       "id": "voice_group-kcna-trng-0000-cmmn",
@@ -13209,22 +13339,22 @@
     {
       "id": "voice_group-kllj-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0072_01",
-      "title": "Golden Glow"
+      "title": "Золотой свет"
     },
     {
       "id": "voice_group-kllj-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0072_02",
-      "title": "Golden Glow"
+      "title": "Золотой свет"
     },
     {
       "id": "voice_group-kllj-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0073_01",
-      "title": "Platinum Glow"
+      "title": "Платиновый Блеск"
     },
     {
       "id": "voice_group-kllj-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0073_02",
-      "title": "Platinum Glow"
+      "title": "Платиновый Блеск"
     },
     {
       "id": "voice_group-kllj-cstm-0075-cmmn",
@@ -13309,12 +13439,12 @@
     {
       "id": "voice_group-kllj-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0122_01",
-      "title": "Mirakuru na Nau(゚∀゚)! "
+      "title": "Mirakuru na Nau(゚∀゚)!"
     },
     {
       "id": "voice_group-kllj-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_kllj-cstm-0122_02",
-      "title": "Mirakuru na Nau(゚∀゚)! "
+      "title": "Mirakuru na Nau(゚∀゚)!"
     },
     {
       "id": "voice_group-kllj-cstm-0125-cmmn",
@@ -13569,22 +13699,22 @@
     {
       "id": "voice_group-shro-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0072_01",
-      "title": "Golden Glow"
+      "title": "Золотой блеск"
     },
     {
       "id": "voice_group-shro-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0072_02",
-      "title": "Golden Glow"
+      "title": "Золотой блеск"
     },
     {
       "id": "voice_group-shro-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0073_01",
-      "title": "Platinum Glow"
+      "title": "Платиновый блеск"
     },
     {
       "id": "voice_group-shro-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0073_02",
-      "title": "Platinum Glow"
+      "title": "Платиновый блеск"
     },
     {
       "id": "voice_group-shro-cstm-0075-cmmn",
@@ -13669,12 +13799,12 @@
     {
       "id": "voice_group-shro-cstm-0120-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0120_01",
-      "title": "Mirakuru na Nau(゚∀゚)! "
+      "title": "Mirakuru na Nau(゚∀゚)!"
     },
     {
       "id": "voice_group-shro-cstm-0120-cmmn",
       "voiceAssetId": "sud_vo_system_shro-cstm-0120_02",
-      "title": "Mirakuru na Nau(゚∀゚)! "
+      "title": "Mirakuru na Nau(゚∀゚)!"
     },
     {
       "id": "voice_group-shro-cstm-0125-cmmn",
@@ -13854,7 +13984,7 @@
     {
       "id": "voice_group-ssmk-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0072_01",
-      "title": "Golden Glow"
+      "title": "Золотой свет"
     },
     {
       "id": "voice_group-ssmk-cstm-0072-cmmn",
@@ -13869,7 +13999,7 @@
     {
       "id": "voice_group-ssmk-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0073_02",
-      "title": "Platinum Glow"
+      "title": "Платиновый блеск"
     },
     {
       "id": "voice_group-ssmk-cstm-0075-cmmn",
@@ -13969,7 +14099,7 @@
     {
       "id": "voice_group-ssmk-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_ssmk-cstm-0122_02",
-      "title": "Mirakuru na Nau(゚∀゚)! "
+      "title": "Миракура на Нау(゚∀゚)!"
     },
     {
       "id": "voice_group-ssmk-cstm-0125-cmmn",
@@ -14164,22 +14294,22 @@
     {
       "id": "voice_group-ttmr-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0072_01",
-      "title": "Golden Glow"
+      "title": "Золотой свет"
     },
     {
       "id": "voice_group-ttmr-cstm-0072-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0072_02",
-      "title": "Golden Glow"
+      "title": "Золотой блеск"
     },
     {
       "id": "voice_group-ttmr-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0073_01",
-      "title": "Platinum Glow"
+      "title": "Платиновый блеск"
     },
     {
       "id": "voice_group-ttmr-cstm-0073-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0073_02",
-      "title": "Platinum Glow"
+      "title": "Платиновый блеск"
     },
     {
       "id": "voice_group-ttmr-cstm-0075-cmmn",
@@ -14274,12 +14404,12 @@
     {
       "id": "voice_group-ttmr-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0122_01",
-      "title": "Mirakuru na Nau(゚∀゚)! "
+      "title": "Чудо сейчас (゚∀゚)!"
     },
     {
       "id": "voice_group-ttmr-cstm-0122-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0122_02",
-      "title": "Mirakuru na Nau(゚∀゚)! "
+      "title": "Чудо, сейчас(゚∀゚)!"
     },
     {
       "id": "voice_group-ttmr-cstm-0123-cmmn",
@@ -14300,6 +14430,16 @@
       "id": "voice_group-ttmr-cstm-0128-cmmn",
       "voiceAssetId": "sud_vo_system_ttmr-cstm-0128_02",
       "title": "ENDLESS DANCE"
+    },
+    {
+      "id": "voice_group-ttmr-cstm-0136-cmmn",
+      "voiceAssetId": "sud_vo_system_ttmr-cstm-0136_01",
+      "title": "Garakuta Road"
+    },
+    {
+      "id": "voice_group-ttmr-cstm-0136-cmmn",
+      "voiceAssetId": "sud_vo_system_ttmr-cstm-0136_02",
+      "title": "Garakuta Road"
     },
     {
       "id": "voice_group-ttmr-othr-0002-cmmn",

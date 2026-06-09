@@ -18,6 +18,14 @@
       "description": "Недостаточно очков тренировки"
     },
     {
+      "id": "card.idol_card.prima_stella.unlock_confirm_sheet.limit_level_condition_text",
+      "description": "Тренировочный этап {0}"
+    },
+    {
+      "id": "card.idol_card.prima_stella.unlock_confirm_sheet.list.empty_label",
+      "description": "Нет подходящих P‑Айдолов"
+    },
+    {
       "id": "card.produce_card_customize.detail_sheet.nia_condition",
       "description": "※Настройка доступна через спец. руководство"
     },
@@ -31,7 +39,7 @@
     },
     {
       "id": "competition.unit.score",
-      "description": "Pt"
+      "description": "Очки"
     },
     {
       "id": "dearness.dearness_level_detail_sheet.title",
@@ -66,6 +74,10 @@
       "description": "Недостаточно"
     },
     {
+      "id": "home.produce.tutorial_reward",
+      "description": "Получите SSR P-Idol!"
+    },
+    {
       "id": "home.pvp.contest.out_of_term_toast",
       "description": "Вне периода события"
     },
@@ -88,6 +100,10 @@
     {
       "id": "mission.panel.mission_text",
       "description": "{0}"
+    },
+    {
+      "id": "picturebook.live.select.skin.lock",
+      "description": " "
     },
     {
       "id": "produce_prepare.easy_mode_apply",
@@ -142,16 +158,60 @@
       "description": "Легенда"
     },
     {
+      "id": "produce.hif.audition.qualify.audition_final.title",
+      "description": "Квалификация 3"
+    },
+    {
+      "id": "produce.hif.audition.qualify.audition_mid1.title",
+      "description": "Квалификация 1"
+    },
+    {
+      "id": "produce.hif.audition.qualify.audition_mid2.title",
+      "description": "Qualifier 2"
+    },
+    {
+      "id": "produce.hif.audition.qualify.title",
+      "description": "H.I.F Qualifier"
+    },
+    {
+      "id": "produce.hif.result.qualify.title",
+      "description": "Квалификация пройдена"
+    },
+    {
       "id": "produce.high_score_rush.gold.description",
       "description": "Предмет из «Месяца усиления айдолов Кунио Дзюо 〜Сияние звёзд〜». Используется в гаче события."
+    },
+    {
+      "id": "produce.interval.reroll_sheet.description",
+      "description": "Использовать P‑Очки для обновления Карты навыка и состава П‑напитков, количества кастомизации и улучшений?"
     },
     {
       "id": "produce.lesson.no_effect.stance_over_preservation",
       "description": "Из-за установки «Расслабленно» эффект смены на «Сохранение» не сработает"
     },
     {
+      "id": "produce.schedule.step_exam_final_audition3.qualify",
+      "description": "Квалификация 3"
+    },
+    {
+      "id": "produce.schedule.step_exam_mid1_audition3.qualify",
+      "description": "Квалификация 1"
+    },
+    {
+      "id": "produce.schedule.step_exam_mid2_audition3.qualify",
+      "description": "Квалификационных матчей 2"
+    },
+    {
+      "id": "produce.select.restrict.change",
+      "description": "Нельзя менять карту навыка"
+    },
+    {
       "id": "produce.server_force_reset.confirm.description",
       "description": "Данные текущего Продюсирования удалены"
+    },
+    {
+      "id": "produce.sheet.drink_max.description",
+      "description": "Предел переноса P-Напитка достигнут.\nВыберите напитки, которые хотите оставить."
     },
     {
       "id": "producer_ranking.character_reward.description",
@@ -163,11 +223,31 @@
     },
     {
       "id": "profile.report.share.text",
-      "description": "#学マス #初星学園通知表"
+      "description": "#Счастливый 2-й юбилей 学マス #初星学園通知表"
     },
     {
       "id": "research_event.target_idol_sheet.description",
       "description": "Только подходящие P-айдолы могут участвовать в режиме события"
+    },
+    {
+      "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",
+      "description": "Показать сообщение подтверждения при разблокировке или усилении бонусов H.I.F."
+    },
+    {
+      "id": "setting.preference.other.produce_growth_panel.level_up_confirm.title",
+      "description": "Показать сообщение подтверждения"
+    },
+    {
+      "id": "setting.preference.other.produce_growth_panel.title",
+      "description": "Настройки бонусов H.I.F"
+    },
+    {
+      "id": "setting.produce.custom_item_customize_confirm",
+      "description": "Подтверждение выбора Custom P Item"
+    },
+    {
+      "id": "setting.produce.custom_item_customize_confirm.description",
+      "description": "Показать подтверждение при получении или улучшении Custom P Items."
     },
     {
       "id": "setting.produce.easy_mode_confirm",
@@ -188,6 +268,30 @@
     {
       "id": "setting.produce.easy_mode.title",
       "description": "【Продюсирование】Режим помощи"
+    },
+    {
+      "id": "setting.produce.exit_interval_confirm",
+      "description": "Подтверждение конца интервала."
+    },
+    {
+      "id": "setting.produce.exit_interval_confirm.description",
+      "description": "Показать подтверждение при завершении интервала."
+    },
+    {
+      "id": "setting.produce.reroll_interval_confirm",
+      "description": "Подтверждение обновления"
+    },
+    {
+      "id": "setting.produce.reroll_interval_confirm.description",
+      "description": "Показать сообщение подтверждения при обновлении в интервале."
+    },
+    {
+      "id": "setting.produce.select_change_card_confirm",
+      "description": "Подтверждение смены Skill Card."
+    },
+    {
+      "id": "setting.produce.select_change_card_confirm.description",
+      "description": "Показать сообщение подтверждения при выборе и смене Skill Card."
     },
     {
       "id": "shop.web_store.confirm.description",
@@ -216,6 +320,10 @@
     {
       "id": "tour.top.user_status.point_complete_label",
       "description": " "
+    },
+    {
+      "id": "voice.idol_use_prima_stella_produce_card",
+      "description": "Использовать P-Idol Exclusive Legend Skill Card"
     },
     {
       "id": "voice.idol_use_produce_card",

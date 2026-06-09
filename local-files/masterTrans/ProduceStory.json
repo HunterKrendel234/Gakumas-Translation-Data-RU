@@ -58,7 +58,7 @@
     },
     {
       "id": "p_story_002_amao_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -121,7 +121,7 @@
     },
     {
       "id": "p_story_002_atbm_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -184,7 +184,7 @@
     },
     {
       "id": "p_story_002_fktn_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -247,7 +247,7 @@
     },
     {
       "id": "p_story_002_hmsz_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -310,7 +310,7 @@
     },
     {
       "id": "p_story_002_hrnm_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -373,7 +373,7 @@
     },
     {
       "id": "p_story_002_hski_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -436,7 +436,7 @@
     },
     {
       "id": "p_story_002_hume_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -499,7 +499,7 @@
     },
     {
       "id": "p_story_002_jsna_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -562,7 +562,7 @@
     },
     {
       "id": "p_story_002_kcna_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -625,7 +625,7 @@
     },
     {
       "id": "p_story_002_kllj_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -688,7 +688,7 @@
     },
     {
       "id": "p_story_002_shro_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -751,7 +751,7 @@
     },
     {
       "id": "p_story_002_ssmk_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -814,7 +814,7 @@
     },
     {
       "id": "p_story_002_ttmr_ending-normal-02",
-      "title": "Normal End",
+      "title": "Нормальный конец",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final audition"
       ]
@@ -978,7 +978,7 @@
     },
     {
       "id": "p_story-001-amao-ending-normal-05",
-      "title": "[E End] Превратить неудачу в\nтопливо",
+      "title": "[E End] Превратить неудачу в топливо",
       "produceEventHintProduceConditionDescriptions": [
         " Place 6th in the final test"
       ]
@@ -1179,7 +1179,7 @@
     },
     {
       "id": "p_story-001-atbm-ending-normal-01",
-      "title": "[A End] Совершенно естественное\nжелание",
+      "title": "[A End] Совершенно естественное желание",
       "produceEventHintProduceConditionDescriptions": [
         " Reach Bond Lv 4 or higher ",
         " Place 1st in the final test"
@@ -1195,7 +1195,7 @@
     },
     {
       "id": "p_story-001-atbm-ending-normal-03",
-      "title": "[C End] Решимость доверить свою\nсудьбу",
+      "title": "[C End] Решимость доверить свою судьбу",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final test"
       ]
@@ -1657,7 +1657,7 @@
     },
     {
       "id": "p_story-001-hmsz-ending-normal-03",
-      "title": "[C End] Всё именно так, как мы\nхотели",
+      "title": "[C End] Всё именно так, как мы хотели",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final test"
       ]
@@ -2812,7 +2812,7 @@
     },
     {
       "id": "p_story-001-kcna-ending-normal-03",
-      "title": "[C End] Из тебя выйдет отличный\nайдол",
+      "title": "[C End] Из тебя выйдет отличный айдол",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final test"
       ]
@@ -3027,7 +3027,7 @@
     },
     {
       "id": "p_story-001-kllj-ending-normal-01",
-      "title": "[A End] Отпраздновать на широкую\nногу",
+      "title": "[A End] Отпраздновать на широкую ногу",
       "produceEventHintProduceConditionDescriptions": [
         " Reach Bond Lv 4 or higher ",
         " Place 1st in the final test"
@@ -3043,7 +3043,7 @@
     },
     {
       "id": "p_story-001-kllj-ending-normal-03",
-      "title": "[C End] Снятие стресса по-стилю\nLilja",
+      "title": "[C End] Снятие стресса по-стилю Lilja",
       "produceEventHintProduceConditionDescriptions": [
         " Pass the final test"
       ]
@@ -3266,7 +3266,7 @@
     },
     {
       "id": "p_story-001-shro-ending-normal-02",
-      "title": "[B End] Что по-настоящему\nстрашно...",
+      "title": "[B End] Что по-настоящему страшно...",
       "produceEventHintProduceConditionDescriptions": [
         " Reach Bond Lv 4 or higher ",
         " Place 2nd in the final test"
@@ -3489,7 +3489,7 @@
     },
     {
       "id": "p_story-001-ssmk-ending-normal-01",
-      "title": "[A End] Где находится следующая\nцель",
+      "title": "[A End] Где находится следующая цель",
       "produceEventHintProduceConditionDescriptions": [
         " Reach Bond Lv 4 or higher ",
         " Place 1st in the final test"
@@ -3497,7 +3497,7 @@
     },
     {
       "id": "p_story-001-ssmk-ending-normal-02",
-      "title": "[B End] Нет стены, что была бы\nслишком высокой",
+      "title": "[B End] Нет стены, что была бы слишком высокой",
       "produceEventHintProduceConditionDescriptions": [
         " Reach Bond Lv 4 or higher ",
         " Place 2nd in the final test"
@@ -3750,7 +3750,7 @@
     },
     {
       "id": "p_story-001-ttmr-ending-normal-05",
-      "title": "[E End] В следующий раз — моё\nлюбимое",
+      "title": "[E End] В следующий раз — моё любимое",
       "produceEventHintProduceConditionDescriptions": [
         " Place 6th in the final test"
       ]
@@ -3828,6 +3828,286 @@
       ]
     },
     {
+      "id": "p_story-003-amao-after_step_before_audition_mid1-1",
+      "title": "Наконец наступил этот день",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-before-selection-01-01",
+      "title": "На первый квалификационный матч",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-before-selection-02-01",
+      "title": "На второй квалификационный матч",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-before-selection-03-01",
+      "title": "На третий квалификационный матч",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-final-failure-01",
+      "title": "Я не хочу, чтобы всё закончилось",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-main_match-opening-01",
+      "title": "А теперь — финал H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-produce-007-after-selection-01-01",
+      "title": "Перескочи первый квалификационный матч H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-produce-007-after-selection-02-01",
+      "title": "Перескочи второй квалификационный матч H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-produce-007-after-selection-03-01",
+      "title": "Перескочи третий квалификационный матч H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-produce-007-selection-ending-a-01",
+      "title": "Перескочи квалификационный матч H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-produce-008-after-final-01-01",
+      "title": "Финал H.I.F. – Раунд 1 завершён!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-produce-008-final-ending-a-01",
+      "title": "Победа в финале H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-selection-failure-01",
+      "title": "Тут всё ещё не закончится",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-amao-selection-opening-02",
+      "title": "Стремитесь пройти квалификацию!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-after_step_before_audition_mid1-1",
+      "title": "Наконец наступил этот день",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-before-selection-01-01",
+      "title": "На первый квалификационный матч",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-before-selection-02-01",
+      "title": "На второй квалификационный матч",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-before-selection-03-01",
+      "title": "На третий квалификационный матч",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-final-failure-01",
+      "title": "Я не хочу, чтобы всё закончилось",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-main_match-opening-01",
+      "title": "А теперь — финал H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-produce-007-after-selection-01-01",
+      "title": "Перескочи первый квалификационный матч H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-produce-007-after-selection-02-01",
+      "title": "Перескочи второй квалификационный матч H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-produce-007-after-selection-03-01",
+      "title": "Перескочи третий квалификационный матч H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-produce-007-selection-ending-a-01",
+      "title": "Перескочи квалификационный матч H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-produce-008-after-final-01-01",
+      "title": "Круг 1 финала H.I.F завершён!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-produce-008-final-ending-a-01",
+      "title": "Победа в финале H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-selection-failure-01",
+      "title": "Тут всё ещё не конец",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hmsz-selection-opening-02",
+      "title": "Цель — пробиться в квалификацию!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-after_step_before_audition_mid1-1",
+      "title": "Наконец-то пришёл день",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-before-selection-01-01",
+      "title": "В первый этап квалификации",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-before-selection-02-01",
+      "title": "Во второй этап квалификации",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-before-selection-03-01",
+      "title": "В третий этап квалификации",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-final-failure-01",
+      "title": "Я не хочу, чтобы это закончилось",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-main_match-opening-01",
+      "title": "Теперь к финалу H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-produce-007-after-selection-01-01",
+      "title": "Пробейте первую квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-produce-007-after-selection-02-01",
+      "title": "Пробейте вторую квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-produce-007-after-selection-03-01",
+      "title": "Пробейте третью квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-produce-007-selection-ending-a-01",
+      "title": "Перебейте квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-produce-008-after-final-01-01",
+      "title": "Круг 1 финала H.I.F завершён!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-produce-008-final-ending-a-01",
+      "title": "Победа в финале H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-selection-failure-01",
+      "title": "Тут всё ещё не конец",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hrnm-selection-opening-02",
+      "title": "Цель — пробиться в квалификацию!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-after_step_before_audition_mid1-1",
+      "title": "Наконец-то пришёл день",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-before-selection-01-01",
+      "title": "В первый этап квалификации",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-before-selection-02-01",
+      "title": "Во второй этап квалификации",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-before-selection-03-01",
+      "title": "В третий этап квалификации",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-final-failure-01",
+      "title": "Я не хочу, чтобы это закончилось",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-main_match-opening-01",
+      "title": "Теперь к финалу H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-produce-007-after-selection-01-01",
+      "title": "Пробейте первую квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-produce-007-after-selection-02-01",
+      "title": "Прорыв во второй квалификации H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-produce-007-after-selection-03-01",
+      "title": "Прорыв во третьей квалификации H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-produce-007-selection-ending-a-01",
+      "title": "Прорыв в квалификации H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-produce-008-after-final-01-01",
+      "title": "Завершен первый раунд финала H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-produce-008-final-ending-a-01",
+      "title": "Победа в финале H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-selection-failure-01",
+      "title": "Здесь это ещё не закончится.",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-ttmr-selection-opening-02",
+      "title": "Стремитесь к прорыву в квалификации!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-event-001_amao_activity_001",
       "title": "Места, где можно подвигаться",
       "produceEventHintProduceConditionDescriptions": []
@@ -3879,7 +4159,7 @@
     },
     {
       "id": "p_story-event-001_amao_activity_011",
-      "title": "Почему-то выглядит очень\nсчастливой",
+      "title": "Почему-то выглядит очень счастливой",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4014,7 +4294,7 @@
     },
     {
       "id": "p_story-event-001_atbm_activity_005",
-      "title": "Есть магазины, которые\nпосоветуешь?",
+      "title": "Есть магазины, которые посоветуешь?",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4139,7 +4419,7 @@
     },
     {
       "id": "p_story-event-001_atbm_school_008",
-      "title": "Число, которое не положительное и\nне отрицательное",
+      "title": "Число, которое не положительное и не отрицательное",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4544,7 +4824,7 @@
     },
     {
       "id": "p_story-event-001_hrnm_activity_012",
-      "title": "Если бы я не была твоей старшей\nсестрой",
+      "title": "Если бы я не была твоей старшей сестрой",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4604,7 +4884,7 @@
     },
     {
       "id": "p_story-event-001_hrnm_school_002",
-      "title": "Советы для непринуждённых\nразговоров",
+      "title": "Советы для непринуждённых разговоров",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5064,12 +5344,12 @@
     },
     {
       "id": "p_story-event-001_jsna_activity_017-01",
-      "title": "Stamp Rally",
+      "title": "Сбор печатей",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-event-001_jsna_activity_017-02",
-      "title": "Stamp Rally",
+      "title": "Сбор печатей",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5174,12 +5454,12 @@
     },
     {
       "id": "p_story-event-001_kcna_activity_006",
-      "title": "Введение в исследование актёрской\nигры",
+      "title": "Введение в исследование актёрской игры",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-event-001_kcna_activity_007",
-      "title": "Самостоятельные занятия, которыми\nя хочу заняться",
+      "title": "Самостоятельные занятия, которыми я хочу заняться",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5204,7 +5484,7 @@
     },
     {
       "id": "p_story-event-001_kcna_activity_012",
-      "title": "Пожалуйста, дай мне отблагодарить\nтебя!",
+      "title": "Пожалуйста, дай мне отблагодарить тебя!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5489,7 +5769,7 @@
     },
     {
       "id": "p_story-event-001_shro_activity_003",
-      "title": "Visual Training",
+      "title": "Визуальная тренировка",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5769,7 +6049,7 @@
     },
     {
       "id": "p_story-event-001_ssmk_school_004",
-      "title": "Чувство собственной\nнесостоятельности",
+      "title": "Чувство собственной несостоятельности",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5874,7 +6154,7 @@
     },
     {
       "id": "p_story-event-001_ttmr_activity_014",
-      "title": "Accent Color",
+      "title": "Цвет акцента",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10653,6 +10933,526 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-event-003_amao_activity_021",
+      "title": "Заказ, который привлёк мое внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_activity_022",
+      "title": "Похожие рыбы",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_012",
+      "title": "Песни с высокой оценкой",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_013",
+      "title": "Песни, о которых стоит помнить",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_014",
+      "title": "Сегодняшний урок вокала",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_015",
+      "title": "Сила, необходимая для H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_016",
+      "title": "О продюсере",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_017",
+      "title": "Назначенный айдол - Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_018",
+      "title": "Танцы с высокой оценкой",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_019",
+      "title": "Танцы, о которых стоит помнить",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_020",
+      "title": "Сегодняшний урок танца",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_021",
+      "title": "Тот, кто достоин стать Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_022",
+      "title": "О сольных и групповых выступлениях",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_023",
+      "title": "О H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_024",
+      "title": "Визуалы, которые оцениваются очень высоко",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_025",
+      "title": "Визуалы, на которые следует обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_026",
+      "title": "Сегодняшний урок визуала",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_027",
+      "title": "О продюсировании",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_028",
+      "title": "Если я стану Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_029",
+      "title": "О 100PRO",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_030",
+      "title": "Проверка условий~",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_031",
+      "title": "Как ты сейчас себя чувствуешь~?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_032",
+      "title": "Проверка условий!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_033",
+      "title": "Как ты сейчас себя чувствуешь?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_034",
+      "title": "Проверка условий♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_amao_school_035",
+      "title": "Как ты сейчас себя чувствуешь?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_activity_021",
+      "title": "Скажи здесь Ахх...♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_activity_022",
+      "title": "Тихий момент",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_012",
+      "title": "Песни, получающие высокий рейтинг",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_013",
+      "title": "Песни, на которые стоит обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_014",
+      "title": "Сегодняшний урок вокала",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_015",
+      "title": "Сила, необходимая для H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_016",
+      "title": "О продюсере",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_017",
+      "title": "Назначенный Айдол — Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_018",
+      "title": "Танцы, получающие высокий рейтинг",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_019",
+      "title": "Танцы, на которые стоит обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_020",
+      "title": "Сегодняшний урок танца",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_021",
+      "title": "Тот, кто достоин стать Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_022",
+      "title": "О сольных и групповых выступлениях",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_023",
+      "title": "О H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_024",
+      "title": "Визуалы, получающие высокие оценки",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_025",
+      "title": "Визуалы, которые нужно учитывать",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_026",
+      "title": "Сегодняшний урок визуала",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_027",
+      "title": "О Продюсировании",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_028",
+      "title": "Если я стану Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_029",
+      "title": "О 100PRO",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_030",
+      "title": "Проверка условий~",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_031",
+      "title": "Как ты себя чувствуешь сейчас~?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_032",
+      "title": "Проверка условий!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_033",
+      "title": "Как ты себя чувствуешь сейчас?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_034",
+      "title": "Проверка условий♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hmsz_school_035",
+      "title": "Как ты себя чувствуешь сейчас?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_activity_021",
+      "title": "Трудности с Cheat Days",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_activity_022",
+      "title": "Что привлекло ваш интерес?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_012",
+      "title": "Песни, получающие высокие оценки",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_013",
+      "title": "Песни, которые нужно учитывать",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_014",
+      "title": "Сегодняшний урок вокала",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_015",
+      "title": "Необходимая сила для H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_016",
+      "title": "О Продюсере",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_017",
+      "title": "Назначенный Айдол – Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_018",
+      "title": "Танцы, получающие высокие оценки",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_019",
+      "title": "Танцы, на которые следует обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_020",
+      "title": "Сегодняшний урок танца",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_021",
+      "title": "Человек, достойный Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_022",
+      "title": "О сольных и групповых выступлениях",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_023",
+      "title": "О H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_024",
+      "title": "Визуалы, получающие высокую оценку",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_025",
+      "title": "Визуалы, на которые стоит обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_026",
+      "title": "Сегодняшний урок визуала",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_027",
+      "title": "О продюсировании",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_028",
+      "title": "Если я стану Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_029",
+      "title": "О 100PRO",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_030",
+      "title": "Проверка условий~",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_031",
+      "title": "Как вы себя чувствуете сейчас~?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_032",
+      "title": "Проверка условий!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_033",
+      "title": "Как вы себя чувствуете сейчас?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_034",
+      "title": "Проверка условий♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hrnm_school_035",
+      "title": "Как вы себя чувствуете сейчас?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_activity_021",
+      "title": "Что бы вы хотели заказать сегодня?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_activity_022",
+      "title": "Смена темпа в аквариуме",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_012",
+      "title": "Песни, получающие высокую оценку",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_013",
+      "title": "Песни, на которые стоит обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_014",
+      "title": "Сегодняшний урок вокала",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_015",
+      "title": "Сила, необходимая для H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_016",
+      "title": "О продюсере",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_017",
+      "title": "Назначенный Айдол – Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_018",
+      "title": "Танцы, получающие высокую оценку",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_019",
+      "title": "Танцы, на которые следует обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_020",
+      "title": "Сегодняшний урок танца",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_021",
+      "title": "Человек, достойный Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_022",
+      "title": "О сольных и групповых выступлениях",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_023",
+      "title": "О H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_024",
+      "title": "Визуалы, получающие высокую оценку",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_025",
+      "title": "Визуалы, на которые стоит обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_026",
+      "title": "Сегодняшний урок визуала",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_027",
+      "title": "О продюсировании",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_028",
+      "title": "Если я стану Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_029",
+      "title": "О 100PRO",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_030",
+      "title": "Проверка условий~",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_031",
+      "title": "Как вы себя чувствуете сейчас~?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_032",
+      "title": "Проверка условий!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_033",
+      "title": "Как вы себя чувствуете сейчас?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_034",
+      "title": "Проверка условий♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_ttmr_school_035",
+      "title": "Как вы себя чувствуете сейчас?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-amao-3-000-01",
       "title": "Fluorite Ep.1",
       "produceEventHintProduceConditionDescriptions": []
@@ -10689,1407 +11489,1437 @@
     },
     {
       "id": "p_story-i_card-amao-3-002-02",
-      "title": "Feel Jewel Dream Ep.2",
+      "title": "Feel Jewel Dream Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-002-03",
-      "title": "Feel Jewel Dream Ep.3",
+      "title": "Feel Jewel Dream Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-007-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-007-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-007-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-009-01",
-      "title": "Yukidoke ni Ep.1",
+      "title": "Yukidoke ni Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-009-02",
-      "title": "Yukidoke ni Ep.2",
+      "title": "Yukidoke ni Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-009-03",
-      "title": "Yukidoke ni Ep.3",
+      "title": "Yukidoke ni Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-013-01",
-      "title": "Miracle na Now(゚∀゚)! Ep.1",
+      "title": "Mirakuru na Nau(゚∀゚)! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-013-02",
-      "title": "Miracle na Now(゚∀゚)! Ep.2",
+      "title": "Mirakuru na Nau(゚∀゚)! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-013-03",
-      "title": "Miracle na Now(゚∀゚)! Ep.3",
+      "title": "Mirakuru na Nau(゚∀゚)! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-015-01",
-      "title": "Mite Ep.1",
+      "title": "Mite Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-015-02",
-      "title": "Mite Ep.2",
+      "title": "Mite Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-amao-3-015-03",
-      "title": "Mite Ep.3",
+      "title": "Mite Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-atbm-3-000-01",
-      "title": "Rironbusou Shite Ep.1",
+      "title": "Rironbusou Shite Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-atbm-3-000-02",
-      "title": "Rironbusou Shite Ep.2",
+      "title": "Rironbusou Shite Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-atbm-3-000-03",
-      "title": "Rironbusou Shite Ep.3",
+      "title": "Rironbusou Shite Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-atbm-3-012-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-atbm-3-012-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-atbm-3-012-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-000-01",
-      "title": "Sekaiichi Kawaii Watashi Ep.1",
+      "title": "Sekaiichi Kawaii Watashi Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-000-02",
-      "title": "Sekaiichi Kawaii Watashi Ep.2",
+      "title": "Sekaiichi Kawaii Watashi Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-000-03",
-      "title": "Sekaiichi Kawaii Watashi Ep.3",
+      "title": "Sekaiichi Kawaii Watashi Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-001-01",
-      "title": "Yellow Big Bang! Ep.1",
+      "title": "Yellow Big Bang! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-001-02",
-      "title": "Yellow Big Bang! Ep.2",
+      "title": "Yellow Big Bang! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-001-03",
-      "title": "Yellow Big Bang! Ep.3",
+      "title": "Yellow Big Bang! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-002-01",
-      "title": "Kamurogiku Ep.1",
+      "title": "Kamurogiku Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-002-02",
-      "title": "Kamurogiku Ep.2",
+      "title": "Kamurogiku Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-002-03",
-      "title": "Kamurogiku Ep.3",
+      "title": "Kamurogiku Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-006-01",
-      "title": "White Night! White Wish! Ep.1",
+      "title": "White Night! White Wish! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-006-02",
-      "title": "White Night! White Wish! Ep.2",
+      "title": "White Night! White Wish! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-006-03",
-      "title": "White Night! White Wish! Ep.3",
+      "title": "White Night! White Wish! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-007-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-007-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-007-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-011-01",
-      "title": "Ameagari no Iris Ep.1",
+      "title": "Ameagari no Iris Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-011-02",
-      "title": "Ameagari no Iris Ep.2",
+      "title": "Ameagari no Iris Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-011-03",
-      "title": "Ameagari no Iris Ep.3",
+      "title": "Ameagari no Iris Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-013-01",
-      "title": "Jiko Kouteikan Bakuage↑↑ Ep.1",
+      "title": "Jiko Kouteikan Bakuage↑↑Shuki Shuki Song Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-013-02",
-      "title": "Jiko Kouteikan Bakuage↑↑ Ep.2",
+      "title": "Jiko Kouteikan Bakuage↑↑Shuki Shuki Song Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-013-03",
-      "title": "Jiko Kouteikan Bakuage↑↑ Ep.3",
+      "title": "Jiko Kouteikan Bakuage↑↑Shuki Shuki Song Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-016-01",
-      "title": "Gamushara ni Ikou! Ep.1",
+      "title": "Gamushara ni Ikou Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-016-02",
-      "title": "Gamushara ni Ikou! Ep.2",
+      "title": "Gamushara ni Ikou Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-fktn-3-016-03",
-      "title": "Gamushara ni Ikou! Ep.3",
+      "title": "Gamushara ni Ikou Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-000-01",
-      "title": "Tsuki no Kame Ep.1",
+      "title": "Tsuki no Kame Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-000-02",
-      "title": "Tsuki no Kame Ep.2",
+      "title": "Tsuki no Kame Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-000-03",
-      "title": "Tsuki no Kame Ep.3",
+      "title": "Tsuki no Kame Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-005-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-005-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-005-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-010-01",
-      "title": "Star-mine Ep.1",
+      "title": "Star-mine Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-010-02",
-      "title": "Star-mine Ep.2",
+      "title": "Star-mine Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-010-03",
-      "title": "Star-mine Ep.3",
+      "title": "Star-mine Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-014-01",
-      "title": "Superlative Ep.1",
+      "title": "Superlative Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-014-02",
-      "title": "Superlative Ep.2",
+      "title": "Superlative Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-014-03",
-      "title": "Superlative Ep.3",
+      "title": "Superlative Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-015-01",
-      "title": "ENDLESS DANCE Ep.1",
+      "title": "ENDLESS DANCE Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-015-02",
-      "title": "ENDLESS DANCE Ep.2",
+      "title": "ENDLESS DANCE Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-015-03",
-      "title": "ENDLESS DANCE Ep.3",
+      "title": "ENDLESS DANCE Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-016-01",
-      "title": "VEIL Ep.1",
+      "title": "VEIL Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-016-02",
-      "title": "VEIL Ep.2",
+      "title": "VEIL Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hmsz-3-016-03",
-      "title": "VEIL Ep.3",
+      "title": "VEIL Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-000-01",
-      "title": "clumsy trick Ep.1",
+      "title": "clumsy trick Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-000-02",
-      "title": "clumsy trick Ep.2",
+      "title": "clumsy trick Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-000-03",
-      "title": "clumsy trick Ep.3",
+      "title": "clumsy trick Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-001-01",
-      "title": "Kimi to Semi Blue Ep.1",
+      "title": "Kimi to Semi Blue Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-001-02",
-      "title": "Kimi to Semi Blue Ep.2",
+      "title": "Kimi to Semi Blue Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-001-03",
-      "title": "Kimi to Semi Blue Ep.3",
+      "title": "Kimi to Semi Blue Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-002-01",
-      "title": "L.U.V Ep.1",
+      "title": "L.U.V Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-002-02",
-      "title": "L.U.V Ep.2",
+      "title": "L.U.V Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-002-03",
-      "title": "L.U.V Ep.3",
+      "title": "L.U.V Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-004-01",
-      "title": "Welcome to hatsuboshi onsen Ep.1",
+      "title": "Добро пожаловать в hatsuboshi onsen Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-004-02",
-      "title": "Welcome to hatsuboshi onsen Ep.2",
+      "title": "Добро пожаловать в hatsuboshi onsen Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-004-03",
-      "title": "Welcome to hatsuboshi onsen Ep.3",
+      "title": "Добро пожаловать в hatsuboshi onsen Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-007-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-007-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-007-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-008-01",
-      "title": "Happy Millefeuille Ep.1",
+      "title": "Happy Millefeuille Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-008-02",
-      "title": "Happy Millefeuille Ep.2",
+      "title": "Happy Millefeuille Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-008-03",
-      "title": "Happy Millefeuille Ep.3",
+      "title": "Happy Millefeuille Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-012-01",
-      "title": "Howling over the World Ep.1",
+      "title": "Howling over the World Эп. 1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-012-02",
-      "title": "Howling over the World Ep.2",
+      "title": "Howling over the World Эп. 2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-012-03",
-      "title": "Howling over the World Ep.3",
+      "title": "Howling over the World Эп. 3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-013-01",
-      "title": "36℃ U・B・U Ep.1",
+      "title": "36℃ U・B・U Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-013-02",
-      "title": "36℃ U・B・U Ep.2",
+      "title": "36℃ U・B・U Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hrnm-3-013-03",
-      "title": "36℃ U・B・U Ep.3",
+      "title": "36℃ U・B・U Эп.3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hrnm-3-017-01",
+      "title": "【Garakuta Road】Эп.1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hrnm-3-017-02",
+      "title": "【Garakuta Road】Эп.2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hrnm-3-017-03",
+      "title": "【Garakuta Road】Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-000-01",
-      "title": "Fighting My Way Ep.1",
+      "title": "Fighting My Way Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-000-02",
-      "title": "Fighting My Way Ep.2",
+      "title": "Fighting My Way Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-000-03",
-      "title": "Fighting My Way Ep.3",
+      "title": "Fighting My Way Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-001-01",
-      "title": "Boom Boom Pow Ep.1",
+      "title": "Boom Boom Pow Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-001-02",
-      "title": "Boom Boom Pow Ep.2",
+      "title": "Boom Boom Pow Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-001-03",
-      "title": "Boom Boom Pow Ep.3",
+      "title": "Boom Boom Pow Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-002-01",
-      "title": "Kamurogiku Ep.1",
+      "title": "Kamurogiku Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-002-02",
-      "title": "Kamurogiku Ep.2",
+      "title": "Kamurogiku Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-002-03",
-      "title": "Kamurogiku Ep.3",
+      "title": "Kamurogiku Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-006-01",
-      "title": "Kokon Touzai Chochoi no Choi Ep.1",
+      "title": "Kokon Touzai Chochoi no Choi Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-006-02",
-      "title": "Kokon Touzai Chochoi no Choi Ep.2",
+      "title": "Kokon Touzai Chochoi no Choi Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-006-03",
-      "title": "Kokon Touzai Chochoi no Choi Ep.3",
+      "title": "Kokon Touzai Chochoi no Choi Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-008-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-008-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-008-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-011-01",
-      "title": "Sakura Photograph Ep.1",
+      "title": "Sakura Photograph Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-011-02",
-      "title": "Sakura Photograph Ep.2",
+      "title": "Sakura Photograph Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-011-03",
-      "title": "Sakura Photograph Ep.3",
+      "title": "Sakura Photograph Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-012-01",
-      "title": "Ameagari no Iris Ep.1",
+      "title": "Ameagari no Iris Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-012-02",
-      "title": "Ameagari no Iris Ep.2",
+      "title": "Ameagari no Iris Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-012-03",
-      "title": "Ameagari no Iris Ep.3",
+      "title": "Ameagari no Iris Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-015-01",
-      "title": "Gamushara ni Ikou! Ep.1",
+      "title": "Gamushara ni Ikou! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-015-02",
-      "title": "Gamushara ni Ikou! Ep.2",
+      "title": "Gamushara ni Ikou! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-015-03",
-      "title": "Gamushara ni Ikou! Ep.3",
+      "title": "Gamushara ni Ikou! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-017-01",
-      "title": "Wildest Flower Ep.1",
+      "title": "Wildest Flower Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-017-02",
-      "title": "Wildest Flower Ep.2",
+      "title": "Wildest Flower Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hski-3-017-03",
-      "title": "Wildest Flower Ep.3",
+      "title": "Wildest Flower Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-000-01",
-      "title": "The Rolling Riceball Ep.1",
+      "title": "The Rolling Riceball Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-000-02",
-      "title": "The Rolling Riceball Ep.2",
+      "title": "The Rolling Riceball Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-000-03",
-      "title": "The Rolling Riceball Ep.3",
+      "title": "The Rolling Riceball Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-005-01",
-      "title": "White Night! White Wish! Ep.1",
+      "title": "White Night! White Wish! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-005-02",
-      "title": "White Night! White Wish! Ep.2",
+      "title": "White Night! White Wish! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-005-03",
-      "title": "White Night! White Wish! Ep.3",
+      "title": "White Night! White Wish! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-006-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-006-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-006-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-009-01",
-      "title": "Gu-Su-Pi Ep.1",
+      "title": "Gu-Su-Pi  Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-009-02",
-      "title": "Gu-Su-Pi Ep.2",
+      "title": "Gu-Su-Pi  Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-009-03",
-      "title": "Gu-Su-Pi Ep.3",
+      "title": "Gu-Su-Pi  Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-012-01",
-      "title": "Star-mine Ep.1",
+      "title": "Star-mine Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-012-02",
-      "title": "Star-mine Ep.2",
+      "title": "Star-mine Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-012-03",
-      "title": "Star-mine Ep.3",
+      "title": "Star-mine Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-016-01",
-      "title": "ENDLESS DANCE Ep.1",
+      "title": "ENDLESS DANCE Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-016-02",
-      "title": "ENDLESS DANCE Ep.2",
+      "title": "ENDLESS DANCE Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-016-03",
-      "title": "ENDLESS DANCE Ep.3",
+      "title": "ENDLESS DANCE Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-017-01",
-      "title": "Masshiroi Page to Suisai no Shujinkou Ep.1",
+      "title": "Masshiroi Page to Suisai no Shujinkou Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-017-02",
-      "title": "Masshiroi Page to Suisai no Shujinkou Ep.2",
+      "title": "Masshiroi Page to Suisai no Shujinkou Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-hume-3-017-03",
-      "title": "Masshiroi Page to Suisai no Shujinkou Ep.3",
+      "title": "Masshiroi Page to Suisai no Shujinkou Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-000-01",
-      "title": "Chiisana Yabou Ep.1",
+      "title": "Chiisana Yabou Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-000-02",
-      "title": "Chiisana Yabou Ep.2",
+      "title": "Chiisana Yabou Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-000-03",
-      "title": "Chiisana Yabou Ep.3",
+      "title": "Chiisana Yabou Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-002-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-002-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-002-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-003-01",
-      "title": "Happy Millefeuille Ep.1",
+      "title": "Happy millefeuille Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-003-02",
-      "title": "Happy Millefeuille Ep.2",
+      "title": "Happy millefeuille Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-003-03",
-      "title": "Happy Millefeuille Ep.3",
+      "title": "Happy millefeuille Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-006-01",
-      "title": "Our Chant Ep.1",
+      "title": "Our Chant Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-006-02",
-      "title": "Our Chant Ep.2",
+      "title": "Our Chant Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-006-03",
-      "title": "Our Chant Ep.3",
+      "title": "Our Chant Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-011-01",
-      "title": "Star-mine Ep.1",
+      "title": "Star-mine Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-011-02",
-      "title": "Star-mine Ep.2",
+      "title": "Star-mine Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-011-03",
-      "title": "Star-mine Ep.3",
+      "title": "Star-mine Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-015-01",
-      "title": "Sekirara Ep.1",
+      "title": "Sekirara Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-015-02",
-      "title": "Sekirara Ep.2",
+      "title": "Sekirara Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-015-03",
-      "title": "Sekirara Ep.3",
+      "title": "Sekirara Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-016-01",
-      "title": "ENDLESS DANCE Ep.1",
+      "title": "ENDLESS DANCE Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-016-02",
-      "title": "ENDLESS DANCE Ep.2",
+      "title": "ENDLESS DANCE Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-016-03",
-      "title": "ENDLESS DANCE Ep.3",
+      "title": "ENDLESS DANCE Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-000-01",
-      "title": "Wonder Scale Ep.1",
+      "title": "Wonder Scale Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-000-02",
-      "title": "Wonder Scale Ep.2",
+      "title": "Wonder Scale Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-000-03",
-      "title": "Wonder Scale Ep.3",
+      "title": "Wonder Scale Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-001-01",
-      "title": "Hibi, Hakkenteki Step! Ep.1",
+      "title": "Hibi, Hakkenteki Step! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-001-02",
-      "title": "Hibi, Hakkenteki Step! Ep.2",
+      "title": "Hibi, Hakkenteki Step! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-001-03",
-      "title": "Hibi, Hakkenteki Step! Ep.3",
+      "title": "Hibi, Hakkenteki Step! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-002-01",
-      "title": "Kasou Kyousoukyoku Ep.1",
+      "title": "Kasou Kyousoukyoku Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-002-02",
-      "title": "Kasou Kyousoukyoku Ep.2",
+      "title": "Kasou Kyousoukyoku Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-002-03",
-      "title": "Kasou Kyousoukyoku Ep.3",
+      "title": "Kasou Kyousoukyoku Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-005-01",
-      "title": "Welcome to hatsuboshi onsen Ep.1",
+      "title": "Welcome to hatsuboshi onsen Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-005-02",
-      "title": "Welcome to hatsuboshi onsen Ep.2",
+      "title": "Welcome to hatsuboshi onsen Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-005-03",
-      "title": "Welcome to hatsuboshi onsen Ep.3",
+      "title": "Welcome to hatsuboshi onsen Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-007-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-007-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-007-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-009-01",
-      "title": "Yukidoke ni Ep.1",
+      "title": "Yukidoke ni Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-009-02",
-      "title": "Yukidoke ni Ep.2",
+      "title": "Yukidoke ni Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-009-03",
-      "title": "Yukidoke ni Ep.3",
+      "title": "Yukidoke ni Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-012-01",
-      "title": "Howling over the World Ep.1",
+      "title": "Howling over the World Эп. 1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-012-02",
-      "title": "Howling over the World Ep.2",
+      "title": "Howling over the World Эп. 2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-012-03",
-      "title": "Howling over the World Ep.3",
+      "title": "Howling over the World Эп. 3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-014-01",
-      "title": "Sora to Yakusoku Ep.1",
+      "title": "Sora to Yakusoku Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-014-02",
-      "title": "Sora to Yakusoku Ep.2",
+      "title": "Sora to Yakusoku Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-014-03",
-      "title": "Sora to Yakusoku Ep.3",
+      "title": "Sora to Yakusoku Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-016-01",
-      "title": "Michinaru Hirogaru Ep.1",
+      "title": "Michinaru Hirogaru Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-016-02",
-      "title": "Michinaru Hirogaru Ep.2",
+      "title": "Michinaru Hirogaru Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kcna-3-016-03",
-      "title": "Michinaru Hirogaru Ep.3",
+      "title": "Michinaru Hirogaru Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-000-01",
-      "title": "Hakusen Ep.1",
+      "title": "Hakusen Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-000-02",
-      "title": "Hakusen Ep.2",
+      "title": "Hakusen Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-000-03",
-      "title": "Hakusen Ep.3",
+      "title": "Hakusen Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-001-01",
-      "title": "Kamurogiku Ep.1",
+      "title": "Kamurogiku Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-001-02",
-      "title": "Kamurogiku Ep.2",
+      "title": "Kamurogiku Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-001-03",
-      "title": "Kamurogiku Ep.3",
+      "title": "Kamurogiku Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-005-01",
-      "title": "White Night! White Wish! Ep.1",
+      "title": "White Night! White Wish! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-005-02",
-      "title": "White Night! White Wish! Ep.2",
+      "title": "White Night! White Wish! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-005-03",
-      "title": "White Night! White Wish! Ep.3",
+      "title": "White Night! White Wish! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-006-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-006-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-006-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-008-01",
-      "title": "Kyokkou Ep.1",
+      "title": "Kyokkou Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-008-02",
-      "title": "Kyokkou Ep.2",
+      "title": "Kyokkou Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-008-03",
-      "title": "Kyokkou Ep.3",
+      "title": "Kyokkou Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-010-01",
-      "title": "Sakura Photograph Ep.1",
+      "title": "Sakura Photograph Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-010-02",
-      "title": "Sakura Photograph Ep.2",
+      "title": "Sakura Photograph Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-010-03",
-      "title": "Sakura Photograph Ep.3",
+      "title": "Sakura Photograph Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-012-01",
-      "title": "Howling over the World Ep.1",
+      "title": "Howling over the World Эп. 1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-012-02",
-      "title": "Howling over the World Ep.2",
+      "title": "Howling over the World Эп. 2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-012-03",
-      "title": "Howling over the World Ep.3",
+      "title": "Howling over the World Эп. 3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-015-01",
-      "title": "Atmosphere Ep.1",
+      "title": "Atmosphere Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-015-02",
-      "title": "Atmosphere Ep.2",
+      "title": "Atmosphere Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-015-03",
-      "title": "Atmosphere Ep.3",
+      "title": "Atmosphere Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-017-01",
-      "title": "Tokimeki Emotion Ep.1",
+      "title": "Tokimeki Emotion Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-017-02",
-      "title": "Tokimeki Emotion Ep.2",
+      "title": "Tokimeki Emotion Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-kllj-3-017-03",
-      "title": "Tokimeki Emotion Ep.3",
+      "title": "Tokimeki Emotion Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-000-01",
-      "title": "Koukei Ep.1",
+      "title": "Koukei Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-000-02",
-      "title": "Koukei Ep.2",
+      "title": "Koukei Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-000-03",
-      "title": "Koukei Ep.3",
+      "title": "Koukei Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-001-01",
-      "title": "Contrast Ep.1",
+      "title": "Contrast Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-001-02",
-      "title": "Contrast Ep.2",
+      "title": "Contrast Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-001-03",
-      "title": "Contrast Ep.3",
+      "title": "Contrast Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-002-01",
-      "title": "Kasou Kyousoukyoku Ep.1",
+      "title": "Kasou Kyousoukyoku Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-002-02",
-      "title": "Kasou Kyousoukyoku Ep.2",
+      "title": "Kasou Kyousoukyoku Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-002-03",
-      "title": "Kasou Kyousoukyoku Ep.3",
+      "title": "Kasou Kyousoukyoku Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-007-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-007-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-007-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-008-01",
-      "title": "Happy Millefeuille Ep.1",
+      "title": "Happy millefeuille Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-008-02",
-      "title": "Happy Millefeuille Ep.2",
+      "title": "Happy millefeuille Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-008-03",
-      "title": "Happy Millefeuille Ep.3",
+      "title": "Happy millefeuille Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-012-01",
-      "title": "SUNFADED Ep.1",
+      "title": "SUNFADED Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-012-02",
-      "title": "SUNFADED Ep.2",
+      "title": "SUNFADED Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-012-03",
-      "title": "SUNFADED Ep.3",
+      "title": "SUNFADED Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-014-01",
-      "title": "Miracle na Now(゚∀゚)! Ep.1",
+      "title": "Mirakuru na Nau(゚∀゚)! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-014-02",
-      "title": "Miracle na Now(゚∀゚)! Ep.2",
+      "title": "Mirakuru na Nau(゚∀゚)! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-014-03",
-      "title": "Miracle na Now(゚∀゚)! Ep.3",
+      "title": "Mirakuru na Nau(゚∀゚)! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-016-01",
-      "title": "Michinaru Hirogaru Ep.1",
+      "title": "Michinaru Hirogaru Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-016-02",
-      "title": "Michinaru Hirogaru Ep.2",
+      "title": "Michinaru Hirogaru Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-016-03",
-      "title": "Michinaru Hirogaru Ep.3",
+      "title": "Michinaru Hirogaru Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-000-01",
-      "title": "Tame-Lie-One-Step Ep.1",
+      "title": "Tame-Lie-One-Step Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-000-02",
-      "title": "Tame-Lie-One-Step Ep.2",
+      "title": "Tame-Lie-One-Step Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-000-03",
-      "title": "Tame-Lie-One-Step Ep.3",
+      "title": "Tame-Lie-One-Step Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-001-01",
-      "title": "Kimi to Semi Blue Ep.1",
+      "title": "Kimi to Semi Blue Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-001-02",
-      "title": "Kimi to Semi Blue Ep.2",
+      "title": "Kimi to Semi Blue Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-001-03",
-      "title": "Kimi to Semi Blue Ep.3",
+      "title": "Kimi to Semi Blue Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-002-01",
-      "title": "Kakushita Watashi Ep.1",
+      "title": "Kakushita Watashi Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-002-02",
-      "title": "Kakushita Watashi Ep.2",
+      "title": "Kakushita Watashi Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-002-03",
-      "title": "Kakushita Watashi Ep.3",
+      "title": "Kakushita Watashi Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-007-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-007-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-007-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-010-01",
-      "title": "Sakura Photograph Ep.1",
+      "title": "Sakura Photograph Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-010-02",
-      "title": "Sakura Photograph Ep.2",
+      "title": "Sakura Photograph Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-010-03",
-      "title": "Sakura Photograph Ep.3",
+      "title": "Sakura Photograph Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-012-01",
-      "title": "Love & Joy Ep.1",
+      "title": "Love & Joy Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-012-02",
-      "title": "Love & Joy Ep.2",
+      "title": "Love & Joy Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-012-03",
-      "title": "Love & Joy Ep.3",
+      "title": "Love & Joy Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-014-01",
-      "title": "Miracle na Now(゚∀゚)! Ep.1",
+      "title": "Mirakuru na Nau(゚∀゚)! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-014-02",
-      "title": "Miracle na Now(゚∀゚)! Ep.2",
+      "title": "Mirakuru na Nau(゚∀゚)! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-014-03",
-      "title": "Miracle na Now(゚∀゚)! Ep.3",
+      "title": "Mirakuru na Nau(゚∀゚)! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-017-01",
-      "title": "Tokimeki Emotion Ep.1",
+      "title": "Tokimeki Emotion Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-017-02",
-      "title": "Tokimeki Emotion Ep.2",
+      "title": "Tokimeki Emotion Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ssmk-3-017-03",
-      "title": "Tokimeki Emotion Ep.3",
+      "title": "Tokimeki Emotion Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-000-01",
-      "title": "Luna say maybe Ep.1",
+      "title": "Luna say maybe Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-000-02",
-      "title": "Luna say maybe Ep.2",
+      "title": "Luna say maybe Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-000-03",
-      "title": "Luna say maybe Ep.3",
+      "title": "Luna say maybe Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-001-01",
-      "title": "IVY Ep.1",
+      "title": "IVY Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-001-02",
-      "title": "IVY Ep.2",
+      "title": "IVY Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-001-03",
-      "title": "IVY Ep.3",
+      "title": "IVY Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-002-01",
-      "title": "Kasou Kyousoukyoku Ep.1",
+      "title": "Kasou Kyousoukyoku Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-002-02",
-      "title": "Kasou Kyousoukyoku Ep.2",
+      "title": "Kasou Kyousoukyoku Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-002-03",
-      "title": "Kasou Kyousoukyoku Ep.3",
+      "title": "Kasou Kyousoukyoku Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-007-01",
-      "title": "Campus mode!! Ep.1",
+      "title": "Campus mode!! Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-007-02",
-      "title": "Campus mode!! Ep.2",
+      "title": "Campus mode!! Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-007-03",
-      "title": "Campus mode!! Ep.3",
+      "title": "Campus mode!! Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-009-01",
-      "title": "Yukidoke ni Ep.1",
+      "title": "Yukidoke ni Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-009-02",
-      "title": "Yukidoke ni Ep.2",
+      "title": "Yukidoke ni Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-009-03",
-      "title": "Yukidoke ni Ep.3",
+      "title": "Yukidoke ni Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-011-01",
-      "title": "Ameagari no Iris Ep.1",
+      "title": "Ameagari no Iris Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-011-02",
-      "title": "Ameagari no Iris Ep.2",
+      "title": "Ameagari no Iris Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-011-03",
-      "title": "Ameagari no Iris Ep.3",
+      "title": "Ameagari no Iris Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-015-01",
-      "title": "Gamushara ni Ikou! Ep.1",
+      "title": "Gamushara ni Ikou Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-015-02",
-      "title": "Gamushara ni Ikou! Ep.2",
+      "title": "Gamushara ni Ikou Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-015-03",
-      "title": "Gamushara ni Ikou! Ep.3",
+      "title": "Gamushara ni Ikou Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-016-01",
-      "title": "Ittai Itsukara Ep.1",
+      "title": "Ittai Itsukara Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-016-02",
-      "title": "Ittai Itsukara Ep.2",
+      "title": "Ittai Itsukara Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-016-03",
-      "title": "Ittai Itsukara Ep.3",
+      "title": "Ittai Itsukara Эп.3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ttmr-3-018-01",
+      "title": "【Garakuta Road】Эп.1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ttmr-3-018-02",
+      "title": "【Garakuta Road】Эп.2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-ttmr-3-018-03",
+      "title": "【Garakuta Road】Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12294,7 +13124,7 @@
     },
     {
       "id": "p_story-s_card-2-0007-01",
-      "title": "Эти двое во время обеденного\nперерыва",
+      "title": "Эти двое во время обеденного перерыва",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12319,7 +13149,7 @@
     },
     {
       "id": "p_story-s_card-2-0009-02",
-      "title": "Внезапно! Случайный? Челлендж на\nВыносливость",
+      "title": "Внезапно! Случайный? Челлендж на Выносливость",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12329,7 +13159,7 @@
     },
     {
       "id": "p_story-s_card-2-0010-02",
-      "title": "Когда устал, съешь что-нибудь\nсладкое",
+      "title": "Когда устал, съешь что-нибудь сладкое",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12344,7 +13174,7 @@
     },
     {
       "id": "p_story-s_card-2-0012-01",
-      "title": "Одноклассница, которую нельзя\nигнорировать",
+      "title": "Одноклассница, которую нельзя игнорировать",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12404,7 +13234,7 @@
     },
     {
       "id": "p_story-s_card-2-0018-01",
-      "title": "Стремиться стать мастером\nизгибов...?",
+      "title": "Стремиться стать мастером изгибов...?",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12484,7 +13314,7 @@
     },
     {
       "id": "p_story-s_card-2-0026-01",
-      "title": "Пожалуйста, позволь мне\nприсоединиться",
+      "title": "Пожалуйста, позволь мне присоединиться",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12499,7 +13329,7 @@
     },
     {
       "id": "p_story-s_card-2-0027-02",
-      "title": "Суровая сторона президента\nстудсовета",
+      "title": "Суровая сторона президента студсовета",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12599,7 +13429,7 @@
     },
     {
       "id": "p_story-s_card-2-0037-02",
-      "title": "Вечеринка с горячим котлом для\nвсех!",
+      "title": "Вечеринка с горячим котлом для всех!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12649,7 +13479,7 @@
     },
     {
       "id": "p_story-s_card-2-0042-02",
-      "title": "С любовью и заботой сделано\nвручную",
+      "title": "С любовью и заботой сделано вручную",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12719,7 +13549,7 @@
     },
     {
       "id": "p_story-s_card-2-0049-02",
-      "title": "No.2 Brilliant Academy",
+      "title": "Бриллиантовая Академия №2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12809,7 +13639,7 @@
     },
     {
       "id": "p_story-s_card-2-0060-02",
-      "title": "Кусочек Mont Blanc — обязателен к\nпробе♪",
+      "title": "Кусочек Mont Blanc — обязателен к пробе♪",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -12829,7 +13659,7 @@
     },
     {
       "id": "p_story-s_card-2-0062-02",
-      "title": "Спасибо приходит в виде\nгорько-сладкого желе",
+      "title": "Спасибо приходит в виде горько-сладкого желе",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13054,7 +13884,7 @@
     },
     {
       "id": "p_story-s_card-3-0006-03",
-      "title": "Старшая айдол, которой хочется\nвосхищаться",
+      "title": "Старшая айдол, которой хочется восхищаться",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13084,7 +13914,7 @@
     },
     {
       "id": "p_story-s_card-3-0008-03",
-      "title": "Давайте устроим вечеринку с\nкрепами!",
+      "title": "Давайте устроим вечеринку с крепами!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13294,7 +14124,7 @@
     },
     {
       "id": "p_story-s_card-3-0022-03",
-      "title": "Это тоже обязанность старосты\nобщежития",
+      "title": "Это тоже обязанность старосты общежития",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13309,12 +14139,12 @@
     },
     {
       "id": "p_story-s_card-3-0023-03",
-      "title": "А что, если бы мы поменялись\nместами",
+      "title": "А что, если бы мы поменялись местами",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-s_card-3-0024-01",
-      "title": "Партнёрство, на которое можно\nположиться?",
+      "title": "Партнёрство, на которое можно положиться?",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13324,7 +14154,7 @@
     },
     {
       "id": "p_story-s_card-3-0024-03",
-      "title": "Senpai, которая заботится о\nмладших!",
+      "title": "Senpai, которая заботится о младших!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13424,7 +14254,7 @@
     },
     {
       "id": "p_story-s_card-3-0031-02",
-      "title": "Как пользоваться бенгальскими\nогнями",
+      "title": "Как пользоваться бенгальскими огнями",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13559,7 +14389,7 @@
     },
     {
       "id": "p_story-s_card-3-0040-02",
-      "title": "Вкус, который я хочу тебе дать\nпопробовать",
+      "title": "Вкус, который я хочу тебе дать попробовать",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13634,12 +14464,12 @@
     },
     {
       "id": "p_story-s_card-3-0045-02",
-      "title": "Больше, чем раньше, больше, чем\nсейчас",
+      "title": "Больше, чем раньше, больше, чем сейчас",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-s_card-3-0045-03",
-      "title": "Давайте улыбнёмся и скажем, что у\nнас получится!",
+      "title": "Давайте улыбнёмся и скажем, что у нас получится!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13649,7 +14479,7 @@
     },
     {
       "id": "p_story-s_card-3-0046-02",
-      "title": "«Brightest Star» — единственная в\nсвоём роде",
+      "title": "«Brightest Star» — единственная в своём роде",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13674,7 +14504,7 @@
     },
     {
       "id": "p_story-s_card-3-0048-01",
-      "title": "Длинная очередь на День святого\nВалентина",
+      "title": "Длинная очередь на День святого Валентина",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13684,7 +14514,7 @@
     },
     {
       "id": "p_story-s_card-3-0048-03",
-      "title": "Шоколад, достойный называться\nсокровищем",
+      "title": "Шоколад, достойный называться сокровищем",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13889,7 +14719,7 @@
     },
     {
       "id": "p_story-s_card-3-0062-02",
-      "title": "По крайней мере, смелости им не\nзанимать",
+      "title": "По крайней мере, смелости им не занимать",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13899,7 +14729,7 @@
     },
     {
       "id": "p_story-s_card-3-0063-01",
-      "title": "Весёлая деятельность по\nпродвижению♪",
+      "title": "Весёлая деятельность по продвижению♪",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13909,7 +14739,7 @@
     },
     {
       "id": "p_story-s_card-3-0063-03",
-      "title": "Этот косплей-образ невозможно\nигнорировать",
+      "title": "Этот косплей-образ невозможно игнорировать",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13949,7 +14779,7 @@
     },
     {
       "id": "p_story-s_card-3-0066-02",
-      "title": "Тайна, которую мне хочется\nразгадать",
+      "title": "Тайна, которую мне хочется разгадать",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13969,7 +14799,7 @@
     },
     {
       "id": "p_story-s_card-3-0067-03",
-      "title": "В следующий раз давайте\nсоревноваться как айдолы!",
+      "title": "В следующий раз давайте соревноваться как айдолы!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14009,7 +14839,7 @@
     },
     {
       "id": "p_story-s_card-3-0070-02",
-      "title": "Чрезмерно заботливый\nвице-президент",
+      "title": "Чрезмерно заботливый вице-президент",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14019,7 +14849,7 @@
     },
     {
       "id": "p_story-s_card-3-0071-01",
-      "title": "Пора как следует раскачать\nатмосферу!",
+      "title": "Пора как следует раскачать атмосферу!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14054,7 +14884,7 @@
     },
     {
       "id": "p_story-s_card-3-0073-02",
-      "title": "Стремись поступить в старшую\nшколу!",
+      "title": "Стремись поступить в старшую школу!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14079,7 +14909,7 @@
     },
     {
       "id": "p_story-s_card-3-0075-01",
-      "title": "Чаепитие, чтобы поделиться\nчувствами",
+      "title": "Чаепитие, чтобы поделиться чувствами",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14119,12 +14949,12 @@
     },
     {
       "id": "p_story-s_card-3-0077-03",
-      "title": "Отношение, с которого стоит брать\nпример",
+      "title": "Отношение, с которого стоит брать пример",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-s_card-3-0078-01",
-      "title": "Брось вызов пришельцу в\nармрестлинге!",
+      "title": "Брось вызов пришельцу в армрестлинге!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14169,7 +14999,7 @@
     },
     {
       "id": "p_story-s_card-3-0081-01",
-      "title": "Обмен нашими подарками «я люблю\nтебя»",
+      "title": "Обмен нашими подарками «я люблю тебя»",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14194,7 +15024,7 @@
     },
     {
       "id": "p_story-s_card-3-0082-03",
-      "title": "Это просто внезапно пришло мне в\nголову!",
+      "title": "Это просто внезапно пришло мне в голову!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14214,7 +15044,7 @@
     },
     {
       "id": "p_story-s_card-3-0084-01",
-      "title": "Кажется, меня просто водили за\nнос!",
+      "title": "Кажется, меня просто водили за нос!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14229,7 +15059,7 @@
     },
     {
       "id": "p_story-s_card-3-0085-01",
-      "title": "Идеальные отношения Senpai и\nkouhai",
+      "title": "Идеальные отношения Senpai и kouhai",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14254,7 +15084,7 @@
     },
     {
       "id": "p_story-s_card-3-0086-03",
-      "title": "Примем вызов свидания с подругой\nдетства!",
+      "title": "Примем вызов свидания с подругой детства!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14269,7 +15099,7 @@
     },
     {
       "id": "p_story-s_card-3-0087-03",
-      "title": "Чтобы отплатить за оказанную мне\nдоброту",
+      "title": "Чтобы отплатить за оказанную мне доброту",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14404,7 +15234,22 @@
     },
     {
       "id": "p_story-s_card-3-0096-03",
-      "title": "Воспоминания о море, которое мы\nсмотрели вместе",
+      "title": "Воспоминания о море, которое мы смотрели вместе",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0097-01",
+      "title": "Подарок, отличный от того, что я представлял",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0097-02",
+      "title": "Причина тому, что все смотрят",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0097-03",
+      "title": "Консультация по проблемам сестры",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14424,707 +15269,707 @@
     },
     {
       "id": "story-dearness-amao-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-amao-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-amao-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-amao-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-amao-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-amao-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-amao-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-amao-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-amao-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-amao-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-amao-010-1",
-      "title": "Ch.10.Ep.5",
+      "title": "Гл.10.Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-atbm-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-atbm-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-atbm-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-atbm-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-atbm-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-atbm-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-atbm-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-atbm-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-atbm-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-atbm-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-010-1",
-      "title": "Ch.10.Ep.5",
+      "title": "Гл.10.Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-fktn-999",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hmsz-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hrnm-010-1",
-      "title": "Ch.10.Ep.5",
+      "title": "Гл.10.Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hski-010-1",
-      "title": "Ch.10.Ep.5",
+      "title": "Гл.10.Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-hume-010-1",
-      "title": "Ch.10.Ep.5",
+      "title": "Гл.10.Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-jsna-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-jsna-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-jsna-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-jsna-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-jsna-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-jsna-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-jsna-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-jsna-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-jsna-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-jsna-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kcna-010-1",
-      "title": "Ch.10.Ep.5",
+      "title": "Гл.10.Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-kllj-010-1",
-      "title": "Ch.10.Ep.5",
+      "title": "Гл.10.Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-shro-010-1",
-      "title": "Ch.10.Ep.5",
+      "title": "Гл.10.Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ssmk-010-1",
-      "title": "Ch.10.Ep.5",
+      "title": "Гл.10.Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-001",
-      "title": "Ep.1",
+      "title": "Эп.1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-002",
-      "title": "Ep.2",
+      "title": "Эп.2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-003",
-      "title": "Ep.3",
+      "title": "Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-004",
-      "title": "Ep.4",
+      "title": "Эп.4",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-005",
-      "title": "Ep.5",
+      "title": "Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-006",
-      "title": "Ep.6",
+      "title": "Эп.6",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-007",
-      "title": "Ep.7",
+      "title": "Эп.7",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-008",
-      "title": "Ep.8",
+      "title": "Эп.8",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-009",
-      "title": "Ep.9",
+      "title": "Эп.9",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-010",
-      "title": "Ep.10",
+      "title": "Эп.10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "story-dearness-ttmr-010-1",
-      "title": "Ch.10.Ep.5",
+      "title": "Гл.10.Эп.5",
       "produceEventHintProduceConditionDescriptions": []
     }
   ]

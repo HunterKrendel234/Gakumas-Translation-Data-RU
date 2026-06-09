@@ -98,6 +98,10 @@
       "name": "Кампания усиления связи"
     },
     {
+      "id": "dearness_panel-mission_relaunch_hmsz_01",
+      "name": "Кампания усиления отношений"
+    },
+    {
       "id": "dearness_panel-mission_relaunch_hrnm_01",
       "name": "Кампания усиления связи"
     },
@@ -140,6 +144,10 @@
     {
       "id": "dearness_panel-mission_ttmr_01",
       "name": "Кампания усиления связи"
+    },
+    {
+      "id": "limited-time-mission-001-group_1",
+      "name": "Празднование запуска H.I.F.! Ограниченная по времени миссия (〜2026/6/15 10:59)"
     },
     {
       "id": "mission_group-daily-001",
@@ -195,11 +203,11 @@
     },
     {
       "id": "mission-group-box-gasha-event-003",
-      "name": "Halloween Rhapsody"
+      "name": "Рапсодия Хэллоуина"
     },
     {
       "id": "mission-group-box-gasha-event-004",
-      "name": "A Friendmas Around Cake"
+      "name": "Кексовый праздник друзей"
     },
     {
       "id": "mission-group-box-gasha-event-005",
@@ -211,7 +219,7 @@
     },
     {
       "id": "mission-group-box-gasha-event-007",
-      "name": "Fluttering Sakura on the Starting Line"
+      "name": "Порхание сакуры на старте"
     },
     {
       "id": "mission-group-box-gasha-event-015",
@@ -223,7 +231,7 @@
     },
     {
       "id": "mission-group-circle-battle-event-001",
-      "name": "#Animate Hype Squad"
+      "name": "#Анимировать Хайп-сквад"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_1",
@@ -824,6 +832,10 @@
     {
       "id": "mission-group-main-story-event-010_5",
       "name": "Миссии события Hatsuboshi Commu"
+    },
+    {
+      "id": "mission-group-mission_HIF_clear_1",
+      "name": "HIF Очистка миссии"
     },
     {
       "id": "mission-group-panel-mission-01",
