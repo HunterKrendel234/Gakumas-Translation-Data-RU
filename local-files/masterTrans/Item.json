@@ -1117,7 +1117,7 @@
     },
     {
       "id": "item-piece-idol_hrnm-3-017",
-      "name": "[Garakuta Road] Rinami Himesaki Piece",
+      "name": "[Garakuta Road] Rinami Himesaki Кусок",
       "description": "Предмет для пробуждения и разблокировки продюсируемых айдолов",
       "acquisitionRouteDescription": "Gacha, etc."
     },
@@ -1681,13 +1681,13 @@
     },
     {
       "id": "item-primastellamaterial-common-001",
-      "name": "Prima Stella Note",
+      "name": "Prima Stella Нота",
       "description": "Предмет, используемый для разблокировки «Prima Stella» продюсируемого айдола",
       "acquisitionRouteDescription": "Item Exchange etc."
     },
     {
       "id": "item-primastellamaterial-idol_amao-001",
-      "name": "Mao's Prima Stella Light",
+      "name": "Mao's Prima Stella Свет",
       "description": "Предмет, используемый для разблокировки «Prima Stella» Mao Arimura.",
       "acquisitionRouteDescription": "Achievements, etc."
     },
@@ -1699,7 +1699,7 @@
     },
     {
       "id": "item-primastellamaterial-idol_hrnm-001",
-      "name": "Rinami's Prima Stella Light",
+      "name": "Rinami's Prima Stella Свет",
       "description": "Предмет, используемый для разблокировки «Prima Stella» Rinami Himesaki.",
       "acquisitionRouteDescription": "Achievements, etc."
     },

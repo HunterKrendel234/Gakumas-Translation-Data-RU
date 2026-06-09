@@ -145381,7 +145381,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_ExamLesson",
-          "text": "Param "
+          "text": "Параметр "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -149006,7 +149006,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "Stamina's <nobr>"
+          "text": "Выносливость <nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -240912,7 +240912,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-01-act-1_020",
-          "text": "High-Five "
+          "text": "Висок-Файв "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -241094,7 +241094,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-01-act-1_020",
-          "text": "High-Five "
+          "text": "Висок-Файв "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -242015,7 +242015,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-01-act-1_068",
-          "text": "Course Correction "
+          "text": "Коррекция курса "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -242140,7 +242140,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-01-act-1_069",
-          "text": "Pump Up "
+          "text": "Повышение "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -243231,7 +243231,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "To "
+          "text": "В "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -243651,7 +243651,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "To "
+          "text": "В "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -243821,7 +243821,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "To "
+          "text": "К "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -244056,7 +244056,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "↑ to times, "
+          "text": "↑ до раз, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -246747,7 +246747,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "To "
+          "text": "К "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -246982,7 +246982,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-01-men-2_038",
-          "text": "Power of Wish"
+          "text": "Power of Wish "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -254158,7 +254158,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-02-men-2_056",
-          "text": "Unstoppable Feelings"
+          "text": "Unstoppable Feelings "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -255734,7 +255734,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-03-act-1_043",
-          "text": "Hustle "
+          "text": "Трудолюбие "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -256703,7 +256703,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "To "
+          "text": "до "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -257552,7 +257552,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-03-act-2_067",
-          "text": "Ideal Tempo"
+          "text": "Идеальный темп "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -257734,7 +257734,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-03-act-2_067",
-          "text": "Ideal Tempo "
+          "text": "Идеальный темп "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -258041,7 +258041,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-03-act-2_068",
-          "text": "Bursting Passion "
+          "text": "Взрывная страсть "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -259823,7 +259823,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-03-act-2_082",
-          "text": "Trend Leader "
+          "text": "Лидер тренда "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -259871,7 +259871,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "To "
+          "text": "до "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -260118,7 +260118,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "p_card-03-act-2_106",
-          "text": "Andante "
+          "text": "Анданте "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
