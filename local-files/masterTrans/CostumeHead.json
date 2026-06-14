@@ -131,6 +131,11 @@
       "description": "【Mite】Получить Mao Arimura"
     },
     {
+      "id": "costume_head_amao-hair-0023",
+      "name": "Bunny Ears",
+      "description": "Premium Mission Pass obtained in June 2026"
+    },
+    {
       "id": "costume_head_amao-hair-0035",
       "name": "Mite (Gradient)",
       "description": "【Mite】Получить Mao Arimura"
@@ -214,6 +219,11 @@
       "id": "costume_head_atbm-hair-0009",
       "name": "Большой бант",
       "description": "Получено через Premium Mission Pass February 2026"
+    },
+    {
+      "id": "costume_head_atbm-hair-0023",
+      "name": "Bunny Ears",
+      "description": "Premium Mission Pass obtained in June 2026"
     },
     {
       "id": "costume_head_atbm-schl-0000",
@@ -629,6 +639,11 @@
       "id": "costume_head_hrnm-hair-0009",
       "name": "Большой бант",
       "description": "Получено через Premium Mission Pass February 2026"
+    },
+    {
+      "id": "costume_head_hrnm-hair-0023",
+      "name": "Bunny Ears",
+      "description": "Premium Mission Pass obtained in June 2026"
     },
     {
       "id": "costume_head_hrnm-hair-0033",
@@ -1071,6 +1086,11 @@
       "description": "【Sekirara】Получается на 4-й стадии раскрытия таланта Sena Juo"
     },
     {
+      "id": "costume_head_jsna-hair-0023",
+      "name": "Bunny Ears",
+      "description": "Premium Mission Pass obtained in June 2026"
+    },
+    {
       "id": "costume_head_jsna-hair-0026",
       "name": "Sekirara (Gradient)",
       "description": "【Sekirara】Получить Sena Juo"
@@ -1301,6 +1321,16 @@
       "description": "【Tokimeki Emotion】Получается на 4-й стадии раскрытия таланта Lilja\nKatsuragi"
     },
     {
+      "id": "costume_head_kllj-cstm-0136",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Obtain Lilja Katsuragi"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0137",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Obtained at Talent Bloom Stage 4 for Lilja Katsuragi"
+    },
+    {
       "id": "costume_head_kllj-hair-0001",
       "name": "Украшение для волос с гортензией",
       "description": "Получено через Premium Mission Pass July 2024 и т. д."
@@ -1459,6 +1489,16 @@
       "id": "costume_head_shro-cstm-0132",
       "name": "Michinaru Hirogaru",
       "description": "【Michinaru Hirogaru】Получается на 4-й стадии раскрытия таланта Hiro\nShinosawa"
+    },
+    {
+      "id": "costume_head_shro-cstm-0136",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Obtain Hiro Shinosawa"
+    },
+    {
+      "id": "costume_head_shro-cstm-0137",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Obtain from the 4th Talent Bloom stage of Hiro Shinosawa"
     },
     {
       "id": "costume_head_shro-hair-0001",

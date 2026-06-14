@@ -74,6 +74,10 @@
       "description": "Недостаточно"
     },
     {
+      "id": "home.gasha.point_detail_overlay.point_limit_time",
+      "description": "Pt exp date: Till {0}"
+    },
+    {
       "id": "home.produce.tutorial_reward",
       "description": "Получите SSR P-Idol!"
     },
@@ -168,6 +172,10 @@
     {
       "id": "produce.hif.audition.qualify.audition_mid2.title",
       "description": "Квалификация 2"
+    },
+    {
+      "id": "produce.hif.audition.qualify.description",
+      "description": "You will face your rival in a performance showdown. If you surpass the border line, you will pass the selection exam."
     },
     {
       "id": "produce.hif.audition.qualify.title",

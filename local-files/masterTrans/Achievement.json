@@ -2316,6 +2316,36 @@
       "description": "【Tokimeki Emotion】Установить уровень тренировки Лильи Кацураги до {threshold}"
     },
     {
+      "id": "achieve-i_card-kllj-3-018-01",
+      "name": "Words That Support Me",
+      "description": "【Garakuta Road】Pass the final exam in a produce run with Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-02",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-03",
+      "name": "My Starting Point",
+      "description": "【Garakuta Road】Earn an evaluation of A+ or higher {threshold} times in a produce run with Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-04",
+      "name": "Garakuta Road +",
+      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-05",
+      "name": "Garakuta Road ++",
+      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-06",
+      "name": "Garakuta Road +++",
+      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Lilja Katsuragi"
+    },
+    {
       "id": "achieve-i_card-shro-2-000-04",
       "name": "Самое неподходящее +",
       "description": "【What I'm least suited for】Повысить уровень SP-тренировки Хиро Шиносавы до {threshold}"
@@ -2554,6 +2584,36 @@
       "id": "achieve-i_card-shro-3-016-06",
       "name": "Michinaru Hirogaru +++",
       "description": "【Michinaru Hirogaru】Повысить уровень SP-тренировки Хиро Шиносавы до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-shro-3-018-01",
+      "name": "My Memories Alone",
+      "description": "【Garakuta Road】Pass the final exam in a produce run with Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-i_card-shro-3-018-02",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-i_card-shro-3-018-03",
+      "name": "Most Wonderful Produce",
+      "description": "【Garakuta Road】Earn an evaluation of A+ or higher {threshold} times in a produce run with Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-i_card-shro-3-018-04",
+      "name": "Garakuta Road +",
+      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-i_card-shro-3-018-05",
+      "name": "Garakuta Road ++",
+      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-i_card-shro-3-018-06",
+      "name": "Garakuta Road +++",
+      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-04",
@@ -4811,6 +4871,11 @@
       "description": "Открыть True End: N.I.A с Чиной Курамото"
     },
     {
+      "id": "achieve-p_idol-kcna-000-2",
+      "name": "My Top Producer",
+      "description": "View True End: H.I.F with China Kuramoto"
+    },
+    {
       "id": "achieve-p_idol-kcna-001",
       "name": "Много практики",
       "description": "Использовать карты навыков {threshold} раз(а) при продюсировании Чины Курамото"
@@ -4926,6 +4991,16 @@
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Чиной Курамото {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-kcna-025",
+      "name": "A Dream That Grew Bigger",
+      "description": "Pass the H.I.F final exam with China Kuramoto and earn an evaluation of S4+ or higher"
+    },
+    {
+      "id": "achieve-p_idol-kcna-026",
+      "name": "A Journey Guided Forward",
+      "description": "Pass the H.I.F final exam {threshold} times with China Kuramoto"
+    },
+    {
       "id": "achieve-p_idol-kcna-027",
       "name": "Следующий Председатель СК, подтверждён!",
       "description": "Сдать финальный экзамен с China Kuramoto и получить оценку S4+ {threshold} раз"
@@ -4939,6 +5014,11 @@
       "id": "achieve-p_idol-kllj-000-1",
       "name": "Стать топ-айолом!",
       "description": "Открыть True End: N.I.A с Лильей Кацураги"
+    },
+    {
+      "id": "achieve-p_idol-kllj-000-2",
+      "name": "Will You Stay With Me Forever?",
+      "description": "View True End: H.I.F with Lilja Katsuragi"
     },
     {
       "id": "achieve-p_idol-kllj-001",
@@ -5056,6 +5136,16 @@
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Лильей Кацураги {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-kllj-025",
+      "name": "The Idol I Admired That Day",
+      "description": "Pass the H.I.F final exam with Lilja Katsuragi and earn an evaluation of S4+ or higher"
+    },
+    {
+      "id": "achieve-p_idol-kllj-026",
+      "name": "A Joyful Journey",
+      "description": "Pass the H.I.F final exam {threshold} times with Lilja Katsuragi"
+    },
+    {
       "id": "achieve-p_idol-kllj-027",
       "name": "Рождение барьерного Айдола",
       "description": "Пройди Финальный Экзамен с Lilja Katsuragi и получи оценку S4 или выше {threshold} раз"
@@ -5069,6 +5159,11 @@
       "id": "achieve-p_idol-shro-000-1",
       "name": "Наша мечта",
       "description": "Открыть True End: N.I.A с Хиро Синосавой"
+    },
+    {
+      "id": "achieve-p_idol-shro-000-2",
+      "name": "Together Until the Very End",
+      "description": "View True End: H.I.F with Hiro Shinosawa"
     },
     {
       "id": "achieve-p_idol-shro-001",
@@ -5191,6 +5286,16 @@
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Хиро Синосавой {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-shro-025",
+      "name": "A One-Night Miracle",
+      "description": "Pass the H.I.F final exam with Hiro Shinosawa and earn an evaluation of S4+ or higher"
+    },
+    {
+      "id": "achieve-p_idol-shro-026",
+      "name": "Painful, Happy, and Fun Days",
+      "description": "Pass the H.I.F final exam {threshold} times with Hiro Shinosawa"
+    },
+    {
       "id": "achieve-p_idol-shro-027",
       "name": "Божественность как Айдол",
       "description": "Сдать Финальный экзамен с Hiro Shinosawa и получить оценку S4 или выше {threshold} раз"
@@ -5204,6 +5309,11 @@
       "id": "achieve-p_idol-ssmk-000-1",
       "name": "Моё место",
       "description": "Открыть True End: N.I.A с Сумикой Сиун"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-000-2",
+      "name": "A Happy Idol",
+      "description": "View True End: H.I.F with Sumika Shiun"
     },
     {
       "id": "achieve-p_idol-ssmk-001",
@@ -5319,6 +5429,16 @@
       "id": "achieve-p_idol-ssmk-024",
       "name": "Я, которой хочу стать",
       "description": "Сдать финальный экзамен с рангом SSS+ или выше с Сумикой Сиун {threshold} раз(а)"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-025",
+      "name": "The Person I Want to Become",
+      "description": "Pass the H.I.F final exam with Sumika Shiun and earn an evaluation of S4+ or higher"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-026",
+      "name": "Every Step We Took Together",
+      "description": "Pass the H.I.F final exam {threshold} times with Sumika Shiun"
     },
     {
       "id": "achieve-p_idol-ssmk-027",
