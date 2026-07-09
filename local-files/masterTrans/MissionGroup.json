@@ -110,6 +110,10 @@
       "name": "Кампания усиления связи"
     },
     {
+      "id": "dearness_panel-mission_relaunch_hume_01",
+      "name": "Кампания повышения отношений"
+    },
+    {
       "id": "dearness_panel-mission_relaunch_jsna_01",
       "name": "Кампания усиления связи"
     },
@@ -211,11 +215,11 @@
     },
     {
       "id": "mission-group-box-gasha-event-005",
-      "name": "Valentine Concerto"
+      "name": "Валентиновский концерт"
     },
     {
       "id": "mission-group-box-gasha-event-006",
-      "name": "Changelings Hinamatsuri"
+      "name": "Ченджленги Хинаматсури"
     },
     {
       "id": "mission-group-box-gasha-event-007",
@@ -228,6 +232,10 @@
     {
       "id": "mission-group-box-gasha-event-019",
       "name": "Событие Live Tour — Нагоя"
+    },
+    {
+      "id": "mission-group-box-gasha-event-020",
+      "name": "Live Тур Событие SP - GO MY WAY!!"
     },
     {
       "id": "mission-group-circle-battle-event-001",
@@ -632,6 +640,26 @@
     {
       "id": "mission-group-highscorerush-event-013_5",
       "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+    },
+    {
+      "id": "mission-group-highscorerush-event-014_1",
+      "name": "Месяц улучшения Айдол Kunio Juo 〜Сияние звезд〜 (Misuzu/Hiro)"
+    },
+    {
+      "id": "mission-group-highscorerush-event-014_2",
+      "name": "Месяц улучшения Айдол Kunio Juo 〜Сияние звезд〜 (Misuzu/Hiro)"
+    },
+    {
+      "id": "mission-group-highscorerush-event-014_3",
+      "name": "Месяц улучшения Айдол Kunio Juo 〜Сияние звезд〜 (Misuzu/Hiro)"
+    },
+    {
+      "id": "mission-group-highscorerush-event-014_4",
+      "name": "Месяц улучшения Айдол Kunio Juo 〜Сияние звезд〜 (Misuzu/Hiro)"
+    },
+    {
+      "id": "mission-group-highscorerush-event-014_5",
+      "name": "Месяц усиления айдолов Kunio Juo 〜Twinkling of the Stars〜"
     },
     {
       "id": "mission-group-main-story-event-001_1",

@@ -72,6 +72,12 @@
       "acquisitionRouteDescription": "Produce, etc."
     },
     {
+      "id": "item-coin-box-gasha-event-020",
+      "name": "Сонный патч",
+      "description": "Предмет для гачи события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
       "id": "item-coin-highscorerush-event-001",
       "name": "Звёздный свет",
       "description": "Предмет для ивент-гачи",
@@ -147,6 +153,12 @@
       "id": "item-coin-highscorerush-event-013",
       "name": "Звёздный свет",
       "description": "Предмет для ивент-гачи «Месяц усиления айдолов 〜Сияние звёзд〜 (Misuzu Hataya / Hiro Shinosawa)»",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
+      "id": "item-coin-highscorerush-event-014",
+      "name": "Звёздный свет",
+      "description": "Предмет, используемый в Месяце улучшения айдолов 〜Сияние Звёзд〜 (Mao Arimura/Rinami Himesaki)",
       "acquisitionRouteDescription": "Producing event mode, etc."
     },
     {
@@ -361,8 +373,20 @@
     },
     {
       "id": "item-gashaticket-new-wednesday-26-0603-1",
-      "name": "Gakumas Wednesday Gacha Ticket",
-      "description": "A ticket used in the Gakumas Wednesday Gacha",
+      "name": "Билет «Гакумас Среда»",
+      "description": "Билет для гачи «Гакумас Среда»",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-new-wednesday-26-0617-1",
+      "name": "Билет «Гакумас Среда»",
+      "description": "Билет для гачи «Гакумас Среда»",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-new-wednesday-26-0701-1",
+      "name": "Билет на гачу «Gakumas Wednesday»",
+      "description": "Билет, используемый в гачу «Gakumas Wednesday»",
       "acquisitionRouteDescription": ""
     },
     {
@@ -912,6 +936,12 @@
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
+      "id": "item-piece-idol_amao-3-017",
+      "name": "[SUGAR FLAVOR] Mao Arimura Piece",
+      "description": "Предмет, используемый для пробуждения и разблокировки продюсируемых айдолов",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
       "id": "item-piece-idol_atbm-1-000",
       "name": "[School Life] Фрагмент Цубамэ Амии",
       "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
@@ -999,6 +1029,12 @@
       "id": "item-piece-idol_fktn-3-016",
       "name": "[Gamushara ni Ikou!] Фрагмент Котоне Фудзиты",
       "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_fktn-3-019",
+      "name": "[GO MY WAY!!] Kotone Fujita Piece",
+      "description": "Предмет, используемый для пробуждения и разблокировки продюсируемых айдолов",
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
@@ -1128,6 +1164,12 @@
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
+      "id": "item-piece-idol_hrnm-3-018",
+      "name": "[SUGAR FLAVOR] Rinami Himesaki Piece",
+      "description": "Предмет, используемый для пробуждения и разблокировки продюсируемых айдолов",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
       "id": "item-piece-idol_hski-1-000",
       "name": "[Campus Life] Фрагмент Саки Ханами",
       "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
@@ -1198,6 +1240,12 @@
       "name": "[Wildest Flower] Фрагмент Саки Ханами",
       "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
       "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hski-3-019",
+      "name": "[GO MY WAY!!] Saki Hanami Кусок",
+      "description": "Предмет для пробуждения и разблокировки Продюсируемых Айдолов",
+      "acquisitionRouteDescription": "Event Gacha, etc."
     },
     {
       "id": "item-piece-idol_hume-1-000",
@@ -1465,8 +1513,8 @@
     },
     {
       "id": "item-piece-idol_kllj-3-018",
-      "name": "[Garakuta Road] Lilja Katsuragi Piece",
-      "description": "Item used for awakening and unlocking Produce Idols",
+      "name": "[Garakuta Road] Lilja Katsuragi Кусок",
+      "description": "Предмет для пробуждения и разблокировки Продюсируемых Айдолов",
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
@@ -1537,8 +1585,8 @@
     },
     {
       "id": "item-piece-idol_shro-3-018",
-      "name": "[Garakuta Road] Hiro Shinosawa Piece",
-      "description": "Item used for awakening and unlocking Produce Idols",
+      "name": "[Garakuta Road] Hiro Shinosawa Кусок",
+      "description": "Предмет для пробуждения и разблокировки Продюсируемых Айдолов",
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
@@ -1723,26 +1771,26 @@
     },
     {
       "id": "item-primastellamaterial-idol_kcna-001",
-      "name": "China's Prima Stella Light",
-      "description": "An item used to unlock China Kuramoto's \"Prima Stella\"",
+      "name": "Свет «Prima Stella» Китая",
+      "description": "Предмет для разблокировки «Prima Stella» от China Kuramoto",
       "acquisitionRouteDescription": "Achievements, etc."
     },
     {
       "id": "item-primastellamaterial-idol_kllj-001",
       "name": "Lilja's Prima Stella Light",
-      "description": "An item used to unlock Lilja Katsuragi's \"Prima Stella\"",
+      "description": "Предмет, используемый для разблокировки «Prima Stella» Lilja Katsuragi",
       "acquisitionRouteDescription": "Achievements, etc."
     },
     {
       "id": "item-primastellamaterial-idol_shro-001",
       "name": "Hiro's Prima Stella Light",
-      "description": "An item used to unlock Hiro Shinosawa's \"Prima Stella\"",
+      "description": "Предмет, используемый для разблокировки «Prima Stella» Hiro Shinosawa",
       "acquisitionRouteDescription": "Achievements, etc."
     },
     {
       "id": "item-primastellamaterial-idol_ssmk-001",
       "name": "Sumika's Prima Stella Light",
-      "description": "An item used to unlock Sumika Shiun's \"Prima Stella\"",
+      "description": "Предмет, используемый для разблокировки «Prima Stella» Sumika Shiun",
       "acquisitionRouteDescription": "Achievements, etc."
     },
     {

@@ -1027,6 +1027,16 @@
       "description": ""
     },
     {
+      "id": "cd_draw_gasha-00912-hif-day1-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-00914-hif-day2-001",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_event_release_mission",
       "number": 1,
       "description": ""
@@ -1088,6 +1098,16 @@
     },
     {
       "id": "cd_gasha_have_ticket_item-gashaticket-new-wednesday-26-0603-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_item-gashaticket-new-wednesday-26-0617-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_item-gashaticket-new-wednesday-26-0701-1",
       "number": 1,
       "description": ""
     },
@@ -1388,6 +1408,11 @@
     },
     {
       "id": "cd_highscorerush-event-013-release",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_highscorerush-event-014-release",
       "number": 1,
       "description": ""
     },
@@ -2218,6 +2243,26 @@
     },
     {
       "id": "cd_login_bonus_wednesday-26-0610",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0617",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0624",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0701",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0708",
       "number": 1,
       "description": ""
     },
@@ -3847,7 +3892,7 @@
       "description": ""
     },
     {
-      "id": "cd_money_exchange_plv_5_9_week_Wed",
+      "id": "cd_money_exchange_УрП_5_9_week_Wed",
       "number": 2,
       "description": ""
     },
@@ -3977,7 +4022,7 @@
       "description": ""
     },
     {
-      "id": "cd_plv_1",
+      "id": "cd_УрП_1",
       "number": 1,
       "description": ""
     },
@@ -4149,62 +4194,62 @@
     {
       "id": "cd_producer_level-075",
       "number": 1,
-      "description": "Открывается при PLv 75 и выше"
+      "description": "Открывается при УрП 75 и выше"
     },
     {
       "id": "cd_producer_level-076",
       "number": 1,
-      "description": "Открывается при PLv 76 и выше"
+      "description": "Открывается при УрП 76 и выше"
     },
     {
       "id": "cd_producer_level-077",
       "number": 1,
-      "description": "Открывается при PLv 77 и выше"
+      "description": "Открывается при УрП 77 и выше"
     },
     {
       "id": "cd_producer_level-078",
       "number": 1,
-      "description": "Открывается при PLv 78 и выше"
+      "description": "Открывается при УрП 78 и выше"
     },
     {
       "id": "cd_producer_level-079",
       "number": 1,
-      "description": "Открывается при PLv 79 и выше"
+      "description": "Открывается при УрП 79 и выше"
     },
     {
       "id": "cd_producer_level-080",
       "number": 1,
-      "description": "Открывается при PLv 80 и выше"
+      "description": "Открывается при УрП 80 и выше"
     },
     {
       "id": "cd_producerlevel-10",
       "number": 1,
-      "description": "Достигните PLv10"
+      "description": "Достигните УрП 10"
     },
     {
       "id": "cd_producerlevel-12",
       "number": 1,
-      "description": "Достигните PLv12"
+      "description": "Достигните УрП 12"
     },
     {
       "id": "cd_producerlevel-17",
       "number": 1,
-      "description": "Достигните PLv17"
+      "description": "Достигните УрП 17"
     },
     {
       "id": "cd_producerlevel-25",
       "number": 1,
-      "description": "Достигните PLv25"
+      "description": "Достигните УрП 25"
     },
     {
       "id": "cd_producerlevel-30",
       "number": 1,
-      "description": "Достигните PLv30"
+      "description": "Достигните УрП 30"
     },
     {
       "id": "cd_producerlevel-5",
       "number": 1,
-      "description": "Достигните PLv5"
+      "description": "Достигните УрП 5"
     },
     {
       "id": "cd_purchase_shop_pack_item-01",
@@ -6662,6 +6707,31 @@
       "description": ""
     },
     {
+      "id": "cd_time_26_0611-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0615-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0626-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0707_0714",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0801_27_0201",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_time_26_1001-1100",
       "number": 1,
       "description": ""
@@ -6673,6 +6743,11 @@
     },
     {
       "id": "cd_time_26_1201_1100_27_0101_1000",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_27_0201-1100",
       "number": 1,
       "description": ""
     },
@@ -6737,6 +6812,11 @@
       "description": ""
     },
     {
+      "id": "cd_time-view_open-i_card-amao-3-017",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_time-view_open-i_card-atbm-1-000",
       "number": 1,
       "description": ""
@@ -6788,6 +6868,11 @@
     },
     {
       "id": "cd_time-view_open-i_card-fktn-3-016",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time-view_open-i_card-fktn-3-019",
       "number": 1,
       "description": ""
     },
@@ -6877,6 +6962,11 @@
       "description": ""
     },
     {
+      "id": "cd_time-view_open-i_card-hrnm-3-018",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_time-view_open-i_card-hski-1-001",
       "number": 1,
       "description": ""
@@ -6913,6 +7003,11 @@
     },
     {
       "id": "cd_time-view_open-i_card-hski-3-017",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time-view_open-i_card-hski-3-019",
       "number": 1,
       "description": ""
     },
@@ -7337,6 +7432,56 @@
       "description": ""
     },
     {
+      "id": "cd_tour-event-001-exchange_item-piece-idol_hski-3-019-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_tour-event-001-exchange_item-piece-idol_hski-3-019-01",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_tour-event-001-exchange_item-piece-idol_hski-3-019-02",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_tour-event-001-exchange_item-piece-idol_hski-3-019-02",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_tour-event-001-exchange_item-piece-idol_hski-3-019-03",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_tour-event-001-exchange_item-piece-idol_hski-3-019-03",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_tour-event-001-exchange_item-piece-idol_hski-3-019-04",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_tour-event-001-exchange_item-piece-idol_hski-3-019-04",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_tour-event-001-exchange_item-piece-idol_hski-3-019-05",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_tour-event-001-exchange_item-piece-idol_hski-3-019-05",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd_tour-event-001-exchange_item-piece-idol_ssmk-3-014",
       "number": 1,
       "description": ""
@@ -7732,6 +7877,16 @@
       "description": ""
     },
     {
+      "id": "cd_view_gasha-00912-hif-day1-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_view_gasha-00914-hif-day2-001",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_view_gasha-select-pickup-animate-001",
       "number": 1,
       "description": ""
@@ -7758,6 +7913,11 @@
     },
     {
       "id": "cd_view_sd-reversi-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_view_sd-ripplesign-001",
       "number": 1,
       "description": ""
     },
@@ -9209,7 +9369,7 @@
     {
       "id": "cd-comeback-unlock_open-01",
       "number": 2,
-      "description": "Пользователи с PLv 9 или выше"
+      "description": "Пользователи с УрП 9 или выше"
     },
     {
       "id": "cd-comeback-unlock_open-01",
@@ -9269,7 +9429,7 @@
     {
       "id": "cd-comeback-unlock_open-04",
       "number": 2,
-      "description": "Пользователи с PLv ниже 9"
+      "description": "Пользователи с УрП ниже 9"
     },
     {
       "id": "cd-comeback-unlock_open-04",
@@ -10684,12 +10844,12 @@
     {
       "id": "cd-dearness_level-kcna-33",
       "number": 1,
-      "description": "Raise China Kuramoto's Bond to Lv.33"
+      "description": "Повысить отношения с China Kuramoto до Ур.33"
     },
     {
       "id": "cd-dearness_level-kcna-37",
       "number": 1,
-      "description": "Raise China Kuramoto's Bond to Lv.37"
+      "description": "Повысить отношения с China Kuramoto до Ур.37"
     },
     {
       "id": "cd-dearness_level-kllj-01",
@@ -10814,12 +10974,12 @@
     {
       "id": "cd-dearness_level-kllj-33",
       "number": 1,
-      "description": "Raise Lilja Katsuragi's Bond to Lv.33"
+      "description": "Повысить отношения с Lilja Katsuragi до Ур.33"
     },
     {
       "id": "cd-dearness_level-kllj-37",
       "number": 1,
-      "description": "Raise Lilja Katsuragi's Bond to Lv.37"
+      "description": "Повысить отношения с Lilja Katsuragi до Ур.37"
     },
     {
       "id": "cd-dearness_level-shro-01",
@@ -10939,12 +11099,12 @@
     {
       "id": "cd-dearness_level-shro-33",
       "number": 1,
-      "description": "Raise Hiro Shinosawa's Bond to Lv.33"
+      "description": "Повысить отношения с Hiro Shinosawa до Ур.33"
     },
     {
       "id": "cd-dearness_level-shro-37",
       "number": 1,
-      "description": "Raise Hiro Shinosawa's Bond to Lv.37"
+      "description": "Повысить отношения с Hiro Shinosawa до Ур.37"
     },
     {
       "id": "cd-dearness_level-ssmk-01",
@@ -11064,12 +11224,12 @@
     {
       "id": "cd-dearness_level-ssmk-33",
       "number": 1,
-      "description": "Raise Sumika Shiun's Bond to Lv.33"
+      "description": "Повысить отношения со Sumika Shiun до Ур.33"
     },
     {
       "id": "cd-dearness_level-ssmk-37",
       "number": 1,
-      "description": "Raise Sumika Shiun's Bond to Lv.37"
+      "description": "Повысить отношения со Sumika Shiun до Ур.37"
     },
     {
       "id": "cd-dearness_level-ttmr-01",
@@ -11247,6 +11407,66 @@
       "description": ""
     },
     {
+      "id": "cd-dearness_level10over-dearness-event-000-rev-008-add-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-dearness-event-000-rev-008-add-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-dearness-event-000-rev-008-add-001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-dearness-event-000-rev-008-add-001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-dearness-event-000-rev-008-add-001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-dearness-event-000-rev-008-add-001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-dearness-event-000-rev-008-add-001",
+      "number": 7,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-dearness-event-000-rev-008-add-001",
+      "number": 8,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-dearness-event-000-rev-008-add-001",
+      "number": 9,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-dearness-event-000-rev-008-add-001",
+      "number": 10,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-dearness-event-000-rev-008-add-001",
+      "number": 11,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-dearness-event-000-rev-008-add-001",
+      "number": 12,
+      "description": ""
+    },
+    {
       "id": "cd-dearness_level10over-hrnm-kcna-amao",
       "number": 1,
       "description": ""
@@ -11367,6 +11587,66 @@
       "description": ""
     },
     {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 7,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 8,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 9,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 10,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 11,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 12,
+      "description": ""
+    },
+    {
       "id": "cd-dearness_level20-hrnm-kcna-amao",
       "number": 1,
       "description": ""
@@ -11444,6 +11724,66 @@
     {
       "id": "cd-dearness_level27under-dearness-event-000-rev-004-add-001",
       "number": 10,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-dearness-event-000-rev-008-add-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-dearness-event-000-rev-008-add-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-dearness-event-000-rev-008-add-001",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-dearness-event-000-rev-008-add-001",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-dearness-event-000-rev-008-add-001",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-dearness-event-000-rev-008-add-001",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-dearness-event-000-rev-008-add-001",
+      "number": 7,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-dearness-event-000-rev-008-add-001",
+      "number": 8,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-dearness-event-000-rev-008-add-001",
+      "number": 9,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-dearness-event-000-rev-008-add-001",
+      "number": 10,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-dearness-event-000-rev-008-add-001",
+      "number": 11,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-dearness-event-000-rev-008-add-001",
+      "number": 12,
       "description": ""
     },
     {
@@ -11595,6 +11935,11 @@
       "id": "cd-dearness_normal-mission_ttmr-0001",
       "number": 2,
       "description": ""
+    },
+    {
+      "id": "cd-dearness_relaunch_hume",
+      "number": 1,
+      "description": "Получите УР. отношения 20 с одним из Айдолов"
     },
     {
       "id": "cd-dearness_shro-20",
@@ -11969,7 +12314,7 @@
     {
       "id": "cd-hajime_legend_produce-unlock_open",
       "number": 1,
-      "description": "Открывается, если у любого айдола Bond Lv10 и PLv 50 или выше"
+      "description": "Открывается, если у любого айдола Bond Lv10 и УрП 50 или выше"
     },
     {
       "id": "cd-hajime_legend_produce-unlock_open",
@@ -11984,7 +12329,7 @@
     {
       "id": "cd-hajime_legend_produce-unlock_startup_notification_open",
       "number": 1,
-      "description": "Открывается при PLv 50 или выше"
+      "description": "Открывается при УрП 50 или выше"
     },
     {
       "id": "cd-hajime_legend_produce-unlock_startup_notification_open",
@@ -12177,6 +12522,11 @@
       "description": ""
     },
     {
+      "id": "cd-have_costume_head_amao-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-have_costume_head_fktn-hair-0001",
       "number": 1,
       "description": ""
@@ -12223,6 +12573,11 @@
     },
     {
       "id": "cd-have_costume_head_hrnm-hair-0006",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_head_hrnm-hair-0007",
       "number": 1,
       "description": ""
     },
@@ -12332,6 +12687,11 @@
       "description": ""
     },
     {
+      "id": "cd-have_costume_head_kllj-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-have_costume_head_nasr-hair-0004",
       "number": 1,
       "description": ""
@@ -12388,6 +12748,11 @@
     },
     {
       "id": "cd-have_costume_head_ssmk-hair-0006",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_head_ssmk-hair-0007",
       "number": 1,
       "description": ""
     },
@@ -12988,6 +13353,11 @@
     },
     {
       "id": "cd-home_background-nomal-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_background-tanabata-2026",
       "number": 1,
       "description": ""
     },
@@ -16117,6 +16487,11 @@
       "description": ""
     },
     {
+      "id": "cd-purchase_costume_head_amao-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-purchase_costume_head_fktn-hair-0004",
       "number": 1,
       "description": ""
@@ -16143,6 +16518,11 @@
     },
     {
       "id": "cd-purchase_costume_head_hrnm-hair-0006",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_costume_head_hrnm-hair-0007",
       "number": 1,
       "description": ""
     },
@@ -16217,6 +16597,11 @@
       "description": ""
     },
     {
+      "id": "cd-purchase_costume_head_kllj-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-purchase_costume_head_nasr-hair-0004",
       "number": 1,
       "description": ""
@@ -16268,6 +16653,11 @@
     },
     {
       "id": "cd-purchase_costume_head_ssmk-hair-0006",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_costume_head_ssmk-hair-0007",
       "number": 1,
       "description": ""
     },
@@ -18767,6 +19157,66 @@
       "description": ""
     },
     {
+      "id": "cd-release-music-inst-all-017",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-017",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-017",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-017",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-017",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-017",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-017",
+      "number": 7,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-017",
+      "number": 8,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-017",
+      "number": 9,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-017",
+      "number": 10,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-017",
+      "number": 11,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-017",
+      "number": 12,
+      "description": ""
+    },
+    {
       "id": "cd-release-music-inst-amao-005",
       "number": 1,
       "description": ""
@@ -19074,6 +19524,16 @@
     {
       "id": "cd-release-music-inst-ttmr-04",
       "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-unit-amaohrnm-004",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-unit-amaohrnm-004",
+      "number": 2,
       "description": ""
     },
     {
@@ -19822,6 +20282,16 @@
       "description": ""
     },
     {
+      "id": "cd-startup_notification_dearness-event_000-rev-008",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-startup_notification_dearness-event_000-rev-008",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd-startup_notification_dearness-event-000-rev-002-add-001",
       "number": 1,
       "description": ""
@@ -19848,6 +20318,16 @@
     },
     {
       "id": "cd-startup_notification_dearness-event-000-rev-004-add-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-startup_notification_dearness-event-000-rev-008-add-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-startup_notification_dearness-event-000-rev-008-add-001",
       "number": 2,
       "description": ""
     },
@@ -20058,6 +20538,11 @@
     },
     {
       "id": "cd-story_view_story_box_event_group-19-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-story_view_story_box_event_group-20-01",
       "number": 1,
       "description": ""
     },

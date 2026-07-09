@@ -139,15 +139,15 @@
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
-      "name": "Excellent shape"
+      "name": "Отличная Форма "
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_reduce-000",
-      "name": "Good Shape -"
+      "name": "Хорошая Форма -"
     },
     {
       "id": "effect_group-visible-exam_parameter_buff-000",
-      "name": "Good Shape "
+      "name": "Хорошая Форма "
     },
     {
       "id": "effect_group-visible-exam_playable_value_add-000",
@@ -159,7 +159,7 @@
     },
     {
       "id": "effect_group-visible-exam_review_reduce-000",
-      "name": "Good Impression -"
+      "name": "Хорошее Впечатление -"
     },
     {
       "id": "effect_group-visible-exam_review-000",
@@ -184,6 +184,10 @@
     {
       "id": "effect_group-visible-exam_stance_reset-000",
       "name": "Снятие ограничителя "
+    },
+    {
+      "id": "effect_group-visible-exam_status_enchant_encore-000",
+      "name": "Повтор "
     },
     {
       "id": "effect_group-visible-exam_status_enchant-000",

@@ -75,7 +75,11 @@
     },
     {
       "id": "home.gasha.point_detail_overlay.point_limit_time",
-      "description": "Pt exp date: Till {0}"
+      "description": "Срок действия очков: до {0}"
+    },
+    {
+      "id": "home.gasha.point_detail_overlay.resource_type_group_limit_time",
+      "description": "Обновление состава: {0}"
     },
     {
       "id": "home.produce.tutorial_reward",
@@ -142,6 +146,10 @@
       "description": "Состав настраивается отдельно для каждого Продюсирования. Изменения не применяются к другим."
     },
     {
+      "id": "produce_prepare.produce_character_unit.costume_change_sheet.warning1",
+      "description": "※Если выбрано выступление «{0}», костюм Live для P-Айдола установить нельзя.\n※Изменения в выполнении P-Live не предусмотрены."
+    },
+    {
       "id": "produce_prepare.top.event_icon.high_score_rush.description",
       "description": "Теперь можно получать «Звёздное сияние» за Продюсирование"
     },
@@ -175,7 +183,7 @@
     },
     {
       "id": "produce.hif.audition.qualify.description",
-      "description": "You will face your rival in a performance showdown. If you surpass the border line, you will pass the selection exam."
+      "description": "Соревнование с соперником: пройдите порог и сдайте отборочный экзамен."
     },
     {
       "id": "produce.hif.audition.qualify.title",
@@ -304,6 +312,10 @@
     {
       "id": "shop.web_store.confirm.description",
       "description": "Открыть браузер?\nДата рождения задаётся в [Меню > Прочее > Дата рождения]."
+    },
+    {
+      "id": "startup.gasha_point_expire_sheet.bottom_message",
+      "description": "Гача, где можно получить эти обменные очки"
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",

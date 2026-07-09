@@ -62,6 +62,10 @@
       "name": "Аксессуар Hatsumi☆ (Mao Arimura)"
     },
     {
+      "id": "shop_costume_costume_head_amao-hair-0007",
+      "name": "Капельные очки (Mao Arimura)"
+    },
+    {
       "id": "shop_costume_costume_head_atbm-hair-0001",
       "name": "Заколка «Гортензия» (Tsubame Amaya)"
     },
@@ -123,7 +127,7 @@
     },
     {
       "id": "shop_costume_costume_head_hmsz-hair-0007",
-      "name": "Teardrop Glasses (Misuzu Hataya)"
+      "name": "Капельные очки (Misuzu Hataya)"
     },
     {
       "id": "shop_costume_costume_head_hrnm-hair-0001",
@@ -140,6 +144,10 @@
     {
       "id": "shop_costume_costume_head_hrnm-hair-0006",
       "name": "Аксессуар Hatsumi☆ (Rinami Himesaki)"
+    },
+    {
+      "id": "shop_costume_costume_head_hrnm-hair-0007",
+      "name": "Капельные очки (Rinami Himesaki)"
     },
     {
       "id": "shop_costume_costume_head_hski-hair-0001",
@@ -179,7 +187,7 @@
     },
     {
       "id": "shop_costume_costume_head_hume-hair-0007",
-      "name": "Teardrop Glasses (Ume Hanami)"
+      "name": "Капельные очки (Ume Hanami)"
     },
     {
       "id": "shop_costume_costume_head_jsna-hair-0001",
@@ -219,7 +227,7 @@
     },
     {
       "id": "shop_costume_costume_head_kcna-hair-0007",
-      "name": "Teardrop Glasses (China Kuramoto)"
+      "name": "Капельные очки (China Kuramoto)"
     },
     {
       "id": "shop_costume_costume_head_kllj-hair-0001",
@@ -236,6 +244,10 @@
     {
       "id": "shop_costume_costume_head_kllj-hair-0006",
       "name": "Аксессуар Hatsumi☆ (Lilja Katsuragi)"
+    },
+    {
+      "id": "shop_costume_costume_head_kllj-hair-0007",
+      "name": "Капельные очки (Lilja Katsuragi)"
     },
     {
       "id": "shop_costume_costume_head_nasr-hair-0004",
@@ -267,7 +279,7 @@
     },
     {
       "id": "shop_costume_costume_head_shro-hair-0007",
-      "name": "Teardrop Glasses (Hiro Shinosawa)"
+      "name": "Капельные очки (Hiro Shinosawa)"
     },
     {
       "id": "shop_costume_costume_head_ssmk-hair-0001",
@@ -284,6 +296,10 @@
     {
       "id": "shop_costume_costume_head_ssmk-hair-0006",
       "name": "Аксессуар Hatsumi☆ (Sumika Shiun)"
+    },
+    {
+      "id": "shop_costume_costume_head_ssmk-hair-0007",
+      "name": "Капельные очки (Sumika Shiun)"
     },
     {
       "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -1047,7 +1063,11 @@
     },
     {
       "id": "shop_pass_item-0026",
-      "name": "Premium Mission Pass June 2026"
+      "name": "Премиум Пасс миссии Июнь 2026"
+    },
+    {
+      "id": "shop_pass_item-0027",
+      "name": "Премиум Пасс миссии Июль 2026"
     }
   ]
 }

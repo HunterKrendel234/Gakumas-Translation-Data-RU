@@ -72,7 +72,7 @@
     },
     {
       "id": "amao-cstm-0063",
-      "name": "Kamugiroku",
+      "name": "Камугироку",
       "description": "【Fluorite】Получить Festival '24 Mao Arimura"
     },
     {
@@ -166,6 +166,21 @@
       "description": "【Fluorite】Получить ENDLESS DANCE '26 Mao Arimura"
     },
     {
+      "id": "amao-cstm-0129",
+      "name": "SUGAR FLAVOR",
+      "description": "【SUGAR FLAVOR】Получить Mao Arimura"
+    },
+    {
+      "id": "amao-cstm-0130",
+      "name": "SUGAR FLAVOR",
+      "description": "【SUGAR FLAVOR】Получить на Talent Bloom Этап 4 для Mao Arimura"
+    },
+    {
+      "id": "amao-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Fluorite】Получить GO MY WAY '26 Mao Arimura"
+    },
+    {
       "id": "amao-othr-0002",
       "name": "Купальник для горячих источников",
       "description": "Купить Hot Spring Swimwear (Mao Arimura)"
@@ -254,6 +269,11 @@
       "id": "atbm-cstm-0128",
       "name": "ENDLESS DANCE",
       "description": "【Rironbusou Shite】Получить ENDLESS DANCE '26 Tsubame Amaya"
+    },
+    {
+      "id": "atbm-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Rironbusou Shite】GO MY WAY '26 Tsubame Amaya Получено"
     },
     {
       "id": "atbm-othr-0002",
@@ -446,6 +466,16 @@
       "description": "【Sekaiichi Kawaii Watachi】Получить ENDLESS DANCE '26 Kotone Fujita"
     },
     {
+      "id": "fktn-cstm-0138",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】Получить Kotone Fujita"
+    },
+    {
+      "id": "fktn-cstm-0139",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】Получите Kotone Fujita на 4‑ом этапе развития таланта."
+    },
+    {
       "id": "fktn-othr-0002",
       "name": "Купальник для горячих источников",
       "description": "Купить Hot Spring Swimwear (Kotone Fujita)"
@@ -606,6 +636,11 @@
       "description": "【ENDLESS DANCE】Получить Misuzu Hataya"
     },
     {
+      "id": "hmsz-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Tsuki no Kame】Получить GO MY WAY '26 Misuzu Hataya"
+    },
+    {
       "id": "hmsz-othr-0002",
       "name": "Купальник для горячих источников",
       "description": "Купить Hot Spring Swimsuit (Misuzu Hataya)"
@@ -742,12 +777,12 @@
     },
     {
       "id": "hrnm-cstm-0094",
-      "name": "36℃ U・B・U",
+      "name": "36℃ У・Б・У",
       "description": "【36℃ U・B・U】Получить Rinami Himesaki"
     },
     {
       "id": "hrnm-cstm-0095",
-      "name": "36℃ U・B・U",
+      "name": "36℃ У・Б・У",
       "description": "【36℃ U・B・U】Получается на 4-й стадии раскрытия таланта Rinami\nHimesaki"
     },
     {
@@ -786,6 +821,16 @@
       "description": "【clumsy trick】Получить ENDLESS DANCE '26 Rinami Himesaki"
     },
     {
+      "id": "hrnm-cstm-0129",
+      "name": "SUGAR FLAVOR",
+      "description": "【SUGAR FLAVOR】Получить Rinami Himesaki"
+    },
+    {
+      "id": "hrnm-cstm-0130",
+      "name": "SUGAR FLAVOR",
+      "description": "【SUGAR FLAVOR】Получить на Talent Bloom Stage 4 для Rinami Himesaki"
+    },
+    {
       "id": "hrnm-cstm-0136",
       "name": "Garakuta Road",
       "description": "【Garakuta Road】Получить Rinami Himesaki"
@@ -794,6 +839,11 @@
       "id": "hrnm-cstm-0137",
       "name": "Garakuta Road",
       "description": "Получить Rinami Himesaki с 4‑го этапа Talent Bloom в【Garakuta Road】"
+    },
+    {
+      "id": "hrnm-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【clumsy trick】Получить GO MY WAY '26  Rinami Himesaki"
     },
     {
       "id": "hrnm-othr-0000",
@@ -991,6 +1041,11 @@
       "description": "【Fighting My Way】Получить ENDLESS DANCE '26 Saki Hanami"
     },
     {
+      "id": "hski-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】Получить Saki Hanami"
+    },
+    {
       "id": "hski-othr-0002",
       "name": "Купальник для горячих источников",
       "description": "Купить Hot Spring Swimwear (Saki Hanami)"
@@ -1137,17 +1192,17 @@
     },
     {
       "id": "hume-cstm-0114",
-      "name": "Star-mine",
+      "name": "Звёздная шахта",
       "description": "【Star-mine】Получить Ume Hanami"
     },
     {
       "id": "hume-cstm-0115",
-      "name": "Star-mine",
+      "name": "Звёздная шахта",
       "description": "【Star-mine】Получается на 4-й стадии раскрытия таланта Ume Hanami"
     },
     {
       "id": "hume-cstm-0118",
-      "name": "Howling over the World",
+      "name": "Кричащий над миром",
       "description": "【Tame-Lie-One-Step】Получить Howling over the World '25 Ume Hanami"
     },
     {
@@ -1157,7 +1212,7 @@
     },
     {
       "id": "hume-cstm-0122",
-      "name": "Mirakuru na Nau(゚∀゚)!",
+      "name": "Великолепная природа (゚∀゚)!",
       "description": "【The Rolling Riceball】Получить '25 Mirakuru na Nau(゚∀゚)! Ume Hanami"
     },
     {
@@ -1167,7 +1222,7 @@
     },
     {
       "id": "hume-cstm-0126",
-      "name": "ENDLESS DANCE",
+      "name": "БЕСКОНЕЧНЫЙ ТАНЦ",
       "description": "【ENDLESS DANCE】Получить Ume Hanami"
     },
     {
@@ -1366,6 +1421,11 @@
       "description": "【ENDLESS DANCE】Получается на 4-й стадии раскрытия таланта Sena Juo"
     },
     {
+      "id": "jsna-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Chiisana Yabou】Получить GO MY WAY '26  Sena Juo"
+    },
+    {
       "id": "jsna-othr-0002",
       "name": "Купальник для горячих источников",
       "description": "Купить Hot Spring Swimwear (Sena Juo)"
@@ -1554,6 +1614,11 @@
       "id": "kcna-cstm-0132",
       "name": "Michinaru Hirogaru",
       "description": "【Michinaru Hirogaru】Получается на 4-й стадии раскрытия таланта China\nKuramoto"
+    },
+    {
+      "id": "kcna-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Wonder Scale】Получить GO MY WAY '26  China Kuramoto"
     },
     {
       "id": "kcna-othr-0002",
@@ -1753,12 +1818,17 @@
     {
       "id": "kllj-cstm-0136",
       "name": "Garakuta Road",
-      "description": "【Garakuta Road】Obtain Lilja Katsuragi"
+      "description": "【Garakuta Road】Получить Lilja Katsuragi"
     },
     {
       "id": "kllj-cstm-0137",
       "name": "Garakuta Road",
-      "description": "【Garakuta Road】Obtained at Talent Bloom Stage 4 for Lilja Katsuragi"
+      "description": "【Garakuta Road】Получено на этапе Talent Bloom 4 для Lilja Katsuragi"
+    },
+    {
+      "id": "kllj-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Hakusen】Получить GO MY WAY '26 Lilja Katsuragi"
     },
     {
       "id": "kllj-othr-0002",
@@ -1952,12 +2022,12 @@
     },
     {
       "id": "shro-cstm-0120",
-      "name": "Mirakuru na Nau(゚∀゚)!",
+      "name": "Миракура на Нау(゚∀゚)!",
       "description": "【Mirakuru na Nau(゚∀゚)!】Получить Hiro Shinosawa"
     },
     {
       "id": "shro-cstm-0121",
-      "name": "Mirakuru na Nau(゚∀゚)!",
+      "name": "Миракура на Нау(゚∀゚)!",
       "description": "【Mirakuru na Nau(゚∀゚)!】Получить Hiro Shinosawa на 4-й стадии\nраскрытия таланта"
     },
     {
@@ -1983,12 +2053,17 @@
     {
       "id": "shro-cstm-0136",
       "name": "Garakuta Road",
-      "description": "【Garakuta Road】Obtain Hiro Shinosawa"
+      "description": "【Garakuta Road】Получить Hiro Shinosawa"
     },
     {
       "id": "shro-cstm-0137",
       "name": "Garakuta Road",
-      "description": "【Garakuta Road】Obtained at Talent Bloom Stage 4 for Hiro Shinosawa"
+      "description": "【Garakuta Road】Получено на Talent Bloom Этап 4 для Hiro Shinosawa"
+    },
+    {
+      "id": "shro-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Koukei】Получить  GO MY WAY '26  Hiro Shinosawa"
     },
     {
       "id": "shro-othr-0002",
@@ -2067,7 +2142,7 @@
     },
     {
       "id": "ssmk-cstm-0063",
-      "name": "Kamugiroku",
+      "name": "Камугироку",
       "description": "【Tame-Lie-One-Step】Получить Festival '24 Sumika Shiun"
     },
     {
@@ -2167,13 +2242,18 @@
     },
     {
       "id": "ssmk-cstm-0133",
-      "name": "Tokimeki Emotion",
+      "name": "Tokimeki  Emotion",
       "description": "【Tokimeki  Emotion】Получить Sumika Shiun"
     },
     {
       "id": "ssmk-cstm-0134",
       "name": "Tokimeki Emotion",
       "description": "【Tokimeki  Emotion】Получается на 4-й стадии раскрытия таланта Sumika\nShiun"
+    },
+    {
+      "id": "ssmk-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Tame-Lie-One-Step】Получить GO MY WAY '26  Sumika Shiun"
     },
     {
       "id": "ssmk-othr-0002",
@@ -2347,7 +2427,7 @@
     },
     {
       "id": "ttmr-cstm-0122",
-      "name": "Mirakuru na Nau(゚∀゚)!",
+      "name": "Удивительный мир(゚∀゚)!",
       "description": "【Luna say maybe】Получить '25 Mirakuru na Nau(゚∀゚)! Temari Tsukimura"
     },
     {
@@ -2367,13 +2447,18 @@
     },
     {
       "id": "ttmr-cstm-0136",
-      "name": "Garakuta Road",
+      "name": "Дорога Гаракта",
       "description": "【Garakuta Road】Получить Temari Tsukimura"
     },
     {
       "id": "ttmr-cstm-0137",
       "name": "Garakuta Road",
       "description": "Получить в 4-м этапе Talent Bloom на【Garakuta Road】Temari Tsukimura"
+    },
+    {
+      "id": "ttmr-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Luna say maybe】Получите GO MY WAY '26 Temari Tsukimura"
     },
     {
       "id": "ttmr-othr-0002",

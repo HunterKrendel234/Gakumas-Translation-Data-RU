@@ -81,6 +81,16 @@
       "description": "【Mirakuru na Nau(゚∀゚)!】Получить Mao Arimura на 4-й стадии раскрытия\nталанта"
     },
     {
+      "id": "costume_head_amao-cstm-0129",
+      "name": "SUGAR FLAVOR",
+      "description": "【SUGAR FLAVOR】Получить Mao Arimura"
+    },
+    {
+      "id": "costume_head_amao-cstm-0130",
+      "name": "SUGAR FLAVOR",
+      "description": "【SUGAR FLAVOR】Получить в Talent Bloom Этап 4 для Mao Arimura"
+    },
+    {
       "id": "costume_head_amao-hair-0000",
       "name": "Настоящая Fluorite",
       "description": "Поднять Bond Lv Mao Arimura до 10"
@@ -127,13 +137,13 @@
     },
     {
       "id": "costume_head_amao-hair-0014",
-      "name": "Mite (Simple)",
+      "name": "Mite (Простой)",
       "description": "【Mite】Получить Mao Arimura"
     },
     {
       "id": "costume_head_amao-hair-0023",
-      "name": "Bunny Ears",
-      "description": "Premium Mission Pass obtained in June 2026"
+      "name": "Кроличьи уши",
+      "description": "Премиум‑пропуск миссии получен в июне 2026"
     },
     {
       "id": "costume_head_amao-hair-0035",
@@ -222,8 +232,8 @@
     },
     {
       "id": "costume_head_atbm-hair-0023",
-      "name": "Bunny Ears",
-      "description": "Premium Mission Pass obtained in June 2026"
+      "name": "Кроличьи уши",
+      "description": "Премиум Mission Pass получен в июне 2026"
     },
     {
       "id": "costume_head_atbm-schl-0000",
@@ -336,6 +346,16 @@
       "description": "【Gamushara ni Ikou!】Получается на 4-й стадии раскрытия таланта\nKotone Fujita"
     },
     {
+      "id": "costume_head_fktn-cstm-0138",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】Получить Kotone Fujita"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0139",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】Получить Kotone Fujita на Этапе Пробуждения 4"
+    },
+    {
       "id": "costume_head_fktn-hair-0001",
       "name": "Украшение для волос с гортензией",
       "description": "Получить через Premium Mission Pass May 2024 и т. д."
@@ -391,6 +411,11 @@
       "description": "【Jiko Kouteikan Bakuage↑↑】Получить Kotone Fujita"
     },
     {
+      "id": "costume_head_fktn-hair-0038",
+      "name": "Маскировочные очки",
+      "description": "Получено из премиум-пропуска миссии (июль 2026)"
+    },
+    {
       "id": "costume_head_hmsz-cstm-0011",
       "name": "Tsuki no Kame",
       "description": "【Tsuki no Kame】Получить Misuzu Hataya"
@@ -422,7 +447,7 @@
     },
     {
       "id": "costume_head_hmsz-cstm-0063",
-      "name": "Kamugiroku",
+      "name": "Камугироку",
       "description": "【Tsuki no Kame】Получить Festival '25 Misuzu Hataya"
     },
     {
@@ -472,7 +497,7 @@
     },
     {
       "id": "costume_head_hmsz-hair-0006",
-      "name": "Hatsumi ☆ Accessories",
+      "name": "Hatsumi ☆ Аксессуары",
       "description": "Купить Hatsumi☆Accessory (Misuzu Hataya)"
     },
     {
@@ -562,7 +587,7 @@
     },
     {
       "id": "costume_head_hrnm-cstm-0063",
-      "name": "Kamugiroku",
+      "name": "Камугироку",
       "description": "【clumsy trick】Получить Festival '24 Rinami Himesaki"
     },
     {
@@ -596,8 +621,18 @@
       "description": "Пройти 25-й этап Idol Road Rinami Himesaki"
     },
     {
+      "id": "costume_head_hrnm-cstm-0129",
+      "name": "SUGAR FLAVOR",
+      "description": "【SUGAR FLAVOR】Получить Rinami Himesaki"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0130",
+      "name": "SUGAR FLAVOR",
+      "description": "【SUGAR FLAVOR】Получить на Talent Bloom Stage 4 для Rinami Himesaki"
+    },
+    {
       "id": "costume_head_hrnm-cstm-0136",
-      "name": "Garakuta Road",
+      "name": "Гаракута Роад",
       "description": "【Garakuta Road】Получить Rinami Himesaki"
     },
     {
@@ -622,7 +657,7 @@
     },
     {
       "id": "costume_head_hrnm-hair-0006",
-      "name": "Hatsumi ☆ Accessories",
+      "name": "Хацуми ☆ Аксессуары",
       "description": "Можно получить через Premium Mission Pass April 2025 и т. д."
     },
     {
@@ -642,8 +677,8 @@
     },
     {
       "id": "costume_head_hrnm-hair-0023",
-      "name": "Bunny Ears",
-      "description": "Premium Mission Pass obtained in June 2026"
+      "name": "Кроличьи уши",
+      "description": "Получен премиальный Mission Pass в июне 2026"
     },
     {
       "id": "costume_head_hrnm-hair-0033",
@@ -692,7 +727,7 @@
     },
     {
       "id": "costume_head_hski-cstm-0063",
-      "name": "Kamugiroku",
+      "name": "Камугироку",
       "description": "【Kamugiroku】Получить Saki Hanami"
     },
     {
@@ -767,7 +802,7 @@
     },
     {
       "id": "costume_head_hski-hair-0006",
-      "name": "Hatsumi ☆ Accessories",
+      "name": "Hatsumi ☆ аксессуары",
       "description": "Получено через Premium Mission Pass February 2025 и т. д."
     },
     {
@@ -792,8 +827,13 @@
     },
     {
       "id": "costume_head_hski-hair-0027",
-      "name": "Wildest Flower (Gradient)",
+      "name": "Wildest Flower (Градиент)",
       "description": "【Wildest Flower】Получить Saki Hanami"
+    },
+    {
+      "id": "costume_head_hski-hair-0038",
+      "name": "Маскирующие очки",
+      "description": "Получено из Premium Mission Pass (июль 2026)"
     },
     {
       "id": "costume_head_hski-schl-0000",
@@ -837,17 +877,17 @@
     },
     {
       "id": "costume_head_hume-cstm-0057",
-      "name": "Gu-Su-Pi",
+      "name": "Gu-Su-Pi ",
       "description": "【Gu-Su-Pi】Получается на 4-й стадии раскрытия таланта Ume Hanami"
     },
     {
       "id": "costume_head_hume-cstm-0058",
-      "name": "Gu-Su-Pi",
+      "name": "Gu-Su-Pi ",
       "description": "【Gu-Su-Pi】Получить Ume Hanami"
     },
     {
       "id": "costume_head_hume-cstm-0063",
-      "name": "Kamugiroku",
+      "name": "Камугироку",
       "description": "【The Rolling Riceball】Получить Festival '24 Ume Hanami"
     },
     {
@@ -922,7 +962,7 @@
     },
     {
       "id": "costume_head_hume-hair-0006",
-      "name": "Hatsumi ☆ Accessories",
+      "name": "Hatsumi ☆ Аксессуары",
       "description": "Получено через Premium Mission Pass March 2025 и т. д."
     },
     {
@@ -1057,7 +1097,7 @@
     },
     {
       "id": "costume_head_jsna-hair-0006",
-      "name": "Hatsumi ☆ Accessories",
+      "name": "Hatsumi ☆ Аксессуары",
       "description": "Получено через Premium Mission Pass March 2025 и т. д."
     },
     {
@@ -1077,22 +1117,22 @@
     },
     {
       "id": "costume_head_jsna-hair-0015",
-      "name": "Sekirara (Usual Makeup)",
+      "name": "Sekirara (обычный макияж)",
       "description": "【Sekirara】Получить Sena Juo"
     },
     {
       "id": "costume_head_jsna-hair-0017",
-      "name": "Sekirara (Usual Makeup)",
+      "name": "Sekirara (обычный макияж)",
       "description": "【Sekirara】Получается на 4-й стадии раскрытия таланта Sena Juo"
     },
     {
       "id": "costume_head_jsna-hair-0023",
-      "name": "Bunny Ears",
-      "description": "Premium Mission Pass obtained in June 2026"
+      "name": "Зайчьи уши",
+      "description": "Премиум Mission Pass получен в июне 2026 г."
     },
     {
       "id": "costume_head_jsna-hair-0026",
-      "name": "Sekirara (Gradient)",
+      "name": "Sekirara (градиент)",
       "description": "【Sekirara】Получить Sena Juo"
     },
     {
@@ -1142,7 +1182,7 @@
     },
     {
       "id": "costume_head_kcna-cstm-0063",
-      "name": "Kamugiroku",
+      "name": "Запись Камуги",
       "description": "【Wonder Scale】Получить Festival '24 China Kuramoto"
     },
     {
@@ -1202,7 +1242,7 @@
     },
     {
       "id": "costume_head_kcna-hair-0006",
-      "name": "Hatsumi ☆ Accessories",
+      "name": "Хатсуми ☆ Аксессуары",
       "description": "Получено через Premium Mission Pass March 2025 и т. д."
     },
     {
@@ -1252,12 +1292,12 @@
     },
     {
       "id": "costume_head_kllj-cstm-0045",
-      "name": "Kamugiroku",
+      "name": "Камуги́року",
       "description": "【Kamugiroku】Получить Lilja Katsuragi"
     },
     {
       "id": "costume_head_kllj-cstm-0046",
-      "name": "Kamugiroku",
+      "name": "Камуги́року",
       "description": "【Kamugiroku】Получается на 4-й стадии раскрытия таланта Lilja\nKatsuragi"
     },
     {
@@ -1322,13 +1362,13 @@
     },
     {
       "id": "costume_head_kllj-cstm-0136",
-      "name": "Garakuta Road",
-      "description": "【Garakuta Road】Obtain Lilja Katsuragi"
+      "name": "Дорога Гаракута",
+      "description": "【Garakuta Road】Получить Lilja Katsuragi"
     },
     {
       "id": "costume_head_kllj-cstm-0137",
-      "name": "Garakuta Road",
-      "description": "【Garakuta Road】Obtained at Talent Bloom Stage 4 for Lilja Katsuragi"
+      "name": "Дорога Гаракута",
+      "description": "【Garakuta Road】Получено на Talent Bloom Этапе 4 для Lilja Katsuragi"
     },
     {
       "id": "costume_head_kllj-hair-0001",
@@ -1352,7 +1392,7 @@
     },
     {
       "id": "costume_head_kllj-hair-0006",
-      "name": "Hatsumi ☆ Accessories",
+      "name": "Hatsumi ☆ Аксессуары",
       "description": "Можно получить через Premium Mission Pass April 2025 и т. д."
     },
     {
@@ -1372,12 +1412,12 @@
     },
     {
       "id": "costume_head_kllj-hair-0018",
-      "name": "Atmosphere (Simple)",
+      "name": "Атмосфера (Простая)",
       "description": "【Atmosphere】Получить Lilja Katsuragi"
     },
     {
       "id": "costume_head_kllj-hair-0019",
-      "name": "Atmosphere (Simple)",
+      "name": "Атмосфера (Простая)",
       "description": "【Atmosphere】Получить на 4-й стадии раскрытия таланта Lilja Katsuragi"
     },
     {
@@ -1387,7 +1427,7 @@
     },
     {
       "id": "costume_head_kllj-hair-0024",
-      "name": "Atmosphere (Ombre)",
+      "name": "Атмосфера (Омбре)",
       "description": "【Atmosphere】Получить Lilja Katsuragi"
     },
     {
@@ -1452,7 +1492,7 @@
     },
     {
       "id": "costume_head_shro-cstm-0063",
-      "name": "Kamugiroku",
+      "name": "Запись кампуса",
       "description": "【Koukei】Получить Festival '24 Hiro Shinosawa"
     },
     {
@@ -1472,12 +1512,12 @@
     },
     {
       "id": "costume_head_shro-cstm-0120",
-      "name": "Mirakuru na Nau(゚∀゚)!",
+      "name": "Волшебный Нау(゚∀゚)!",
       "description": "【Mirakuru na Nau(゚∀゚)!】Получить Hiro Shinosawa"
     },
     {
       "id": "costume_head_shro-cstm-0121",
-      "name": "Mirakuru na Nau(゚∀゚)!",
+      "name": "Волшебный Нау(゚∀゚)!",
       "description": "【Mirakuru na Nau(゚∀゚)!】Получить Hiro Shinosawa на 4-й стадии\nраскрытия таланта"
     },
     {
@@ -1492,13 +1532,13 @@
     },
     {
       "id": "costume_head_shro-cstm-0136",
-      "name": "Garakuta Road",
-      "description": "【Garakuta Road】Obtain Hiro Shinosawa"
+      "name": "Дорога Гаракута",
+      "description": "【Garakuta Road】Получить Hiro Shinosawa"
     },
     {
       "id": "costume_head_shro-cstm-0137",
-      "name": "Garakuta Road",
-      "description": "【Garakuta Road】Obtain from the 4th Talent Bloom stage of Hiro Shinosawa"
+      "name": "Дорога Гаракута",
+      "description": "【Garakuta Road】Получить из 4-го этапа Talent Bloom от Hiro Shinosawa"
     },
     {
       "id": "costume_head_shro-hair-0001",
@@ -1522,7 +1562,7 @@
     },
     {
       "id": "costume_head_shro-hair-0006",
-      "name": "Hatsumi ☆ Accessories",
+      "name": "Аксессуары Hatsumi ☆",
       "description": "Получено через Premium Mission Pass March 2025 и т. д."
     },
     {
@@ -1552,7 +1592,7 @@
     },
     {
       "id": "costume_head_shro-hair-0031",
-      "name": "SUNFADED (Gradient)",
+      "name": "Угасшее солнце (градиент)",
       "description": "【SUNFADED】Получить Hiro Shinosawa"
     },
     {
@@ -1642,7 +1682,7 @@
     },
     {
       "id": "costume_head_ssmk-hair-0006",
-      "name": "Hatsumi ☆ Accessories",
+      "name": "Хацуми ☆ Аксессуары",
       "description": "Можно получить через Premium Mission Pass April 2025 и т. д."
     },
     {
@@ -1662,7 +1702,7 @@
     },
     {
       "id": "costume_head_ssmk-hair-0010",
-      "name": "Love & Joy (regular make-up)",
+      "name": "Love & Joy (обычный макияж)",
       "description": "【Love & Joy】Получить Sumika Shiun"
     },
     {
@@ -1672,7 +1712,7 @@
     },
     {
       "id": "costume_head_ssmk-hair-0030",
-      "name": "Love & Joy (Gradient)",
+      "name": "Love & Joy (градиент)",
       "description": "【Love & Joy】Получить Sumika Shiun"
     },
     {
@@ -1717,7 +1757,7 @@
     },
     {
       "id": "costume_head_ttmr-cstm-0063",
-      "name": "Kamugiroku",
+      "name": "Бумажная запись",
       "description": "【Luna say maybe】Получить Festival '24 Temari Tsukimura"
     },
     {
@@ -1822,8 +1862,13 @@
     },
     {
       "id": "costume_head_ttmr-hair-0025",
-      "name": "Ittai Itsukara (Alternative Color)",
+      "name": "Ittai Itsukara",
       "description": "【Ittai Itsukara】Получить Temari Tsukimura"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0038",
+      "name": "Очки для маскировки",
+      "description": "Получено из премиумного пропуска миссии (июль 2026)"
     }
   ]
 }

@@ -374,6 +374,22 @@
       "name": "С Саки Ханами сдать финальный экзамен и получить ранг SS или выше {threshold} раз(а)"
     },
     {
+      "id": "dearness_event_relaunch_hume-001",
+      "name": "Пройди Продюсирование с Танцем Ume Hanami при 1800+"
+    },
+    {
+      "id": "dearness_event_relaunch_hume-002",
+      "name": "Настрой Карты навыка {threshold} раз в Продюсировании Ume Hanami"
+    },
+    {
+      "id": "dearness_event_relaunch_hume-003",
+      "name": "Пройди Уроки танца {threshold} раз с Ume Hanami"
+    },
+    {
+      "id": "dearness_event_relaunch_hume-004",
+      "name": "Пройди Финальный Экзамен с Ume Hanami и получи ранг SS или выше {threshold} раз"
+    },
+    {
       "id": "dearness_event_relaunch_jsna-001",
       "name": "Завершить продюсирование, повысив Визуал Сены Дзё до 1800+"
     },
@@ -1139,19 +1155,19 @@
     },
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-kcna",
-      "name": "Achieve A-End with China"
+      "name": "Достигни А-Конец с China"
     },
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-kllj",
-      "name": "Achieve A-End with Lilja"
+      "name": "Достигни А-Конец с Lilja"
     },
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-shro",
-      "name": "Achieve A-End with Hiro"
+      "name": "Достигни А-Конец с Hiro"
     },
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-ssmk",
-      "name": "Achieve A-End with Sumika Shiun"
+      "name": "Достигни А-Конец с Sumika Shiun"
     },
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-ttmr",
@@ -1650,6 +1666,26 @@
       "name": "Пройти SP-уроки {threshold} раз(а)"
     },
     {
+      "id": "mission-box-gasha-event-020-mission_1",
+      "name": "Вход за {threshold} дней!"
+    },
+    {
+      "id": "mission-box-gasha-event-020-mission_2",
+      "name": "Сдать финальный экзамен {threshold} раз(а)"
+    },
+    {
+      "id": "mission-box-gasha-event-020-mission_3",
+      "name": "Получить Event Box Гача {threshold} раз(а)"
+    },
+    {
+      "id": "mission-box-gasha-event-020-mission_4",
+      "name": "Достигните общего счета продюсирования {threshold}"
+    },
+    {
+      "id": "mission-box-gasha-event-020-mission_5",
+      "name": "Пройти SP Уроки {threshold} раз(а)"
+    },
+    {
       "id": "mission-circle-battle-event-001-mission_1",
       "name": "Входить {threshold} дн."
     },
@@ -2043,19 +2079,19 @@
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_20",
-      "name": "Complete the H.I.F: Main Tournament {threshold} times in produce runs with China Kuramoto"
+      "name": "Завершите H.I.F: Основной турнир {threshold} раз(а) в продюсировании с China Kuramoto"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_21",
-      "name": "Complete the \"H.I.F\": Finals {threshold} times in produce runs with Lilja Katsuragi"
+      "name": "Завершите «H.I.F»: Финалы {threshold} раз(а) в продюсировании с Lilja Katsuragi"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_22",
-      "name": "Complete the H.I.F: Main Tournament {threshold} times in produce runs with Hiro Shinosawa"
+      "name": "Завершите H.I.F: Основной турнир {threshold} раз(а) в продюсировании с Hiro Shinosawa"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_23",
-      "name": "Complete the \"H.I.F\": Finals {threshold} times in produce runs with Sumika Shiun"
+      "name": "Завершите финалы «H.I.F» {threshold} раз в продюсировании с Sumika Shiun"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_24",
@@ -2075,19 +2111,19 @@
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_33",
-      "name": "Raise China Kuramoto's Bond Lv to {threshold}"
+      "name": "Повышайте Ур. отношения с China Kuramoto до {threshold}"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_34",
-      "name": "Raise Lilja Katsuragi's Bond Lv to {threshold}"
+      "name": "Повышайте Ур. отношения с Lilja Katsuragi до {threshold}"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_35",
-      "name": "Increase Hiro Shinosawa's Bond Lv to {threshold}"
+      "name": "Увеличьте Ур. отношения с Hiro Shinosawa до {threshold}"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_36",
-      "name": "Increase Sumika Shiun's Bond Lv to {threshold}"
+      "name": "Увеличьте Ур. отношения с Sumika Shiun до {threshold}"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_37",
@@ -3960,6 +3996,106 @@
     {
       "id": "mission-highscorerush-event-013-mission_56",
       "name": "Выполнить все задания дня 5"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_11",
+      "name": "Сдайте финальный экзамен {threshold} раз"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_12",
+      "name": "Завершите продюсирование с Вокалом Mao Arimura, поднятым до 1000 и выше"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_13",
+      "name": "Наберите {threshold} очков оценки продюсирования с Mao Arimura"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_14",
+      "name": "Наберите {threshold} очков оценки производства с Rinami Himesaki"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_16",
+      "name": "Выполните все миссии дня 1"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_21",
+      "name": "Сдайте финальный экзамен {threshold} раз"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_22",
+      "name": "Проведите производство с Rinami Himesaki при Визуале ≥ 1000"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_23",
+      "name": "Наберите {threshold} очков оценки производства с Mao Arimura"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_24",
+      "name": "Наберите {threshold} очков оценки производства с Rinami Himesaki"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_26",
+      "name": "Выполните все миссии дня 2"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_31",
+      "name": "Сдайте финальный экзамен {threshold} раз"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_32",
+      "name": "Сдать финальный экзамен {threshold} раз в продюсировании с Mao Arimura или Rinami Himesaki"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_33",
+      "name": "Наберите {threshold} очков оценки производства с Mao Arimura"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_34",
+      "name": "Наберите {threshold} очков оценки производства с Rinami Himesaki"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_36",
+      "name": "Выполните все миссии Дня 3"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_41",
+      "name": "Сдать финальный экзамен {threshold} раз"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_42",
+      "name": "Сдать финальный экзамен {threshold} раз в продюсировании с Mao Arimura или Rinami Himesaki"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_43",
+      "name": "Наберите {threshold} очков оценки производства с Mao Arimura"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_44",
+      "name": "Наберите {threshold} очков оценки производства с Rinami Himesaki"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_46",
+      "name": "Выполните все миссии дня 4"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_51",
+      "name": "Сдайте финальный экзамен {threshold} раз"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_52",
+      "name": "Сдайте финальный экзамен {threshold} раз в продюсировании с Mao Arimura или Rinami Himesaki"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_53",
+      "name": "Наберите в общей сложности {threshold} пунктов производственной оценки с Mao Arimura"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_54",
+      "name": "Получите в общей сложности {threshold} пунктов производственной оценки с Rinami Himesaki"
+    },
+    {
+      "id": "mission-highscorerush-event-014-mission_56",
+      "name": "Выполните все миссии дня 5"
     },
     {
       "id": "mission-main-story-event-001-mission_11",
@@ -7026,6 +7162,30 @@
       "name": "【Look】Повысить этап тренировки Mao Arimura до {threshold}"
     },
     {
+      "id": "achieve-i_card-amao-3-017-01",
+      "name": "【SUGAR FLAVOR】Сдайте финальный экзамен в продюсировании с Mao Arimura"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-02",
+      "name": "【SUGAR FLAVOR】Поднимите уровень тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-03",
+      "name": "【SUGAR FLAVOR】Получите оценку A+ или выше {threshold} раз в продюсировании с Mao Arimura"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-04",
+      "name": "【SUGAR FLAVOR】Поднимите этап тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-05",
+      "name": "【SUGAR FLAVOR】Поднимите этап тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-06",
+      "name": "【SUGAR FLAVOR】Поднимите этап тренировки Mao Arimura до {threshold}"
+    },
+    {
       "id": "achieve-i_card-atbm-2-000-01",
       "name": "【Single-Minded】Сдать финальный экзамен при продюсировании Tsubame Amaya"
     },
@@ -7288,6 +7448,30 @@
     {
       "id": "achieve-i_card-fktn-3-016-06",
       "name": "【Gamushara ni Ikou!】Повысить этап тренировки Kotone Fujita до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-01",
+      "name": "【GO MY WAY!!】Пройдите Финальный Экзамен в продюсировании с Kotone Fujita"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-02",
+      "name": "【GO MY WAY!!】Поднимите этап тренировки Kotone Fujita до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-03",
+      "name": "【GO MY WAY!!】Получите оценку A+ или выше {threshold} раз в продюсировании с Kotone Fujita"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-04",
+      "name": "【GO MY WAY!!】Поднимите этап тренировки Kotone Fujita до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-05",
+      "name": "【GO MY WAY!!】Поднять этап тренировки Kotone Fujita до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-06",
+      "name": "【GO MY WAY!!】Поднять этап тренировки Kotone Fujita до {threshold}"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-01",
@@ -7674,6 +7858,30 @@
       "name": "【Garakuta Road】Поднять этап тренировки Rinami Himesaki до {threshold}"
     },
     {
+      "id": "achieve-i_card-hrnm-3-018-01",
+      "name": "【SUGAR FLAVOR】Сдать финальный экзамен во время продюсирования с Rinami Himesaki"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-02",
+      "name": "【SUGAR FLAVOR】Поднять этап тренировки Rinami Himesaki до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-03",
+      "name": "【SUGAR FLAVOR】Получить оценку A+ или выше {threshold} раз во время продюсирования с Rinami Himesaki"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-04",
+      "name": "【SUGAR FLAVOR】Поднять этап тренировки Rinami Himesaki до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-05",
+      "name": "【SUGAR FLAVOR】Поднять этап тренировки Rinami Himesaki до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-06",
+      "name": "【SUGAR FLAVOR】Поднять этап тренировки Rinami Himesaki до {threshold}"
+    },
+    {
       "id": "achieve-i_card-hski-2-000-04",
       "name": "【I am the best!】Установить SP этап тренировки Saki Hanami на {threshold}"
     },
@@ -7888,6 +8096,30 @@
     {
       "id": "achieve-i_card-hski-3-017-06",
       "name": "【Wildest Flower】Установить этап тренировки Saki Hanami на {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-01",
+      "name": "Пройди финальный экзамен во время продюсирования с Saki Hanami"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-02",
+      "name": "Поднимай этап тренировки Saki Hanami до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-03",
+      "name": "Получай оценку A+ или выше {threshold} раз в продюсировании с Saki Hanami"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-04",
+      "name": "Поднимай этап тренировки Saki Hanami до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-05",
+      "name": "Поднимай этап тренировки Saki Hanami до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-06",
+      "name": "Поднимай этап тренировки Saki Hanami до {threshold}"
     },
     {
       "id": "achieve-i_card-hume-2-000-01",
@@ -8707,27 +8939,27 @@
     },
     {
       "id": "achieve-i_card-kllj-3-018-01",
-      "name": "【Garakuta Road】Pass the final exam in a produce run with Lilja Katsuragi"
+      "name": "Пройди финальный экзамен во время продюсирования с Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-kllj-3-018-02",
-      "name": "【Garakuta Road】Reach Special Training stage {threshold} with Lilja Katsuragi"
+      "name": "Поднимай особый этап тренировки до {threshold} с Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-kllj-3-018-03",
-      "name": "Earn an evaluation of A+ or higher {threshold} times in a produce run with 【Garakuta Road】Lilja Katsuragi"
+      "name": "Получите оценку A+ или выше {threshold} раз в продюсировании с 【Garakuta Road】Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-kllj-3-018-04",
-      "name": "【Garakuta Road】Reach Special Training stage {threshold} with Lilja Katsuragi"
+      "name": "Достигните специального этапа тренировки {threshold} с Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-kllj-3-018-05",
-      "name": "【Garakuta Road】Reach Special Training stage {threshold} with Lilja Katsuragi"
+      "name": "Достигните специального этапа тренировки {threshold} с Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-kllj-3-018-06",
-      "name": "【Garakuta Road】Reach Special Training stage {threshold} with Lilja Katsuragi"
+      "name": "Достигните специального этапа тренировки {threshold} с Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-shro-2-000-04",
@@ -8923,27 +9155,27 @@
     },
     {
       "id": "achieve-i_card-shro-3-018-01",
-      "name": "【Garakuta Road】Pass the final exam in a produce run with Hiro Shinosawa"
+      "name": "Пройдите финальный экзамен в продюсировании с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-shro-3-018-02",
-      "name": "【Garakuta Road】Reach Special Training stage {threshold} with Hiro Shinosawa"
+      "name": "Достигните специального этапа тренировки {threshold} с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-shro-3-018-03",
-      "name": "【Garakuta Road】Earn an evaluation of A+ or higher {threshold} times in a produce run with Hiro Shinosawa"
+      "name": "Получите оценку A+ или выше {threshold} раз в продюсировании с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-shro-3-018-04",
-      "name": "【Garakuta Road】Reach Special Training stage {threshold} with Hiro Shinosawa"
+      "name": "Достигните специального этапа тренировки {threshold} с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-shro-3-018-05",
-      "name": "【Garakuta Road】Reach Special Training stage {threshold} with Hiro Shinosawa"
+      "name": "Достигните Этапа Специальной Тренировки {threshold} с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-shro-3-018-06",
-      "name": "【Garakuta Road】Reach Special Training stage {threshold} with Hiro Shinosawa"
+      "name": "Достигните Этапа Специальной Тренировки {threshold} с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-04",
@@ -10751,7 +10983,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-000-2",
-      "name": "View True End: H.I.F with China Kuramoto"
+      "name": "Посмотрите True End: H.I.F с China Kuramoto"
     },
     {
       "id": "achieve-p_idol-kcna-001",
@@ -10847,11 +11079,11 @@
     },
     {
       "id": "achieve-p_idol-kcna-025",
-      "name": "Pass the H.I.F final exam with China Kuramoto and earn an evaluation of S4+ or higher"
+      "name": "Сдайте Экзамен H.I.F с China Kuramoto и получите оценку ≥S4"
     },
     {
       "id": "achieve-p_idol-kcna-026",
-      "name": "Pass the H.I.F final exam {threshold} times with China Kuramoto"
+      "name": "Сдайте Экзамен H.I.F {threshold} раз с China Kuramoto"
     },
     {
       "id": "achieve-p_idol-kcna-027",
@@ -10867,7 +11099,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-000-2",
-      "name": "View True End: H.I.F with Lilja Katsuragi"
+      "name": "Посмотрите True End: H.I.F с Lilja Katsuragi"
     },
     {
       "id": "achieve-p_idol-kllj-001",
@@ -10963,11 +11195,11 @@
     },
     {
       "id": "achieve-p_idol-kllj-025",
-      "name": "Pass the H.I.F final exam with Lilja Katsuragi and earn an evaluation of S4+ or higher"
+      "name": "Сдайте Экзамен H.I.F с Lilja Katsuragi и получите оценку ≥S4"
     },
     {
       "id": "achieve-p_idol-kllj-026",
-      "name": "Pass the H.I.F final exam {threshold} times with Lilja Katsuragi"
+      "name": "Сдайте Экзамен H.I.F {threshold} раз с Lilja Katsuragi"
     },
     {
       "id": "achieve-p_idol-kllj-027",
@@ -10983,7 +11215,7 @@
     },
     {
       "id": "achieve-p_idol-shro-000-2",
-      "name": "View True End: H.I.F with Hiro Shinosawa"
+      "name": "Посмотреть True End: H.I.F с Hiro Shinosawa"
     },
     {
       "id": "achieve-p_idol-shro-001",
@@ -11083,11 +11315,11 @@
     },
     {
       "id": "achieve-p_idol-shro-025",
-      "name": "Pass the H.I.F final exam with Hiro Shinosawa and earn an evaluation of S4+ or higher"
+      "name": "Сдать финальный Экзамен H.I.F с Hiro Shinosawa и получить оценку S4+ или выше"
     },
     {
       "id": "achieve-p_idol-shro-026",
-      "name": "Pass the H.I.F final exam {threshold} times with Hiro Shinosawa"
+      "name": "Сдать финальный Экзамен H.I.F {threshold} раз с Hiro Shinosawa"
     },
     {
       "id": "achieve-p_idol-shro-027",
@@ -11103,7 +11335,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-000-2",
-      "name": "View True End: H.I.F with Sumika Shiun"
+      "name": "Посмотреть True End: H.I.F с Sumika Shiun"
     },
     {
       "id": "achieve-p_idol-ssmk-001",
@@ -11199,11 +11431,11 @@
     },
     {
       "id": "achieve-p_idol-ssmk-025",
-      "name": "Pass the H.I.F final exam with Sumika Shiun and earn an evaluation of S4+ or higher"
+      "name": "Сдать финальный Экзамен H.I.F с Sumika Shiun и получить оценку S4+ или выше"
     },
     {
       "id": "achieve-p_idol-ssmk-026",
-      "name": "Pass the H.I.F final exam {threshold} times with Sumika Shiun"
+      "name": "Сдать финальный Экзамен H.I.F {threshold} раз с Sumika Shiun"
     },
     {
       "id": "achieve-p_idol-ssmk-027",

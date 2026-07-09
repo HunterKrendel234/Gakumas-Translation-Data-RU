@@ -84,7 +84,7 @@
     {
       "supportCardId": "s_card-2-0005",
       "number": 2,
-      "text": "S-Sumika-chan...!"
+      "text": "Эй, Sumika-chan...!"
     },
     {
       "supportCardId": "s_card-2-0005",
@@ -1085,6 +1085,36 @@
       "supportCardId": "s_card-2-0074",
       "number": 3,
       "text": "За этот чудесный, мирный и\nприятный\nмомент―― за здоровье~!"
+    },
+    {
+      "supportCardId": "s_card-2-0075",
+      "number": 1,
+      "text": "Нужно быть такояки-пати!\nНикаких компромиссов."
+    },
+    {
+      "supportCardId": "s_card-2-0075",
+      "number": 2,
+      "text": "Сырный фондю тоже круто!\nЭто французское, знаешь? Французское!"
+    },
+    {
+      "supportCardId": "s_card-2-0075",
+      "number": 3,
+      "text": "Французское, а?\nЗвучит неплохо, но..."
+    },
+    {
+      "supportCardId": "s_card-2-0076",
+      "number": 1,
+      "text": "Фу… Вот, твой раздаточный материал."
+    },
+    {
+      "supportCardId": "s_card-2-0076",
+      "number": 2,
+      "text": "Спасибо! Хехэ."
+    },
+    {
+      "supportCardId": "s_card-2-0076",
+      "number": 3,
+      "text": "Разве действительно можно позволить Айдолу\nраскрыться так?"
     },
     {
       "supportCardId": "s_card-3-0000",
@@ -2579,32 +2609,62 @@
     {
       "supportCardId": "s_card-3-0100",
       "number": 1,
-      "text": "That's a very high-level lesson.\nI'm really impressed."
+      "text": "Это действительно сложный урок.\nМне очень понравилось."
     },
     {
       "supportCardId": "s_card-3-0100",
       "number": 2,
-      "text": "The students are growing.\nWe must keep up!"
+      "text": "Ученики растут.\nМы должны успевать!"
     },
     {
       "supportCardId": "s_card-3-0100",
       "number": 3,
-      "text": "That's right.\nSo that we can support the students!"
+      "text": "Верно.\nЧтобы мы могли поддержать учеников!"
+    },
+    {
+      "supportCardId": "s_card-3-0101",
+      "number": 1,
+      "text": "(Никак... серьёзно?\nЕй тоже нравится тот же человек!?)"
+    },
+    {
+      "supportCardId": "s_card-3-0101",
+      "number": 2,
+      "text": "(Ух ты, я хочу знать, что\nбудет дальше~!)"
+    },
+    {
+      "supportCardId": "s_card-3-0101",
+      "number": 3,
+      "text": "(Тот актёр... Я действительно с ними\n работал много лет назад...)"
+    },
+    {
+      "supportCardId": "s_card-3-0102",
+      "number": 1,
+      "text": "Temari's оден готов~♪"
+    },
+    {
+      "supportCardId": "s_card-3-0102",
+      "number": 2,
+      "text": "Вау! Здесь так много ингредиентов!"
+    },
+    {
+      "supportCardId": "s_card-3-0102",
+      "number": 3,
+      "text": "Горячий одэн в такой жаркий день...\nТеперь это вызов, который стоит попробовать."
     },
     {
       "supportCardId": "s_card-3-0105",
       "number": 1,
-      "text": "So this is  Hatsuboshi's H.I.F.\nI hope it's a worthwhile live show."
+      "text": "Итак, это Hatsuboshi's H.I.F.\nНадеюсь, это достойный Live шоу."
     },
     {
       "supportCardId": "s_card-3-0105",
       "number": 2,
-      "text": "Heh heh... Let's see what they've got."
+      "text": "Хех хех... Давай посмотрим, что они приготовили."
     },
     {
       "supportCardId": "s_card-3-0105",
       "number": 3,
-      "text": "Hmm... There are a lot of interesting\nfledglings here."
+      "text": "Ммм... Здесь много интересных\nмолодых талантов."
     }
   ]
 }

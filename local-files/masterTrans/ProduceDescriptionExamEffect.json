@@ -335,23 +335,23 @@
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
-      "name": "Additional Good Shape Increase"
+      "name": "Дополнительное увеличение Хорошей Формы"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffAdditiveFix",
-      "name": "Additional Focus Increase"
+      "name": "Дополнительное увеличение Концентрации"
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveAdditiveFix",
-      "name": "Additional Motivation Increase"
+      "name": "Дополнительное увеличение Мотивации"
     },
     {
       "type": "ProduceExamEffectType_ExamReviewAdditiveFix",
-      "name": "Additional Good Impression Increase"
+      "name": "Дополнительное увеличение Хорошего Впечатления"
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointAdditiveFix",
-      "name": "Additional Full Power Point Increase"
+      "name": "Дополнительное увеличение Полных Очков Силы"
     },
     {
       "type": "ProduceExamEffectType_ExamStatusEnchantEncore",

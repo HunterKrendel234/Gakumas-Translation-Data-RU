@@ -51,6 +51,11 @@
       "description": "Тянуть"
     },
     {
+      "id": "box-gasha-event-020_box_01_button",
+      "name": "Получить",
+      "description": "Получить"
+    },
+    {
       "id": "coin_gasha_button-1-001",
       "name": "Тянуть ×1",
       "description": "Тянуть ×1"
@@ -159,6 +164,11 @@
       "id": "highscorerush-event-013_box_01_button",
       "name": "Тянуть",
       "description": "Тянуть"
+    },
+    {
+      "id": "highscorerush-event-014_box_01_button",
+      "name": "Получить",
+      "description": "Получить"
     }
   ]
 }

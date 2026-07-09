@@ -126,6 +126,14 @@
       "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
     },
     {
+      "id": "music-all-017-inst",
+      "title": "GO MY WAY!! -кавер- [Инструментальный]",
+      "displayTitle": "GO MY WAY!! -cover- [Instrumental]",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
+    },
+    {
       "id": "music-all-022-teama",
       "title": "SEARCH RIGHT",
       "displayTitle": "SEARCH RIGHT",
@@ -270,6 +278,14 @@
       "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
     },
     {
+      "id": "music-all-amao-017",
+      "title": "GO MY WAY!!",
+      "displayTitle": "GO MY WAY!!",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
+    },
+    {
       "id": "music-all-atbm-001",
       "title": "Hajime",
       "displayTitle": "Hajime",
@@ -308,6 +324,14 @@
       "lyrics": "YOSHIKATSU SHUTO",
       "composer": "YOSHIKATSU SHUTO",
       "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-atbm-017",
+      "title": "GO MY WAY!!",
+      "displayTitle": "GO MY WAY!!",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
     },
     {
       "id": "music-all-fktn-001",
@@ -422,6 +446,14 @@
       "arranger": "Ryutaro Fujinaga (Elements Garden)"
     },
     {
+      "id": "music-all-fktn-017",
+      "title": "GO MY WAY!!",
+      "displayTitle": "GO MY WAY!!",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
+    },
+    {
       "id": "music-all-hmsz-001",
       "title": "Hajime",
       "displayTitle": "Hajime",
@@ -532,6 +564,14 @@
       "lyrics": "Rou-hou",
       "composer": "Takafumi Satou",
       "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-hmsz-017",
+      "title": "GO MY WAY!!",
+      "displayTitle": "GO MY WAY!!",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
     },
     {
       "id": "music-all-hrnm-001",
@@ -654,6 +694,14 @@
       "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
     },
     {
+      "id": "music-all-hrnm-017",
+      "title": "GO MY WAY!!",
+      "displayTitle": "GO MY WAY!!",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
+    },
+    {
       "id": "music-all-hski-001",
       "title": "Hajime",
       "displayTitle": "Hajime",
@@ -743,7 +791,7 @@
     },
     {
       "id": "music-all-hski-012",
-      "title": "Mirakuru na Nau(゚∀゚)!",
+      "title": "Миракуру на Нау (゚∀゚)!",
       "displayTitle": "Mirakuru na Nau(ﾟ∀ﾟ)!",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
@@ -764,6 +812,14 @@
       "lyrics": "YOSHIKATSU SHUTO",
       "composer": "YOSHIKATSU SHUTO",
       "arranger": "Ryutaro Fujinaga (Elements Garden)"
+    },
+    {
+      "id": "music-all-hski-017",
+      "title": "GO MY WAY!!",
+      "displayTitle": "GO MY WAY!!",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
     },
     {
       "id": "music-all-hume-001",
@@ -990,6 +1046,14 @@
       "arranger": "Ryutaro Fujinaga (Elements Garden)"
     },
     {
+      "id": "music-all-jsna-017",
+      "title": "GO MY WAY!!",
+      "displayTitle": "GO MY WAY!!",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
+    },
+    {
       "id": "music-all-kcna-001",
       "title": "Hajime",
       "displayTitle": "Hajime",
@@ -1110,6 +1174,14 @@
       "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
     },
     {
+      "id": "music-all-kcna-017",
+      "title": "GO MY WAY!!",
+      "displayTitle": "GO MY WAY!!",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
+    },
+    {
       "id": "music-all-kllj-001",
       "title": "Hajime",
       "displayTitle": "Hajime",
@@ -1228,6 +1300,14 @@
       "lyrics": "Rou-hou",
       "composer": "Takafumi Satou",
       "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-kllj-017",
+      "title": "GO MY WAY!!",
+      "displayTitle": "GO MY WAY!!",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
     },
     {
       "id": "music-all-nasr-008",
@@ -1359,11 +1439,19 @@
     },
     {
       "id": "music-all-shro-016",
-      "title": "Garakuta Road",
+      "title": "Дорога хлама",
       "displayTitle": "Garakuta Road",
       "lyrics": "Rou-hou",
       "composer": "Takafumi Satou",
       "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-shro-017",
+      "title": "GO MY WAY!!",
+      "displayTitle": "GO MY WAY!!",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
     },
     {
       "id": "music-all-ssmk-001",
@@ -1484,6 +1572,14 @@
       "lyrics": "Rou-hou",
       "composer": "Takafumi Satou",
       "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-ssmk-017",
+      "title": "GO MY WAY!!",
+      "displayTitle": "GO MY WAY!!",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
     },
     {
       "id": "music-all-studentcouncil-022",
@@ -1620,6 +1716,14 @@
       "lyrics": "Rou-hou",
       "composer": "Takafumi Satou",
       "arranger": "Shunsuke Suzuki, Mei Osawa (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-ttmr-017",
+      "title": "GO MY WAY!!",
+      "displayTitle": "GO MY WAY!!",
+      "lyrics": "yura",
+      "composer": "NBGI（Satoru Kousaki）",
+      "arranger": "Ginnojo Hoshi"
     },
     {
       "id": "music-bgm-01_001",
@@ -2167,7 +2271,7 @@
     },
     {
       "id": "music-char-hmsz-005",
-      "title": "Yoru Nite",
+      "title": "Ночью",
       "displayTitle": "Yoru Nite",
       "lyrics": "Shogo Nomura(Bandai Namco Studios Inc.)",
       "composer": "Shogo Nomura(Bandai Namco Studios Inc.)",
@@ -2183,7 +2287,7 @@
     },
     {
       "id": "music-char-hrnm-001",
-      "title": "clumsy trick",
+      "title": "Clumsy trick",
       "displayTitle": "",
       "lyrics": "Sho Watanabe",
       "composer": "Sho Watanabe",
@@ -2215,7 +2319,7 @@
     },
     {
       "id": "music-char-hrnm-003",
-      "title": "marble heart",
+      "title": "Marble heart",
       "displayTitle": "marble heart",
       "lyrics": "Itsukishi Nagawa",
       "composer": "Sudo Yugen",
@@ -2247,7 +2351,7 @@
     },
     {
       "id": "music-char-hrnm-005",
-      "title": "Utagoe wa Kimiiro",
+      "title": "Безцветный голос",
       "displayTitle": "Utagoe wa Kimiiro",
       "lyrics": "Kenta Kuriyama, Honoka Watanabe",
       "composer": "Hinano Tanaka (IKW) ",
@@ -2375,7 +2479,7 @@
     },
     {
       "id": "music-char-hume-003",
-      "title": "Tsuyotsuyo Saikyou Exercise",
+      "title": "Tsuyotsuyo Saikyou Exercise ",
       "displayTitle": "Tsuyotsuyo Saikyou Exercise ",
       "lyrics": "Rihito Tsuboi (Bandai Namco Studio Inc.)",
       "composer": "Rihito Tsuboi, Takafumi Satou (Bandai Namco Studio Inc.)",
@@ -2900,6 +3004,22 @@
       "lyrics": "Aira (Dream Monster)",
       "composer": "Aira (Dream Monster)",
       "arranger": "Aira (Dream Monster)"
+    },
+    {
+      "id": "music-unit-amaohrnm-004",
+      "title": "SUGAR FLAVOR\n",
+      "displayTitle": "SUGAR FLAVOR\n",
+      "lyrics": "Kai Takahashi",
+      "composer": "Kai Takahashi",
+      "arranger": "Kai Takahashi"
+    },
+    {
+      "id": "music-unit-amaohrnm-004-inst",
+      "title": "SUGAR FLAVOR [Instrumental]",
+      "displayTitle": "SUGAR FLAVOR [Instrumental]",
+      "lyrics": "Kai Takahashi",
+      "composer": "Kai Takahashi",
+      "arranger": "Kai Takahashi"
     },
     {
       "id": "music-unit-begrazia-002",

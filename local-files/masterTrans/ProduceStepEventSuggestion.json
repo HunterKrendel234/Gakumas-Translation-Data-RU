@@ -37973,7 +37973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nP-Points +"
+          "text": "\nP-Очки +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -38028,7 +38028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nP-Points +"
+          "text": "\nP-Очки +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -74283,7 +74283,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Max"
+          "text": "Макс "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -74388,7 +74388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Max "
+          "text": "Макс "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -75118,7 +75118,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card: "
+          "text": "Проблемная карта: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -75718,7 +75718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card: "
+          "text": "Проблемная карта: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -76683,7 +76683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Max "
+          "text": "Макс "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -76943,7 +76943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card: "
+          "text": "Проблемная карта: "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

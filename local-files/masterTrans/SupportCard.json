@@ -1389,6 +1389,38 @@
       "name": "Вкусный момент отдыха"
     },
     {
+      "id": "s_card-2-0075",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ Средний"
+        }
+      ],
+      "name": "Things I won't compromise on"
+    },
+    {
+      "id": "s_card-2-0076",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ Средний"
+        }
+      ],
+      "name": "A relaxed, yawning face"
+    },
+    {
       "id": "s_card-3-0000",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -2570,7 +2602,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "#GyaruPeace"
+      "name": "#ГайаруМир"
     },
     {
       "id": "s_card-3-0074",
@@ -2983,10 +3015,42 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Medium"
+          "text": "/ Средний"
         }
       ],
-      "name": "We're going to grow too!"
+      "name": "Мы тоже вырастем!"
+    },
+    {
+      "id": "s_card-3-0101",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ Высокий"
+        }
+      ],
+      "name": "Что будет происходить~?"
+    },
+    {
+      "id": "s_card-3-0102",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ Высокий"
+        }
+      ],
+      "name": "Оден, идёт в помощь~!"
     },
     {
       "id": "s_card-3-0105",
@@ -2999,10 +3063,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ High"
+          "text": "/ Высокий"
         }
       ],
-      "name": "Entertain me"
+      "name": "Развлекай меня"
     }
   ]
 }

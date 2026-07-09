@@ -162,7 +162,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-013-02",
-      "name": "Mirakuru na Nau(゚∀゚)!",
+      "name": "Чудо Нау (゚∀゚)!",
       "description": "【Mirakuru na Nau(゚∀゚)!】Повысить уровень тренировки Мао Аримуры до {threshold}"
     },
     {
@@ -172,17 +172,17 @@
     },
     {
       "id": "achieve-i_card-amao-3-013-04",
-      "name": "Mirakuru na Nau(゚∀゚)! +",
+      "name": "Чудо Нау (゚∀゚)! +",
       "description": "【Mirakuru na Nau(゚∀゚)!】Повысить уровень тренировки Мао Аримуры до {threshold}"
     },
     {
       "id": "achieve-i_card-amao-3-013-05",
-      "name": "Mirakuru na Nau(゚∀゚)! ++",
+      "name": "Чудо Нау (゚∀゚)! ++",
       "description": "【Mirakuru na Nau(゚∀゚)!】Повысить уровень тренировки Мао Аримуры до {threshold}"
     },
     {
       "id": "achieve-i_card-amao-3-013-06",
-      "name": "Mirakuru na Nau(゚∀゚)! +++",
+      "name": "Чудо Нау (゚∀゚)! +++",
       "description": "【Mirakuru na Nau(゚∀゚)!】Повысить уровень тренировки Мао Аримуры до {threshold}"
     },
     {
@@ -214,6 +214,36 @@
       "id": "achieve-i_card-amao-3-015-06",
       "name": "Mite+++",
       "description": "【Mite】Повысить уровень тренировки Мао Аримуры до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-01",
+      "name": "Покорённое сердце",
+      "description": "【SUGAR FLAVOR】Пройдите финальный экзамен во время продюсирования с Mao Arimura"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-02",
+      "name": "SUGAR FLAVOR",
+      "description": "【SUGAR FLAVOR】Поднимите уровень тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-03",
+      "name": "Чувства, превосходящие истинную любовь",
+      "description": "【SUGAR FLAVOR】Получите оценку A+ или выше {threshold} раз в продюсировании с Mao Arimura"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-04",
+      "name": "SUGAR FLAVOR +",
+      "description": "【SUGAR FLAVOR】Поднимите уровень тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-05",
+      "name": "SUGAR FLAVOR ++",
+      "description": "Поднять этап тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-06",
+      "name": "SUGAR FLAVOR +++",
+      "description": "Поднять этап тренировки Mao Arimura до {threshold}"
     },
     {
       "id": "achieve-i_card-atbm-2-000-01",
@@ -544,6 +574,36 @@
       "id": "achieve-i_card-fktn-3-016-06",
       "name": "Gamushara ni Ikou! +++",
       "description": "【Gamushara ni Ikou!】Повысить уровень тренировки Котонэ Фудзиты до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-01",
+      "name": "Нет времени на уныние!",
+      "description": "【GO MY WAY!!】Пройти финальный экзамен в продюсировании с Kotone Fujita"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-02",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】Поднять Этап Тренировки Kotone Fujita до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-03",
+      "name": "Полностью бодрствую.",
+      "description": "[GO MY WAY!!] Получить оценку A+ или выше {threshold} раз в продюсировании с Kotone Fujita"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-04",
+      "name": "GO MY WAY!! +",
+      "description": "[GO MY WAY!!] Поднять Тренировочный этап Kotone Fujita до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-05",
+      "name": "GO MY WAY!! ++",
+      "description": "[GO MY WAY!!] Поднять Тренировочный этап Kotone Fujita до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-06",
+      "name": "GO MY WAY!! +++",
+      "description": "[GO MY WAY!!] Поднять Тренировочный этап Kotone Fujita до {threshold}"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-01",
@@ -1026,6 +1086,36 @@
       "description": "【Garakuta Road】Повысить тренировочный этап Rinami Himesaki до {threshold}"
     },
     {
+      "id": "achieve-i_card-hrnm-3-018-01",
+      "name": "Сердце тает от сладости",
+      "description": "【SUGAR FLAVOR】Сдайте финальный экзамен во время продюсирования с Rinami Himesaki"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-02",
+      "name": "SUGAR FLAVOR",
+      "description": "【SUGAR FLAVOR】Поднять этап тренировки Rinami Himesaki до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-03",
+      "name": "Разжечь создание великих волн",
+      "description": "【SUGAR FLAVOR】Получить оценку A+ или выше {threshold} раз в продюсировании с Rinami Himesaki"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-04",
+      "name": "SUGAR FLAVOR +",
+      "description": "【SUGAR FLAVOR】Поднять этап тренировки Rinami Himesaki до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-05",
+      "name": "SUGAR FLAVOR ++",
+      "description": "【SUGAR FLAVOR】Поднять этап тренировки Rinami Himesaki до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-06",
+      "name": "SUGAR FLAVOR +++",
+      "description": "Увеличить тренировочный этап Rinami Himesaki до {threshold}"
+    },
+    {
       "id": "achieve-i_card-hski-2-000-04",
       "name": "Я лучшая! +",
       "description": "【I am the best!】Повысить уровень SP-тренировки Саки Ханами до {threshold}"
@@ -1112,7 +1202,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-002-06",
-      "name": "Kamugiroku +++",
+      "name": "Камугироку +++",
       "description": "【Kamurogiku】Повысить уровень SP-тренировки Саки Ханами до {threshold}"
     },
     {
@@ -1294,6 +1384,36 @@
       "id": "achieve-i_card-hski-3-017-06",
       "name": "Wildest Flower +++",
       "description": "【Wildest Flower】Установить уровень тренировки Саки Ханами до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-01",
+      "name": "Вызов легенде",
+      "description": "【GO MY WAY!!】Пройди Финальный Экзамен во время Продюсирования с Saki Hanami"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-02",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】Поднимай этап тренировки Saki Hanami до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-03",
+      "name": "Вброшу в тебя!!",
+      "description": "【GO MY WAY!!】Получай оценку A+ или выше {threshold} раз во время Продюсирования с Saki Hanami"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-04",
+      "name": "GO MY WAY!! +",
+      "description": "【GO MY WAY!!】Поднять тренировочный этап Саки Ханами до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-05",
+      "name": "GO MY WAY!! ++",
+      "description": "【GO MY WAY!!】Поднять тренировочный этап Саки Ханами до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-06",
+      "name": "GO MY WAY!! +++",
+      "description": "【GO MY WAY!!】Поднять тренировочный этап Саки Ханами до {threshold}"
     },
     {
       "id": "achieve-i_card-hume-2-000-01",
@@ -2317,33 +2437,33 @@
     },
     {
       "id": "achieve-i_card-kllj-3-018-01",
-      "name": "Words That Support Me",
-      "description": "【Garakuta Road】Pass the final exam in a produce run with Lilja Katsuragi"
+      "name": "Слова поддержки",
+      "description": "【Garakuta Road】Пройди финальный экзамен при продюсировании с Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-kllj-3-018-02",
       "name": "Garakuta Road",
-      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Lilja Katsuragi"
+      "description": "【Garakuta Road】Достигни этапа Специальной Тренировки {threshold} с Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-kllj-3-018-03",
-      "name": "My Starting Point",
-      "description": "【Garakuta Road】Earn an evaluation of A+ or higher {threshold} times in a produce run with Lilja Katsuragi"
+      "name": "Точка старта",
+      "description": "【Garakuta Road】Получите оценку A+ или выше {threshold} раз в продюсировании с Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-kllj-3-018-04",
       "name": "Garakuta Road +",
-      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Lilja Katsuragi"
+      "description": "【Garakuta Road】Достигните этапа специальной тренировки {threshold} с Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-kllj-3-018-05",
       "name": "Garakuta Road ++",
-      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Lilja Katsuragi"
+      "description": "【Garakuta Road】Достигните этапа специальной тренировки {threshold} с Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-kllj-3-018-06",
       "name": "Garakuta Road +++",
-      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Lilja Katsuragi"
+      "description": "【Garakuta Road】Достигните этапа специальной тренировки {threshold} с Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-shro-2-000-04",
@@ -2552,7 +2672,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-014-06",
-      "name": "Mirakuru na Nau(゚∀゚)! +++",
+      "name": "Чудо Нау (゚∀゚)! +++",
       "description": "【Mirakuru na Nau(゚∀゚)!】Повысить уровень тренировки Хиро Шиносавы до {threshold}"
     },
     {
@@ -2587,33 +2707,33 @@
     },
     {
       "id": "achieve-i_card-shro-3-018-01",
-      "name": "My Memories Alone",
-      "description": "【Garakuta Road】Pass the final exam in a produce run with Hiro Shinosawa"
+      "name": "Только мои записи",
+      "description": "【Garakuta Road】Пройди финальный экзамен в продюсировании с Hiro Shinosawa."
     },
     {
       "id": "achieve-i_card-shro-3-018-02",
       "name": "Garakuta Road",
-      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Hiro Shinosawa"
+      "description": "【Garakuta Road】Достигните Этапа Специальной Тренировки {threshold} с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-shro-3-018-03",
-      "name": "Most Wonderful Produce",
-      "description": "【Garakuta Road】Earn an evaluation of A+ or higher {threshold} times in a produce run with Hiro Shinosawa"
+      "name": "Самое замечательное Продюсирование",
+      "description": "【Garakuta Road】Получите оценку A+ или выше {threshold} раз в продюсировании с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-shro-3-018-04",
       "name": "Garakuta Road +",
-      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Hiro Shinosawa"
+      "description": "【Garakuta Road】Достигните Этапа Специальной Тренировки {threshold} с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-shro-3-018-05",
       "name": "Garakuta Road ++",
-      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Hiro Shinosawa"
+      "description": "【Garakuta Road】Достигните Этапа Специальной Тренировки {threshold} с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-shro-3-018-06",
       "name": "Garakuta Road +++",
-      "description": "【Garakuta Road】Reach Special Training stage {threshold} with Hiro Shinosawa"
+      "description": "【Garakuta Road】Достигните этапа специальной тренировки {threshold} с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-04",
@@ -3213,12 +3333,12 @@
     {
       "id": "achieve-o_006",
       "name": "Новичок-выпускник",
-      "description": "Достичь PLv {threshold}"
+      "description": "Достичь УрП {threshold}"
     },
     {
       "id": "achieve-o_007",
       "name": "На полпути",
-      "description": "Достичь PLv {threshold}"
+      "description": "Достичь УрП {threshold}"
     },
     {
       "id": "achieve-o_009",
@@ -4872,8 +4992,8 @@
     },
     {
       "id": "achieve-p_idol-kcna-000-2",
-      "name": "My Top Producer",
-      "description": "View True End: H.I.F with China Kuramoto"
+      "name": "Мой TOP-Продюсер",
+      "description": "Посмотреть True End: H.I.F с China Kuramoto"
     },
     {
       "id": "achieve-p_idol-kcna-001",
@@ -4992,13 +5112,13 @@
     },
     {
       "id": "achieve-p_idol-kcna-025",
-      "name": "A Dream That Grew Bigger",
-      "description": "Pass the H.I.F final exam with China Kuramoto and earn an evaluation of S4+ or higher"
+      "name": "Большая мечта",
+      "description": "Сдайте финальный экзамен H.I.F с China Kuramoto и получите оценку S4+ или выше"
     },
     {
       "id": "achieve-p_idol-kcna-026",
-      "name": "A Journey Guided Forward",
-      "description": "Pass the H.I.F final exam {threshold} times with China Kuramoto"
+      "name": "Направленное путешествие",
+      "description": "Сдайте финальный экзамен H.I.F {threshold} раз с China Kuramoto"
     },
     {
       "id": "achieve-p_idol-kcna-027",
@@ -5017,8 +5137,8 @@
     },
     {
       "id": "achieve-p_idol-kllj-000-2",
-      "name": "Will You Stay With Me Forever?",
-      "description": "View True End: H.I.F with Lilja Katsuragi"
+      "name": "Останешься ли ты со мной навсегда?",
+      "description": "Посмотреть True End: H.I.F с Lilja Katsuragi"
     },
     {
       "id": "achieve-p_idol-kllj-001",
@@ -5137,13 +5257,13 @@
     },
     {
       "id": "achieve-p_idol-kllj-025",
-      "name": "The Idol I Admired That Day",
-      "description": "Pass the H.I.F final exam with Lilja Katsuragi and earn an evaluation of S4+ or higher"
+      "name": "Айдол, которого я восхищался в тот день",
+      "description": "Сдайте финальный экзамен H.I.F с Lilja Katsuragi и получите оценку S4+ или выше"
     },
     {
       "id": "achieve-p_idol-kllj-026",
-      "name": "A Joyful Journey",
-      "description": "Pass the H.I.F final exam {threshold} times with Lilja Katsuragi"
+      "name": "Весёлое путешествие",
+      "description": "Сдать финальный экзамен H.I.F {threshold} раз с Lilja Katsuragi"
     },
     {
       "id": "achieve-p_idol-kllj-027",
@@ -5162,8 +5282,8 @@
     },
     {
       "id": "achieve-p_idol-shro-000-2",
-      "name": "Together Until the Very End",
-      "description": "View True End: H.I.F with Hiro Shinosawa"
+      "name": "Вместе до самого конца",
+      "description": "Смотреть True End: H.I.F с Hiro Shinosawa"
     },
     {
       "id": "achieve-p_idol-shro-001",
@@ -5287,13 +5407,13 @@
     },
     {
       "id": "achieve-p_idol-shro-025",
-      "name": "A One-Night Miracle",
-      "description": "Pass the H.I.F final exam with Hiro Shinosawa and earn an evaluation of S4+ or higher"
+      "name": "Чудо за одну ночь",
+      "description": "Сдать финальный экзамен H.I.F с Hiro Shinosawa и получить оценку S4+ или выше"
     },
     {
       "id": "achieve-p_idol-shro-026",
-      "name": "Painful, Happy, and Fun Days",
-      "description": "Pass the H.I.F final exam {threshold} times with Hiro Shinosawa"
+      "name": "Тяжёлые, счастливые и весёлые дни",
+      "description": "Сдать финальный экзамен H.I.F {threshold} раз с Hiro Shinosawa"
     },
     {
       "id": "achieve-p_idol-shro-027",
@@ -5312,8 +5432,8 @@
     },
     {
       "id": "achieve-p_idol-ssmk-000-2",
-      "name": "A Happy Idol",
-      "description": "View True End: H.I.F with Sumika Shiun"
+      "name": "Счастливый Айдол",
+      "description": "Посмотреть True End: H.I.F с Sumika Shiun"
     },
     {
       "id": "achieve-p_idol-ssmk-001",
@@ -5432,13 +5552,13 @@
     },
     {
       "id": "achieve-p_idol-ssmk-025",
-      "name": "The Person I Want to Become",
-      "description": "Pass the H.I.F final exam with Sumika Shiun and earn an evaluation of S4+ or higher"
+      "name": "Кем я хочу стать",
+      "description": "Пройди финальный Экзамен H.I.F с Sumika Shiun и получи оценку S4+ или выше"
     },
     {
       "id": "achieve-p_idol-ssmk-026",
-      "name": "Every Step We Took Together",
-      "description": "Pass the H.I.F final exam {threshold} times with Sumika Shiun"
+      "name": "Каждый наш шаг",
+      "description": "Пройди финальный Экзамен H.I.F {threshold} раз с Sumika Shiun"
     },
     {
       "id": "achieve-p_idol-ssmk-027",

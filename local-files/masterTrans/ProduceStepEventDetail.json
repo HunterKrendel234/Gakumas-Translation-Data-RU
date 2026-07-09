@@ -112864,7 +112864,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "pitem_00-3-265-0",
-          "text": "H.I.F Emblem "
+          "text": "Эмблема H.I.F "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -112982,6 +112982,18 @@
       "produceDescriptions": []
     },
     {
+      "id": "event-detail-p_story-i_card-amao-3-017-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-amao-3-017-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-amao-3-017-03",
+      "produceDescriptions": []
+    },
+    {
       "id": "event-detail-p_story-i_card-atbm-3-000-01",
       "produceDescriptions": []
     },
@@ -113087,6 +113099,18 @@
     },
     {
       "id": "event-detail-p_story-i_card-fktn-3-016-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-fktn-3-019-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-fktn-3-019-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-fktn-3-019-03",
       "produceDescriptions": []
     },
     {
@@ -113258,6 +113282,18 @@
       "produceDescriptions": []
     },
     {
+      "id": "event-detail-p_story-i_card-hrnm-3-018-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-hrnm-3-018-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-hrnm-3-018-03",
+      "produceDescriptions": []
+    },
+    {
       "id": "event-detail-p_story-i_card-hski-3-000-01",
       "produceDescriptions": []
     },
@@ -113363,6 +113399,18 @@
     },
     {
       "id": "event-detail-p_story-i_card-hski-3-017-03",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-hski-3-019-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-hski-3-019-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-hski-3-019-03",
       "produceDescriptions": []
     },
     {
@@ -118314,6 +118362,106 @@
       ]
     },
     {
+      "id": "event-detail-s_card-2-0075-01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "pitem_01-2-129-0",
+          "text": "Ностальгический дебат на вечеринке"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Получить "
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-2-0075-02",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Вокал Увеличение +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "15 "
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-2-0076-01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "pitem_03-2-130-0",
+          "text": "Внимание! Вы можете уснуть!"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Получить "
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-2-0076-02",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Визуал Увеличение +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "15 "
+        }
+      ]
+    },
+    {
       "id": "event-detail-s_card-3-0000-01",
       "produceDescriptions": [
         {
@@ -120519,7 +120667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "pitem_02-3-057-0",
-          "text": "873 Shooter"
+          "text": "873 Стрелок "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125639,7 +125787,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "pitem_01-3-322-0",
-          "text": "Unexpected Ticket"
+          "text": "Неожиданный билет "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125789,7 +125937,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "pitem_00-3-323-0",
-          "text": "Achieving your dream "
+          "text": "Достижение твоей мечты "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125799,7 +125947,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Get "
+          "text": "Получить "
         }
       ]
     },
@@ -125814,7 +125962,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "P-Points +"
+          "text": "P-Очки +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -125839,7 +125987,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Obtain a random skill card and "
+          "text": "Получить случайную карту навыка и "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -125849,7 +125997,157 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "upgrade "
+          "text": "улучшить "
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0101-01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "pitem_03-3-324-0",
+          "text": "Судьба романтических чувств"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Получить "
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0101-02",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Визуал +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "20 "
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0101-03",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Получите случайную карту навыка и "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardUpgrade",
+          "text": "улучшить "
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0102-01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-sup-3_196",
+          "text": "Горячий и парящий"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Получить "
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0102-02",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Визуал +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "20 "
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0102-03",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Получите случайную карту навыка и "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardUpgrade",
+          "text": "улучшить "
         }
       ]
     },
@@ -125864,7 +126162,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-sup-3_195",
-          "text": "Let's see what you can do"
+          "text": "Посмотрим, что ты можешь сделать"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125874,7 +126172,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Get "
+          "text": "Получить "
         }
       ]
     },
@@ -125889,7 +126187,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Dance Increase +"
+          "text": "Увеличение Танца +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -125914,7 +126212,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Obtain a random skill card and "
+          "text": "Получить случайную карту навыка и "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -125924,7 +126222,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardUpgrade",
-          "text": "upgrade "
+          "text": "улучшить "
         }
       ]
     },
