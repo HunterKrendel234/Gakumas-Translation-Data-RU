@@ -7,139 +7,143 @@
   "data": [
     {
       "id": "comeback_daily_release_mission_001_point",
-      "name": "Очки миссий возвращения"
+      "name": "Очк. миссии возвращения"
     },
     {
       "id": "comeback_daily_release_mission_003_point",
-      "name": "Очки ежедневных миссий возвращения (Часть 2)"
+      "name": "Ежедневная Миссия Возвращения Очк. (Часть 2)"
     },
     {
       "id": "daily_mission_NIA_clear_point",
-      "name": "Очки испытания N.I.A"
+      "name": "Очк. испытания N.I.A"
     },
     {
       "id": "highscore-event-001_point",
-      "name": "Очки события «Месяц усиления айдолов»"
+      "name": "Очк. События Усиления Айдола за месяц"
     },
     {
       "id": "highscore-event-002_point",
-      "name": "Очки события «Месяц усиления айдолов»"
+      "name": "Очк. События Улучшения Айдолов за месяц"
     },
     {
       "id": "highscore-event-003_point",
-      "name": "Очки события High Score"
+      "name": "Очк. События"
     },
     {
       "id": "highscore-event-004_point",
-      "name": "Очки события High Score"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-001_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-002_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-003_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-004_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-005_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-006_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-007_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-008_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-009_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-010_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-011_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-012_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-013_point",
-      "name": "Очки события"
+      "name": "Очк. События"
     },
     {
       "id": "highscorerush-event-014_point",
-      "name": "Очки события"
+      "name": "Очк. События"
+    },
+    {
+      "id": "highscorerush-event-015_point",
+      "name": "Очк. События"
     },
     {
       "id": "main-story-event-001_point",
-      "name": "Очки миссий события Hatsuhoshi Commu"
+      "name": "Миссия комьюнити Хацухоси Очк."
     },
     {
       "id": "main-story-event-002_point",
-      "name": "Очки события Hatsuhoshi Commu"
+      "name": "Очк. События Хацухоси"
     },
     {
       "id": "main-story-event-003_point",
-      "name": "Очки события Hatsuhoshi Commu"
+      "name": "Очк. События Хацухоси"
     },
     {
       "id": "main-story-event-004_point",
-      "name": "Очки события Hatsuhoshi Commu"
+      "name": "Очк. События Хацухоси"
     },
     {
       "id": "main-story-event-005_point",
-      "name": "Очки события Hatsuhoshi Commu"
+      "name": "Очк. События Хацухоси"
     },
     {
       "id": "main-story-event-006_point",
-      "name": "Очки события Hatsuhoshi Commu"
+      "name": "Очк. События Хацухоси"
     },
     {
       "id": "main-story-event-007_point",
-      "name": "Очки события Hatsuhoshi Commu"
+      "name": "Очк. События Хацухоси"
     },
     {
       "id": "main-story-event-008_point",
-      "name": "Очки события Hatsuhoshi Commu"
+      "name": "Очк. События Хацухоси"
     },
     {
       "id": "main-story-event-009_point",
-      "name": "Очки события Hatsuhoshi Commu"
+      "name": "Очк. События Хацухоси"
     },
     {
       "id": "main-story-event-010_point",
-      "name": "Очки события Hatsuhoshi Commu"
+      "name": "Очк. События Хацухоси"
     },
     {
       "id": "mission-daily-point",
-      "name": "Ежедневные очки"
+      "name": "Ежедневные Очк."
     },
     {
       "id": "mission-release_memorial_point",
-      "name": "Очки новичка"
+      "name": "Очк. для новичков"
     },
     {
       "id": "mission-weekly-point",
-      "name": "Недельные очки"
+      "name": "Еженедельные Очк."
     }
   ]
 }

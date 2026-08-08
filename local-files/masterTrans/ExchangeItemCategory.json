@@ -23,7 +23,7 @@
       "categoryType": "ExchangeItemCategoryType_ItemType",
       "resourceType": "ResourceType_Unknown",
       "itemType": "ItemType_IdolCardPiece",
-      "name": "Фрагменты"
+      "name": "Осколок"
     },
     {
       "exchangeId": "exchange-piece-1",
@@ -31,7 +31,7 @@
       "categoryType": "ExchangeItemCategoryType_Other",
       "resourceType": "ResourceType_Unknown",
       "itemType": "ItemType_Unknown",
-      "name": "Другое"
+      "name": "Прочее"
     },
     {
       "exchangeId": "exchange-support-piece-1",
@@ -47,7 +47,7 @@
       "categoryType": "ExchangeItemCategoryType_ResourceType",
       "resourceType": "ResourceType_SupportCard",
       "itemType": "ItemType_Unknown",
-      "name": "Карты поддержки"
+      "name": "Карты Поддержки"
     },
     {
       "exchangeId": "exchange-support-piece-1",

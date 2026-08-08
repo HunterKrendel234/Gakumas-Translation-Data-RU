@@ -7,271 +7,271 @@
   "data": [
     {
       "id": "CardPlayAggressive_group_20_CardPlayAggressive",
-      "label": "Карты навыка усиления мотивации"
+      "label": "Карты Навыка для усиления Мотивации"
     },
     {
       "id": "CardPlayAggressive_group_20_CardPlayAggressive_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыка для повышения Оценки"
     },
     {
       "id": "CardPlayAggressive_group_20_exam_block",
-      "label": "Карты навыка усиления энергии"
+      "label": "Карты Навыков «Усиление Энергии»"
     },
     {
       "id": "CardPlayAggressive_group_20_logic_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыка"
     },
     {
       "id": "CardPlayAggressive_group_35_CardPlayAggressive",
-      "label": "Карты навыка усиления мотивации"
+      "label": "Карты Навыка на Мотивацию"
     },
     {
       "id": "CardPlayAggressive_group_35_CardPlayAggressive_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыка для повышения Оценки"
     },
     {
       "id": "CardPlayAggressive_group_35_exam_block",
-      "label": "Карты навыка усиления энергии"
+      "label": "Карты Навыков на усиление Энергии"
     },
     {
       "id": "CardPlayAggressive_group_35_logic_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыка"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_CardPlayAggressive",
-      "label": "Карты навыка усиления мотивации"
+      "label": "Карты Навыка для усиления Мотивации"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_CardPlayAggressive_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыка для повышения Оценки"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_exam_block",
-      "label": "Карты навыка усиления энергии"
+      "label": "Карты Навыков «Усиление Энергии»"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыка"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_Review",
-      "label": "Карты навыка Хорошего впечатления"
+      "label": "Карты Навыка с Хорошим Впечатлением"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_CardPlayAggressive",
-      "label": "Карты навыка усиления мотивации"
+      "label": "Карты Навыков для усиления Мотивации"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_CardPlayAggressive_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыка для повышения Оценки"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_exam_block",
-      "label": "Карты навыка усиления энергии"
+      "label": "Карты Навыков «Усиление Энергии»"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_logic_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыка"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_Review",
-      "label": "Карты навыка Хорошего впечатления"
+      "label": "Карты Навыка с Хорошим Впечатлением"
     },
     {
       "id": "Concentration_group_20_anomaly_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыка"
     },
     {
       "id": "Concentration_group_20_anomaly_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыков с бонусом к Оценке"
     },
     {
       "id": "Concentration_group_20_Concentration",
-      "label": "Карты навыка Уверенности"
+      "label": "Уверенные Карты Навыков"
     },
     {
       "id": "Concentration_group_20_Preservation\n",
-      "label": "Карты навыка Сохранения"
+      "label": "Карты Навыков Сбережения"
     },
     {
       "id": "Concentration_group_35_anomaly_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыка"
     },
     {
       "id": "Concentration_group_35_anomaly_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыков с бонусом к Оценке"
     },
     {
       "id": "Concentration_group_35_Concentration",
-      "label": "Карты навыка Уверенности"
+      "label": "Уверенные Карты Навыка"
     },
     {
       "id": "Concentration_group_35_Preservation\n",
-      "label": "Карты навыка Сохранения"
+      "label": "Карты Навыка Сбережения"
     },
     {
       "id": "FullPower_group_20_anomaly_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыка"
     },
     {
       "id": "FullPower_group_20_anomaly_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыков для повышения Оценки"
     },
     {
       "id": "FullPower_group_20_FullPower",
-      "label": "Карты навыка очков полной мощи"
+      "label": "Вытянуть Карты Навыка Full Power"
     },
     {
       "id": "FullPower_group_20_Preservation",
-      "label": "Карты навыка Сохранения"
+      "label": "Карты Навыков Сбережения"
     },
     {
       "id": "FullPower_group_35_anomaly_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыка"
     },
     {
       "id": "FullPower_group_35_anomaly_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыков для бонуса Оценки"
     },
     {
       "id": "FullPower_group_35_FullPower",
-      "label": "Карты навыка очков полной мощи"
+      "label": "Вытянуть Карты Навыка Full Power"
     },
     {
       "id": "FullPower_group_35_Preservation",
-      "label": "Карты навыка Сохранения"
+      "label": "Карты Навыков Сбережения"
     },
     {
       "id": "LessonBuff_group_20_LessonBuff",
-      "label": "Карты навыка Фокуса"
+      "label": "Карты Навыка Концентрации"
     },
     {
       "id": "LessonBuff_group_20_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыка"
     },
     {
       "id": "LessonBuff_group_20_ParameterBuff",
-      "label": "Карты навыка Хорошей формы"
+      "label": "Карты Навыка в Хорошей Форме"
     },
     {
       "id": "LessonBuff_group_20_sense_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыков для Оценки"
     },
     {
       "id": "LessonBuff_group_35_LessonBuff",
-      "label": "Карты навыка Фокуса"
+      "label": "Карты Навыков Концентрации"
     },
     {
       "id": "LessonBuff_group_35_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыков"
     },
     {
       "id": "LessonBuff_group_35_parameter_buff_multiple",
-      "label": "Карты навыка Отличной формы"
+      "label": "Карты Навыка Отличной Формы"
     },
     {
       "id": "LessonBuff_group_35_ParameterBuff",
-      "label": "Карты навыка Хорошей формы"
+      "label": "Карты Навыка в Хорошей Форме"
     },
     {
       "id": "LessonBuff_group_35_sense_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыков для бонуса Оценки"
     },
     {
       "id": "ParameterBuff_group_20_LessonBuff",
-      "label": "Карты навыка Фокуса"
+      "label": "Карты Навыков Концентрации"
     },
     {
       "id": "ParameterBuff_group_20_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыка"
     },
     {
       "id": "ParameterBuff_group_20_parameter_buff_multiple",
-      "label": "Карты навыка Отличной формы"
+      "label": "Карты Навыка Отличной Формы"
     },
     {
       "id": "ParameterBuff_group_20_ParameterBuff",
-      "label": "Карты навыка Хорошей формы"
+      "label": "Карты Навыков Хорошей Формы"
     },
     {
       "id": "ParameterBuff_group_20_sense_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыков для повышения Оценки"
     },
     {
       "id": "ParameterBuff_group_35_LessonBuff",
-      "label": "Карты навыка Фокуса"
+      "label": "Карты Навыков Концентрации"
     },
     {
       "id": "ParameterBuff_group_35_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыка"
     },
     {
       "id": "ParameterBuff_group_35_parameter_buff_multiple",
-      "label": "Карты навыка Отличной формы"
+      "label": "Карты Навыков Отличной Формы"
     },
     {
       "id": "ParameterBuff_group_35_ParameterBuff",
-      "label": "Карты навыка Хорошей формы"
+      "label": "Карты Навыка в Хорошей Форме"
     },
     {
       "id": "ParameterBuff_group_35_sense_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыков для Оценки"
     },
     {
       "id": "Review_CardPlayAggressive_group_20_CardPlayAggressive",
-      "label": "Карты навыка усиления мотивации"
+      "label": "Карты Навыка для усиления Мотивации"
     },
     {
       "id": "Review_CardPlayAggressive_group_20_logic_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыка"
     },
     {
       "id": "Review_CardPlayAggressive_group_20_Review",
-      "label": "Карты навыка Хорошего впечатления"
+      "label": "Карты Навыков с Хорошим Впечатлением"
     },
     {
       "id": "Review_CardPlayAggressive_group_20_Review_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыков для повышения Оценки"
     },
     {
       "id": "Review_CardPlayAggressive_group_35_CardPlayAggressive",
-      "label": "Карты навыка усиления мотивации"
+      "label": "Карты Навыка на Мотивацию"
     },
     {
       "id": "Review_CardPlayAggressive_group_35_logic_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыков"
     },
     {
       "id": "Review_CardPlayAggressive_group_35_Review",
-      "label": "Карты навыка Хорошего впечатления"
+      "label": "Карты Навыка с Хорошим Впечатлением"
     },
     {
       "id": "Review_CardPlayAggressive_group_35_Review_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыков для повышения Оценки"
     },
     {
       "id": "Review_group_20_logic_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыков"
     },
     {
       "id": "Review_group_20_Review",
-      "label": "Карты навыка Хорошего впечатления"
+      "label": "Карты Навыка с Хорошим Впечатлением"
     },
     {
       "id": "Review_group_20_Review_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыка для Бонуса Оценки"
     },
     {
       "id": "Review_group_35_logic_other",
-      "label": "Другие Карты навыка"
+      "label": "Другие Карты Навыков"
     },
     {
       "id": "Review_group_35_Review",
-      "label": "Карты навыка Хорошего впечатления"
+      "label": "Карты Навыка с Хорошим Впечатлением"
     },
     {
       "id": "Review_group_35_Review_score",
-      "label": "Карты навыка усиления счёта"
+      "label": "Карты Навыка для повышения Оценки"
     }
   ]
 }

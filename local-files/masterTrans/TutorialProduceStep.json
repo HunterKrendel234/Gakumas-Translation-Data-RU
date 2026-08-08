@@ -13,7 +13,7 @@
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonVisualNormal",
-      "name": "Урок визуала"
+      "name": "Визуальный урок"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -48,7 +48,7 @@
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonVisualNormal",
-      "name": "Урок визуала"
+      "name": "Визуальный урок"
     },
     {
       "tutorialType": "TutorialType_GameStart",

@@ -589,12 +589,12 @@
     {
       "id": "cd_close-hif_kcna_shro",
       "number": 1,
-      "description": "Можно вызвать после 5/26"
+      "description": "Доступно после 26.05"
     },
     {
       "id": "cd_close-hif_kllj_ssmk",
       "number": 1,
-      "description": "Можно бросить вызов после 6/5"
+      "description": "Можно вызвать на дуэль после 6/5"
     },
     {
       "id": "cd_close-reward-sr-idol-present-support-memory-001",
@@ -1112,6 +1112,21 @@
       "description": ""
     },
     {
+      "id": "cd_gasha_have_ticket_item-gashaticket-new-wednesday-26-0715-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_item-gashaticket-new-wednesday-26-0729-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_item-gashaticket-new-wednesday-26-0731-1",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_gasha_have_ticket_item-gashaticket-ssr-fix_7",
       "number": 1,
       "description": ""
@@ -1148,6 +1163,11 @@
     },
     {
       "id": "cd_gasha_have_ticket_ssr-7",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_ssr-8",
       "number": 1,
       "description": ""
     },
@@ -1413,6 +1433,11 @@
     },
     {
       "id": "cd_highscorerush-event-014-release",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_highscorerush-event-015-release",
       "number": 1,
       "description": ""
     },
@@ -2267,9 +2292,29 @@
       "description": ""
     },
     {
+      "id": "cd_login_bonus_wednesday-26-0715",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0722",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0729",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0805",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_main-story-event-001_story-release",
       "number": 1,
-      "description": "Открывается после просмотра предыдущего commu"
+      "description": "Разблокируйте, просмотрев предыдущее сообщение"
     },
     {
       "id": "cd_main-story-event-001_story-release-list",
@@ -2359,12 +2404,12 @@
     {
       "id": "cd_main-story-event-002_story-release",
       "number": 1,
-      "description": "Открывается после просмотра предыдущего commu"
+      "description": "Разблокируйте, просмотрев предыдущее сообщение"
     },
     {
       "id": "cd_main-story-event-002_story-release-archive",
       "number": 1,
-      "description": "Открывается в событии commu Hatsuboshi"
+      "description": "Разблокируйте в общественном событии Hatsuboshi"
     },
     {
       "id": "cd_main-story-event-002_story-release-list",
@@ -2454,7 +2499,7 @@
     {
       "id": "cd_main-story-event-003_story-release-archive",
       "number": 1,
-      "description": "Открывается в событии commu Hatsuboshi"
+      "description": "Разблокируйте в ивенте Hatsuboshi commu"
     },
     {
       "id": "cd_main-story-event-003_story-release-list",
@@ -2539,17 +2584,17 @@
     {
       "id": "cd_main-story-event-003-release",
       "number": 1,
-      "description": "Открывается после просмотра предыдущего commu"
+      "description": "Разблокируйте, просмотрев предыдущее сообщение"
     },
     {
       "id": "cd_main-story-event-004_story-release-archive",
       "number": 1,
-      "description": "Открывается в событии commu Hatsuboshi"
+      "description": "Разблокируйте в событии сообщества Hatsuboshi"
     },
     {
       "id": "cd_main-story-event-004_story-release-list",
       "number": 1,
-      "description": "Открывается в событии commu Hatsuboshi"
+      "description": "Разблокируйте в событии Hatsuboshi commu"
     },
     {
       "id": "cd_main-story-event-004-exchange_item-Idolcardpiece-exchange-1",
@@ -2634,12 +2679,12 @@
     {
       "id": "cd_main-story-event-005_story-release-archive",
       "number": 1,
-      "description": "Открывается в событии commu Hatsuboshi"
+      "description": "Разблокируйте в событии сообщества Hatsuboshi"
     },
     {
       "id": "cd_main-story-event-005_story-release-list",
       "number": 1,
-      "description": "Открывается в событии commu Hatsuboshi"
+      "description": "Разблокируйте в общественном событии Hatsuboshi"
     },
     {
       "id": "cd_main-story-event-005-exchange_item-Idolcardpiece-exchange-1",
@@ -2744,12 +2789,12 @@
     {
       "id": "cd_main-story-event-006_story-release-archive",
       "number": 1,
-      "description": "Открывается в событии commu Hatsuboshi"
+      "description": "Разблокируйте в общественном событии Hatsuboshi"
     },
     {
       "id": "cd_main-story-event-006_story-release-list",
       "number": 1,
-      "description": "Открывается в событии commu Hatsuboshi"
+      "description": "Разблокируйте в событии Hatsuboshi commu"
     },
     {
       "id": "cd_main-story-event-006-exchange_item-Idolcardpiece-exchange-1",
@@ -2849,7 +2894,7 @@
     {
       "id": "cd_main-story-event-007_story-release-archive",
       "number": 1,
-      "description": "Открывается в событии commu Hatsuboshi"
+      "description": "Разблокируйте в общественном событии Hatsuboshi"
     },
     {
       "id": "cd_main-story-event-007_story-release-list",
@@ -2954,7 +2999,7 @@
     {
       "id": "cd_main-story-event-008_story-release-archive",
       "number": 1,
-      "description": "Открывается в событии commu Hatsuboshi"
+      "description": "Разблокируйте в событийном событии Hatsuboshi"
     },
     {
       "id": "cd_main-story-event-008_story-release-list",
@@ -3059,7 +3104,7 @@
     {
       "id": "cd_main-story-event-009_story-release-archive",
       "number": 1,
-      "description": "Открывается в событии commu Hatsuboshi"
+      "description": "Разблокируйте в ивенте сообщества Hatsuboshi"
     },
     {
       "id": "cd_main-story-event-009_story-release-list",
@@ -3164,7 +3209,7 @@
     {
       "id": "cd_main-story-event-010_story-release-archive",
       "number": 1,
-      "description": "Открывается в событии commu Hatsuboshi"
+      "description": "Разблокируйте в событии сообщества Hatsuboshi"
     },
     {
       "id": "cd_main-story-event-010_story-release-list",
@@ -3892,7 +3937,7 @@
       "description": ""
     },
     {
-      "id": "cd_money_exchange_УрП_5_9_week_Wed",
+      "id": "cd_money_exchange_plv_5_9_week_Wed",
       "number": 2,
       "description": ""
     },
@@ -4009,12 +4054,12 @@
     {
       "id": "cd_photo-pose-hotsping-costume-non",
       "number": 1,
-      "description": "Нет костюма, который можно использовать в этой локации"
+      "description": "Нет подходящих костюмов для этой локации"
     },
     {
       "id": "cd_photo-pose-hotsping-costume-non",
       "number": 2,
-      "description": "Нет костюма, который можно использовать в этой локации"
+      "description": "Нет подходящих нарядов для этой локации"
     },
     {
       "id": "cd_plan_gash_renewal_202506",
@@ -4022,7 +4067,7 @@
       "description": ""
     },
     {
-      "id": "cd_УрП_1",
+      "id": "cd_plv_1",
       "number": 1,
       "description": ""
     },
@@ -4154,102 +4199,102 @@
     {
       "id": "cd_producer_level-001",
       "number": 1,
-      "description": "Открывается при уровне Продюсера 1 и выше"
+      "description": "Разблокировано на Ур. Продюсера 1 или выше"
     },
     {
       "id": "cd_producer_level-051",
       "number": 1,
-      "description": "Открывается при уровне Продюсера 51 и выше"
+      "description": "Разблокировано на Ур. Продюсера 51 или выше"
     },
     {
       "id": "cd_producer_level-052",
       "number": 1,
-      "description": "Открывается при уровне Продюсера 52 и выше"
+      "description": "Разблокировано на Ур. Продюсера 52 или выше"
     },
     {
       "id": "cd_producer_level-053",
       "number": 1,
-      "description": "Открывается при уровне Продюсера 53 и выше"
+      "description": "Разблокировано на Ур. Продюсера 53 и выше"
     },
     {
       "id": "cd_producer_level-054",
       "number": 1,
-      "description": "Открывается при уровне Продюсера 54 и выше"
+      "description": "Разблокировано на Ур. Продюсера 54 или выше"
     },
     {
       "id": "cd_producer_level-056",
       "number": 1,
-      "description": "Открывается при уровне Продюсера 56 и выше"
+      "description": "Разблокировано на Ур. Продюсера 56 или выше"
     },
     {
       "id": "cd_producer_level-057",
       "number": 1,
-      "description": "Открывается при уровне Продюсера 57 и выше"
+      "description": "Разблокировано на Ур. Продюсера 57 или выше"
     },
     {
       "id": "cd_producer_level-058",
       "number": 1,
-      "description": "Открывается при уровне Продюсера 58 и выше"
+      "description": "Разблокировано на Ур. Продюсера 58 и выше"
     },
     {
       "id": "cd_producer_level-075",
       "number": 1,
-      "description": "Открывается при УрП 75 и выше"
+      "description": "Разблокируйте на PLv 75 или выше"
     },
     {
       "id": "cd_producer_level-076",
       "number": 1,
-      "description": "Открывается при УрП 76 и выше"
+      "description": "Разблокируйте на PLv 76 или выше"
     },
     {
       "id": "cd_producer_level-077",
       "number": 1,
-      "description": "Открывается при УрП 77 и выше"
+      "description": "Разблокируйте на PLv 77 или выше"
     },
     {
       "id": "cd_producer_level-078",
       "number": 1,
-      "description": "Открывается при УрП 78 и выше"
+      "description": "Разблокируйте на PLv 78 или выше"
     },
     {
       "id": "cd_producer_level-079",
       "number": 1,
-      "description": "Открывается при УрП 79 и выше"
+      "description": "Разблокируйте на PLv 79 или выше"
     },
     {
       "id": "cd_producer_level-080",
       "number": 1,
-      "description": "Открывается при УрП 80 и выше"
+      "description": "Разблокируйте на PLv 80 или выше"
     },
     {
       "id": "cd_producerlevel-10",
       "number": 1,
-      "description": "Достигните УрП 10"
+      "description": "Достигните PLv10"
     },
     {
       "id": "cd_producerlevel-12",
       "number": 1,
-      "description": "Достигните УрП 12"
+      "description": "Достичь PLv12"
     },
     {
       "id": "cd_producerlevel-17",
       "number": 1,
-      "description": "Достигните УрП 17"
+      "description": "Достигните PLv17"
     },
     {
       "id": "cd_producerlevel-25",
       "number": 1,
-      "description": "Достигните УрП 25"
+      "description": "Достичь PLv25"
     },
     {
       "id": "cd_producerlevel-30",
       "number": 1,
-      "description": "Достигните УрП 30"
+      "description": "Достичь PLv30"
     },
     {
       "id": "cd_producerlevel-5",
       "number": 1,
-      "description": "Достигните УрП 5"
+      "description": "Достичь PLv5"
     },
     {
       "id": "cd_purchase_shop_pack_item-01",
@@ -6727,7 +6772,47 @@
       "description": ""
     },
     {
+      "id": "cd_time_26_0708-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0715-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0716-1600",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0721-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0721-1100_0810-1059",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0724-0000",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0731-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_time_26_0801_27_0201",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_0801-0000",
       "number": 1,
       "description": ""
     },
@@ -6833,6 +6918,11 @@
     },
     {
       "id": "cd_time-view_open-i_card-atbm-3-012",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time-view_open-i_card-atbm-3-018",
       "number": 1,
       "description": ""
     },
@@ -7007,6 +7097,11 @@
       "description": ""
     },
     {
+      "id": "cd_time-view_open-i_card-hski-3-018",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_time-view_open-i_card-hski-3-019",
       "number": 1,
       "description": ""
@@ -7043,6 +7138,11 @@
     },
     {
       "id": "cd_time-view_open-i_card-hume-3-017",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time-view_open-i_card-hume-3-018",
       "number": 1,
       "description": ""
     },
@@ -7644,12 +7744,12 @@
     {
       "id": "cd_tower_open_amao",
       "number": 1,
-      "description": "Достигните\nTrue End"
+      "description": "Достичь\nTrue End"
     },
     {
       "id": "cd_tower_open_amao_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения Mao"
+      "description": "Получите 40 ★ для выполнения условия победы Мао"
     },
     {
       "id": "cd_tower_open_atbm",
@@ -7659,57 +7759,57 @@
     {
       "id": "cd_tower_open_atbm_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения Tsubame"
+      "description": "Получите 40 ★ за выполнение условий зачистки Tsubame Amaya"
     },
     {
       "id": "cd_tower_open_fktn",
       "number": 1,
-      "description": "Достигните\nTrue End"
+      "description": "Достигите\nTrue End"
     },
     {
       "id": "cd_tower_open_fktn_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения Kotone"
+      "description": "Получите 40 ★ для условия завершения Kotone"
     },
     {
       "id": "cd_tower_open_hmsz",
       "number": 1,
-      "description": "Достигните\nTrue End"
+      "description": "Достичь\nTrue End"
     },
     {
       "id": "cd_tower_open_hmsz_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения Misuzu"
+      "description": "Получите 40 ★ для условия завершения Мисузу"
     },
     {
       "id": "cd_tower_open_hrnm",
       "number": 1,
-      "description": "Достигните\nTrue End"
+      "description": "Достичь\nTrue End"
     },
     {
       "id": "cd_tower_open_hrnm_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения Rinami"
+      "description": "Получите 40 ★ для выполнения условия очистки Rinami"
     },
     {
       "id": "cd_tower_open_hski",
       "number": 1,
-      "description": "Достигните\nTrue End"
+      "description": "Достичь\nTrue End"
     },
     {
       "id": "cd_tower_open_hski_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения Saki"
+      "description": "Получите 40 ★ для выполнения условия прохождения Saki"
     },
     {
       "id": "cd_tower_open_hume",
       "number": 1,
-      "description": "Достигните\nTrue End"
+      "description": "Достичь\nTrue End"
     },
     {
       "id": "cd_tower_open_hume_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения Ume"
+      "description": "Получите 40 ★ для условия прохождения Умэ"
     },
     {
       "id": "cd_tower_open_hume_stage16",
@@ -7719,12 +7819,12 @@
     {
       "id": "cd_tower_open_jsna",
       "number": 1,
-      "description": "Достигните\nTrue End"
+      "description": "Достичь\nTrue End"
     },
     {
       "id": "cd_tower_open_jsna_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения Sena"
+      "description": "Получите 40 ★ для выполнения условия прохождения Сены"
     },
     {
       "id": "cd_tower_open_kcna",
@@ -7734,7 +7834,7 @@
     {
       "id": "cd_tower_open_kcna_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения China"
+      "description": "Получите 40 ★ для выполнения условия зачистки Китая"
     },
     {
       "id": "cd_tower_open_kcna_stage16",
@@ -7744,47 +7844,47 @@
     {
       "id": "cd_tower_open_kllj",
       "number": 1,
-      "description": "Достигните\nTrue End"
+      "description": "Достичь\nTrue End"
     },
     {
       "id": "cd_tower_open_kllj_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения Lilja"
+      "description": "Получите 40 ★ для условия прохождения Лильи"
     },
     {
       "id": "cd_tower_open_shro",
       "number": 1,
-      "description": "Достигните\nTrue End"
+      "description": "Достичь\nTrue End"
     },
     {
       "id": "cd_tower_open_shro_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения Hiro"
+      "description": "Получите 40 ★ для выполнения условия зачистки Hiro"
     },
     {
       "id": "cd_tower_open_ssmk",
       "number": 1,
-      "description": "Достигните\nTrue End"
+      "description": "Достичь\nTrue End"
     },
     {
       "id": "cd_tower_open_ssmk_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения Sumika"
+      "description": "Получите 40 ★ для выполнения условия Завершено Sumika"
     },
     {
       "id": "cd_tower_open_ttmr",
       "number": 1,
-      "description": "Достигните\nTrue End"
+      "description": "Достичь\nTrue End"
     },
     {
       "id": "cd_tower_open_ttmr_stage16",
       "number": 1,
-      "description": "Получите 40 ★ за условия прохождения Temari"
+      "description": "Получите 40 ★ для условия завершения Temari"
     },
     {
       "id": "cd_tutorial_gs",
       "number": 1,
-      "description": "Пройдите обучение"
+      "description": "Завершите обучение"
     },
     {
       "id": "cd_view_20260127",
@@ -8062,6 +8162,16 @@
       "description": ""
     },
     {
+      "id": "cd_view_shop_costume_item-0118",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_view_shop_costume_item-0118",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd_view_shop_costume_othr-0002",
       "number": 1,
       "description": ""
@@ -8204,7 +8314,7 @@
     {
       "id": "cd-achievement_clear-achieve-p_idol-hume-000",
       "number": 1,
-      "description": "Достигните\nTrue End"
+      "description": "Достичь\nTrue End"
     },
     {
       "id": "cd-achievement_clear-achieve-p_idol-hume-005",
@@ -9249,67 +9359,67 @@
     {
       "id": "cd-character_produce_play_count-1-amao",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-character_produce_play_count-1-atbm",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-character_produce_play_count-1-fktn",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-character_produce_play_count-1-hmsz",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-character_produce_play_count-1-hrnm",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-character_produce_play_count-1-hski",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-character_produce_play_count-1-hume",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-character_produce_play_count-1-jsna",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-character_produce_play_count-1-kcna",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-character_produce_play_count-1-kllj",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-character_produce_play_count-1-shro",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-character_produce_play_count-1-ssmk",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-character_produce_play_count-1-ttmr",
       "number": 1,
-      "description": "Начните продюсирование"
+      "description": "Начать производство"
     },
     {
       "id": "cd-clear-hidden_mission-view-gasha-00420-free-10-004",
@@ -9359,7 +9469,7 @@
     {
       "id": "cd-comeback",
       "number": 1,
-      "description": "Пользователи, не входившие в систему 30 дней"
+      "description": "Пользователи, не заходившие в игру более 30 дней"
     },
     {
       "id": "cd-comeback-unlock_open-01",
@@ -9369,12 +9479,12 @@
     {
       "id": "cd-comeback-unlock_open-01",
       "number": 2,
-      "description": "Пользователи с УрП 9 или выше"
+      "description": "Пользователи с PLv 9 и выше"
     },
     {
       "id": "cd-comeback-unlock_open-01",
       "number": 3,
-      "description": "N.I.A не разблокирован"
+      "description": "N.I.A не разблокирована"
     },
     {
       "id": "cd-comeback-unlock_open-01",
@@ -9384,17 +9494,17 @@
     {
       "id": "cd-comeback-unlock_open-01",
       "number": 5,
-      "description": "Пользователи, не входившие в систему 30 дней"
+      "description": "Пользователи, не заходившие в игру более 30 дней"
     },
     {
       "id": "cd-comeback-unlock_open-02",
       "number": 1,
-      "description": "Не входили в систему с 11:00 26 дек. или ранее в течение 30 дней и более"
+      "description": "Не в сети более 30 дней с 26 декабря до 11:00"
     },
     {
       "id": "cd-comeback-unlock_open-02",
       "number": 2,
-      "description": "Достигните P-Task 35 или получите возможность бросить вызов «N.I.A»"
+      "description": "Достигните P-задачи 35 или получите возможность принять вызов «NEXT IDOL AUDITION»"
     },
     {
       "id": "cd-comeback-unlock_open-02",
@@ -9404,12 +9514,12 @@
     {
       "id": "cd-comeback-unlock_open-02",
       "number": 4,
-      "description": "Пользователи, не входившие в систему 30 дней"
+      "description": "Пользователи, не заходили более 30 дней"
     },
     {
       "id": "cd-comeback-unlock_open-03",
       "number": 1,
-      "description": "Пользователи, не входившие в систему с 11:00 26 дек. или ранее менее 30 дней"
+      "description": "Пользователи, не заходили в игру менее 30 дней с момента последнего входа до 11:00 26 декабря"
     },
     {
       "id": "cd-comeback-unlock_open-03",
@@ -9429,12 +9539,12 @@
     {
       "id": "cd-comeback-unlock_open-04",
       "number": 2,
-      "description": "Пользователи с УрП ниже 9"
+      "description": "Пользователи с PLv ниже 9"
     },
     {
       "id": "cd-comeback-unlock_open-04",
       "number": 3,
-      "description": "N.I.A не разблокирован"
+      "description": "N.I.A не разблокировано"
     },
     {
       "id": "cd-comeback-unlock_open-04",
@@ -9444,7 +9554,7 @@
     {
       "id": "cd-comeback-unlock_open-04",
       "number": 5,
-      "description": "Пользователи, не входившие в систему 30 дней"
+      "description": "Пользователи, не заходившие в игру 30 дней"
     },
     {
       "id": "cd-comeback-unlock_open-05",
@@ -9544,52 +9654,57 @@
     {
       "id": "cd-dearness_amao-20",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.20"
+      "description": "Повысьте Отношения с Мао до Lv.20"
+    },
+    {
+      "id": "cd-dearness_atbm-20",
+      "number": 1,
+      "description": "Повысьте Отношения с Tsubame Amaya до Lv.20"
     },
     {
       "id": "cd-dearness_feature-0001",
       "number": 1,
-      "description": "Открывается после принудительного обновления до ver2.1.0"
+      "description": "Разблокируется после принудительного обновления до версии 2.1.0"
     },
     {
       "id": "cd-dearness_fktn-20",
       "number": 1,
-      "description": "Достигните Bond Lv20 с Kotone"
+      "description": "Достигните 20 уровня Отношений с Kotone"
     },
     {
       "id": "cd-dearness_hmsz-20",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.20"
+      "description": "Повысьте Отношения с Мисудзу до Lv.20"
     },
     {
       "id": "cd-dearness_hrnm-20",
       "number": 1,
-      "description": "Достигните Bond Lv20 с Rinami"
+      "description": "Достигните 20-го ур. Отношений с Rinami"
     },
     {
       "id": "cd-dearness_hski-20",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.20"
+      "description": "Повысьте Отношения с Saki до Lv.20"
     },
     {
       "id": "cd-dearness_hume-20",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.20"
+      "description": "Повысьте Отношения с Умэ до Lv.20"
     },
     {
       "id": "cd-dearness_jsna-20",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.20"
+      "description": "Повысьте Отношения с Сеной до Lv.20"
     },
     {
       "id": "cd-dearness_kcna-20",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.20"
+      "description": "Повысьте Отношения с Китаем до Lv.20"
     },
     {
       "id": "cd-dearness_kllj-20",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.20"
+      "description": "Повысьте Отношения с Лильей до Lv.20"
     },
     {
       "id": "cd-dearness_level-10",
@@ -9772,9 +9887,19 @@
       "description": ""
     },
     {
+      "id": "cd-dearness_level-37",
+      "number": 9,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level-37",
+      "number": 10,
+      "description": ""
+    },
+    {
       "id": "cd-dearness_level-amao-01",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.1"
+      "description": "Повысьте Отношения с Мао до Lv.1"
     },
     {
       "id": "cd-dearness_level-amao-01-02",
@@ -9789,17 +9914,17 @@
     {
       "id": "cd-dearness_level-amao-02",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.2"
+      "description": "Повысьте Отношения с Мао до Lv.2"
     },
     {
       "id": "cd-dearness_level-amao-03",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.3"
+      "description": "Повысьте Отношения с Мао до Lv.3"
     },
     {
       "id": "cd-dearness_level-amao-04",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.4"
+      "description": "Повысьте Отношения с Мао до Lv.4"
     },
     {
       "id": "cd-dearness_level-amao-04-06",
@@ -9809,12 +9934,12 @@
     {
       "id": "cd-dearness_level-amao-05",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.5"
+      "description": "Повысьте Отношения с Мао до Lv.5"
     },
     {
       "id": "cd-dearness_level-amao-06",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.6"
+      "description": "Повысьте Отношения с Мао до Lv.6"
     },
     {
       "id": "cd-dearness_level-amao-06-07",
@@ -9824,77 +9949,77 @@
     {
       "id": "cd-dearness_level-amao-07",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.7"
+      "description": "Повысьте Отношения с Мао до Lv.7"
     },
     {
       "id": "cd-dearness_level-amao-08",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.8"
+      "description": "Повысьте Отношения с Мао до Lv.8"
     },
     {
       "id": "cd-dearness_level-amao-09",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.9"
+      "description": "Повысьте Отношения с Мао до Lv.9"
     },
     {
       "id": "cd-dearness_level-amao-10",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.10"
+      "description": "Повысьте Отношения с Мао до Lv.10"
     },
     {
       "id": "cd-dearness_level-amao-20",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.20"
+      "description": "Повысьте Отношения с Мао до Lv.20"
     },
     {
       "id": "cd-dearness_level-amao-21",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.21"
+      "description": "Повысьте Отношения с Мао до Lv.21"
     },
     {
       "id": "cd-dearness_level-amao-22",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.22"
+      "description": "Повысьте Отношения с Мао до Lv.22"
     },
     {
       "id": "cd-dearness_level-amao-23",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.23"
+      "description": "Повысьте Отношения с Мао до Lv.23"
     },
     {
       "id": "cd-dearness_level-amao-24",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.24"
+      "description": "Повысьте Отношения с Мао до Lv.24"
     },
     {
       "id": "cd-dearness_level-amao-25",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.25"
+      "description": "Повысьте Отношения с Мао до Lv.25"
     },
     {
       "id": "cd-dearness_level-amao-26",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.26"
+      "description": "Повысьте Отношения с Мао до Lv.26"
     },
     {
       "id": "cd-dearness_level-amao-27",
       "number": 1,
-      "description": "Поднимите Bond Mao до Lv.27"
+      "description": "Повысьте Отношения с Мао до Lv.27"
     },
     {
       "id": "cd-dearness_level-amao-33",
       "number": 1,
-      "description": "Поднять УР. отношений Mao Arimura до 33"
+      "description": "Повысьте Отношения с Mao Arimura до Lv.33"
     },
     {
       "id": "cd-dearness_level-amao-37",
       "number": 1,
-      "description": "Поднять Ур. отношений Mao Arimura до 37"
+      "description": "Повысьте Отношения с Mao Arimura до Lv.37"
     },
     {
       "id": "cd-dearness_level-atbm-01",
       "number": 1,
-      "description": "Поднимите Bond Tsubame до Lv.1"
+      "description": "Повысьте Отношения с Цубаме до Lv.1"
     },
     {
       "id": "cd-dearness_level-atbm-01-03",
@@ -9904,12 +10029,12 @@
     {
       "id": "cd-dearness_level-atbm-02",
       "number": 1,
-      "description": "Поднимите Bond Tsubame до Lv.2"
+      "description": "Повысьте Отношения с Цубаме до Lv.2"
     },
     {
       "id": "cd-dearness_level-atbm-03",
       "number": 1,
-      "description": "Поднимите Bond Tsubame до Lv.3"
+      "description": "Повысьте Отношения с Цубаме до Lv.3"
     },
     {
       "id": "cd-dearness_level-atbm-03-05",
@@ -9919,12 +10044,12 @@
     {
       "id": "cd-dearness_level-atbm-04",
       "number": 1,
-      "description": "Поднимите Bond Tsubame до Lv.4"
+      "description": "Повысьте Отношения с Цубаме до Lv.4"
     },
     {
       "id": "cd-dearness_level-atbm-05",
       "number": 1,
-      "description": "Поднимите Bond Tsubame до Lv.5"
+      "description": "Повысьте Отношения с Цубаме до Lv.5"
     },
     {
       "id": "cd-dearness_level-atbm-05-06",
@@ -9934,7 +10059,7 @@
     {
       "id": "cd-dearness_level-atbm-06",
       "number": 1,
-      "description": "Поднимите Bond Tsubame до Lv.6"
+      "description": "Повысьте Отношения с Цубаме до Lv.6"
     },
     {
       "id": "cd-dearness_level-atbm-06-08",
@@ -9944,7 +10069,7 @@
     {
       "id": "cd-dearness_level-atbm-07",
       "number": 1,
-      "description": "Поднимите Bond Tsubame до Lv.7"
+      "description": "Повысьте Отношения с Цубаме до Lv.7"
     },
     {
       "id": "cd-dearness_level-atbm-07-09",
@@ -9954,27 +10079,62 @@
     {
       "id": "cd-dearness_level-atbm-08",
       "number": 1,
-      "description": "Поднимите Bond Tsubame до Lv.8"
+      "description": "Повысьте Отношения с Цубаме до Lv.8"
     },
     {
       "id": "cd-dearness_level-atbm-09",
       "number": 1,
-      "description": "Поднимите Bond Tsubame до Lv.9"
+      "description": "Повысьте Отношения с Цубаме до Lv.9"
     },
     {
       "id": "cd-dearness_level-atbm-10",
       "number": 1,
-      "description": "Поднимите Bond Tsubame до Lv.10"
+      "description": "Повысьте Отношения с Цубаме до Lv.10"
     },
     {
       "id": "cd-dearness_level-atbm-20",
       "number": 1,
-      "description": "Поднимите Bond Tsubame до Lv.20"
+      "description": "Повысьте Отношения с Цубаме до Lv.20"
+    },
+    {
+      "id": "cd-dearness_level-atbm-21",
+      "number": 1,
+      "description": "Повысьте Отношения с Tsubame Amaya до Lv.21"
+    },
+    {
+      "id": "cd-dearness_level-atbm-22",
+      "number": 1,
+      "description": "Повысьте Отношения с Tsubame Amaya до Lv.22"
+    },
+    {
+      "id": "cd-dearness_level-atbm-23",
+      "number": 1,
+      "description": "Повысьте Отношения с Tsubame Amaya до Lv.23"
+    },
+    {
+      "id": "cd-dearness_level-atbm-24",
+      "number": 1,
+      "description": "Повысьте Отношения с Tsubame Amaya до Lv.24"
+    },
+    {
+      "id": "cd-dearness_level-atbm-25",
+      "number": 1,
+      "description": "Повысьте Отношения с Tsubame Amaya до Lv.25"
+    },
+    {
+      "id": "cd-dearness_level-atbm-26",
+      "number": 1,
+      "description": "Повысьте Отношения с Tsubame Amaya до Lv.26"
+    },
+    {
+      "id": "cd-dearness_level-atbm-27",
+      "number": 1,
+      "description": "Повысьте Отношения с Tsubame Amaya до Lv.27"
     },
     {
       "id": "cd-dearness_level-fktn-01",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.1"
+      "description": "Повысьте Отношения с Kotone до Lv.1"
     },
     {
       "id": "cd-dearness_level-fktn-01-02",
@@ -9989,12 +10149,12 @@
     {
       "id": "cd-dearness_level-fktn-02",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.2"
+      "description": "Повысьте Отношения с Kotone до Lv.2"
     },
     {
       "id": "cd-dearness_level-fktn-03",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.3"
+      "description": "Повысьте Отношения с Kotone до Lv.3"
     },
     {
       "id": "cd-dearness_level-fktn-03-04",
@@ -10004,7 +10164,7 @@
     {
       "id": "cd-dearness_level-fktn-04",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.4"
+      "description": "Повысьте Отношения с Kotone до Lv.4"
     },
     {
       "id": "cd-dearness_level-fktn-04-05",
@@ -10014,7 +10174,7 @@
     {
       "id": "cd-dearness_level-fktn-05",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.5"
+      "description": "Повысьте Отношения с Kotone до Lv.5"
     },
     {
       "id": "cd-dearness_level-fktn-05-05",
@@ -10029,72 +10189,72 @@
     {
       "id": "cd-dearness_level-fktn-06",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.6"
+      "description": "Повысьте Отношения с Kotone до Lv.6"
     },
     {
       "id": "cd-dearness_level-fktn-07",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.7"
+      "description": "Повысьте Отношения с Kotone до Lv.7"
     },
     {
       "id": "cd-dearness_level-fktn-08",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.8"
+      "description": "Повысьте Отношения с Kotone до Lv.8"
     },
     {
       "id": "cd-dearness_level-fktn-09",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.9"
+      "description": "Повысьте Отношения с Kotone до Lv.9"
     },
     {
       "id": "cd-dearness_level-fktn-10",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.10"
+      "description": "Повысьте Отношения с Kotone до Lv.10"
     },
     {
       "id": "cd-dearness_level-fktn-20",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.20"
+      "description": "Повысьте Отношения с Kotone до Lv.20"
     },
     {
       "id": "cd-dearness_level-fktn-21",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.21"
+      "description": "Повысьте Отношения с Kotone до Lv.21"
     },
     {
       "id": "cd-dearness_level-fktn-22",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.22"
+      "description": "Повысьте Отношения с Kotone до Lv.22"
     },
     {
       "id": "cd-dearness_level-fktn-23",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.23"
+      "description": "Повысьте Отношения с Kotone до Lv.23"
     },
     {
       "id": "cd-dearness_level-fktn-24",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.24"
+      "description": "Повысьте Отношения с Kotone до Lv.24"
     },
     {
       "id": "cd-dearness_level-fktn-25",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.25"
+      "description": "Повысьте Отношения с Kotone до Lv.25"
     },
     {
       "id": "cd-dearness_level-fktn-26",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.26"
+      "description": "Повысьте Отношения с Kotone до Lv.26"
     },
     {
       "id": "cd-dearness_level-fktn-27",
       "number": 1,
-      "description": "Поднимите Bond Kotone до Lv.27"
+      "description": "Повысьте Отношения с Kotone до Lv.27"
     },
     {
       "id": "cd-dearness_level-hmsz-01",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.1"
+      "description": "Повысьте Отношения с Мисузу до Lv.1"
     },
     {
       "id": "cd-dearness_level-hmsz-01-03",
@@ -10104,152 +10264,152 @@
     {
       "id": "cd-dearness_level-hmsz-02",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.2"
+      "description": "Повысьте Отношения с Мисудзу до Lv.2"
     },
     {
       "id": "cd-dearness_level-hmsz-02-03",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.2 или 3"
+      "description": "Повысьте Отношения с Мисузу до Lv.2 или Lv.3"
     },
     {
       "id": "cd-dearness_level-hmsz-02-03",
       "number": 2,
-      "description": "Поднимите Bond Misuzu до Lv.2 или 3"
+      "description": "Повысьте Отношения с Мисузу до Lv.2 или Lv.3"
     },
     {
       "id": "cd-dearness_level-hmsz-03",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.3"
+      "description": "Повысьте Отношения с Мисузу до Lv.3"
     },
     {
       "id": "cd-dearness_level-hmsz-03-04",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.3 или 4"
+      "description": "Повысьте Отношения с Мисузу до Lv.3 или Lv.4"
     },
     {
       "id": "cd-dearness_level-hmsz-03-04",
       "number": 2,
-      "description": "Поднимите Bond Misuzu до Lv.3 или 4"
+      "description": "Повысьте Отношения с Мисудзу до Lv.3 или Lv.4"
     },
     {
       "id": "cd-dearness_level-hmsz-04",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.4"
+      "description": "Повысьте Отношения с Мисудзу до Lv.4"
     },
     {
       "id": "cd-dearness_level-hmsz-04-05",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.4 или 5"
+      "description": "Поднимите Отношения с Мисузу до Lv.4 или Lv.5"
     },
     {
       "id": "cd-dearness_level-hmsz-04-05",
       "number": 2,
-      "description": "Поднимите Bond Misuzu до Lv.4 или 5"
+      "description": "Повысьте Отношения с Мисузу до Lv.4 или Lv.5"
     },
     {
       "id": "cd-dearness_level-hmsz-05",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.5"
+      "description": "Повысьте Отношения с Мисудзу до Lv.5"
     },
     {
       "id": "cd-dearness_level-hmsz-05-06",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.5 или 6"
+      "description": "Повысьте Отношения с Мисузу до Lv.5 или Lv.6"
     },
     {
       "id": "cd-dearness_level-hmsz-05-06",
       "number": 2,
-      "description": "Поднимите Bond Misuzu до Lv.5 или 6"
+      "description": "Повысьте Отношения с Мисудзу до Lv.5 или 6"
     },
     {
       "id": "cd-dearness_level-hmsz-06",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.6"
+      "description": "Повысьте Отношения с Мисузу до Lv.6"
     },
     {
       "id": "cd-dearness_level-hmsz-06-08",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.6 или 7 или 8"
+      "description": "Повысьте Отношения с Мисузу до Lv.6, 7 или 8"
     },
     {
       "id": "cd-dearness_level-hmsz-06-08",
       "number": 2,
-      "description": "Поднимите Bond Misuzu до Lv.6 или 7 или 8"
+      "description": "Повысьте Отношения с Мисузу до Lv.6, 7 или 8"
     },
     {
       "id": "cd-dearness_level-hmsz-07",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.7"
+      "description": "Повысьте Отношения с Мисудзу до Lv.7"
     },
     {
       "id": "cd-dearness_level-hmsz-08",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.8"
+      "description": "Повысьте Отношения с Мисузу до Lv.8"
     },
     {
       "id": "cd-dearness_level-hmsz-09",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.9"
+      "description": "Повысьте Отношения с Мисузу до Lv.9"
     },
     {
       "id": "cd-dearness_level-hmsz-10",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.10"
+      "description": "Повысьте Отношения с Мисузу до Lv.10"
     },
     {
       "id": "cd-dearness_level-hmsz-20",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.20"
+      "description": "Повысьте Отношения с Мисузу до Lv.20"
     },
     {
       "id": "cd-dearness_level-hmsz-21",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.21"
+      "description": "Повысьте Отношения с Мисудзу до Lv.21"
     },
     {
       "id": "cd-dearness_level-hmsz-22",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.22"
+      "description": "Повысьте Отношения с Мисудзу до Lv.22"
     },
     {
       "id": "cd-dearness_level-hmsz-23",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.23"
+      "description": "Повысьте Отношения с Мисузу до Lv.23"
     },
     {
       "id": "cd-dearness_level-hmsz-24",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.24"
+      "description": "Повысьте Отношения с Мисузу до Lv.24"
     },
     {
       "id": "cd-dearness_level-hmsz-25",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.25"
+      "description": "Повысьте Отношения с Мисузу до Lv.25"
     },
     {
       "id": "cd-dearness_level-hmsz-26",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.26"
+      "description": "Повысьте Отношения с Мисузу до Lv.26"
     },
     {
       "id": "cd-dearness_level-hmsz-27",
       "number": 1,
-      "description": "Поднимите Bond Misuzu до Lv.27"
+      "description": "Повысьте Отношения с Мисузу до Lv.27"
     },
     {
       "id": "cd-dearness_level-hmsz-33",
       "number": 1,
-      "description": "Поднять Ур. отношений Misuzu Hataya до 33"
+      "description": "Повысьте Отношения с Misuzu Hataya до Lv.33"
     },
     {
       "id": "cd-dearness_level-hmsz-37",
       "number": 1,
-      "description": "Поднять Ур. отношения Misuzu Hataya до 37"
+      "description": "Повысьте Отношения с Misuzu Hataya до Lv.37"
     },
     {
       "id": "cd-dearness_level-hrnm-01",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.1"
+      "description": "Повысьте Отношения с Rinami до Lv.1"
     },
     {
       "id": "cd-dearness_level-hrnm-01-04",
@@ -10259,7 +10419,7 @@
     {
       "id": "cd-dearness_level-hrnm-02",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.2"
+      "description": "Повысьте Отношения с Rinami до Lv.2"
     },
     {
       "id": "cd-dearness_level-hrnm-02-04",
@@ -10269,17 +10429,17 @@
     {
       "id": "cd-dearness_level-hrnm-03",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.3"
+      "description": "Повысьте Отношения с Rinami до Lv.3"
     },
     {
       "id": "cd-dearness_level-hrnm-04",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.4"
+      "description": "Повысьте Отношения с Rinami до Lv.4"
     },
     {
       "id": "cd-dearness_level-hrnm-05",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.5"
+      "description": "Повысьте Отношения с Rinami до Lv.5"
     },
     {
       "id": "cd-dearness_level-hrnm-05-06",
@@ -10289,7 +10449,7 @@
     {
       "id": "cd-dearness_level-hrnm-06",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.6"
+      "description": "Повысьте Отношения с Rinami до Lv.6"
     },
     {
       "id": "cd-dearness_level-hrnm-06-07",
@@ -10299,77 +10459,77 @@
     {
       "id": "cd-dearness_level-hrnm-07",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.7"
+      "description": "Повысьте Отношения с Rinami до Lv.7"
     },
     {
       "id": "cd-dearness_level-hrnm-08",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.8"
+      "description": "Повысьте Отношения с Rinami до Lv.8"
     },
     {
       "id": "cd-dearness_level-hrnm-09",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.9"
+      "description": "Повысьте Отношения с Rinami до Lv.9"
     },
     {
       "id": "cd-dearness_level-hrnm-10",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.10"
+      "description": "Повысьте Отношения с Rinami до Lv.10"
     },
     {
       "id": "cd-dearness_level-hrnm-20",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.20"
+      "description": "Повысьте Отношения с Rinami до Lv.20"
     },
     {
       "id": "cd-dearness_level-hrnm-33",
       "number": 1,
-      "description": "Поднять Ур. отношения Rinami Himesaki до 33"
+      "description": "Повысьте Отношения с Rinami Himesaki до Lv.33"
     },
     {
       "id": "cd-dearness_level-hrnm-37",
       "number": 1,
-      "description": "Поднять Ур. отношений Ринами Химесакі до 37"
+      "description": "Повысьте Отношения с Rinami Himesaki до Lv.37"
     },
     {
       "id": "cd-dearness_level-hrnm21",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.21"
+      "description": "Повысьте Отношения с Rinami до Lv.21"
     },
     {
       "id": "cd-dearness_level-hrnm22",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.22"
+      "description": "Повысьте Отношения с Rinami до Lv.22"
     },
     {
       "id": "cd-dearness_level-hrnm23",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.23"
+      "description": "Повысьте Отношения с Rinami до Lv.23"
     },
     {
       "id": "cd-dearness_level-hrnm24",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.24"
+      "description": "Повысьте Отношения с Rinami до Lv.24"
     },
     {
       "id": "cd-dearness_level-hrnm25",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.25"
+      "description": "Повысьте Отношения с Rinami до Lv.25"
     },
     {
       "id": "cd-dearness_level-hrnm26",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.26"
+      "description": "Повысьте Отношения с Rinami до Lv.26"
     },
     {
       "id": "cd-dearness_level-hrnm27",
       "number": 1,
-      "description": "Поднимите Bond Rinami до Lv.27"
+      "description": "Повысьте Отношения с Rinami до Lv.27"
     },
     {
       "id": "cd-dearness_level-hski-01",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.1"
+      "description": "Повысьте Отношения с Saki до Lv.1"
     },
     {
       "id": "cd-dearness_level-hski-01-05",
@@ -10379,7 +10539,7 @@
     {
       "id": "cd-dearness_level-hski-02",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.2"
+      "description": "Повысьте Отношения с Saki до Lv.2"
     },
     {
       "id": "cd-dearness_level-hski-02-05",
@@ -10389,22 +10549,22 @@
     {
       "id": "cd-dearness_level-hski-03",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.3"
+      "description": "Повысьте Отношения с Saki до Lv.3"
     },
     {
       "id": "cd-dearness_level-hski-04",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.4"
+      "description": "Повысьте Отношения с Saki до Lv.4"
     },
     {
       "id": "cd-dearness_level-hski-05",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.5"
+      "description": "Повысьте Отношения с Saki до Lv.5"
     },
     {
       "id": "cd-dearness_level-hski-06",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.6"
+      "description": "Повысьте Отношения с Saki до Lv.6"
     },
     {
       "id": "cd-dearness_level-hski-06-08",
@@ -10414,7 +10574,7 @@
     {
       "id": "cd-dearness_level-hski-07",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.7"
+      "description": "Повысьте Отношения с Saki до Lv.7"
     },
     {
       "id": "cd-dearness_level-hski-07-08",
@@ -10424,62 +10584,72 @@
     {
       "id": "cd-dearness_level-hski-08",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.8"
+      "description": "Повысьте Отношения с Saki до Lv.8"
     },
     {
       "id": "cd-dearness_level-hski-09",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.9"
+      "description": "Повысьте Отношения с Saki до Lv.9"
     },
     {
       "id": "cd-dearness_level-hski-10",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.10"
+      "description": "Повысьте Отношения с Saki до Lv.10"
     },
     {
       "id": "cd-dearness_level-hski-20",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.20"
+      "description": "Повысьте Отношения с Saki до Lv.20"
     },
     {
       "id": "cd-dearness_level-hski-21",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.21"
+      "description": "Повысьте Отношения с Saki до Lv.21"
     },
     {
       "id": "cd-dearness_level-hski-22",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.22"
+      "description": "Повысьте Отношения с Saki до Lv.22"
     },
     {
       "id": "cd-dearness_level-hski-23",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.23"
+      "description": "Повысьте Отношения с Saki до Lv.23"
     },
     {
       "id": "cd-dearness_level-hski-24",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.24"
+      "description": "Повысьте Отношения с Saki до Lv.24"
     },
     {
       "id": "cd-dearness_level-hski-25",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.25"
+      "description": "Повысьте Отношения с Saki до Lv.25"
     },
     {
       "id": "cd-dearness_level-hski-26",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.26"
+      "description": "Повысьте Отношения с Saki до Lv.26"
     },
     {
       "id": "cd-dearness_level-hski-27",
       "number": 1,
-      "description": "Поднимите Bond Saki до Lv.27"
+      "description": "Повысьте Отношения с Saki до Lv.27"
+    },
+    {
+      "id": "cd-dearness_level-hski-33",
+      "number": 1,
+      "description": "Повысьте Отношения с Saki Hanami до Lv.33"
+    },
+    {
+      "id": "cd-dearness_level-hski-37",
+      "number": 1,
+      "description": "Повысьте Отношения с Saki Hanami до Lv.37"
     },
     {
       "id": "cd-dearness_level-hume-01",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.1"
+      "description": "Повысьте Отношения с Умэ до Lv.1"
     },
     {
       "id": "cd-dearness_level-hume-01-03",
@@ -10494,7 +10664,7 @@
     {
       "id": "cd-dearness_level-hume-02",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.2"
+      "description": "Повысьте Отношения с Умэ до Lv.2"
     },
     {
       "id": "cd-dearness_level-hume-02-03",
@@ -10509,12 +10679,12 @@
     {
       "id": "cd-dearness_level-hume-03",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.3"
+      "description": "Повысьте Отношения с Умэ до Lv.3"
     },
     {
       "id": "cd-dearness_level-hume-04",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.4"
+      "description": "Повысьте Отношения с Умэ до Lv.4"
     },
     {
       "id": "cd-dearness_level-hume-04-07",
@@ -10524,7 +10694,7 @@
     {
       "id": "cd-dearness_level-hume-05",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.5"
+      "description": "Повысьте Отношения с Умэ до Lv.5"
     },
     {
       "id": "cd-dearness_level-hume-05-06",
@@ -10539,7 +10709,7 @@
     {
       "id": "cd-dearness_level-hume-06",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.6"
+      "description": "Повысьте Отношения с Умэ до Lv.6"
     },
     {
       "id": "cd-dearness_level-hume-06-07",
@@ -10549,67 +10719,77 @@
     {
       "id": "cd-dearness_level-hume-07",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.7"
+      "description": "Повысьте Отношения с Умэ до Lv.7"
     },
     {
       "id": "cd-dearness_level-hume-08",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.8"
+      "description": "Повысьте Отношения с Умэ до Lv.8"
     },
     {
       "id": "cd-dearness_level-hume-09",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.9"
+      "description": "Повысьте Отношения с Умэ до Lv.9"
     },
     {
       "id": "cd-dearness_level-hume-10",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.10"
+      "description": "Повысьте Отношения с Уме до Lv.10"
     },
     {
       "id": "cd-dearness_level-hume-20",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.20"
+      "description": "Повысьте Отношения с Умэ до Lv.20"
     },
     {
       "id": "cd-dearness_level-hume-21",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.21"
+      "description": "Повысьте Отношения с Умэ до Lv.21"
     },
     {
       "id": "cd-dearness_level-hume-22",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.22"
+      "description": "Повысьте Отношения с Умэ до Lv.22"
     },
     {
       "id": "cd-dearness_level-hume-23",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.23"
+      "description": "Повысьте Отношения с Умэ до Lv.23"
     },
     {
       "id": "cd-dearness_level-hume-24",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.24"
+      "description": "Повысьте Отношения с Умэ до Lv.24"
     },
     {
       "id": "cd-dearness_level-hume-25",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.25"
+      "description": "Повысьте Отношения с Умэ до Lv.25"
     },
     {
       "id": "cd-dearness_level-hume-26",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.26"
+      "description": "Повысьте Отношения с Умэ до Lv.26"
     },
     {
       "id": "cd-dearness_level-hume-27",
       "number": 1,
-      "description": "Поднимите Bond Ume до Lv.27"
+      "description": "Повысьте Отношения с Умэ до Lv.27"
+    },
+    {
+      "id": "cd-dearness_level-hume-33",
+      "number": 1,
+      "description": "Повысьте Отношения с Ume Hanami до Lv.33"
+    },
+    {
+      "id": "cd-dearness_level-hume-37",
+      "number": 1,
+      "description": "Повысьте Отношения с Ume Hanami до Lv.37"
     },
     {
       "id": "cd-dearness_level-jsna-01",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.1"
+      "description": "Повысьте Отношения с Сеной до Lv.1"
     },
     {
       "id": "cd-dearness_level-jsna-01-02",
@@ -10624,12 +10804,12 @@
     {
       "id": "cd-dearness_level-jsna-02",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.2"
+      "description": "Повысьте Отношения с Сеной до Lv.2"
     },
     {
       "id": "cd-dearness_level-jsna-03",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.3"
+      "description": "Повысьте Отношения с Сеной до Lv.3"
     },
     {
       "id": "cd-dearness_level-jsna-03-05",
@@ -10639,7 +10819,7 @@
     {
       "id": "cd-dearness_level-jsna-04",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.4"
+      "description": "Повысьте Отношения с Сеной до Lv.4"
     },
     {
       "id": "cd-dearness_level-jsna-04-06",
@@ -10649,12 +10829,12 @@
     {
       "id": "cd-dearness_level-jsna-05",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.5"
+      "description": "Повысьте Отношения с Сеной до Lv.5"
     },
     {
       "id": "cd-dearness_level-jsna-06",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.6"
+      "description": "Повысьте Отношения с Сеной до Lv.6"
     },
     {
       "id": "cd-dearness_level-jsna-06-07",
@@ -10669,67 +10849,67 @@
     {
       "id": "cd-dearness_level-jsna-07",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.7"
+      "description": "Повысьте Отношения с Сеной до Lv.7"
     },
     {
       "id": "cd-dearness_level-jsna-08",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.8"
+      "description": "Повысьте Отношения с Сеной до Lv.8"
     },
     {
       "id": "cd-dearness_level-jsna-09",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.9"
+      "description": "Повысьте Отношения с Сеной до Lv.9"
     },
     {
       "id": "cd-dearness_level-jsna-10",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.10"
+      "description": "Повысьте Отношения с Сеной до Lv.10"
     },
     {
       "id": "cd-dearness_level-jsna-20",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.20"
+      "description": "Повысьте Отношения с Сеной до Lv.20"
     },
     {
       "id": "cd-dearness_level-jsna-21",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.21"
+      "description": "Повысьте Отношения с Сеной до Lv.21"
     },
     {
       "id": "cd-dearness_level-jsna-22",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.22"
+      "description": "Повысьте Отношения с Сеной до Lv.22"
     },
     {
       "id": "cd-dearness_level-jsna-23",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.23"
+      "description": "Повысьте Отношения с Сеной до Lv.23"
     },
     {
       "id": "cd-dearness_level-jsna-24",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.24"
+      "description": "Повысьте Отношения с Сеной до Lv.24"
     },
     {
       "id": "cd-dearness_level-jsna-25",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.25"
+      "description": "Повысьте Отношения с Сеной до Lv.25"
     },
     {
       "id": "cd-dearness_level-jsna-26",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.26"
+      "description": "Повысьте Отношения с Сеной до Lv.26"
     },
     {
       "id": "cd-dearness_level-jsna-27",
       "number": 1,
-      "description": "Поднимите Bond Sena до Lv.27"
+      "description": "Повысьте Отношения с Сеной до Lv.27"
     },
     {
       "id": "cd-dearness_level-kcna-01",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.1"
+      "description": "Повысьте Отношения с Китаем до Lv.1"
     },
     {
       "id": "cd-dearness_level-kcna-01-03",
@@ -10739,17 +10919,17 @@
     {
       "id": "cd-dearness_level-kcna-02",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.2"
+      "description": "Повысьте Отношения с Китаем до Lv.2"
     },
     {
       "id": "cd-dearness_level-kcna-03",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.3"
+      "description": "Повысьте Отношения с Китаем до Lv.3"
     },
     {
       "id": "cd-dearness_level-kcna-04",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.4"
+      "description": "Повысьте Отношения с Китаем до Lv.4"
     },
     {
       "id": "cd-dearness_level-kcna-04-05",
@@ -10759,7 +10939,7 @@
     {
       "id": "cd-dearness_level-kcna-05",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.5"
+      "description": "Повысьте Отношения с Китаем до Lv.5"
     },
     {
       "id": "cd-dearness_level-kcna-05-08",
@@ -10769,7 +10949,7 @@
     {
       "id": "cd-dearness_level-kcna-06",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.6"
+      "description": "Повысьте Отношения с Китаем до Lv.6"
     },
     {
       "id": "cd-dearness_level-kcna-06-06",
@@ -10784,77 +10964,77 @@
     {
       "id": "cd-dearness_level-kcna-07",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.7"
+      "description": "Повысьте Отношения с Китаем до Lv.7"
     },
     {
       "id": "cd-dearness_level-kcna-08",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.8"
+      "description": "Повысьте Отношения с Китаем до Lv.8"
     },
     {
       "id": "cd-dearness_level-kcna-09",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.9"
+      "description": "Повысьте Отношения с Китаем до Lv.9"
     },
     {
       "id": "cd-dearness_level-kcna-10",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.10"
+      "description": "Повысьте Отношения с Китаем до Lv.10"
     },
     {
       "id": "cd-dearness_level-kcna-20",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.20"
+      "description": "Повысьте Отношения с Китаем до Lv.20"
     },
     {
       "id": "cd-dearness_level-kcna-21",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.21"
+      "description": "Повысьте Отношения с Китаем до Lv.21"
     },
     {
       "id": "cd-dearness_level-kcna-22",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.22"
+      "description": "Повысьте Отношения с Китаем до Lv.22"
     },
     {
       "id": "cd-dearness_level-kcna-23",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.23"
+      "description": "Повысьте Отношения с Китаем до Lv.23"
     },
     {
       "id": "cd-dearness_level-kcna-24",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.24"
+      "description": "Повысьте Отношения с Китаем до Lv.24"
     },
     {
       "id": "cd-dearness_level-kcna-25",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.25"
+      "description": "Повысьте Отношения с Китаем до Lv.25"
     },
     {
       "id": "cd-dearness_level-kcna-26",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.26"
+      "description": "Повысьте Отношения с Китаем до Lv.26"
     },
     {
       "id": "cd-dearness_level-kcna-27",
       "number": 1,
-      "description": "Поднимите Bond China до Lv.27"
+      "description": "Повысьте Отношения с Китаем до Lv.27"
     },
     {
       "id": "cd-dearness_level-kcna-33",
       "number": 1,
-      "description": "Повысить отношения с China Kuramoto до Ур.33"
+      "description": "Повысьте Отношения с China Kuramoto до Lv.33"
     },
     {
       "id": "cd-dearness_level-kcna-37",
       "number": 1,
-      "description": "Повысить отношения с China Kuramoto до Ур.37"
+      "description": "Повысьте Отношения с China Kuramoto до Lv.37"
     },
     {
       "id": "cd-dearness_level-kllj-01",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.1"
+      "description": "Повысьте Отношения с Лильей до Lv.1"
     },
     {
       "id": "cd-dearness_level-kllj-01-03",
@@ -10864,7 +11044,7 @@
     {
       "id": "cd-dearness_level-kllj-02",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.2"
+      "description": "Повысьте Отношения с Лилью до Lv.2"
     },
     {
       "id": "cd-dearness_level-kllj-02-04",
@@ -10874,7 +11054,7 @@
     {
       "id": "cd-dearness_level-kllj-03",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.3"
+      "description": "Повысьте Отношения с Лильей до Lv.3"
     },
     {
       "id": "cd-dearness_level-kllj-03-04",
@@ -10884,12 +11064,12 @@
     {
       "id": "cd-dearness_level-kllj-04",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.4"
+      "description": "Повысьте Отношения с Лилью до Lv.4"
     },
     {
       "id": "cd-dearness_level-kllj-05",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.5"
+      "description": "Повысьте Отношения с Лильей до Lv.5"
     },
     {
       "id": "cd-dearness_level-kllj-05-07",
@@ -10899,7 +11079,7 @@
     {
       "id": "cd-dearness_level-kllj-06",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.6"
+      "description": "Повысьте Отношения с Лильей до Lv.6"
     },
     {
       "id": "cd-dearness_level-kllj-06-06",
@@ -10914,77 +11094,77 @@
     {
       "id": "cd-dearness_level-kllj-07",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.7"
+      "description": "Повысьте Отношения с Лилью до Lv.7"
     },
     {
       "id": "cd-dearness_level-kllj-08",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.8"
+      "description": "Повысьте Отношения с Лилью до Lv.8"
     },
     {
       "id": "cd-dearness_level-kllj-09",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.9"
+      "description": "Повысьте Отношения с Лильей до Lv.9"
     },
     {
       "id": "cd-dearness_level-kllj-10",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.10"
+      "description": "Повысьте Отношения с Лилью до Lv.10"
     },
     {
       "id": "cd-dearness_level-kllj-20",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.20"
+      "description": "Поднимите Отношения с Лилью до Lv.20"
     },
     {
       "id": "cd-dearness_level-kllj-21",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.21"
+      "description": "Повысьте Отношения с Лильей до Lv.21"
     },
     {
       "id": "cd-dearness_level-kllj-22",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.22"
+      "description": "Повысьте Отношения с Лильей до Lv.22"
     },
     {
       "id": "cd-dearness_level-kllj-23",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.23"
+      "description": "Повысьте Отношения с Лильей до Lv.23"
     },
     {
       "id": "cd-dearness_level-kllj-24",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.24"
+      "description": "Повысьте Отношения с Лильей до Lv.24"
     },
     {
       "id": "cd-dearness_level-kllj-25",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.25"
+      "description": "Повысьте Отношения с Лилью до Lv.25"
     },
     {
       "id": "cd-dearness_level-kllj-26",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.26"
+      "description": "Повысьте Отношения с Лильей до Lv.26"
     },
     {
       "id": "cd-dearness_level-kllj-27",
       "number": 1,
-      "description": "Поднимите Bond Lilja до Lv.27"
+      "description": "Повысьте Отношения с Лильей до Lv.27"
     },
     {
       "id": "cd-dearness_level-kllj-33",
       "number": 1,
-      "description": "Повысить отношения с Lilja Katsuragi до Ур.33"
+      "description": "Повысьте Отношения с Lilja Katsuragi до Lv.33"
     },
     {
       "id": "cd-dearness_level-kllj-37",
       "number": 1,
-      "description": "Повысить отношения с Lilja Katsuragi до Ур.37"
+      "description": "Повысьте Отношения с Lilja Katsuragi до Lv.37"
     },
     {
       "id": "cd-dearness_level-shro-01",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.1"
+      "description": "Повысьте Отношения с Hiro до Lv.1"
     },
     {
       "id": "cd-dearness_level-shro-01-02",
@@ -10994,7 +11174,7 @@
     {
       "id": "cd-dearness_level-shro-02",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.2"
+      "description": "Повысьте Отношения с Hiro до Lv.2"
     },
     {
       "id": "cd-dearness_level-shro-02-04",
@@ -11004,7 +11184,7 @@
     {
       "id": "cd-dearness_level-shro-03",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.3"
+      "description": "Повысьте Отношения с Hiro до Lv.3"
     },
     {
       "id": "cd-dearness_level-shro-03-04",
@@ -11014,12 +11194,12 @@
     {
       "id": "cd-dearness_level-shro-04",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.4"
+      "description": "Повысьте Отношения с Hiro до Lv.4"
     },
     {
       "id": "cd-dearness_level-shro-05",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.5"
+      "description": "Повысьте Отношения с Hiro до Lv.5"
     },
     {
       "id": "cd-dearness_level-shro-05-07",
@@ -11029,7 +11209,7 @@
     {
       "id": "cd-dearness_level-shro-06",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.6"
+      "description": "Повысьте Отношения с Hiro до Lv.6"
     },
     {
       "id": "cd-dearness_level-shro-06-08",
@@ -11039,77 +11219,77 @@
     {
       "id": "cd-dearness_level-shro-07",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.7"
+      "description": "Повысьте Отношения с Hiro до Lv.7"
     },
     {
       "id": "cd-dearness_level-shro-08",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.8"
+      "description": "Повысьте Отношения с Hiro до Lv.8"
     },
     {
       "id": "cd-dearness_level-shro-09",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.9"
+      "description": "Повысьте Отношения с Hiro до Lv.9"
     },
     {
       "id": "cd-dearness_level-shro-10",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.10"
+      "description": "Повысьте Отношения с Hiro до Lv.10"
     },
     {
       "id": "cd-dearness_level-shro-20",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.20"
+      "description": "Повысьте Отношения с Hiro до Lv.20"
     },
     {
       "id": "cd-dearness_level-shro-21",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.21"
+      "description": "Повысьте Отношения с Hiro до Lv.21"
     },
     {
       "id": "cd-dearness_level-shro-22",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.22"
+      "description": "Повысьте Отношения с Hiro до Lv.22"
     },
     {
       "id": "cd-dearness_level-shro-23",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.23"
+      "description": "Повысьте Отношения с Hiro до Lv.23"
     },
     {
       "id": "cd-dearness_level-shro-24",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.24"
+      "description": "Повысьте Отношения с Hiro до Lv.24"
     },
     {
       "id": "cd-dearness_level-shro-25",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.25"
+      "description": "Повысьте Отношения с Hiro до Lv.25"
     },
     {
       "id": "cd-dearness_level-shro-26",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.26"
+      "description": "Повысьте Отношения с Hiro до Lv.26"
     },
     {
       "id": "cd-dearness_level-shro-27",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv.27"
+      "description": "Повысьте Отношения с Hiro до Lv.27"
     },
     {
       "id": "cd-dearness_level-shro-33",
       "number": 1,
-      "description": "Повысить отношения с Hiro Shinosawa до Ур.33"
+      "description": "Повысьте Отношения с Hiro Shinosawa до Lv.33"
     },
     {
       "id": "cd-dearness_level-shro-37",
       "number": 1,
-      "description": "Повысить отношения с Hiro Shinosawa до Ур.37"
+      "description": "Повысьте Отношения с Hiro Shinosawa до Lv.37"
     },
     {
       "id": "cd-dearness_level-ssmk-01",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.1"
+      "description": "Повысьте Отношения с Sumika до Lv.1"
     },
     {
       "id": "cd-dearness_level-ssmk-01-03",
@@ -11119,12 +11299,12 @@
     {
       "id": "cd-dearness_level-ssmk-02",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.2"
+      "description": "Повысьте Отношения с Sumika до Lv.2"
     },
     {
       "id": "cd-dearness_level-ssmk-03",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.3"
+      "description": "Повысьте Отношения с Sumika до Lv.3"
     },
     {
       "id": "cd-dearness_level-ssmk-03-03",
@@ -11139,12 +11319,12 @@
     {
       "id": "cd-dearness_level-ssmk-04",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.4"
+      "description": "Повысьте Отношения с Sumika до Lv.4"
     },
     {
       "id": "cd-dearness_level-ssmk-05",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.5"
+      "description": "Повысьте Отношения с Sumika до Lv.5"
     },
     {
       "id": "cd-dearness_level-ssmk-05-07",
@@ -11154,12 +11334,12 @@
     {
       "id": "cd-dearness_level-ssmk-06",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.6"
+      "description": "Повысьте Отношения с Sumika до Lv.6"
     },
     {
       "id": "cd-dearness_level-ssmk-07",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.7"
+      "description": "Повысьте Отношения с Sumika до Lv.7"
     },
     {
       "id": "cd-dearness_level-ssmk-07-08",
@@ -11169,72 +11349,72 @@
     {
       "id": "cd-dearness_level-ssmk-08",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.8"
+      "description": "Повысьте Отношения с Sumika до Lv.8"
     },
     {
       "id": "cd-dearness_level-ssmk-09",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.9"
+      "description": "Повысьте Отношения с Sumika до Lv.9"
     },
     {
       "id": "cd-dearness_level-ssmk-10",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.10"
+      "description": "Повысьте Отношения с Sumika до Lv.10"
     },
     {
       "id": "cd-dearness_level-ssmk-20",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.20"
+      "description": "Повысьте Отношения с Sumika до Lv.20"
     },
     {
       "id": "cd-dearness_level-ssmk-21",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.21"
+      "description": "Повысьте Отношения с Sumika до Lv.21"
     },
     {
       "id": "cd-dearness_level-ssmk-22",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.22"
+      "description": "Повысьте Отношения с Sumika до Lv.22"
     },
     {
       "id": "cd-dearness_level-ssmk-23",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.23"
+      "description": "Повысьте Отношения с Sumika до Lv.23"
     },
     {
       "id": "cd-dearness_level-ssmk-24",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.24"
+      "description": "Повысьте Отношения с Sumika до Lv.24"
     },
     {
       "id": "cd-dearness_level-ssmk-25",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.25"
+      "description": "Повысьте Отношения с Sumika до Lv.25"
     },
     {
       "id": "cd-dearness_level-ssmk-26",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.26"
+      "description": "Повысьте Отношения с Sumika до Lv.26"
     },
     {
       "id": "cd-dearness_level-ssmk-27",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv.27"
+      "description": "Повысьте Отношения с Sumika до Lv.27"
     },
     {
       "id": "cd-dearness_level-ssmk-33",
       "number": 1,
-      "description": "Повысить отношения со Sumika Shiun до Ур.33"
+      "description": "Повысьте Отношения с Sumika Shiun до Lv.33"
     },
     {
       "id": "cd-dearness_level-ssmk-37",
       "number": 1,
-      "description": "Повысить отношения со Sumika Shiun до Ур.37"
+      "description": "Повысьте Отношения с Sumika Shiun до Lv.37"
     },
     {
       "id": "cd-dearness_level-ttmr-01",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.1"
+      "description": "Повысьте Отношения с Temari до Lv.1"
     },
     {
       "id": "cd-dearness_level-ttmr-01-03",
@@ -11244,12 +11424,12 @@
     {
       "id": "cd-dearness_level-ttmr-02",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.2"
+      "description": "Повысьте Отношения с Temari до Lv.2"
     },
     {
       "id": "cd-dearness_level-ttmr-03",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.3"
+      "description": "Повысьте Отношения с Temari до Lv.3"
     },
     {
       "id": "cd-dearness_level-ttmr-03-04",
@@ -11259,7 +11439,7 @@
     {
       "id": "cd-dearness_level-ttmr-04",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.4"
+      "description": "Повысьте Отношения с Temari до Lv.4"
     },
     {
       "id": "cd-dearness_level-ttmr-04-07",
@@ -11269,7 +11449,7 @@
     {
       "id": "cd-dearness_level-ttmr-05",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.5"
+      "description": "Поднимите Отношения с Temari до Lv.5"
     },
     {
       "id": "cd-dearness_level-ttmr-05-07",
@@ -11284,77 +11464,77 @@
     {
       "id": "cd-dearness_level-ttmr-06",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.6"
+      "description": "Повысьте Отношения с Temari до Lv.6"
     },
     {
       "id": "cd-dearness_level-ttmr-07",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.7"
+      "description": "Повысьте Отношения с Temari до Lv.7"
     },
     {
       "id": "cd-dearness_level-ttmr-08",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.8"
+      "description": "Повысьте Отношения с Temari до Lv.8"
     },
     {
       "id": "cd-dearness_level-ttmr-09",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.9"
+      "description": "Повысьте Отношения с Temari до Lv.9"
     },
     {
       "id": "cd-dearness_level-ttmr-10",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.10"
+      "description": "Повысьте Отношения с Temari до Lv.10"
     },
     {
       "id": "cd-dearness_level-ttmr-20",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.20"
+      "description": "Повысьте Отношения с Temari до Lv.20"
     },
     {
       "id": "cd-dearness_level-ttmr-21",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.21"
+      "description": "Повысьте Отношения с Temari до Lv.21"
     },
     {
       "id": "cd-dearness_level-ttmr-22",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.22"
+      "description": "Повысьте Отношения с Temari до Lv.22"
     },
     {
       "id": "cd-dearness_level-ttmr-23",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.23"
+      "description": "Повысьте Отношения с Temari до Lv.23"
     },
     {
       "id": "cd-dearness_level-ttmr-24",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.24"
+      "description": "Повысьте Отношения с Temari до Lv.24"
     },
     {
       "id": "cd-dearness_level-ttmr-25",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.25"
+      "description": "Повысьте Отношения с Temari до Lv.25"
     },
     {
       "id": "cd-dearness_level-ttmr-26",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.26"
+      "description": "Повысьте Отношения с Temari до Lv.26"
     },
     {
       "id": "cd-dearness_level-ttmr-27",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.27"
+      "description": "Повысьте Отношения с Temari до Lv.27"
     },
     {
       "id": "cd-dearness_level-ttmr-33",
       "number": 1,
-      "description": "Поднять Ур. отношений Темари Цукимура до 33"
+      "description": "Повысьте Отношения с Temari Tsukimura до Lv.33"
     },
     {
       "id": "cd-dearness_level-ttmr-37",
       "number": 1,
-      "description": "Поднять Ур. отношение Темари Тсукимуры до 37"
+      "description": "Повысьте Отношения с Temari Tsukimura до Lv.37"
     },
     {
       "id": "cd-dearness_level10over-dearness-event-000-rev-004-add-001",
@@ -11644,6 +11824,11 @@
     {
       "id": "cd-dearness_level20-dearness-event_000-rev-008",
       "number": 12,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-dearness-event_000-rev-008",
+      "number": 13,
       "description": ""
     },
     {
@@ -11819,17 +12004,27 @@
     {
       "id": "cd-dearness_normal-mission_amao-0001",
       "number": 1,
-      "description": "Когда достигнут Bond Lv20"
+      "description": "При достижении 20 ур. Отношений с Бондом"
     },
     {
       "id": "cd-dearness_normal-mission_amao-0001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_normal-mission_atbm-0001",
+      "number": 1,
+      "description": "После завершения кампании Bond Boost"
+    },
+    {
+      "id": "cd-dearness_normal-mission_atbm-0001",
       "number": 2,
       "description": ""
     },
     {
       "id": "cd-dearness_normal-mission_fktn-0001",
       "number": 1,
-      "description": "Когда достигнут Bond Lv20"
+      "description": "При достижении 20 Lv. Отношений с Бондом"
     },
     {
       "id": "cd-dearness_normal-mission_fktn-0001",
@@ -11839,7 +12034,7 @@
     {
       "id": "cd-dearness_normal-mission_hmsz-0001",
       "number": 1,
-      "description": "После окончания кампании Bond Boost"
+      "description": "При достижении 20 Lv. Отношений с Бондом"
     },
     {
       "id": "cd-dearness_normal-mission_hmsz-0001",
@@ -11849,7 +12044,7 @@
     {
       "id": "cd-dearness_normal-mission_hrnm-0001",
       "number": 1,
-      "description": "Когда достигнут Bond Lv20"
+      "description": "При достижении 20-го ур. Отношений"
     },
     {
       "id": "cd-dearness_normal-mission_hrnm-0001",
@@ -11859,7 +12054,7 @@
     {
       "id": "cd-dearness_normal-mission_hski-0001",
       "number": 1,
-      "description": "Когда достигнут Bond Lv20"
+      "description": "При достижении 20 Lv. Отношений"
     },
     {
       "id": "cd-dearness_normal-mission_hski-0001",
@@ -11869,7 +12064,7 @@
     {
       "id": "cd-dearness_normal-mission_hume-0001",
       "number": 1,
-      "description": "Когда достигнут Bond Lv20"
+      "description": "Когда достигнут Lv20 Отношений"
     },
     {
       "id": "cd-dearness_normal-mission_hume-0001",
@@ -11879,7 +12074,7 @@
     {
       "id": "cd-dearness_normal-mission_jsna-0001",
       "number": 1,
-      "description": "Когда достигнут Bond Lv20"
+      "description": "Когда достигнут Lv20 Отношений"
     },
     {
       "id": "cd-dearness_normal-mission_jsna-0001",
@@ -11889,7 +12084,7 @@
     {
       "id": "cd-dearness_normal-mission_kcna-0001",
       "number": 1,
-      "description": "Когда достигнут Bond Lv20"
+      "description": "При достижении 20 ур. Отношений"
     },
     {
       "id": "cd-dearness_normal-mission_kcna-0001",
@@ -11899,7 +12094,7 @@
     {
       "id": "cd-dearness_normal-mission_kllj-0001",
       "number": 1,
-      "description": "Когда достигнут Bond Lv20"
+      "description": "При достижении 20 уровня Отношений"
     },
     {
       "id": "cd-dearness_normal-mission_kllj-0001",
@@ -11909,7 +12104,7 @@
     {
       "id": "cd-dearness_normal-mission_shro-0001",
       "number": 1,
-      "description": "Когда достигнут Bond Lv20"
+      "description": "При достижении 20 уровня Отношений"
     },
     {
       "id": "cd-dearness_normal-mission_shro-0001",
@@ -11919,7 +12114,7 @@
     {
       "id": "cd-dearness_normal-mission_ssmk-0001",
       "number": 1,
-      "description": "Когда достигнут Bond Lv20"
+      "description": "При достижении 20 Ур. Отношений с Бондом"
     },
     {
       "id": "cd-dearness_normal-mission_ssmk-0001",
@@ -11929,7 +12124,7 @@
     {
       "id": "cd-dearness_normal-mission_ttmr-0001",
       "number": 1,
-      "description": "Когда достигнут Bond Lv20"
+      "description": "При достижении 20-го уровня Отношений"
     },
     {
       "id": "cd-dearness_normal-mission_ttmr-0001",
@@ -11939,12 +12134,12 @@
     {
       "id": "cd-dearness_relaunch_hume",
       "number": 1,
-      "description": "Получите УР. отношения 20 с одним из Айдолов"
+      "description": "Достигните 20 Ур. Отношений с одним из Айдолов"
     },
     {
       "id": "cd-dearness_shro-20",
       "number": 1,
-      "description": "Поднимите Bond Hiro до Lv20"
+      "description": "Повысьте Отношения с Hiro до Lv20"
     },
     {
       "id": "cd-dearness_someone-20",
@@ -11979,12 +12174,12 @@
     {
       "id": "cd-dearness_ssmk-20",
       "number": 1,
-      "description": "Поднимите Bond Sumika до Lv20"
+      "description": "Повысьте Отношения с Sumika до Lv20"
     },
     {
       "id": "cd-dearness_ttmr-20",
       "number": 1,
-      "description": "Поднимите Bond Temari до Lv.20"
+      "description": "Повысьте Отношения с Temari до Lv.20"
     },
     {
       "id": "cd-dearness-top_motion_amao_dearness_level-1-20",
@@ -12199,7 +12394,7 @@
     {
       "id": "cd-dearnessTop_unlock",
       "number": 1,
-      "description": "Открывается при достижении Bond Lv20 с любым айдолом"
+      "description": "Разблокируйте, достигнув 20 Lv Отношений с любым Айдолом"
     },
     {
       "id": "cd-dis-reward_hif-support-memory-001",
@@ -12314,7 +12509,7 @@
     {
       "id": "cd-hajime_legend_produce-unlock_open",
       "number": 1,
-      "description": "Открывается, если у любого айдола Bond Lv10 и УрП 50 или выше"
+      "description": "Разблокируйте, достигнув 10-го ур. Отношений с любым Айдолом и PLv 50 или выше"
     },
     {
       "id": "cd-hajime_legend_produce-unlock_open",
@@ -12329,12 +12524,12 @@
     {
       "id": "cd-hajime_legend_produce-unlock_startup_notification_open",
       "number": 1,
-      "description": "Открывается при УрП 50 или выше"
+      "description": "Разблокируйте на PLv 50 или выше"
     },
     {
       "id": "cd-hajime_legend_produce-unlock_startup_notification_open",
       "number": 2,
-      "description": "Открывается, когда любой айдол достигает Bond Lv10"
+      "description": "Разблокируется, когда у любого Айдола достигнет Ур. Отношений 10"
     },
     {
       "id": "cd-half-anniversary-2024",
@@ -12552,6 +12747,11 @@
       "description": ""
     },
     {
+      "id": "cd-have_costume_head_fktn-hair-0008",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-have_costume_head_hmsz-hair-0007",
       "number": 1,
       "description": ""
@@ -12607,6 +12807,11 @@
       "description": ""
     },
     {
+      "id": "cd-have_costume_head_hski-hair-0008",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-have_costume_head_hume-hair-0003",
       "number": 1,
       "description": ""
@@ -12638,6 +12843,11 @@
     },
     {
       "id": "cd-have_costume_head_jsna-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_head_jsna-hair-0008",
       "number": 1,
       "description": ""
     },
@@ -12782,6 +12992,11 @@
       "description": ""
     },
     {
+      "id": "cd-have_costume_head_ttmr-hair-0008",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-have_costume_hmsz-cstm-0111",
       "number": 1,
       "description": ""
@@ -12897,6 +13112,21 @@
       "description": ""
     },
     {
+      "id": "cd-have_costume_kcna-cstm-0118",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_kcna-cstm-0118-kllj-cstm-0118",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_kcna-cstm-0118-kllj-cstm-0118",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd-have_costume_kllj-cstm-0063",
       "number": 1,
       "description": ""
@@ -12923,6 +13153,11 @@
     },
     {
       "id": "cd-have_costume_kllj-cstm-0111",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_kllj-cstm-0118",
       "number": 1,
       "description": ""
     },
@@ -13274,7 +13509,7 @@
     {
       "id": "cd-hif_final_produce-unlock_open",
       "number": 1,
-      "description": "Сдать Экзамен выбора с любым Айдолом"
+      "description": "Пройдите Экзамен Отбора с любым Айдолом"
     },
     {
       "id": "cd-hif_final_produce-unlock_open",
@@ -13284,7 +13519,7 @@
     {
       "id": "cd-hif_selection_produce-unlock_open",
       "number": 1,
-      "description": "Разблокируется, когда любой айдол, который может взять\nна «H.I.F», достигает Ур. отношений 27."
+      "description": "Разблокируется, когда у любого Айдола, \nспособного участвовать в «H.I.F», достигнут 27-й Ур. Отношений"
     },
     {
       "id": "cd-highscore_event-ignore",
@@ -13328,6 +13563,16 @@
     },
     {
       "id": "cd-home_background-birthday-hume-2026",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_background-birthday-kcna-2026",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_background-birthday-kllj-2026",
       "number": 1,
       "description": ""
     },
@@ -14037,6 +14282,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-1-20-atbm",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-1-20-fktn",
       "number": 1,
       "description": ""
@@ -14107,6 +14357,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-21-atbm",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-21-fktn",
       "number": 1,
       "description": ""
@@ -14163,6 +14418,11 @@
     },
     {
       "id": "cd-home_motion-cd-dearness_level-22-amao",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-22-atbm",
       "number": 1,
       "description": ""
     },
@@ -14227,6 +14487,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-23-atbm",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-23-fktn",
       "number": 1,
       "description": ""
@@ -14283,6 +14548,11 @@
     },
     {
       "id": "cd-home_motion-cd-dearness_level-24-amao",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-24-atbm",
       "number": 1,
       "description": ""
     },
@@ -14347,6 +14617,11 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-25-atbm",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-25-fktn",
       "number": 1,
       "description": ""
@@ -14403,6 +14678,11 @@
     },
     {
       "id": "cd-home_motion-cd-dearness_level-26-amao",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-26-atbm",
       "number": 1,
       "description": ""
     },
@@ -14477,6 +14757,16 @@
       "description": ""
     },
     {
+      "id": "cd-home_motion-cd-dearness_level-27-36-hski",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-27-36-hume",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-home_motion-cd-dearness_level-27-36-kcna",
       "number": 1,
       "description": ""
@@ -14503,6 +14793,11 @@
     },
     {
       "id": "cd-home_motion-cd-dearness_level-27-amao",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-27-atbm",
       "number": 1,
       "description": ""
     },
@@ -14573,6 +14868,16 @@
     },
     {
       "id": "cd-home_motion-cd-dearness_level-37-hrnm",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-37-hski",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_motion-cd-dearness_level-37-hume",
       "number": 1,
       "description": ""
     },
@@ -14709,7 +15014,7 @@
     {
       "id": "cd-main-story-01-01-01-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 1"
+      "description": "Выполните задание Hatsuboshi 1"
     },
     {
       "id": "cd-main-story-01-01-01-release",
@@ -14719,7 +15024,7 @@
     {
       "id": "cd-main-story-01-01-02-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 8"
+      "description": "Выполните задание Hatsuboshi №8"
     },
     {
       "id": "cd-main-story-01-01-02-release",
@@ -14729,7 +15034,7 @@
     {
       "id": "cd-main-story-01-01-03-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 13"
+      "description": "Выполните задание Hatsuboshi №13"
     },
     {
       "id": "cd-main-story-01-01-03-release",
@@ -14739,7 +15044,7 @@
     {
       "id": "cd-main-story-01-01-04-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 17"
+      "description": "Выполните задание Hatsuboshi №17"
     },
     {
       "id": "cd-main-story-01-01-04-release",
@@ -14749,7 +15054,7 @@
     {
       "id": "cd-main-story-01-01-05-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 22"
+      "description": "Выполните задание Hatsuboshi №22"
     },
     {
       "id": "cd-main-story-01-01-05-release",
@@ -14759,7 +15064,7 @@
     {
       "id": "cd-main-story-01-01-06-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 27"
+      "description": "Выполните задание Hatsuboshi №27"
     },
     {
       "id": "cd-main-story-01-01-06-release",
@@ -14769,7 +15074,7 @@
     {
       "id": "cd-main-story-01-01-07-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 30"
+      "description": "Выполните задание Hatsuboshi №30"
     },
     {
       "id": "cd-main-story-01-01-07-release",
@@ -14779,7 +15084,7 @@
     {
       "id": "cd-main-story-01-01-08-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 34"
+      "description": "Выполните задание Hatsuboshi №34"
     },
     {
       "id": "cd-main-story-01-01-08-release",
@@ -14789,7 +15094,7 @@
     {
       "id": "cd-main-story-01-01-09-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 38"
+      "description": "Выполнено задание Hatsuboshi №38"
     },
     {
       "id": "cd-main-story-01-01-09-release",
@@ -14799,7 +15104,7 @@
     {
       "id": "cd-main-story-01-01-10-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 42"
+      "description": "Выполните задание Hatsuboshi №42"
     },
     {
       "id": "cd-main-story-01-01-10-release",
@@ -14809,7 +15114,7 @@
     {
       "id": "cd-main-story-01-01-11-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 46"
+      "description": "Выполните задание Hatsuboshi №46"
     },
     {
       "id": "cd-main-story-01-01-11-release",
@@ -14819,7 +15124,7 @@
     {
       "id": "cd-main-story-01-01-12-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 50"
+      "description": "Выполните задание Hatsuboshi №50"
     },
     {
       "id": "cd-main-story-01-01-12-release",
@@ -14829,7 +15134,7 @@
     {
       "id": "cd-main-story-01-01-13-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 53"
+      "description": "Выполните задание Hatsuboshi №53"
     },
     {
       "id": "cd-main-story-01-01-13-release",
@@ -14839,7 +15144,7 @@
     {
       "id": "cd-main-story-01-01-14-release",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 57"
+      "description": "Выполните задание Hatsuboshi №57"
     },
     {
       "id": "cd-main-story-01-01-14-release",
@@ -14849,12 +15154,12 @@
     {
       "id": "cd-master_produce-unlock_open",
       "number": 1,
-      "description": "Открывается, когда любой айдол достигает Bond Lv10"
+      "description": "Разблокируется, когда у любого Айдола достигнет Ур. Отношений 10"
     },
     {
       "id": "cd-master_produce-view_open",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 60"
+      "description": "Выполните задание Hatsuboshi №60"
     },
     {
       "id": "cd-mission_clear-absolutedearnesslevel-1",
@@ -15304,17 +15609,17 @@
     {
       "id": "cd-nia_master_produce-unlock_open",
       "number": 1,
-      "description": "Открывается при достижении Bond Lv20 с любым айдолом"
+      "description": "Разблокируйте, достигнув 20 Lv. Отношений с любым Айдолом"
     },
     {
       "id": "cd-nia_produce-unlock_open",
       "number": 1,
-      "description": "Завершите P-Task 35 и достигните Bond\nLv10 у айдолов, чтобы бросить вызов N.I.A"
+      "description": "Выполните P-задачу 35 и достигните Lv10 Отношений\n с айдолами, чтобы бросить вызов N.I.A"
     },
     {
       "id": "cd-nia_produce-unlock_open",
       "number": 2,
-      "description": "Завершите P-Task 35 и достигните Bond\nLv10 у айдолов, чтобы бросить вызов N.I.A"
+      "description": "Выполните P-задание 35 и достигните 10 Lv Отношений\n с Айдолами, чтобы бросить вызов N.I.A"
     },
     {
       "id": "cd-not_app-review_main-task-clear-01-14",
@@ -15437,9 +15742,19 @@
       "description": ""
     },
     {
+      "id": "cd-open-grade_mission",
+      "number": 1,
+      "description": "Выполните задание Hatsuboshi №59"
+    },
+    {
+      "id": "cd-open-grade_mission",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd-open-producer_ranking",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 60"
+      "description": "Выполнено задание Hatsuboshi №60"
     },
     {
       "id": "cd-open-producer_ranking",
@@ -16049,12 +16364,12 @@
     {
       "id": "cd-pro_produce-view_open",
       "number": 1,
-      "description": "Поднимите Bond любого айдола до Lv.8"
+      "description": "Повысьте Отношения любого Айдола до Lv.8"
     },
     {
       "id": "cd-pro_produce-view_open",
       "number": 2,
-      "description": "Завершите Hatsuboshi Task 55"
+      "description": "Выполните задание Hatsuboshi 55"
     },
     {
       "id": "cd-produce_group-002-a-amao",
@@ -16267,6 +16582,16 @@
       "description": ""
     },
     {
+      "id": "cd-produce_group-003-final-a-hski",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-produce_group-003-final-a-hume",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-produce_group-003-final-a-kcna",
       "number": 1,
       "description": ""
@@ -16307,6 +16632,16 @@
       "description": ""
     },
     {
+      "id": "cd-produce_group-003-final-hski",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-produce_group-003-final-hume",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-produce_group-003-final-kcna",
       "number": 1,
       "description": ""
@@ -16338,6 +16673,16 @@
     },
     {
       "id": "cd-produce_group-003-final-trueend-hrnm",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-produce_group-003-final-trueend-hski",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-produce_group-003-final-trueend-hume",
       "number": 1,
       "description": ""
     },
@@ -16387,6 +16732,16 @@
       "description": ""
     },
     {
+      "id": "cd-produce_group-003-first-hski",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-produce_group-003-first-hume",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-produce_group-003-first-kcna",
       "number": 1,
       "description": ""
@@ -16423,6 +16778,16 @@
     },
     {
       "id": "cd-produce_group-003-selection-trueend-hrnm",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-produce_group-003-selection-trueend-hski",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-produce_group-003-selection-trueend-hume",
       "number": 1,
       "description": ""
     },
@@ -16507,6 +16872,11 @@
       "description": ""
     },
     {
+      "id": "cd-purchase_costume_head_fktn-hair-0008",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-purchase_costume_head_hmsz-hair-0007",
       "number": 1,
       "description": ""
@@ -16542,6 +16912,11 @@
       "description": ""
     },
     {
+      "id": "cd-purchase_costume_head_hski-hair-0008",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-purchase_costume_head_hume-hair-0004",
       "number": 1,
       "description": ""
@@ -16568,6 +16943,11 @@
     },
     {
       "id": "cd-purchase_costume_head_jsna-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_costume_head_jsna-hair-0008",
       "number": 1,
       "description": ""
     },
@@ -16673,6 +17053,11 @@
     },
     {
       "id": "cd-purchase_costume_head_ttmr-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_costume_head_ttmr-hair-0008",
       "number": 1,
       "description": ""
     },
@@ -17143,6 +17528,11 @@
     },
     {
       "id": "cd-purchase_shop_jewel_item-0033",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_shop_jewel_item-0038",
       "number": 1,
       "description": ""
     },
@@ -17664,7 +18054,7 @@
     {
       "id": "cd-release_Invitation",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 1"
+      "description": "Выполните задание Hatsuboshi №1"
     },
     {
       "id": "cd-release-ending-normal-a-voice-amao",
@@ -18952,6 +19342,16 @@
       "description": ""
     },
     {
+      "id": "cd-release-music-inst-all-011",
+      "number": 12,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-011",
+      "number": 13,
+      "description": ""
+    },
+    {
       "id": "cd-release-music-inst-all-012",
       "number": 1,
       "description": ""
@@ -19157,6 +19557,11 @@
       "description": ""
     },
     {
+      "id": "cd-release-music-inst-all-016",
+      "number": 5,
+      "description": ""
+    },
+    {
       "id": "cd-release-music-inst-all-017",
       "number": 1,
       "description": ""
@@ -19217,6 +19622,11 @@
       "description": ""
     },
     {
+      "id": "cd-release-music-inst-all-017",
+      "number": 13,
+      "description": ""
+    },
+    {
       "id": "cd-release-music-inst-amao-005",
       "number": 1,
       "description": ""
@@ -19248,6 +19658,11 @@
     },
     {
       "id": "cd-release-music-inst-atbm-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-atbm-04",
       "number": 1,
       "description": ""
     },
@@ -19769,32 +20184,32 @@
     {
       "id": "cd-seminar_clear-01-01",
       "number": 1,
-      "description": "Пройдите [Basic 1] Good Shape"
+      "description": "Завершено [Basic 1] Хорошая Форма"
     },
     {
       "id": "cd-seminar_clear-01-02",
       "number": 1,
-      "description": "Пройдите [Basic 2] Focus"
+      "description": "Завершено [Basic 2] Концентрация"
     },
     {
       "id": "cd-seminar_clear-01-03",
       "number": 1,
-      "description": "Пройдите [Basic 3] Good Impression"
+      "description": "Завершено [Basic 3] Хорошее Впечатление"
     },
     {
       "id": "cd-seminar_clear-01-04",
       "number": 1,
-      "description": "Пройдите [Basic 4] Motivation"
+      "description": "Завершено [Basic 4] Мотивация"
     },
     {
       "id": "cd-seminar_clear-01-07",
       "number": 1,
-      "description": "Пройдите [Basic 8] Confident"
+      "description": "Завершено [Basic 8] Уверенный"
     },
     {
       "id": "cd-seminar_clear-01-08",
       "number": 1,
-      "description": "Пройдите [Basic 7] Full Power"
+      "description": "Завершено [Basic 7] Полная Сила"
     },
     {
       "id": "cd-shop_costume_amao-cstm-0069_revival-1",
@@ -20027,6 +20442,16 @@
       "description": ""
     },
     {
+      "id": "cd-shop_costume_kcna-cstm-0118",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-shop_costume_kcna-cstm-0118",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd-shop_costume_kllj-cstm-0063",
       "number": 1,
       "description": ""
@@ -20063,6 +20488,16 @@
     },
     {
       "id": "cd-shop_costume_kllj-cstm-0111",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-shop_costume_kllj-cstm-0118",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-shop_costume_kllj-cstm-0118",
       "number": 2,
       "description": ""
     },
@@ -20379,22 +20814,22 @@
     {
       "id": "cd-story_unlock_atbm_produce_group-004",
       "number": 1,
-      "description": "N.I.A Produce в подготовке"
+      "description": "Подготовка к Продюсированию N.I.A"
     },
     {
       "id": "cd-story_unlock_atbm_produce_group-005",
       "number": 1,
-      "description": "N.I.A Produce в подготовке"
+      "description": "Продюсирование N.I.A в процессе подготовки"
     },
     {
       "id": "cd-story_unlock_hmsz_produce_group-004",
       "number": 1,
-      "description": "N.I.A Produce в подготовке"
+      "description": "Подготовка к Продюсированию N.I.A"
     },
     {
       "id": "cd-story_unlock_hmsz_produce_group-005",
       "number": 1,
-      "description": "N.I.A Produce в подготовке"
+      "description": "Продюсирование N.I.A в процессе подготовки"
     },
     {
       "id": "cd-story_unlock_livetour_event_group-001",
@@ -20629,7 +21064,7 @@
     {
       "id": "cd-storyread-opening-normal-01",
       "number": 1,
-      "description": "Открывается после одного прохождения продюсирования"
+      "description": "Разблокируется после одного производства"
     },
     {
       "id": "cd-storyread-opening-normal-01",
@@ -20699,7 +21134,7 @@
     {
       "id": "cd-task_clear-01-001",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 1"
+      "description": "Выполните задание Hatsuboshi 1"
     },
     {
       "id": "cd-task_clear-01-001-24-hour",
@@ -20709,537 +21144,537 @@
     {
       "id": "cd-task_clear-01-002",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 2"
+      "description": "Выполните задание Hatsuboshi 2"
     },
     {
       "id": "cd-task_clear-01-003",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 3"
+      "description": "Выполните задание Hatsuboshi №3"
     },
     {
       "id": "cd-task_clear-01-004",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 4"
+      "description": "Выполните задание Hatsuboshi №4"
     },
     {
       "id": "cd-task_clear-01-005",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 5"
+      "description": "Выполните задание Hatsuboshi №5"
     },
     {
       "id": "cd-task_clear-01-006",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 6"
+      "description": "Выполните задание Hatsuboshi №6"
     },
     {
       "id": "cd-task_clear-01-007",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 7"
+      "description": "Выполните задание Hatsuboshi №7"
     },
     {
       "id": "cd-task_clear-01-008",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 8"
+      "description": "Выполните задание Hatsuboshi №8"
     },
     {
       "id": "cd-task_clear-01-009",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 9"
+      "description": "Выполните задание Hatsuboshi №9"
     },
     {
       "id": "cd-task_clear-01-010",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 10"
+      "description": "Выполните задание Hatsuboshi 10"
     },
     {
       "id": "cd-task_clear-01-011",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 11"
+      "description": "Выполните задание Hatsuboshi №11"
     },
     {
       "id": "cd-task_clear-01-012",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 12"
+      "description": "Выполните задание Hatsuboshi №12"
     },
     {
       "id": "cd-task_clear-01-013",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 13"
+      "description": "Выполните задание Hatsuboshi №13"
     },
     {
       "id": "cd-task_clear-01-014",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 14"
+      "description": "Выполнено задание Hatsuboshi №14"
     },
     {
       "id": "cd-task_clear-01-015",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 15"
+      "description": "Выполните задание Hatsuboshi №15"
     },
     {
       "id": "cd-task_clear-01-016",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 16"
+      "description": "Выполните задание Hatsuboshi №16"
     },
     {
       "id": "cd-task_clear-01-017",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 17"
+      "description": "Выполните задание Hatsuboshi №17"
     },
     {
       "id": "cd-task_clear-01-018",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 18"
+      "description": "Выполните задание Hatsuboshi №18"
     },
     {
       "id": "cd-task_clear-01-019",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 19"
+      "description": "Выполните задание Hatsuboshi №19"
     },
     {
       "id": "cd-task_clear-01-020",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 20"
+      "description": "Выполните задание Hatsuboshi №20"
     },
     {
       "id": "cd-task_clear-01-021",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 21"
+      "description": "Выполните задание Hatsuboshi №21"
     },
     {
       "id": "cd-task_clear-01-022",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 22"
+      "description": "Выполните задание Hatsuboshi №22"
     },
     {
       "id": "cd-task_clear-01-023",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 23"
+      "description": "Выполните задание Hatsuboshi №23"
     },
     {
       "id": "cd-task_clear-01-024",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 24"
+      "description": "Выполните задание Hatsuboshi №24"
     },
     {
       "id": "cd-task_clear-01-025",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 25"
+      "description": "Выполните задание Hatsuboshi №25"
     },
     {
       "id": "cd-task_clear-01-026",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 26"
+      "description": "Выполните задание Hatsuboshi №26"
     },
     {
       "id": "cd-task_clear-01-027",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 27"
+      "description": "Выполните задание Hatsuboshi №27"
     },
     {
       "id": "cd-task_clear-01-028",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 28"
+      "description": "Выполните задание Hatsuboshi №28"
     },
     {
       "id": "cd-task_clear-01-029",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 29"
+      "description": "Выполните задание Hatsuboshi №29"
     },
     {
       "id": "cd-task_clear-01-030",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 30"
+      "description": "Выполните задание Hatsuboshi №30"
     },
     {
       "id": "cd-task_clear-01-031",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 31"
+      "description": "Выполните задание Hatsuboshi №31"
     },
     {
       "id": "cd-task_clear-01-032",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 32"
+      "description": "Выполните задание Hatsuboshi №32"
     },
     {
       "id": "cd-task_clear-01-033",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 33"
+      "description": "Выполните задание Hatsuboshi №33"
     },
     {
       "id": "cd-task_clear-01-034",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 34"
+      "description": "Выполните задание Hatsuboshi №34"
     },
     {
       "id": "cd-task_clear-01-035",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 35"
+      "description": "Выполните задание Hatsuboshi №35"
     },
     {
       "id": "cd-task_clear-01-036",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 36"
+      "description": "Выполните задание Hatsuboshi №36"
     },
     {
       "id": "cd-task_clear-01-037",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 37"
+      "description": "Выполните задание Hatsuboshi №37"
     },
     {
       "id": "cd-task_clear-01-038",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 38"
+      "description": "Выполните задание Hatsuboshi №38"
     },
     {
       "id": "cd-task_clear-01-039",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 39"
+      "description": "Выполните задание Hatsuboshi №39"
     },
     {
       "id": "cd-task_clear-01-040",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 40"
+      "description": "Выполнено задание Hatsuboshi №40"
     },
     {
       "id": "cd-task_clear-01-041",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 41"
+      "description": "Выполнено задание Hatsuboshi №41"
     },
     {
       "id": "cd-task_clear-01-042",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 42"
+      "description": "Выполните задание Hatsuboshi №42"
     },
     {
       "id": "cd-task_clear-01-043",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 43"
+      "description": "Выполните задание Hatsuboshi №43"
     },
     {
       "id": "cd-task_clear-01-044",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 44"
+      "description": "Выполните задание Hatsuboshi №44"
     },
     {
       "id": "cd-task_clear-01-045",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 45"
+      "description": "Выполните задание Hatsuboshi №45"
     },
     {
       "id": "cd-task_clear-01-046",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 46"
+      "description": "Выполните задание Hatsuboshi №46"
     },
     {
       "id": "cd-task_clear-01-047",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 47"
+      "description": "Выполните задание Hatsuboshi №47"
     },
     {
       "id": "cd-task_clear-01-048",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 48"
+      "description": "Выполните задание Hatsuboshi 48"
     },
     {
       "id": "cd-task_clear-01-049",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 49"
+      "description": "Выполните задание Hatsuboshi №49"
     },
     {
       "id": "cd-task_clear-01-050",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 50"
+      "description": "Выполнено задание Hatsuboshi №50"
     },
     {
       "id": "cd-task_clear-01-051",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 51"
+      "description": "Выполните задание Hatsuboshi №51"
     },
     {
       "id": "cd-task_clear-01-052",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 52"
+      "description": "Выполните задание Hatsuboshi №52"
     },
     {
       "id": "cd-task_clear-01-053",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 53"
+      "description": "Выполните задание Hatsuboshi №53"
     },
     {
       "id": "cd-task_clear-01-054",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 54"
+      "description": "Выполните задание Hatsuboshi №54"
     },
     {
       "id": "cd-task_clear-01-055",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 55"
+      "description": "Выполните задание Hatsuboshi №55"
     },
     {
       "id": "cd-task_clear-01-056",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 56"
+      "description": "Выполните задание Hatsuboshi №56"
     },
     {
       "id": "cd-task_clear-01-057",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 57"
+      "description": "Выполните задание Hatsuboshi №57"
     },
     {
       "id": "cd-task_clear-01-058",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 58"
+      "description": "Выполните задание Hatsuboshi №58"
     },
     {
       "id": "cd-task_clear-01-059",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 59"
+      "description": "Выполните задание Hatsuboshi №59"
     },
     {
       "id": "cd-task_clear-01-060",
       "number": 1,
-      "description": "Завершите Hatsuboshi Task 60"
+      "description": "Выполните задание Hatsuboshi №60"
     },
     {
       "id": "cd-task_clear-02-01-001",
       "number": 1,
-      "description": "Завершите P-Task 1"
+      "description": "Выполнено P-задания 1"
     },
     {
       "id": "cd-task_clear-02-01-002",
       "number": 1,
-      "description": "Завершите P-Task 2"
+      "description": "Выполните P-задание 2"
     },
     {
       "id": "cd-task_clear-02-01-003",
       "number": 1,
-      "description": "Завершите P-Task 3"
+      "description": "Выполнено P-задания 3"
     },
     {
       "id": "cd-task_clear-02-01-004",
       "number": 1,
-      "description": "Завершите P-Task 4"
+      "description": "Выполните P-задание 4"
     },
     {
       "id": "cd-task_clear-02-01-005",
       "number": 1,
-      "description": "Завершите P-Task 5"
+      "description": "Выполните P-задание 5"
     },
     {
       "id": "cd-task_clear-02-01-006",
       "number": 1,
-      "description": "Завершите P-Task 6"
+      "description": "Выполните P-задание 6"
     },
     {
       "id": "cd-task_clear-02-01-007",
       "number": 1,
-      "description": "Завершите P-Task 7"
+      "description": "Выполните P-задание 7"
     },
     {
       "id": "cd-task_clear-02-01-008",
       "number": 1,
-      "description": "Завершите P-Task 8"
+      "description": "Выполнить P-задание 8"
     },
     {
       "id": "cd-task_clear-02-01-009",
       "number": 1,
-      "description": "Завершите P-Task 9"
+      "description": "Выполнено P-задания 9"
     },
     {
       "id": "cd-task_clear-02-01-010",
       "number": 1,
-      "description": "Завершите P-Task 10"
+      "description": "Выполнено P-задания 10"
     },
     {
       "id": "cd-task_clear-02-01-011",
       "number": 1,
-      "description": "Завершите P-Task 11"
+      "description": "Выполнено P-задания 11"
     },
     {
       "id": "cd-task_clear-02-01-012",
       "number": 1,
-      "description": "Завершите P-Task 12"
+      "description": "Выполните P-задание 12"
     },
     {
       "id": "cd-task_clear-02-01-013",
       "number": 1,
-      "description": "Завершите P-Task 13"
+      "description": "Выполните P-задание 13"
     },
     {
       "id": "cd-task_clear-02-01-014",
       "number": 1,
-      "description": "Завершите P-Task 14"
+      "description": "Выполнено P-задания 14"
     },
     {
       "id": "cd-task_clear-02-01-015",
       "number": 1,
-      "description": "Завершите P-Task 15"
+      "description": "Выполните P-задание 15"
     },
     {
       "id": "cd-task_clear-02-01-016",
       "number": 1,
-      "description": "Завершите P-Task 16"
+      "description": "Выполнить P-задание 16"
     },
     {
       "id": "cd-task_clear-02-01-017",
       "number": 1,
-      "description": "Завершите P-Task 17"
+      "description": "Выполните P-задание 17"
     },
     {
       "id": "cd-task_clear-02-01-018",
       "number": 1,
-      "description": "Завершите P-Task 18"
+      "description": "Выполните P-задание 18"
     },
     {
       "id": "cd-task_clear-02-01-019",
       "number": 1,
-      "description": "Завершите P-Task 19"
+      "description": "Выполните P-задание 19"
     },
     {
       "id": "cd-task_clear-02-01-020",
       "number": 1,
-      "description": "Завершите P-Task 20"
+      "description": "Выполнено P-задания 20"
     },
     {
       "id": "cd-task_clear-02-01-021",
       "number": 1,
-      "description": "Завершите P-Task 21"
+      "description": "Выполните P-задание 21"
     },
     {
       "id": "cd-task_clear-02-01-022",
       "number": 1,
-      "description": "Завершите P-Task 22"
+      "description": "Выполните P-задание 22"
     },
     {
       "id": "cd-task_clear-02-01-023",
       "number": 1,
-      "description": "Завершите P-Task 23"
+      "description": "Выполнено P-задания 23"
     },
     {
       "id": "cd-task_clear-02-01-024",
       "number": 1,
-      "description": "Завершите P-Task 24"
+      "description": "Выполните P-задание 24"
     },
     {
       "id": "cd-task_clear-02-01-025",
       "number": 1,
-      "description": "Завершите P-Task 25"
+      "description": "Выполните P-задание 25"
     },
     {
       "id": "cd-task_clear-02-01-026",
       "number": 1,
-      "description": "Завершите P-Task 26"
+      "description": "Выполнено P-задания 26"
     },
     {
       "id": "cd-task_clear-02-01-027",
       "number": 1,
-      "description": "Завершите P-Task 27"
+      "description": "Выполнено P-задания 27"
     },
     {
       "id": "cd-task_clear-02-01-028",
       "number": 1,
-      "description": "Завершите P-Task 28"
+      "description": "Выполнено P-задания 28"
     },
     {
       "id": "cd-task_clear-02-01-029",
       "number": 1,
-      "description": "Завершите P-Task 29"
+      "description": "Выполните P-задание 29"
     },
     {
       "id": "cd-task_clear-02-01-030",
       "number": 1,
-      "description": "Завершите P-Task 30"
+      "description": "Выполните P-задание 30"
     },
     {
       "id": "cd-task_clear-02-01-031",
       "number": 1,
-      "description": "Завершите P-Task 31"
+      "description": "Выполнить P-задание 31"
     },
     {
       "id": "cd-task_clear-02-01-032",
       "number": 1,
-      "description": "Завершите P-Task 32"
+      "description": "Выполнено P-задания 32"
     },
     {
       "id": "cd-task_clear-02-01-033",
       "number": 1,
-      "description": "Завершите P-Task 33"
+      "description": "Выполнить P-задание 33"
     },
     {
       "id": "cd-task_clear-02-01-034",
       "number": 1,
-      "description": "Завершите P-Task 34"
+      "description": "Выполните P-задание 34"
     },
     {
       "id": "cd-task_clear-02-01-035",
       "number": 1,
-      "description": "Завершите P-Task 35"
+      "description": "Выполните P-задание 35"
     },
     {
       "id": "cd-task_clear-02-01-036",
       "number": 1,
-      "description": "Завершите P-Task 36"
+      "description": "Выполнить P-задание 36"
     },
     {
       "id": "cd-task_clear-02-01-037",
       "number": 1,
-      "description": "Завершите P-Task 37"
+      "description": "Выполните P-задание 37"
     },
     {
       "id": "cd-task_clear-02-01-038",
       "number": 1,
-      "description": "Завершите P-Task 38"
+      "description": "Выполните P-задание 38"
     },
     {
       "id": "cd-task_clear-02-01-039",
       "number": 1,
-      "description": "Завершите P-Task 39"
+      "description": "Выполните P-задание 39"
     },
     {
       "id": "cd-task_clear-02-01-040",
       "number": 1,
-      "description": "Завершите P-Task 40"
+      "description": "Выполните P-задание 40"
     },
     {
       "id": "cd-task_clear-02-01-070",
       "number": 1,
-      "description": "Завершите P-Task 70"
+      "description": "Выполнено P-задания 70"
     },
     {
       "id": "cd-task_clear-02-01-075",
       "number": 1,
-      "description": "Завершите P-Task 75"
+      "description": "Выполнить P-задание 75"
     },
     {
       "id": "cd-task_clear-03-01-020",
       "number": 1,
-      "description": "Завершите P-Task 2-20"
+      "description": "Выполните P-задание 2-20"
     },
     {
       "id": "cd-task_clear-03-01-025",
       "number": 1,
-      "description": "Завершите P-Task 2-25"
+      "description": "Выполнено P-задания 2-25"
     },
     {
       "id": "cd-task_clear-03-01-070",
       "number": 1,
-      "description": "Завершите P-Task 70"
+      "description": "Выполните P-задание 70"
     },
     {
       "id": "cd-task_clear-03-01-075",
       "number": 1,
-      "description": "Завершите P-Task 75"
+      "description": "Выполните P-задание 75"
     },
     {
       "id": "cd-task_clear-04-01-020",
       "number": 1,
-      "description": "Завершите P-Task 04-20"
+      "description": "Выполнено P-задания 04-20"
     },
     {
       "id": "cd-task_clear-04-01-025",
       "number": 1,
-      "description": "Завершите P-Task 04-25"
+      "description": "Выполнено P-задания 04-25"
     },
     {
       "id": "cd-task_clear-panel_mission-event-006",
@@ -21254,7 +21689,7 @@
     {
       "id": "cd-time-view_open-producer_ranking-1006_1100",
       "number": 1,
-      "description": "Открывается 2025/10/06 11:00:00"
+      "description": "Разблокируется 06.10.2025 в 11:00:00"
     },
     {
       "id": "cd-tips-produce-first-audition-failure_hmsz_initial-card",
@@ -21539,6 +21974,16 @@
     {
       "id": "cd-view_home-banner-shop_jewel_item-0033",
       "number": 3,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-shop_jewel_item-0038",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-shop_jewel_item-0038",
+      "number": 2,
       "description": ""
     },
     {
@@ -22014,12 +22459,12 @@
     {
       "id": "cd-view-panel_mission-event-006",
       "number": 1,
-      "description": "Завершите P-Task 35 и достигните Bond\nLv10 у айдолов, чтобы бросить вызов N.I.A"
+      "description": "Выполните P-задание 35 и достигните 10 Lv Отношений\n с Айдолами, чтобы бросить вызов N.I.A"
     },
     {
       "id": "cd-view-panel_mission-event-006",
       "number": 2,
-      "description": "Завершите P-Task 35 и достигните Bond\nLv10 у айдолов, чтобы бросить вызов N.I.A"
+      "description": "Выполните P-задание 35 и достигните 10 Lv Отношений\n с Айдолами, чтобы бросить вызов N.I.A"
     },
     {
       "id": "cd-view-shop_jewel_item-0008-0009",
@@ -22164,6 +22609,16 @@
     {
       "id": "cd-view-start-up-notification-panel_mission-event-009",
       "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-view-start-up-notification-panel_mission-event-010",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view-start-up-notification-panel_mission-event-011",
+      "number": 1,
       "description": ""
     },
     {
@@ -22459,52 +22914,72 @@
     {
       "id": "pannel-mission-event-007_time",
       "number": 1,
-      "description": "Завершите P-Task 35 и достигните Bond\nLv10 у айдолов, чтобы бросить вызов N.I.A"
+      "description": "Выполните P-задание 35 и достигните Lv10 Отношений\n с Айдолами, чтобы бросить вызов N.I.A"
     },
     {
       "id": "pannel-mission-event-007_time",
       "number": 2,
-      "description": "Завершите P-Task 35 и достигните Bond\nLv10 у айдолов, чтобы бросить вызов N.I.A"
+      "description": "Выполните N-задачу 35 и достигните 10 Lv Отношений\n с Айдолами, чтобы бросить вызов N.I.A"
     },
     {
       "id": "pannel-mission-event-007_time",
       "number": 3,
-      "description": "Завершите P-Task 35 и достигните Bond\nLv10 у айдолов, чтобы бросить вызов N.I.A"
+      "description": "Выполните P-задание 35 и достигните 10 Lv Отношений\n с Айдолами, чтобы бросить вызов N.I.A"
     },
     {
       "id": "pannel-mission-event-007_time",
       "number": 4,
-      "description": "Завершите P-Task 35 и достигните Bond\nLv10 у айдолов, чтобы бросить вызов N.I.A"
+      "description": "Выполните P-задание 35 и достигните 10 Lv Отношений\n с Айдолами, чтобы бросить вызов N.I.A"
     },
     {
       "id": "pannel-mission-event-008_time",
       "number": 1,
-      "description": "Открывается, когда Bond любого айдола достигает Lv.20"
+      "description": "Открывается, когда Отношения с любым Айдолом достигают Lv.20"
     },
     {
       "id": "pannel-mission-event-008_time",
       "number": 2,
-      "description": "Открывается, когда Bond любого айдола достигает Lv.20"
+      "description": "Разблокировано, когда Отношения с любым Айдолом достигают Lv.20"
     },
     {
       "id": "pannel-mission-event-008_time",
       "number": 3,
-      "description": "Открывается, когда Bond любого айдола достигает Lv.20"
+      "description": "Разблокируется, когда Отношения с любым Айдолом достигнут Lv.20"
     },
     {
       "id": "pannel-mission-event-009_time",
       "number": 1,
-      "description": "Открывается, когда любой айдол достигает Bond Lv.27"
+      "description": "Открывается, когда у любого Айдола достигнут Ур. Отношений 27"
     },
     {
       "id": "pannel-mission-event-009_time",
       "number": 2,
-      "description": "Открывается, когда любой айдол достигает Bond Lv.27"
+      "description": "Разблокируется, когда у любого Айдола достигнет Ур. Отношений 27"
     },
     {
       "id": "pannel-mission-event-009_time",
       "number": 3,
-      "description": "Открывается, когда любой айдол достигает Bond Lv.27"
+      "description": "Разблокируется, когда у любого Айдола достигнет 27 Ур. Отношений"
+    },
+    {
+      "id": "pannel-mission-event-010_time",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "pannel-mission-event-010_time",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "pannel-mission-event-011_time",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "pannel-mission-event-011_time",
+      "number": 2,
+      "description": ""
     },
     {
       "id": "pannel-mission-event-halfaniv_time",
@@ -22754,1547 +23229,1547 @@
     {
       "id": "main_task_group-01-01#2",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 1"
+      "description": "Выполнено задание Hatsuboshi 1"
     },
     {
       "id": "main_task_group-01-01#3",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 2"
+      "description": "Выполните задание Hatsuboshi 2"
     },
     {
       "id": "main_task_group-01-01#4",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 3"
+      "description": "Выполните задание Hatsuboshi №3"
     },
     {
       "id": "main_task_group-01-01#5",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 4"
+      "description": "Выполните задание Hatsuboshi №4"
     },
     {
       "id": "main_task_group-01-01#6",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 5"
+      "description": "Выполните задание Hatsuboshi №5"
     },
     {
       "id": "main_task_group-01-01#7",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 6"
+      "description": "Выполнено задание Hatsuboshi №6"
     },
     {
       "id": "main_task_group-01-01#8",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 7"
+      "description": "Выполните задание Hatsuboshi №7"
     },
     {
       "id": "main_task_group-01-01#9",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 8"
+      "description": "Выполните задание Hatsuboshi №8"
     },
     {
       "id": "main_task_group-01-01#10",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 9"
+      "description": "Выполните задание Hatsuboshi №9"
     },
     {
       "id": "main_task_group-01-01#11",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 10"
+      "description": "Выполните задание Hatsuboshi №10"
     },
     {
       "id": "main_task_group-01-01#12",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 11"
+      "description": "Выполните задание Hatsuboshi №11"
     },
     {
       "id": "main_task_group-01-01#13",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 12"
+      "description": "Выполните задание Hatsuboshi №12"
     },
     {
       "id": "main_task_group-01-01#14",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 13"
+      "description": "Выполните задание Hatsuboshi №13"
     },
     {
       "id": "main_task_group-01-01#15",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 14"
+      "description": "Выполните задание Hatsuboshi №14"
     },
     {
       "id": "main_task_group-01-01#16",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 15"
+      "description": "Выполните задание Hatsuboshi 15"
     },
     {
       "id": "main_task_group-01-01#17",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 16"
+      "description": "Выполнено задание Hatsuboshi 16"
     },
     {
       "id": "main_task_group-01-01#18",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 17"
+      "description": "Выполните задание Hatsuboshi №17"
     },
     {
       "id": "main_task_group-01-01#19",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 18"
+      "description": "Выполнено задание Hatsuboshi 18"
     },
     {
       "id": "main_task_group-01-01#20",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 19"
+      "description": "Выполните задание Hatsuboshi №19"
     },
     {
       "id": "main_task_group-01-01#21",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 20"
+      "description": "Выполните задание Hatsuboshi №20"
     },
     {
       "id": "main_task_group-01-01#22",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 21"
+      "description": "Выполните задание Hatsuboshi №21"
     },
     {
       "id": "main_task_group-01-01#23",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 22"
+      "description": "Выполните задание Hatsuboshi 22"
     },
     {
       "id": "main_task_group-01-01#24",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 23"
+      "description": "Выполнено задание Hatsuboshi №23"
     },
     {
       "id": "main_task_group-01-01#25",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 24"
+      "description": "Выполнено задание Hatsuboshi 24"
     },
     {
       "id": "main_task_group-01-01#26",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 25"
+      "description": "Выполнено задание Hatsuboshi №25"
     },
     {
       "id": "main_task_group-01-01#27",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 26"
+      "description": "Выполнено задание Hatsuboshi №26"
     },
     {
       "id": "main_task_group-01-01#28",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 27"
+      "description": "Выполните задание Hatsuboshi №27"
     },
     {
       "id": "main_task_group-01-01#29",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 28"
+      "description": "Выполните задание Hatsuboshi №28"
     },
     {
       "id": "main_task_group-01-01#30",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 29"
+      "description": "Выполните задание Hatsuboshi №29"
     },
     {
       "id": "main_task_group-01-01#31",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 30"
+      "description": "Выполнено задание Hatsuboshi №30"
     },
     {
       "id": "main_task_group-01-01#32",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 31"
+      "description": "Выполнено задание Hatsuboshi №31"
     },
     {
       "id": "main_task_group-01-01#33",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 32"
+      "description": "Выполнено задание Hatsuboshi №32"
     },
     {
       "id": "main_task_group-01-01#34",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 33"
+      "description": "Выполнено задание Hatsuboshi №33"
     },
     {
       "id": "main_task_group-01-01#35",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 34"
+      "description": "Выполнено задание Hatsuboshi №34"
     },
     {
       "id": "main_task_group-01-01#36",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 35"
+      "description": "Выполните задание Hatsuboshi №35"
     },
     {
       "id": "main_task_group-01-01#37",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 36"
+      "description": "Выполнено задание Hatsuboshi №36"
     },
     {
       "id": "main_task_group-01-01#38",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 37"
+      "description": "Выполнено задание Hatsuboshi №37"
     },
     {
       "id": "main_task_group-01-01#39",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 38"
+      "description": "Выполнено задание Hatsuboshi №38"
     },
     {
       "id": "main_task_group-01-01#40",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 39"
+      "description": "Выполните задание Hatsuboshi №39"
     },
     {
       "id": "main_task_group-01-01#41",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 40"
+      "description": "Выполнено задание Hatsuboshi №40"
     },
     {
       "id": "main_task_group-01-01#42",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 41"
+      "description": "Выполнено задание Hatsuboshi №41"
     },
     {
       "id": "main_task_group-01-01#43",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 42"
+      "description": "Выполните задание Hatsuboshi №42"
     },
     {
       "id": "main_task_group-01-01#44",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 43"
+      "description": "Выполнено задание Hatsuboshi №43"
     },
     {
       "id": "main_task_group-01-01#45",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 44"
+      "description": "Выполнено задание Hatsuboshi №44"
     },
     {
       "id": "main_task_group-01-01#46",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 45"
+      "description": "Выполнено задание Hatsuboshi №45"
     },
     {
       "id": "main_task_group-01-01#47",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 46"
+      "description": "Выполните задание Hatsuboshi 46"
     },
     {
       "id": "main_task_group-01-01#48",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 47"
+      "description": "Выполните задание Hatsuboshi №47"
     },
     {
       "id": "main_task_group-01-01#49",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 48"
+      "description": "Выполните задание Hatsuboshi 48"
     },
     {
       "id": "main_task_group-01-01#50",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 49"
+      "description": "Выполнено задание Hatsuboshi №49"
     },
     {
       "id": "main_task_group-01-01#51",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 50"
+      "description": "Выполните задание Hatsuboshi №50"
     },
     {
       "id": "main_task_group-01-01#52",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 51"
+      "description": "Выполните задание Hatsuboshi №51"
     },
     {
       "id": "main_task_group-01-01#53",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 52"
+      "description": "Выполните задание Hatsuboshi №52"
     },
     {
       "id": "main_task_group-01-01#54",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 53"
+      "description": "Выполнено задание Hatsuboshi №53"
     },
     {
       "id": "main_task_group-01-01#55",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 54"
+      "description": "Выполните задание Hatsuboshi 54"
     },
     {
       "id": "main_task_group-01-01#56",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 55"
+      "description": "Выполните задание Hatsuboshi №55"
     },
     {
       "id": "main_task_group-01-01#57",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 56"
+      "description": "Выполнено задание Hatsuboshi 56"
     },
     {
       "id": "main_task_group-01-01#58",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 57"
+      "description": "Выполнено задание Hatsuboshi №57"
     },
     {
       "id": "main_task_group-01-01#59",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 58"
+      "description": "Выполнено задание Hatsuboshi 58"
     },
     {
       "id": "main_task_group-01-01#60",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 59"
+      "description": "Выполнено задание Hatsuboshi №59"
     },
     {
       "id": "main_task_group-02-01#1",
       "number": 99,
-      "description": "Завершите Hatsuboshi Task 60"
+      "description": "Выполнено задание Hatsuboshi №60"
     },
     {
       "id": "main_task_group-02-01#2",
       "number": 99,
-      "description": "Завершите P-Task 1"
+      "description": "Выполнено P-задания 1"
     },
     {
       "id": "main_task_group-02-01#3",
       "number": 99,
-      "description": "Завершите P-Task 2"
+      "description": "Выполнено P-задания 2"
     },
     {
       "id": "main_task_group-02-01#4",
       "number": 99,
-      "description": "Завершите P-Task 3"
+      "description": "Выполнено P-задания 3"
     },
     {
       "id": "main_task_group-02-01#5",
       "number": 99,
-      "description": "Завершите P-Task 4"
+      "description": "Выполнено P-задания 4"
     },
     {
       "id": "main_task_group-02-01#6",
       "number": 99,
-      "description": "Завершите P-Task 5"
+      "description": "Выполните P-задание 5"
     },
     {
       "id": "main_task_group-02-01#7",
       "number": 99,
-      "description": "Завершите P-Task 6"
+      "description": "Выполнено P-задания 6"
     },
     {
       "id": "main_task_group-02-01#8",
       "number": 99,
-      "description": "Завершите P-Task 7"
+      "description": "Выполнено P-задания 7"
     },
     {
       "id": "main_task_group-02-01#9",
       "number": 99,
-      "description": "Завершите P-Task 8"
+      "description": "Выполнено P-задания 8"
     },
     {
       "id": "main_task_group-02-01#10",
       "number": 99,
-      "description": "Завершите P-Task 9"
+      "description": "Выполнено P-Задания 9"
     },
     {
       "id": "main_task_group-02-01#11",
       "number": 99,
-      "description": "Завершите P-Task 10"
+      "description": "Выполнить P-задание 10"
     },
     {
       "id": "main_task_group-02-01#12",
       "number": 99,
-      "description": "Завершите P-Task 11"
+      "description": "Выполнено P-задания 11"
     },
     {
       "id": "main_task_group-02-01#13",
       "number": 99,
-      "description": "Завершите P-Task 12"
+      "description": "Выполнить P-задание 12"
     },
     {
       "id": "main_task_group-02-01#14",
       "number": 99,
-      "description": "Завершите P-Task 13"
+      "description": "Выполнено P-задания 13"
     },
     {
       "id": "main_task_group-02-01#15",
       "number": 99,
-      "description": "Завершите P-Task 14"
+      "description": "Выполнено P-задания 14"
     },
     {
       "id": "main_task_group-02-01#16",
       "number": 99,
-      "description": "Завершите P-Task 15"
+      "description": "Выполнено P-задания 15"
     },
     {
       "id": "main_task_group-02-01#17",
       "number": 99,
-      "description": "Завершите P-Task 16"
+      "description": "Выполнено P-задания 16"
     },
     {
       "id": "main_task_group-02-01#18",
       "number": 99,
-      "description": "Завершите P-Task 17"
+      "description": "Выполнено P-задания 17"
     },
     {
       "id": "main_task_group-02-01#19",
       "number": 99,
-      "description": "Завершите P-Task 18"
+      "description": "Выполнено P-задания 18"
     },
     {
       "id": "main_task_group-02-01#20",
       "number": 99,
-      "description": "Завершите P-Task 19"
+      "description": "Выполнено P-задания 19"
     },
     {
       "id": "main_task_group-02-01#21",
       "number": 99,
-      "description": "Завершите P-Task 20"
+      "description": "Выполните P-задание 20"
     },
     {
       "id": "main_task_group-02-01#22",
       "number": 99,
-      "description": "Завершите P-Task 21"
+      "description": "Выполнено P-задания 21"
     },
     {
       "id": "main_task_group-02-01#23",
       "number": 99,
-      "description": "Завершите P-Task 22"
+      "description": "Выполнено P-задания 22"
     },
     {
       "id": "main_task_group-02-01#24",
       "number": 99,
-      "description": "Завершите P-Task 23"
+      "description": "Выполнено P-задания 23"
     },
     {
       "id": "main_task_group-02-01#25",
       "number": 99,
-      "description": "Завершите P-Task 24"
+      "description": "Выполнено P-задания 24"
     },
     {
       "id": "main_task_group-02-01#26",
       "number": 99,
-      "description": "Завершите P-Task 25"
+      "description": "Выполнено P-Задания 25"
     },
     {
       "id": "main_task_group-02-01#27",
       "number": 99,
-      "description": "Завершите P-Task 26"
+      "description": "Выполните P-задание 26"
     },
     {
       "id": "main_task_group-02-01#28",
       "number": 99,
-      "description": "Завершите P-Task 27"
+      "description": "Выполнено P-задания 27"
     },
     {
       "id": "main_task_group-02-01#29",
       "number": 99,
-      "description": "Завершите P-Task 28"
+      "description": "Выполнено P-задания 28"
     },
     {
       "id": "main_task_group-02-01#30",
       "number": 99,
-      "description": "Завершите P-Task 29"
+      "description": "Выполнено P-задания 29"
     },
     {
       "id": "main_task_group-02-01#31",
       "number": 99,
-      "description": "Завершите P-Task 30"
+      "description": "Выполнено P-задания 30"
     },
     {
       "id": "main_task_group-02-01#32",
       "number": 99,
-      "description": "Завершите P-Task 31"
+      "description": "Выполните P-задание 31"
     },
     {
       "id": "main_task_group-02-01#33",
       "number": 99,
-      "description": "Завершите P-Task 32"
+      "description": "Выполнено P-задания 32"
     },
     {
       "id": "main_task_group-02-01#34",
       "number": 99,
-      "description": "Завершите P-Task 33"
+      "description": "Выполнено P-задания 33"
     },
     {
       "id": "main_task_group-02-01#35",
       "number": 99,
-      "description": "Завершите P-Task 34"
+      "description": "Выполнено P-задания 34"
     },
     {
       "id": "main_task_group-02-01#36",
       "number": 99,
-      "description": "Завершите P-Task 35"
+      "description": "Выполните P-задание 35"
     },
     {
       "id": "main_task_group-02-01#37",
       "number": 99,
-      "description": "Завершите P-Task 36"
+      "description": "Выполнено P-задания 36"
     },
     {
       "id": "main_task_group-02-01#38",
       "number": 99,
-      "description": "Завершите P-Task 37"
+      "description": "Выполнено P-задания 37"
     },
     {
       "id": "main_task_group-02-01#39",
       "number": 99,
-      "description": "Завершите P-Task 38"
+      "description": "Выполнено P-задания 38"
     },
     {
       "id": "main_task_group-02-01#40",
       "number": 99,
-      "description": "Завершите P-Task 39"
+      "description": "Выполнено P-задания 39"
     },
     {
       "id": "main_task_group-02-01#41",
       "number": 99,
-      "description": "Завершите P-Task 40"
+      "description": "Выполнено P-задания 40"
     },
     {
       "id": "main_task_group-02-01#42",
       "number": 99,
-      "description": "Завершите P-Task 41"
+      "description": "Выполнено P-задания 41"
     },
     {
       "id": "main_task_group-02-01#43",
       "number": 99,
-      "description": "Завершите P-Task 42"
+      "description": "Выполнено P-задания 42"
     },
     {
       "id": "main_task_group-02-01#44",
       "number": 99,
-      "description": "Завершите P-Task 43"
+      "description": "Выполнено P-задания 43"
     },
     {
       "id": "main_task_group-02-01#45",
       "number": 99,
-      "description": "Завершите P-Task 44"
+      "description": "Выполнено P-задания 44"
     },
     {
       "id": "main_task_group-02-01#46",
       "number": 99,
-      "description": "Завершите P-Task 45"
+      "description": "Выполнено P-задания 45"
     },
     {
       "id": "main_task_group-02-01#47",
       "number": 99,
-      "description": "Завершите P-Task 46"
+      "description": "Выполнено P-задания 46"
     },
     {
       "id": "main_task_group-02-01#48",
       "number": 99,
-      "description": "Завершите P-Task 47"
+      "description": "Выполнено задание P-Task 47"
     },
     {
       "id": "main_task_group-02-01#49",
       "number": 99,
-      "description": "Завершите P-Task 48"
+      "description": "Выполнено P-задания 48"
     },
     {
       "id": "main_task_group-02-01#50",
       "number": 99,
-      "description": "Завершите P-Task 49"
+      "description": "Выполнено P-задания 49"
     },
     {
       "id": "main_task_group-02-01#51",
       "number": 99,
-      "description": "Завершите P-Task 50"
+      "description": "Выполнено P-задания 50"
     },
     {
       "id": "main_task_group-02-01#52",
       "number": 99,
-      "description": "Завершите P-Task 51"
+      "description": "Выполните P-задачу 51"
     },
     {
       "id": "main_task_group-02-01#53",
       "number": 99,
-      "description": "Завершите P-Task 52"
+      "description": "Выполнено P-задания 52"
     },
     {
       "id": "main_task_group-02-01#54",
       "number": 99,
-      "description": "Завершите P-Task 53"
+      "description": "Выполнено P-задания 53"
     },
     {
       "id": "main_task_group-02-01#55",
       "number": 99,
-      "description": "Завершите P-Task 54"
+      "description": "Выполнено P-задания 54"
     },
     {
       "id": "main_task_group-02-01#56",
       "number": 99,
-      "description": "Завершите P-Task 55"
+      "description": "Выполнено P-задания 55"
     },
     {
       "id": "main_task_group-02-01#57",
       "number": 99,
-      "description": "Завершите P-Task 56"
+      "description": "Выполните P-задачу 56"
     },
     {
       "id": "main_task_group-02-01#58",
       "number": 99,
-      "description": "Завершите P-Task 57"
+      "description": "Выполнено P-задания 57"
     },
     {
       "id": "main_task_group-02-01#59",
       "number": 99,
-      "description": "Завершите P-Task 58"
+      "description": "Выполнено P-задания 58"
     },
     {
       "id": "main_task_group-02-01#60",
       "number": 99,
-      "description": "Завершите P-Task 59"
+      "description": "Выполнено P-задания 59"
     },
     {
       "id": "main_task_group-02-01#61",
       "number": 99,
-      "description": "Завершите P-Task 60"
+      "description": "Выполнено P-задания 60"
     },
     {
       "id": "main_task_group-02-01#62",
       "number": 99,
-      "description": "Завершите P-Task 61"
+      "description": "Выполнено P-Задания 61"
     },
     {
       "id": "main_task_group-02-01#63",
       "number": 99,
-      "description": "Завершите P-Task 62"
+      "description": "Выполнено P-задания 62"
     },
     {
       "id": "main_task_group-02-01#64",
       "number": 99,
-      "description": "Завершите P-Task 63"
+      "description": "Выполнено P-задания 63"
     },
     {
       "id": "main_task_group-02-01#65",
       "number": 99,
-      "description": "Завершите P-Task 64"
+      "description": "Выполнено P-задания 64"
     },
     {
       "id": "main_task_group-02-01#66",
       "number": 99,
-      "description": "Завершите P-Task 65"
+      "description": "Выполнено P-задания 65"
     },
     {
       "id": "main_task_group-02-01#67",
       "number": 99,
-      "description": "Завершите P-Task 66"
+      "description": "Выполнено P-задания 66"
     },
     {
       "id": "main_task_group-02-01#68",
       "number": 99,
-      "description": "Завершите P-Task 67"
+      "description": "Выполните P-задачу 67"
     },
     {
       "id": "main_task_group-02-01#69",
       "number": 99,
-      "description": "Завершите P-Task 68"
+      "description": "Выполнено P-задания 68"
     },
     {
       "id": "main_task_group-02-01#70",
       "number": 99,
-      "description": "Завершите P-Task 69"
+      "description": "Выполнено P-задания 69"
     },
     {
       "id": "main_task_group-02-01#71",
       "number": 99,
-      "description": "Завершите P-Task 70"
+      "description": "Выполнено P-задания 70"
     },
     {
       "id": "main_task_group-02-01#72",
       "number": 99,
-      "description": "Завершите P-Task 71"
+      "description": "Выполнено P-задания 71"
     },
     {
       "id": "main_task_group-02-01#73",
       "number": 99,
-      "description": "Завершите P-Task 72"
+      "description": "Выполнено P-Задания 72"
     },
     {
       "id": "main_task_group-02-01#74",
       "number": 99,
-      "description": "Завершите P-Task 73"
+      "description": "Выполнено P-задания 73"
     },
     {
       "id": "main_task_group-02-01#75",
       "number": 99,
-      "description": "Завершите P-Task 74"
+      "description": "Выполнено P-задания 74"
     },
     {
       "id": "main_task_group-02-01#76",
       "number": 99,
-      "description": "Завершите P-Task 75"
+      "description": "Выполнено P-задачи 75"
     },
     {
       "id": "main_task_group-02-01#77",
       "number": 99,
-      "description": "Завершите P-Task 76"
+      "description": "Выполнено P-задания 76"
     },
     {
       "id": "main_task_group-02-01#78",
       "number": 99,
-      "description": "Завершите P-Task 77"
+      "description": "Выполнено P-задания 77"
     },
     {
       "id": "main_task_group-02-01#79",
       "number": 99,
-      "description": "Завершите P-Task 78"
+      "description": "Выполнено P-задания 78"
     },
     {
       "id": "main_task_group-02-01#80",
       "number": 99,
-      "description": "Завершите P-Task 79"
+      "description": "Выполнено P-задания 79"
     },
     {
       "id": "main_task_group-02-01#81",
       "number": 99,
-      "description": "Завершите P-Task 80"
+      "description": "Выполнено P-задания 80"
     },
     {
       "id": "main_task_group-02-01#82",
       "number": 99,
-      "description": "Завершите P-Task 81"
+      "description": "Выполнено P-задания 81"
     },
     {
       "id": "main_task_group-02-01#83",
       "number": 99,
-      "description": "Завершите P-Task 82"
+      "description": "Выполнено P-задания 82"
     },
     {
       "id": "main_task_group-02-01#84",
       "number": 99,
-      "description": "Завершите P-Task 83"
+      "description": "Выполнено P-задания 83"
     },
     {
       "id": "main_task_group-02-01#85",
       "number": 99,
-      "description": "Завершите P-Task 84"
+      "description": "Выполнено P-задания 84"
     },
     {
       "id": "main_task_group-02-01#86",
       "number": 99,
-      "description": "Завершите P-Task 85"
+      "description": "Выполнено P-задачи 85"
     },
     {
       "id": "main_task_group-02-01#87",
       "number": 99,
-      "description": "Завершите P-Task 86"
+      "description": "Выполнено P-задания 86"
     },
     {
       "id": "main_task_group-02-01#88",
       "number": 99,
-      "description": "Завершите P-Task 87"
+      "description": "Выполнено P-задания 87"
     },
     {
       "id": "main_task_group-02-01#89",
       "number": 99,
-      "description": "Завершите P-Task 88"
+      "description": "Выполнено P-задания 88"
     },
     {
       "id": "main_task_group-02-01#90",
       "number": 99,
-      "description": "Завершите P-Task 89"
+      "description": "Выполнено P-задания 89"
     },
     {
       "id": "main_task_group-02-01#91",
       "number": 99,
-      "description": "Завершите P-Task 90"
+      "description": "Выполнено P-задания 90"
     },
     {
       "id": "main_task_group-02-01#92",
       "number": 99,
-      "description": "Завершите P-Task 91"
+      "description": "Выполнено P-задания 91"
     },
     {
       "id": "main_task_group-02-01#93",
       "number": 99,
-      "description": "Завершите P-Task 92"
+      "description": "Выполнено P-задания 92"
     },
     {
       "id": "main_task_group-02-01#94",
       "number": 99,
-      "description": "Завершите P-Task 93"
+      "description": "Выполнено P-задания 93"
     },
     {
       "id": "main_task_group-02-01#95",
       "number": 99,
-      "description": "Завершите P-Task 94"
+      "description": "Выполнено P-задания 94"
     },
     {
       "id": "main_task_group-02-01#96",
       "number": 99,
-      "description": "Завершите P-Task 95"
+      "description": "Выполнено P-задания 95"
     },
     {
       "id": "main_task_group-02-01#97",
       "number": 99,
-      "description": "Завершите P-Task 96"
+      "description": "Выполнено P-задания 96"
     },
     {
       "id": "main_task_group-02-01#98",
       "number": 99,
-      "description": "Завершите P-Task 97"
+      "description": "Выполнено P-задания 97"
     },
     {
       "id": "main_task_group-02-01#99",
       "number": 99,
-      "description": "Завершите P-Task 98"
+      "description": "Выполнено P-задания 98"
     },
     {
       "id": "main_task_group-02-01#100",
       "number": 99,
-      "description": "Завершите P-Task 99"
+      "description": "Выполнено P-задания 99"
     },
     {
       "id": "main_task_group-03-01#1",
       "number": 99,
-      "description": "Завершите P-Task 100"
+      "description": "Выполнено P-задания 100"
     },
     {
       "id": "main_task_group-03-01#2",
       "number": 99,
-      "description": "Завершите P-Task 2-1"
+      "description": "Выполнить P-задачу 2-1"
     },
     {
       "id": "main_task_group-03-01#3",
       "number": 99,
-      "description": "Завершите P-Task 2-2"
+      "description": "Выполнено P-задания 2-2"
     },
     {
       "id": "main_task_group-03-01#4",
       "number": 99,
-      "description": "Завершите P-Task 2-3"
+      "description": "Выполнено P-задачи 2-3"
     },
     {
       "id": "main_task_group-03-01#5",
       "number": 99,
-      "description": "Завершите P-Task 2-4"
+      "description": "Выполнено P-задания 2-4"
     },
     {
       "id": "main_task_group-03-01#6",
       "number": 99,
-      "description": "Завершите P-Task 2-5"
+      "description": "Выполнено P-Задания 2-5"
     },
     {
       "id": "main_task_group-03-01#7",
       "number": 99,
-      "description": "Завершите P-Task 2-6"
+      "description": "Выполнено P-задания 2-6"
     },
     {
       "id": "main_task_group-03-01#8",
       "number": 99,
-      "description": "Завершите P-Task 2-7"
+      "description": "Выполнено P-задания 2-7"
     },
     {
       "id": "main_task_group-03-01#9",
       "number": 99,
-      "description": "Завершите P-Task 2-8"
+      "description": "Выполнено P-задания 2-8"
     },
     {
       "id": "main_task_group-03-01#10",
       "number": 99,
-      "description": "Завершите P-Task 2-9"
+      "description": "Выполнено P-задания 2-9"
     },
     {
       "id": "main_task_group-03-01#11",
       "number": 99,
-      "description": "Завершите P-Task 2-10"
+      "description": "Выполнено P-задания 2-10"
     },
     {
       "id": "main_task_group-03-01#12",
       "number": 99,
-      "description": "Завершите P-Task 2-11"
+      "description": "Выполнено P-задания 2-11"
     },
     {
       "id": "main_task_group-03-01#13",
       "number": 99,
-      "description": "Завершите P-Task 2-12"
+      "description": "Выполнено P-задания 2-12"
     },
     {
       "id": "main_task_group-03-01#14",
       "number": 99,
-      "description": "Завершите P-Task 2-13"
+      "description": "Выполнено P-задания 2-13"
     },
     {
       "id": "main_task_group-03-01#15",
       "number": 99,
-      "description": "Завершите P-Task 2-14"
+      "description": "Выполнить P-задачу 2-14"
     },
     {
       "id": "main_task_group-03-01#16",
       "number": 99,
-      "description": "Завершите P-Task 2-15"
+      "description": "Выполните P-задачу 2-15"
     },
     {
       "id": "main_task_group-03-01#17",
       "number": 99,
-      "description": "Завершите P-Task 2-16"
+      "description": "Выполнено P-задания 2-16"
     },
     {
       "id": "main_task_group-03-01#18",
       "number": 99,
-      "description": "Завершите P-Task 2-17"
+      "description": "Выполнено P-задания 2-17"
     },
     {
       "id": "main_task_group-03-01#19",
       "number": 99,
-      "description": "Завершите P-Task 2-18"
+      "description": "Выполнить P-задачу 2-18"
     },
     {
       "id": "main_task_group-03-01#20",
       "number": 99,
-      "description": "Завершите P-Task 2-19"
+      "description": "Выполнено P-задания 2-19"
     },
     {
       "id": "main_task_group-03-01#21",
       "number": 99,
-      "description": "Завершите P-Task 2-20"
+      "description": "Выполнено P-задания 2-20"
     },
     {
       "id": "main_task_group-03-01#22",
       "number": 99,
-      "description": "Завершите P-Task 2-21"
+      "description": "Выполнено P-задания 2-21"
     },
     {
       "id": "main_task_group-03-01#23",
       "number": 99,
-      "description": "Завершите P-Task 2-22"
+      "description": "Выполнено P-задания 2-22"
     },
     {
       "id": "main_task_group-03-01#24",
       "number": 99,
-      "description": "Завершите P-Task 2-23"
+      "description": "Выполнено P-задания 2-23"
     },
     {
       "id": "main_task_group-03-01#25",
       "number": 99,
-      "description": "Завершите P-Task 2-24"
+      "description": "Выполнено P-задания 2-24"
     },
     {
       "id": "main_task_group-03-01#26",
       "number": 99,
-      "description": "Завершите P-Task 2-25"
+      "description": "Выполнено P-задания 2-25"
     },
     {
       "id": "main_task_group-03-01#27",
       "number": 99,
-      "description": "Завершите P-Task 2-26"
+      "description": "Выполнено P-задания 2-26"
     },
     {
       "id": "main_task_group-03-01#28",
       "number": 99,
-      "description": "Завершите P-Task 2-27"
+      "description": "Выполнено P-задания 2-27"
     },
     {
       "id": "main_task_group-03-01#29",
       "number": 99,
-      "description": "Завершите P-Task 2-28"
+      "description": "Выполнено P-задания 2-28"
     },
     {
       "id": "main_task_group-03-01#30",
       "number": 99,
-      "description": "Завершите P-Task 2-29"
+      "description": "Выполнено P-задания 2-29"
     },
     {
       "id": "main_task_group-03-01#31",
       "number": 99,
-      "description": "Завершите P-Task 2-30"
+      "description": "Выполнено P-задания 2-30"
     },
     {
       "id": "main_task_group-03-01#32",
       "number": 99,
-      "description": "Завершите P-Task 2-31"
+      "description": "Выполнено P-задания 2-31"
     },
     {
       "id": "main_task_group-03-01#33",
       "number": 99,
-      "description": "Завершите P-Task 2-32"
+      "description": "Выполнено P-задания 2-32"
     },
     {
       "id": "main_task_group-03-01#34",
       "number": 99,
-      "description": "Завершите P-Task 2-33"
+      "description": "Выполнено P-задания 2-33"
     },
     {
       "id": "main_task_group-03-01#35",
       "number": 99,
-      "description": "Завершите P-Task 2-34"
+      "description": "Выполнено P-задания 2-34"
     },
     {
       "id": "main_task_group-03-01#36",
       "number": 99,
-      "description": "Завершите P-Task 2-35"
+      "description": "Выполнено P-задания 2-35"
     },
     {
       "id": "main_task_group-03-01#37",
       "number": 99,
-      "description": "Завершите P-Task 2-36"
+      "description": "Выполнено P-задания 2-36"
     },
     {
       "id": "main_task_group-03-01#38",
       "number": 99,
-      "description": "Завершите P-Task 2-37"
+      "description": "Выполнено P-задачи 2-37"
     },
     {
       "id": "main_task_group-03-01#39",
       "number": 99,
-      "description": "Завершите P-Task 2-38"
+      "description": "Выполнено P-Задания 2-38"
     },
     {
       "id": "main_task_group-03-01#40",
       "number": 99,
-      "description": "Завершите P-Task 2-39"
+      "description": "Выполнено P-задания 2-39"
     },
     {
       "id": "main_task_group-03-01#41",
       "number": 99,
-      "description": "Завершите P-Task 2-40"
+      "description": "Выполнено P-задания 2-40"
     },
     {
       "id": "main_task_group-03-01#42",
       "number": 99,
-      "description": "Завершите P-Task 2-41"
+      "description": "Выполнено P-задания 2-41"
     },
     {
       "id": "main_task_group-03-01#43",
       "number": 99,
-      "description": "Завершите P-Task 2-42"
+      "description": "Выполнено P-задания 2-42"
     },
     {
       "id": "main_task_group-03-01#44",
       "number": 99,
-      "description": "Завершите P-Task 2-43"
+      "description": "Выполнено P-задания 2-43"
     },
     {
       "id": "main_task_group-03-01#45",
       "number": 99,
-      "description": "Завершите P-Task 2-44"
+      "description": "Выполнено P-задания 2-44"
     },
     {
       "id": "main_task_group-03-01#46",
       "number": 99,
-      "description": "Завершите P-Task 2-45"
+      "description": "Выполнено P-задания 2-45"
     },
     {
       "id": "main_task_group-03-01#47",
       "number": 99,
-      "description": "Завершите P-Task 2-46"
+      "description": "Выполнено P-задания 2-46"
     },
     {
       "id": "main_task_group-03-01#48",
       "number": 99,
-      "description": "Завершите P-Task 2-47"
+      "description": "Выполнено P-задания 2-47"
     },
     {
       "id": "main_task_group-03-01#49",
       "number": 99,
-      "description": "Завершите P-Task 2-48"
+      "description": "Выполнено P-задания 2-48"
     },
     {
       "id": "main_task_group-03-01#50",
       "number": 99,
-      "description": "Завершите P-Task 2-49"
+      "description": "Выполнено P-задания 2-49"
     },
     {
       "id": "main_task_group-03-01#51",
       "number": 99,
-      "description": "Завершите P-Task 2-50"
+      "description": "Выполнено P-задания 2-50"
     },
     {
       "id": "main_task_group-03-01#52",
       "number": 99,
-      "description": "Завершите P-Task 51"
+      "description": "Выполнено P-задания 51"
     },
     {
       "id": "main_task_group-03-01#53",
       "number": 99,
-      "description": "Завершите P-Task 52"
+      "description": "Выполнено P-задания 52"
     },
     {
       "id": "main_task_group-03-01#54",
       "number": 99,
-      "description": "Завершите P-Task 53"
+      "description": "Выполнено P-задания 53"
     },
     {
       "id": "main_task_group-03-01#55",
       "number": 99,
-      "description": "Завершите P-Task 54"
+      "description": "Выполнено P-задания 54"
     },
     {
       "id": "main_task_group-03-01#56",
       "number": 99,
-      "description": "Завершите P-Task 55"
+      "description": "Выполнено P-задания 55"
     },
     {
       "id": "main_task_group-03-01#57",
       "number": 99,
-      "description": "Завершите P-Task 56"
+      "description": "Выполнено P-задания 56"
     },
     {
       "id": "main_task_group-03-01#58",
       "number": 99,
-      "description": "Завершите P-Task 57"
+      "description": "Выполнено P-задания 57"
     },
     {
       "id": "main_task_group-03-01#59",
       "number": 99,
-      "description": "Завершите P-Task 58"
+      "description": "Выполнено P-задания 58"
     },
     {
       "id": "main_task_group-03-01#60",
       "number": 99,
-      "description": "Завершите P-Task 59"
+      "description": "Выполнено P-задания 59"
     },
     {
       "id": "main_task_group-03-01#61",
       "number": 99,
-      "description": "Завершите P-Task 60"
+      "description": "Выполнено P-задания 60"
     },
     {
       "id": "main_task_group-03-01#62",
       "number": 99,
-      "description": "Завершите P-Task 61"
+      "description": "Выполнено P-задания 61"
     },
     {
       "id": "main_task_group-03-01#63",
       "number": 99,
-      "description": "Завершите P-Task 62"
+      "description": "Выполнено P-задания 62"
     },
     {
       "id": "main_task_group-03-01#64",
       "number": 99,
-      "description": "Завершите P-Task 63"
+      "description": "Выполнено P-задания 63"
     },
     {
       "id": "main_task_group-03-01#65",
       "number": 99,
-      "description": "Завершите P-Task 64"
+      "description": "Выполнено P-задания 64"
     },
     {
       "id": "main_task_group-03-01#66",
       "number": 99,
-      "description": "Завершите P-Task 65"
+      "description": "Выполнено P-задания 65"
     },
     {
       "id": "main_task_group-03-01#67",
       "number": 99,
-      "description": "Завершите P-Task 66"
+      "description": "Выполнено P-задания 66"
     },
     {
       "id": "main_task_group-03-01#68",
       "number": 99,
-      "description": "Завершите P-Task 67"
+      "description": "Выполнено P-задания 67"
     },
     {
       "id": "main_task_group-03-01#69",
       "number": 99,
-      "description": "Завершите P-Task 68"
+      "description": "Выполнено P-задания 68"
     },
     {
       "id": "main_task_group-03-01#70",
       "number": 99,
-      "description": "Завершите P-Task 69"
+      "description": "Выполнено P-задания 69"
     },
     {
       "id": "main_task_group-03-01#71",
       "number": 99,
-      "description": "Завершите P-Task 70"
+      "description": "Выполнено P-задания 70"
     },
     {
       "id": "main_task_group-03-01#72",
       "number": 99,
-      "description": "Завершите P-Task 71"
+      "description": "Выполнено P-задания 71"
     },
     {
       "id": "main_task_group-03-01#73",
       "number": 99,
-      "description": "Завершите P-Task 72"
+      "description": "Выполнено P-задания 72"
     },
     {
       "id": "main_task_group-03-01#74",
       "number": 99,
-      "description": "Завершите P-Task 73"
+      "description": "Выполнено P-задания 73"
     },
     {
       "id": "main_task_group-03-01#75",
       "number": 99,
-      "description": "Завершите P-Task 74"
+      "description": "Выполнено P-задания 74"
     },
     {
       "id": "main_task_group-03-01#76",
       "number": 99,
-      "description": "Завершите P-Task 75"
+      "description": "Выполнено P-задания 75"
     },
     {
       "id": "main_task_group-03-01#77",
       "number": 99,
-      "description": "Завершите P-Task 76"
+      "description": "Выполнено P-задания 76"
     },
     {
       "id": "main_task_group-03-01#78",
       "number": 99,
-      "description": "Завершите P-Task 77"
+      "description": "Выполнено P-задания 77"
     },
     {
       "id": "main_task_group-03-01#79",
       "number": 99,
-      "description": "Завершите P-Task 78"
+      "description": "Выполнено P-задания 78"
     },
     {
       "id": "main_task_group-03-01#80",
       "number": 99,
-      "description": "Завершите P-Task 79"
+      "description": "Выполните P-задание 79"
     },
     {
       "id": "main_task_group-03-01#81",
       "number": 99,
-      "description": "Завершите P-Task 80"
+      "description": "Выполнено P-задания 80"
     },
     {
       "id": "main_task_group-03-01#82",
       "number": 99,
-      "description": "Завершите P-Task 81"
+      "description": "Выполнено P-задания 81"
     },
     {
       "id": "main_task_group-03-01#83",
       "number": 99,
-      "description": "Завершите P-Task 82"
+      "description": "Выполнено P-задания 82"
     },
     {
       "id": "main_task_group-03-01#84",
       "number": 99,
-      "description": "Завершите P-Task 83"
+      "description": "Выполнено P-задания 83"
     },
     {
       "id": "main_task_group-03-01#85",
       "number": 99,
-      "description": "Завершите P-Task 84"
+      "description": "Выполнено P-задания 84"
     },
     {
       "id": "main_task_group-03-01#86",
       "number": 99,
-      "description": "Завершите P-Task 85"
+      "description": "Выполнено P-задания 85"
     },
     {
       "id": "main_task_group-03-01#87",
       "number": 99,
-      "description": "Завершите P-Task 86"
+      "description": "Выполнено P-задания 86"
     },
     {
       "id": "main_task_group-03-01#88",
       "number": 99,
-      "description": "Завершите P-Task 87"
+      "description": "Выполнено P-задания 87"
     },
     {
       "id": "main_task_group-03-01#89",
       "number": 99,
-      "description": "Завершите P-Task 88"
+      "description": "Выполнено P-задания 88"
     },
     {
       "id": "main_task_group-03-01#90",
       "number": 99,
-      "description": "Завершите P-Task 89"
+      "description": "Выполнено P-задания 89"
     },
     {
       "id": "main_task_group-03-01#91",
       "number": 99,
-      "description": "Завершите P-Task 90"
+      "description": "Выполнено P-задания 90"
     },
     {
       "id": "main_task_group-03-01#92",
       "number": 99,
-      "description": "Завершите P-Task 91"
+      "description": "Выполнено P-задания 91"
     },
     {
       "id": "main_task_group-03-01#93",
       "number": 99,
-      "description": "Завершите P-Task 92"
+      "description": "Выполнено P-задания 92"
     },
     {
       "id": "main_task_group-03-01#94",
       "number": 99,
-      "description": "Завершите P-Task 93"
+      "description": "Выполните P-задание 93"
     },
     {
       "id": "main_task_group-03-01#95",
       "number": 99,
-      "description": "Завершите P-Task 94"
+      "description": "Выполнено P-задания 94"
     },
     {
       "id": "main_task_group-03-01#96",
       "number": 99,
-      "description": "Завершите P-Task 95"
+      "description": "Выполнено P-задания 95"
     },
     {
       "id": "main_task_group-03-01#97",
       "number": 99,
-      "description": "Завершите P-Task 96"
+      "description": "Выполнено P-задания 96"
     },
     {
       "id": "main_task_group-03-01#98",
       "number": 99,
-      "description": "Завершите P-Task 97"
+      "description": "Выполнено P-задания 97"
     },
     {
       "id": "main_task_group-03-01#99",
       "number": 99,
-      "description": "Завершите P-Task 98"
+      "description": "Выполнено P-задания 98"
     },
     {
       "id": "main_task_group-03-01#100",
       "number": 99,
-      "description": "Завершите P-Task 99"
+      "description": "Выполнено P-задания 99"
     },
     {
       "id": "main_task_group-04-01#1",
       "number": 99,
-      "description": "Завершите P-Task 100"
+      "description": "Выполнено P-задания 100"
     },
     {
       "id": "main_task_group-04-01#2",
       "number": 99,
-      "description": "Завершите P-Task 04-1"
+      "description": "Выполнено P-задания 04-1"
     },
     {
       "id": "main_task_group-04-01#3",
       "number": 99,
-      "description": "Завершите P-Task 04-2"
+      "description": "Выполните P-задачу 04-2"
     },
     {
       "id": "main_task_group-04-01#4",
       "number": 99,
-      "description": "Завершите P-Task 04-3"
+      "description": "Выполнено P-задания 04-3"
     },
     {
       "id": "main_task_group-04-01#5",
       "number": 99,
-      "description": "Завершите P-Task 04-4"
+      "description": "Выполните P-задание 04-4"
     },
     {
       "id": "main_task_group-04-01#6",
       "number": 99,
-      "description": "Завершите P-Task 04-5"
+      "description": "Выполнено P-задания 04-5"
     },
     {
       "id": "main_task_group-04-01#7",
       "number": 99,
-      "description": "Завершите P-Task 04-6"
+      "description": "Выполнено задание P-Task 04-6"
     },
     {
       "id": "main_task_group-04-01#8",
       "number": 99,
-      "description": "Завершите P-Task 04-7"
+      "description": "Выполнено P-задания 04-7"
     },
     {
       "id": "main_task_group-04-01#9",
       "number": 99,
-      "description": "Завершите P-Task 04-8"
+      "description": "Выполнено P-задания 04-8"
     },
     {
       "id": "main_task_group-04-01#10",
       "number": 99,
-      "description": "Завершите P-Task 04-9"
+      "description": "Выполните P-задание 04-9"
     },
     {
       "id": "main_task_group-04-01#11",
       "number": 99,
-      "description": "Завершите P-Task 04-10"
+      "description": "Выполнено P-задания 04-10"
     },
     {
       "id": "main_task_group-04-01#12",
       "number": 99,
-      "description": "Завершите P-Task 04-11"
+      "description": "Выполнено P-задания 04-11"
     },
     {
       "id": "main_task_group-04-01#13",
       "number": 99,
-      "description": "Завершите P-Task 04-12"
+      "description": "Выполнено P-задания 04-12"
     },
     {
       "id": "main_task_group-04-01#14",
       "number": 99,
-      "description": "Завершите P-Task 04-13"
+      "description": "Выполните P-задание 04-13"
     },
     {
       "id": "main_task_group-04-01#15",
       "number": 99,
-      "description": "Завершите P-Task 04-14"
+      "description": "Выполнено P-задания 04-14"
     },
     {
       "id": "main_task_group-04-01#16",
       "number": 99,
-      "description": "Завершите P-Task 04-15"
+      "description": "Выполнено P-задания 04-15"
     },
     {
       "id": "main_task_group-04-01#17",
       "number": 99,
-      "description": "Завершите P-Task 04-16"
+      "description": "Выполнено P-задания 04-16"
     },
     {
       "id": "main_task_group-04-01#18",
       "number": 99,
-      "description": "Завершите P-Task 04-17"
+      "description": "Выполнено P-задания 04-17"
     },
     {
       "id": "main_task_group-04-01#19",
       "number": 99,
-      "description": "Завершите P-Task 04-18"
+      "description": "Выполнено P-задания 04-18"
     },
     {
       "id": "main_task_group-04-01#20",
       "number": 99,
-      "description": "Завершите P-Task 04-19"
+      "description": "Выполнено P-Задания 04-19"
     },
     {
       "id": "main_task_group-04-01#21",
       "number": 99,
-      "description": "Завершите P-Task 04-20"
+      "description": "Выполнено P-Задания 04-20"
     },
     {
       "id": "main_task_group-04-01#22",
       "number": 99,
-      "description": "Завершите P-Task 04-21"
+      "description": "Выполнено P-задания 04-21"
     },
     {
       "id": "main_task_group-04-01#23",
       "number": 99,
-      "description": "Завершите P-Task 04-22"
+      "description": "Выполнено P-задания 04-22"
     },
     {
       "id": "main_task_group-04-01#24",
       "number": 99,
-      "description": "Завершите P-Task 04-23"
+      "description": "Выполнено P-задания 04-23"
     },
     {
       "id": "main_task_group-04-01#25",
       "number": 99,
-      "description": "Завершите P-Task 04-24"
+      "description": "Выполнено P-задания 04-24"
     },
     {
       "id": "main_task_group-04-01#26",
       "number": 99,
-      "description": "Завершите P-Task 04-25"
+      "description": "Выполнено P-задания 04-25"
     },
     {
       "id": "main_task_group-04-01#27",
       "number": 99,
-      "description": "Завершите P-Task 04-26"
+      "description": "Выполнено P-задания 04-26"
     },
     {
       "id": "main_task_group-04-01#28",
       "number": 99,
-      "description": "Завершите P-Task 04-27"
+      "description": "Выполнено P-задания 04-27"
     },
     {
       "id": "main_task_group-04-01#29",
       "number": 99,
-      "description": "Завершите P-Task 04-28"
+      "description": "Выполнено P-задания 04-28"
     },
     {
       "id": "main_task_group-04-01#30",
       "number": 99,
-      "description": "Завершите P-Task 04-29"
+      "description": "Выполнено P-задания 04-29"
     },
     {
       "id": "main_task_group-04-01#31",
       "number": 99,
-      "description": "Завершите P-Task 04-30"
+      "description": "Выполнено P-задания 04-30"
     },
     {
       "id": "main_task_group-04-01#32",
       "number": 99,
-      "description": "Завершите P-Task 04-31"
+      "description": "Выполнено P-задания 04-31"
     },
     {
       "id": "main_task_group-04-01#33",
       "number": 99,
-      "description": "Завершите P-Task 04-32"
+      "description": "Выполнено P-задания 04-32"
     },
     {
       "id": "main_task_group-04-01#34",
       "number": 99,
-      "description": "Завершите P-Task 04-33"
+      "description": "Выполнено P-задания 04-33"
     },
     {
       "id": "main_task_group-04-01#35",
       "number": 99,
-      "description": "Завершите P-Task 04-34"
+      "description": "Выполнено P-задания 04-34"
     },
     {
       "id": "main_task_group-04-01#36",
       "number": 99,
-      "description": "Завершите P-Task 04-35"
+      "description": "Выполнено P-задания 04-35"
     },
     {
       "id": "main_task_group-04-01#37",
       "number": 99,
-      "description": "Завершите P-Task 04-36"
+      "description": "Выполните P-задачу 04-36"
     },
     {
       "id": "main_task_group-04-01#38",
       "number": 99,
-      "description": "Завершите P-Task 04-37"
+      "description": "Выполнено P-задания 04-37"
     },
     {
       "id": "main_task_group-04-01#39",
       "number": 99,
-      "description": "Завершите P-Task 04-38"
+      "description": "Выполните P-задачу 04-38"
     },
     {
       "id": "main_task_group-04-01#40",
       "number": 99,
-      "description": "Завершите P-Task 04-39"
+      "description": "Выполнено P-задания 04-39"
     },
     {
       "id": "main_task_group-04-01#41",
       "number": 99,
-      "description": "Завершите P-Task 04-40"
+      "description": "Выполнено P-задания 04-40"
     },
     {
       "id": "main_task_group-04-01#42",
       "number": 99,
-      "description": "Завершите P-Task 04-41"
+      "description": "Выполнено P-задания 04-41"
     },
     {
       "id": "main_task_group-04-01#43",
       "number": 99,
-      "description": "Завершите P-Task 04-42"
+      "description": "Выполните P-задачу 04-42"
     },
     {
       "id": "main_task_group-04-01#44",
       "number": 99,
-      "description": "Завершите P-Task 04-43"
+      "description": "Выполнено P-задания 04-43"
     },
     {
       "id": "main_task_group-04-01#45",
       "number": 99,
-      "description": "Завершите P-Task 04-44"
+      "description": "Выполнено P-задания 04-44"
     },
     {
       "id": "main_task_group-04-01#46",
       "number": 99,
-      "description": "Завершите P-Task 04-45"
+      "description": "Выполнено P-задания 04-45"
     },
     {
       "id": "main_task_group-04-01#47",
       "number": 99,
-      "description": "Завершите P-Task 04-46"
+      "description": "Выполните P-задачу 04-46"
     },
     {
       "id": "main_task_group-04-01#48",
       "number": 99,
-      "description": "Завершите P-Task 04-47"
+      "description": "Выполнено P-задания 04-47"
     },
     {
       "id": "main_task_group-04-01#49",
       "number": 99,
-      "description": "Завершите P-Task 04-48"
+      "description": "Выполнено P-задания 04-48"
     },
     {
       "id": "main_task_group-04-01#50",
       "number": 99,
-      "description": "Завершите P-Task 04-49"
+      "description": "Выполнено P-задания 04-49"
     }
   ]
 }

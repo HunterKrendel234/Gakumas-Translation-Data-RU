@@ -13,112 +13,126 @@
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "Перед третьим раундом квалификационных матчей"
+      "title": "Перед 3-м этапом Квалификации"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
-      "title": "Перед вторым раундом финальных матчей"
+      "title": "Перед 2-м раундом финала"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "Перед первым раундом квалификационных матчей"
+      "title": "Перед 1-м этапом квалификации"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
-      "title": "На финальный этап!"
+      "title": "К финальному этапу!"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "Перед вторым раундом квалификационных матчей"
+      "title": "Перед 2-м этапом Квалификации"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "H.I.F Квалификатор"
+      "title": "Квалификация H.I.F"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_Opening",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "hski",
+      "title": "Квалификация H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
-      "title": "H.I.F Финалы"
+      "title": "Финал H.I.F"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_Opening",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "hski",
+      "title": "Финал H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "kllj",
-      "title": "Финалы H.I.F"
+      "title": "Финал H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "ssmk",
-      "title": "Финалы H.I.F"
+      "title": "Финал H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "Результаты квалификации…"
+      "title": "Результаты квалификации..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
-      "produceSplitTypes": "ProduceSplitType_Final",
-      "targetCharacterId": "",
-      "title": "Результаты финалов H.I.F…"
-    },
-    {
-      "produceType": "ProduceType_HatsuboshiIdolFestival",
-      "type": "ProduceAdvType_ProduceResultA",
-      "produceSplitTypes": "ProduceSplitType_Selection",
-      "targetCharacterId": "",
-      "title": "Результаты квалификации…"
-    },
-    {
-      "produceType": "ProduceType_HatsuboshiIdolFestival",
-      "type": "ProduceAdvType_ProduceResultA",
-      "produceSplitTypes": "ProduceSplitType_Final",
-      "targetCharacterId": "",
-      "title": "Результаты финалов H.I.F…"
-    },
-    {
-      "produceType": "ProduceType_HatsuboshiIdolFestival",
-      "type": "ProduceAdvType_ProduceResultB",
-      "produceSplitTypes": "ProduceSplitType_Selection",
-      "targetCharacterId": "",
-      "title": "Результаты квалификации…"
-    },
-    {
-      "produceType": "ProduceType_HatsuboshiIdolFestival",
-      "type": "ProduceAdvType_ProduceResultB",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
       "title": "Результаты финала H.I.F..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultA",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "Результаты квалификации..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultA",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "",
+      "title": "Результаты финала H.I.F..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultB",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "",
+      "title": "Результаты квалификации..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_ProduceResultB",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "",
+      "title": "Результаты Финала H.I.F..."
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_ProduceResultC",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "Результаты квалификационных матчей..."
+      "title": "Результаты квалификации..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
@@ -132,7 +146,7 @@
       "type": "ProduceAdvType_ProduceResultFailedFinal",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "Результаты квалификационных матчей..."
+      "title": "Результаты Квалификации..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
@@ -146,7 +160,7 @@
       "type": "ProduceAdvType_ProduceResultFailedMid1",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "Результаты квалификационных матчей..."
+      "title": "Результаты квалификации..."
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
@@ -160,7 +174,7 @@
       "type": "ProduceAdvType_ProduceResultFailedMid2",
       "produceSplitTypes": "ProduceSplitType_Selection",
       "targetCharacterId": "",
-      "title": "Результаты квалификационных матчей..."
+      "title": "Результаты квалификации..."
     }
   ]
 }

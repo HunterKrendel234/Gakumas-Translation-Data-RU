@@ -9,17 +9,17 @@
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeFinalLessonHard",
-      "title": "Начало урока перед финальным экзаменом!"
+      "title": "Начало урока финального экзамена!"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid1LessonHard",
-      "title": "Начало урока перед финальным экзаменом!"
+      "title": "Начало урока финального экзамена!"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid2LessonHard",
-      "title": "Начало урока перед финальным экзаменом!"
+      "title": "Начало урока финального экзамена!"
     },
     {
       "produceType": "ProduceType_FirstStar",
@@ -29,12 +29,12 @@
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
-      "title": "День перед промежуточным экзаменом"
+      "title": "Накануне промежуточного экзамена"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
-      "title": "День перед промежуточным экзаменом"
+      "title": "День перед промежуточным Экзаменом"
     },
     {
       "produceType": "ProduceType_FirstStar",
@@ -44,37 +44,37 @@
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultA",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultB",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultC",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedFinal",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedMid1",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedMid2",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
@@ -84,12 +84,12 @@
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1LessonHard",
-      "title": "Начало урока перед финальным экзаменом!"
+      "title": "Начало урока финального экзамена!"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2LessonHard",
-      "title": "Начало урока перед финальным экзаменом!"
+      "title": "Начало урока финального экзамена!"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
@@ -99,27 +99,27 @@
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
-      "title": "День перед 1-м прослушиванием"
+      "title": "День перед 1-м Прослушиванием"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
-      "title": "День перед 2-м прослушиванием"
+      "title": "День перед вторым прослушиванием"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalAuditionSelect",
-      "title": "Выбор для финального прослушивания"
+      "title": "Финальный отбор на прослушивании"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1AuditionSelect",
-      "title": "Выбор для 1-го прослушивания"
+      "title": "Выбор на 1-м прослушивании"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2AuditionSelect",
-      "title": "Выбор для 2-го прослушивания"
+      "title": "Отбор на 2-е прослушивание"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
@@ -134,37 +134,37 @@
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultA",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultB",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultC",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedFinal",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedMid1",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedMid2",
-      "title": "Итоговые результаты..."
+      "title": "Финальные результаты..."
     }
   ]
 }

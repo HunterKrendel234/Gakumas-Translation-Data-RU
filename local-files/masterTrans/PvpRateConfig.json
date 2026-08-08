@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "pvp_rate_config-1",
-      "description": "#АнимеХайпОтряд"
+      "description": "Первый Турнир"
     },
     {
       "id": "pvp_rate_config-10",
@@ -178,8 +178,16 @@
       "description": "S48"
     },
     {
+      "id": "pvp_rate_config-49",
+      "description": "S49"
+    },
+    {
       "id": "pvp_rate_config-5",
       "description": "S5"
+    },
+    {
+      "id": "pvp_rate_config-50",
+      "description": "S50"
     },
     {
       "id": "pvp_rate_config-6",

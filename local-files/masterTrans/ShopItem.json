@@ -7,15 +7,15 @@
   "data": [
     {
       "id": "shop_costume_amao-cstm-0069_revival-1",
-      "name": "Детский фартук (Mao Arimura)"
+      "name": "Детская рубаха (Mao Arimura)"
     },
     {
       "id": "shop_costume_amao-cstm-0076",
-      "name": "Кимоно Хинамацури (Mao Arimura)"
+      "name": "Кимоно Хиномацури (Mao Arimura)"
     },
     {
       "id": "shop_costume_amao-cstm-0111",
-      "name": "Матросский купальник (Mao Arimura)"
+      "name": "Пляжный купальник морячки (Mao Arimura)"
     },
     {
       "id": "shop_costume_amao-othr-0002-resale",
@@ -31,15 +31,15 @@
     },
     {
       "id": "shop_costume_atbm-cstm-0069",
-      "name": "Детский фартук (Tsubame Amaya)"
+      "name": "Детская рубаха (Tsubame Amaya)"
     },
     {
       "id": "shop_costume_atbm-cstm-0111",
-      "name": "Матросский купальник (Tsubame Amaya)"
+      "name": "Пляжный костюм морячки (Tsubame Amaya)"
     },
     {
       "id": "shop_costume_atbm-othr-0002",
-      "name": "Купальник для горячих источников (Tsubame Amaya)"
+      "name": "Купальник для онсэна (Tsubame Amaya)"
     },
     {
       "id": "shop_costume_atbm-trng-0002",
@@ -47,7 +47,7 @@
     },
     {
       "id": "shop_costume_costume_head_amao-hair-0001",
-      "name": "Заколка «Гортензия» (Mao Arimura)"
+      "name": "Украшение для волос «Гортензия» (Mao Arimura)"
     },
     {
       "id": "shop_costume_costume_head_amao-hair-0003",
@@ -59,15 +59,15 @@
     },
     {
       "id": "shop_costume_costume_head_amao-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (Mao Arimura)"
+      "name": "Головной убор Хацуми☆ (Mao Arimura)"
     },
     {
       "id": "shop_costume_costume_head_amao-hair-0007",
-      "name": "Капельные очки (Mao Arimura)"
+      "name": "Очки «Слеза» (Mao Arimura)"
     },
     {
       "id": "shop_costume_costume_head_atbm-hair-0001",
-      "name": "Заколка «Гортензия» (Tsubame Amaya)"
+      "name": "Украшение для волос «Гортензия» (Tsubame Amaya)"
     },
     {
       "id": "shop_costume_costume_head_atbm-hair-0003",
@@ -79,11 +79,11 @@
     },
     {
       "id": "shop_costume_costume_head_atbm-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (Tsubame Amaya)"
+      "name": "Шляпа Хацуми☆Аксессуар (Tsubame Amaya)"
     },
     {
       "id": "shop_costume_costume_head_atbm-hair-0007",
-      "name": "Очки-капли (Tsubame Amaya)"
+      "name": "Очки «Слеза» (Tsubame Amaya)"
     },
     {
       "id": "shop_costume_costume_head_atbm-hair-0008",
@@ -91,7 +91,7 @@
     },
     {
       "id": "shop_costume_costume_head_fktn-hair-0001",
-      "name": "Заколка «Гортензия» (Kotone Fujita)"
+      "name": "Украшение для волос «Гортензия» (Kotone Fujita)"
     },
     {
       "id": "shop_costume_costume_head_fktn-hair-0003",
@@ -103,15 +103,19 @@
     },
     {
       "id": "shop_costume_costume_head_fktn-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (Kotone Fujita)"
+      "name": "Шляпа☆Аксессуар (Kotone Fujita)"
     },
     {
       "id": "shop_costume_costume_head_fktn-hair-0007",
-      "name": "Очки-капли (Kotone Fujita)"
+      "name": "Очки с каплей (Kotone Fujita)"
+    },
+    {
+      "id": "shop_costume_costume_head_fktn-hair-0008",
+      "name": "Собачьи ушки (Kotone Fujita)"
     },
     {
       "id": "shop_costume_costume_head_hmsz-hair-0001",
-      "name": "Заколка «Гортензия» (Misuzu Hataya)"
+      "name": "Украшение для волос «Гортензия» (Misuzu Hataya)"
     },
     {
       "id": "shop_costume_costume_head_hmsz-hair-0003",
@@ -123,15 +127,15 @@
     },
     {
       "id": "shop_costume_costume_head_hmsz-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (Misuzu Hataya)"
+      "name": "Хацуми☆Аксессуар (Misuzu Hataya)"
     },
     {
       "id": "shop_costume_costume_head_hmsz-hair-0007",
-      "name": "Капельные очки (Misuzu Hataya)"
+      "name": "Очки «Слеза» (Misuzu Hataya)"
     },
     {
       "id": "shop_costume_costume_head_hrnm-hair-0001",
-      "name": "Заколка «Гортензия» (Rinami Himesaki)"
+      "name": "Украшение для волос «Гортензия» (Rinami Himesaki)"
     },
     {
       "id": "shop_costume_costume_head_hrnm-hair-0003",
@@ -143,15 +147,15 @@
     },
     {
       "id": "shop_costume_costume_head_hrnm-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (Rinami Himesaki)"
+      "name": "Шляпа Hatsumi☆Аксессуар (Rinami Himesaki)"
     },
     {
       "id": "shop_costume_costume_head_hrnm-hair-0007",
-      "name": "Капельные очки (Rinami Himesaki)"
+      "name": "Очки «Слеза» (Rinami Himesaki)"
     },
     {
       "id": "shop_costume_costume_head_hski-hair-0001",
-      "name": "Заколка «Гортензия» (Saki Hanami)"
+      "name": "Волосы с орнаментом гортензии (Саки Ханами)"
     },
     {
       "id": "shop_costume_costume_head_hski-hair-0003",
@@ -163,15 +167,19 @@
     },
     {
       "id": "shop_costume_costume_head_hski-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (Saki Hanami)"
+      "name": "Шляпа Хацуми☆Аксессуар (Saki Hanami)"
     },
     {
       "id": "shop_costume_costume_head_hski-hair-0007",
-      "name": "Очки-капли (Saki Hanami)"
+      "name": "Очки «Слеза» (Saki Hanami)"
+    },
+    {
+      "id": "shop_costume_costume_head_hski-hair-0008",
+      "name": "Собачьи ушки (Saki Hanami)"
     },
     {
       "id": "shop_costume_costume_head_hume-hair-0001",
-      "name": "Заколка «Гортензия» (Ume Hanami)"
+      "name": "Волосы «Цветы гортензии» (Ume Hanami)"
     },
     {
       "id": "shop_costume_costume_head_hume-hair-0003",
@@ -183,15 +191,15 @@
     },
     {
       "id": "shop_costume_costume_head_hume-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (Ume Hanami)"
+      "name": "Шляпа Hatsumi☆Аксессуар (Ume Hanami)"
     },
     {
       "id": "shop_costume_costume_head_hume-hair-0007",
-      "name": "Капельные очки (Ume Hanami)"
+      "name": "Очки «Слеза» (Ume Hanami)"
     },
     {
       "id": "shop_costume_costume_head_jsna-hair-0001",
-      "name": "Заколка «Гортензия» (Sena Juo)"
+      "name": "Украшение для волос «Гортензия» (Sena Juo)"
     },
     {
       "id": "shop_costume_costume_head_jsna-hair-0003",
@@ -203,15 +211,19 @@
     },
     {
       "id": "shop_costume_costume_head_jsna-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (Sena Juo)"
+      "name": "Шляпа☆Аксессуар (Sena Juo)"
     },
     {
       "id": "shop_costume_costume_head_jsna-hair-0007",
-      "name": "Очки-капли (Sena Juo)"
+      "name": "Очки «Слеза» (Sena Juo)"
+    },
+    {
+      "id": "shop_costume_costume_head_jsna-hair-0008",
+      "name": "Собачьи ушки (Sena Juo)"
     },
     {
       "id": "shop_costume_costume_head_kcna-hair-0001",
-      "name": "Заколка «Гортензия» (China Kuramoto)"
+      "name": "Украшение для волос «Гортензия» (China Kuramoto)"
     },
     {
       "id": "shop_costume_costume_head_kcna-hair-0003",
@@ -223,15 +235,15 @@
     },
     {
       "id": "shop_costume_costume_head_kcna-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (China Kuramoto)"
+      "name": "Хатсуми☆Аксессуар (China Kuramoto)"
     },
     {
       "id": "shop_costume_costume_head_kcna-hair-0007",
-      "name": "Капельные очки (China Kuramoto)"
+      "name": "Очки «Слеза» (China Kuramoto)"
     },
     {
       "id": "shop_costume_costume_head_kllj-hair-0001",
-      "name": "Заколка «Гортензия» (Lilja Katsuragi)"
+      "name": "Украшение для волос «Гортензия» (Lilja Katsuragi)"
     },
     {
       "id": "shop_costume_costume_head_kllj-hair-0003",
@@ -243,11 +255,11 @@
     },
     {
       "id": "shop_costume_costume_head_kllj-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (Lilja Katsuragi)"
+      "name": "Шляпа☆Аксессуар (Lilja Katsuragi)"
     },
     {
       "id": "shop_costume_costume_head_kllj-hair-0007",
-      "name": "Капельные очки (Lilja Katsuragi)"
+      "name": "Очки с каплевидными линзами (Lilja Katsuragi)"
     },
     {
       "id": "shop_costume_costume_head_nasr-hair-0004",
@@ -259,11 +271,11 @@
     },
     {
       "id": "shop_costume_costume_head_nasr-hair-0007",
-      "name": "Очки-капли (Asari Neo)"
+      "name": "Очки «Слеза» (Asari Neo)"
     },
     {
       "id": "shop_costume_costume_head_shro-hair-0001",
-      "name": "Заколка «Гортензия» (Hiro Shinosawa)"
+      "name": "Украшение для волос «Гортенезия» (Hiro Shinosawa)"
     },
     {
       "id": "shop_costume_costume_head_shro-hair-0003",
@@ -275,15 +287,15 @@
     },
     {
       "id": "shop_costume_costume_head_shro-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (Hiro Shinosawa)"
+      "name": "Hatsumi☆Аксессуар (Hiro Shinosawa)"
     },
     {
       "id": "shop_costume_costume_head_shro-hair-0007",
-      "name": "Капельные очки (Hiro Shinosawa)"
+      "name": "Очки «Слеза» (Hiro Shinosawa)"
     },
     {
       "id": "shop_costume_costume_head_ssmk-hair-0001",
-      "name": "Заколка «Гортензия» (Sumika Shiun)"
+      "name": "Украшение для волос «Гортензия» (Sumika Shiun)"
     },
     {
       "id": "shop_costume_costume_head_ssmk-hair-0003",
@@ -295,15 +307,15 @@
     },
     {
       "id": "shop_costume_costume_head_ssmk-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (Sumika Shiun)"
+      "name": "Шляпа☆Аксессуар (Sumika Shiun)"
     },
     {
       "id": "shop_costume_costume_head_ssmk-hair-0007",
-      "name": "Капельные очки (Sumika Shiun)"
+      "name": "Очки «Слеза» (Сумика Сиун)"
     },
     {
       "id": "shop_costume_costume_head_ttmr-hair-0001",
-      "name": "Заколка «Гортензия» (Temari Tsukimura)"
+      "name": "Украшение для волос «Гортензия» (Temari Tsukimura)"
     },
     {
       "id": "shop_costume_costume_head_ttmr-hair-0003",
@@ -315,23 +327,27 @@
     },
     {
       "id": "shop_costume_costume_head_ttmr-hair-0006",
-      "name": "Аксессуар Hatsumi☆ (Temari Tsukimura)"
+      "name": "Шляпа☆Аксессуар (Temari Tsukimura)"
     },
     {
       "id": "shop_costume_costume_head_ttmr-hair-0007",
-      "name": "Очки-капли (Temari Tsukimura)"
+      "name": "Очки с каплями (Temari Tsukimura)"
+    },
+    {
+      "id": "shop_costume_costume_head_ttmr-hair-0008",
+      "name": "Собачьи ушки (Temari Tsukimura)"
     },
     {
       "id": "shop_costume_fktn-cstm-0063",
-      "name": "Праздничный хаори Happi (Kotone Fujita)"
+      "name": "Фестивальный хаппи (Kotone Fujita)"
     },
     {
       "id": "shop_costume_fktn-cstm-0069_revival-1",
-      "name": "Детский фартук (Kotone Fujita)"
+      "name": "Детская рубашка (Kotone Fujita)"
     },
     {
       "id": "shop_costume_fktn-cstm-0111",
-      "name": "Матросский купальник (Kotone Fujita)"
+      "name": "Пляжный костюм морячки (Kotone Fujita)"
     },
     {
       "id": "shop_costume_fktn-othr-0002-resale",
@@ -347,11 +363,11 @@
     },
     {
       "id": "shop_costume_hmsz-cstm-0069",
-      "name": "Детский фартук (Misuzu Hataya)"
+      "name": "Детская рубашка (Misuzu Hataya)"
     },
     {
       "id": "shop_costume_hmsz-cstm-0111",
-      "name": "Матросский купальник (Misuzu Hataya)"
+      "name": "Пляжный костюм матроски (Misuzu Hataya)"
     },
     {
       "id": "shop_costume_hmsz-othr-0002",
@@ -359,31 +375,31 @@
     },
     {
       "id": "shop_costume_hmsz-othr-0002-resale",
-      "name": "Купальник для горячих источников (Misuzu Hataya)"
+      "name": "Купальник для онсена (Misuzu Hataya)"
     },
     {
       "id": "shop_costume_hmsz-trng-0002",
-      "name": "Спортивная форма академии Hatsuboshi (Misuzu Hataya)"
+      "name": "Спортивная форма академии Hatsuboshi (Мисузу Хатая)"
     },
     {
       "id": "shop_costume_hmsz-trng-0002-resale",
-      "name": "Спортивная форма академии Hatsuboshi (Misuzu Hataya)"
+      "name": "Спортивная форма академии Hatsuboshi (Мисузу Хатая)"
     },
     {
       "id": "shop_costume_hrnm-cstm-0051",
-      "name": "Купальник с худи (Rinami Himesaki)"
+      "name": "Купальник-худи (Rinami Himesaki)"
     },
     {
       "id": "shop_costume_hrnm-cstm-0069_revival-1",
-      "name": "Детский фартук (Rinami Himesaki)"
+      "name": "Детская рубаха (Rinami Himesaki)"
     },
     {
       "id": "shop_costume_hrnm-cstm-0075",
-      "name": "Фартук с сердцем (Rinami Himesaki)"
+      "name": "Фартук с сердечком (Rinami Himesaki)"
     },
     {
       "id": "shop_costume_hrnm-cstm-0111",
-      "name": "Матросский купальник (Rinami Himesaki)"
+      "name": "Купальник морячки (Rinami Himesaki)"
     },
     {
       "id": "shop_costume_hrnm-trng-0002",
@@ -395,15 +411,15 @@
     },
     {
       "id": "shop_costume_hski-cstm-0069_revival-1",
-      "name": "Детский фартук (Saki Hanami)"
+      "name": "Детская рубаха (Saki Hanami)"
     },
     {
       "id": "shop_costume_hski-cstm-0081",
-      "name": "Сейлор форма «Сакура» (Saki Hanami)"
+      "name": "Школьная форма «Сакура» (Саки Ханами)"
     },
     {
       "id": "shop_costume_hski-cstm-0111",
-      "name": "Матросский купальник (Saki Hanami)"
+      "name": "Пляжный купальник матроски (Saki Hanami)"
     },
     {
       "id": "shop_costume_hski-othr-0002-resale",
@@ -411,27 +427,27 @@
     },
     {
       "id": "shop_costume_hski-trng-0002",
-      "name": "Спортивная форма академии Hatsuboshi (Saki Hanami)"
+      "name": "Спортивная форма Академии Хацубоси (Saki Hanami)"
     },
     {
       "id": "shop_costume_hski-trng-0002-resale",
-      "name": "Спортивная форма академии Hatsuboshi (Saki Hanami)"
+      "name": "Спортивная форма академии Хацубоси (Саки Ханами)"
     },
     {
       "id": "shop_costume_hume-cstm-0067",
-      "name": "Плащ Санты (Ume)"
+      "name": "Плащ Санты (Умэ)"
     },
     {
       "id": "shop_costume_hume-cstm-0069",
-      "name": "Детский фартук (Ume Hanami)"
+      "name": "Детская рубаха (Ume Hanami)"
     },
     {
       "id": "shop_costume_hume-cstm-0069_revival-1",
-      "name": "Детский фартук (Ume Hanami)"
+      "name": "Детская рубашка (Ume Hanami)"
     },
     {
       "id": "shop_costume_hume-cstm-0111",
-      "name": "Матросский купальник (Ume Hanami)"
+      "name": "Пляжный костюм морячки (Ume Hanami)"
     },
     {
       "id": "shop_costume_hume-trng-0002",
@@ -443,19 +459,19 @@
     },
     {
       "id": "shop_costume_jsna-cstm-0069",
-      "name": "Детский фартук (Sena Juo)"
+      "name": "Детская рубаха (Sena Juo)"
     },
     {
       "id": "shop_costume_jsna-cstm-0069_revival-1",
-      "name": "Детский фартук (Sena Juo)"
+      "name": "Детская рубаха (Sena Juo)"
     },
     {
       "id": "shop_costume_jsna-cstm-0075",
-      "name": "Фартук с сердцем (Sena Juo)"
+      "name": "Фартук «Сердце» (Sena Juo)"
     },
     {
       "id": "shop_costume_jsna-cstm-0111",
-      "name": "Матросский купальник (Sena Juo)"
+      "name": "Пляжный костюм матроски (Sena Juo)"
     },
     {
       "id": "shop_costume_jsna-othr-0002",
@@ -475,7 +491,7 @@
     },
     {
       "id": "shop_costume_kcna-cstm-0069_revival-1",
-      "name": "Детский фартук (China Kuramoto)"
+      "name": "Детская рубашка (China Kuramoto)"
     },
     {
       "id": "shop_costume_kcna-cstm-0076",
@@ -483,7 +499,11 @@
     },
     {
       "id": "shop_costume_kcna-cstm-0111",
-      "name": "Матросский купальник (China Kuramoto)"
+      "name": "Плавники моряка (China Kuramoto)"
+    },
+    {
+      "id": "shop_costume_kcna-cstm-0118",
+      "name": "Вой, над костюмом (Китай)"
     },
     {
       "id": "shop_costume_kcna-trng-0002",
@@ -495,19 +515,23 @@
     },
     {
       "id": "shop_costume_kllj-cstm-0063",
-      "name": "Праздничный хаори Happi (Lilja Katsuragi)"
+      "name": "Фестивальное хаппи (Lilja Katsuragi)"
     },
     {
       "id": "shop_costume_kllj-cstm-0067",
-      "name": "Плащ Санты (Lilja)"
+      "name": "Плащ Санты (Лилья)"
     },
     {
       "id": "shop_costume_kllj-cstm-0069_revival-1",
-      "name": "Детский фартук (Lilja Katsuragi)"
+      "name": "Детская рубаха (Lilja Katsuragi)"
     },
     {
       "id": "shop_costume_kllj-cstm-0111",
-      "name": "Матросский купальник (Lilja Katsuragi)"
+      "name": "Мореходческий купальник (Lilja Katsuragi)"
+    },
+    {
+      "id": "shop_costume_kllj-cstm-0118",
+      "name": "Вопль над Костюмом (Лилья)"
     },
     {
       "id": "shop_costume_kllj-othr-0002-resale",
@@ -523,23 +547,23 @@
     },
     {
       "id": "shop_costume_nasr-cstm-0069",
-      "name": "Детский фартук (Asari Neo)"
+      "name": "Детская рубаха (Asari Neo)"
     },
     {
       "id": "shop_costume_nasr-cstm-0069_revival-1",
-      "name": "Детский фартук (Asari Neo)"
+      "name": "Детская рубаха (Asari Neo)"
     },
     {
       "id": "shop_costume_nasr-cstm-0111",
-      "name": "Матросский купальник (Asari Neo)"
+      "name": "Пляжный костюм морячки (Asari Neo)"
     },
     {
       "id": "shop_costume_nasr-cstm-0135",
-      "name": "Купальник с футболкой (Asari Neo)"
+      "name": "Футболка-купальник (Asari Neo)"
     },
     {
       "id": "shop_costume_nasr-cstm-0135_revival-1",
-      "name": "Купальник с футболкой (Asari Neo)"
+      "name": "Футболка-купальник (Asari Neo)"
     },
     {
       "id": "shop_costume_nasr-hair-0005",
@@ -551,11 +575,11 @@
     },
     {
       "id": "shop_costume_shro-cstm-0069_revival-1",
-      "name": "Детский фартук (Hiro Shinosawa)"
+      "name": "Детская рубашка (Hiro Shinosawa)"
     },
     {
       "id": "shop_costume_shro-cstm-0111",
-      "name": "Матросский купальник (Hiro Shinosawa)"
+      "name": "Пляжный костюм морячки (Hiro Shinosawa)"
     },
     {
       "id": "shop_costume_shro-othr-0002-resale",
@@ -567,35 +591,35 @@
     },
     {
       "id": "shop_costume_shro-trng-0002-resale",
-      "name": "Спортивная форма академии Hatsuboshi (Hiro Shinosawa)"
+      "name": "Спортивная форма академии Hatsuboshi (Хиро Синосава)"
     },
     {
       "id": "shop_costume_ssmk-cstm-0051",
-      "name": "Купальник с худи (Sumika Shiun)"
+      "name": "Купальник-худи (Sumika Shiun)"
     },
     {
       "id": "shop_costume_ssmk-cstm-0069_revival-1",
-      "name": "Детский фартук (Sumika Shiun)"
+      "name": "Детская рубаха (Sumika Shiun)"
     },
     {
       "id": "shop_costume_ssmk-cstm-0081",
-      "name": "Сейлор форма «Сакура» (Sumika Shiun)"
+      "name": "Школьная форма Сакуры (Сумика Сиун)"
     },
     {
       "id": "shop_costume_ssmk-cstm-0111",
-      "name": "Матросский купальник (Sumika Shiun)"
+      "name": "Плотский купальник (Сумика Шиун)"
     },
     {
       "id": "shop_costume_ssmk-othr-0002-resale",
-      "name": "Купальник для горячих источников (Sumika Shiun)"
+      "name": "Купальник для горячих источников (Сумика Сиун)"
     },
     {
       "id": "shop_costume_ssmk-trng-0002",
-      "name": "Спортивная форма академии Hatsuboshi (Sumika Shiun)"
+      "name": "Спортивная форма академии Hatsuboshi (Сумика Сиун)"
     },
     {
       "id": "shop_costume_ssmk-trng-0002-resale",
-      "name": "Спортивная форма академии Hatsuboshi (Sumika Shiun)"
+      "name": "Спортивная форма академии Hatsuboshi (Сумика Сион)"
     },
     {
       "id": "shop_costume_ttmr-cstm-0065",
@@ -603,11 +627,11 @@
     },
     {
       "id": "shop_costume_ttmr-cstm-0069_revival-1",
-      "name": "Детский фартук (Temari Tsukimura)"
+      "name": "Детская рубашка (Temari Tsukimura)"
     },
     {
       "id": "shop_costume_ttmr-cstm-0111",
-      "name": "Матросский купальник (Temari Tsukimura)"
+      "name": "Пляжный костюм матроски (Temari Tsukimura)"
     },
     {
       "id": "shop_costume_ttmr-othr-0002-resale",
@@ -619,195 +643,199 @@
     },
     {
       "id": "shop_costume_ttmr-trng-0002-resale",
-      "name": "Спортивная форма академии Hatsuboshi (Temari Tsukimura)"
+      "name": "Спортивная форма академии Hatsuboshi (Темари Цукумура)"
     },
     {
       "id": "shop_jewel_item-0001",
-      "name": "80 драгоценных камней"
+      "name": "80 Самоцветов"
     },
     {
       "id": "shop_jewel_item-0002",
-      "name": "360 драгоценных камней"
+      "name": "360 Самоцветов"
     },
     {
       "id": "shop_jewel_item-0003",
-      "name": "600 драгоценных камней"
+      "name": "600 Самоцветов"
     },
     {
       "id": "shop_jewel_item-0004",
-      "name": "1,200 драгоценных камней"
+      "name": "1 200 Самоцветов"
     },
     {
       "id": "shop_jewel_item-0005",
-      "name": "2,500 драгоценных камней"
+      "name": "2 500 Самоцветов"
     },
     {
       "id": "shop_jewel_item-0006",
-      "name": "4,000 драгоценных камней"
+      "name": "4 000 Самоцветов"
     },
     {
       "id": "shop_jewel_item-0007",
-      "name": "8,200 драгоценных камней"
+      "name": "8 200 Самоцветов"
     },
     {
       "id": "shop_jewel_item-0008",
-      "name": "[Разовое спецпредложение!] 12,300 драгоценных камней (до 6/28)"
+      "name": "«[Специальное предложение!] 12 300 Самоцветов (до 28.06)»"
     },
     {
       "id": "shop_jewel_item-0009",
-      "name": "[Разовое спецпредложение!] 450 драгоценных камней (до 6/28)"
+      "name": "«[Специальное предложение!] 450 Самоцветов (до 28.06)»"
     },
     {
       "id": "shop_jewel_item-0010",
-      "name": "[Разовое спецпредложение!] 6,000 драгоценных камней (до 6/28)"
+      "name": "«[Специальное предложение!] 6 000 Самоцветов (до 28.06)»"
     },
     {
       "id": "shop_jewel_item-0011",
-      "name": "[Тур: разовое спецпредложение!] 6,000 драгоценных камней"
+      "name": "«[Специальное предложение в рамках тура!] 6 000 Самоцветов»"
     },
     {
       "id": "shop_jewel_item-0014",
-      "name": "[Дважды: спецпредложение!] 12,300 драгоценных камней"
+      "name": "«[Спецпредложение для постоянных клиентов!] 12 300 Самоцветов»"
     },
     {
       "id": "shop_jewel_item-0015",
-      "name": "[Дважды: спецпредложение!] 6,000 драгоценных камней"
+      "name": "«[Спецпредложение для постоянных клиентов!] 6 000 Самоцветов»"
     },
     {
       "id": "shop_jewel_item-0016",
-      "name": "[Дважды: спецпредложение!] 6,000 драгоценных камней"
+      "name": "«[Спецпредложение для ветеранов!] 6 000 Самоцветов»"
     },
     {
       "id": "shop_jewel_item-0017",
-      "name": "[Дважды: спецпредложение!] 12,300 драгоценных камней"
+      "name": "«[Специальное предложение!] 12 300 Самоцветов»"
     },
     {
       "id": "shop_jewel_item-0018",
-      "name": "[Дважды: спецпредложение!] 12,300 драгоценных камней"
+      "name": "«[Спецпредложение для тех, кто дважды!] 12 300 Самоцветов»"
     },
     {
       "id": "shop_jewel_item-0019",
-      "name": "[Дважды: спецпредложение!] 6,000 драгоценных камней"
+      "name": "«[Спецпредложение для двоих!] 6 000 Самоцветов»"
     },
     {
       "id": "shop_jewel_item-0020",
-      "name": "[Разовая акция!] 12,300 драгоценных камней"
+      "name": "«[Разовая акция!]» 12 300 Самоцветов"
     },
     {
       "id": "shop_jewel_item-0021",
-      "name": "[Разовая акция!] 6,000 драгоценных камней"
+      "name": "«Разовая сделка!» 6 000 Самоцветов"
     },
     {
       "id": "shop_jewel_item-0023",
-      "name": "[Разовая акция!] 6,000 драгоценных камней"
+      "name": "«Разовая сделка!» 6 000 Самоцветов"
     },
     {
       "id": "shop_jewel_item-0024",
-      "name": "[Разовая акция!] 6,000 драгоценных камней"
+      "name": "«[Разовая сделка!] 6 000 Самоцветов»"
     },
     {
       "id": "shop_jewel_item-0025",
-      "name": "[Дважды: спецпредложение!] 12,300 драгоценных камней"
+      "name": "«[Спецпредложение для постоянных клиентов!]» 12 300 Самоцветов"
     },
     {
       "id": "shop_jewel_item-0026",
-      "name": "[Дважды: спецпредложение!] 6,000 драгоценных камней"
+      "name": "«Специальное предложение для ветеранов!» 6 000 Самоцветов"
     },
     {
       "id": "shop_jewel_item-0030",
-      "name": "[Разовая акция!] 12,300 драгоценных камней"
+      "name": "«[Разовая сделка!] 12 300 Самоцветов»"
     },
     {
       "id": "shop_jewel_item-0032",
-      "name": "[Разовая покупка!] 12,300 Самоцветы"
+      "name": "«[Разовая сделка!] 12 300 Самоцветов»"
     },
     {
       "id": "shop_jewel_item-0033",
-      "name": "[2× Спецпредложение!] 6,000 Самоцветы"
+      "name": "«[Спецпредложение для постоянных клиентов!] 6 000 Самоцветов»"
+    },
+    {
+      "id": "shop_jewel_item-0038",
+      "name": "«[Разовая сделка!] 12 300 Самоцветов»"
     },
     {
       "id": "shop_pack_atbm-0001",
-      "name": "[72 часа] Набор частей продюсируемого айдола (Tsubame)"
+      "name": "[Лимитировано 72 ч] Пакет Фрагментов Айдола (Продюсирование) (Tsubame)"
     },
     {
       "id": "shop_pack_hmsz-0001",
-      "name": "[72 часа] Набор частей продюсируемого айдола (Misuzu)"
+      "name": "[Лимитировано на 72 часа] Набор Фрагментов Айдола (Мисузу)"
     },
     {
       "id": "shop_pack_hume-0001",
-      "name": "[72 часа] Набор частей продюсируемого айдола (Ume)"
+      "name": "[Лимитировано на 72 часа] Пакет Фрагментов Айдола (Ume)"
     },
     {
       "id": "shop_pack_item-0001",
-      "name": "[24 часа] Стартовый набор"
+      "name": "[Ограниченно на 24 часа] Пакет регистрации"
     },
     {
       "id": "shop_pack_item-0002",
-      "name": "[14 дней] Набор поддержки нового продюсера"
+      "name": "[Лимитированное предложение на 14 дней] Новый пакет поддержки продюсера"
     },
     {
       "id": "shop_pack_item-0003",
-      "name": "Еженедельно! Набор Hatsuboshi"
+      "name": "Еженедельный запас! Пак Hatsuboshi"
     },
     {
       "id": "shop_pack_item-0004",
-      "name": "Еженедельно! Набор тренировки"
+      "name": "Пакет еженедельной тренировки!"
     },
     {
       "id": "shop_pack_item-0005",
-      "name": "Ежемесячно! Набор тренировки"
+      "name": "Ежемесячные обновления! Пакет для тренировки"
     },
     {
       "id": "shop_pack_item-0006",
-      "name": "[72 часа] Набор частей продюсируемого айдола (Saki)"
+      "name": "[Лимитированное предложение 72 ч] Пакет Фрагментов Айдола (Saki)"
     },
     {
       "id": "shop_pack_item-0007",
-      "name": "[72 часа] Набор частей продюсируемого айдола (Temari)"
+      "name": "[Лимитированный набор на 72 часа] Пак Фрагментов Айдола (Temari)"
     },
     {
       "id": "shop_pack_item-0008",
-      "name": "[72 часа] Набор частей продюсируемого айдола (Kotone)"
+      "name": "[Лимитированное предложение на 72 часа] Пакет фрагментов айдола (Kotone)"
     },
     {
       "id": "shop_pack_item-0009",
-      "name": "[72 часа] Набор частей продюсируемого айдола (Mao)"
+      "name": "[Лимитировано 72 ч] Пак «Фрагменты Продюсируемого Айдола» (Mao)"
     },
     {
       "id": "shop_pack_item-0010",
-      "name": "[72 часа] Набор частей продюсируемого айдола (Lilja)"
+      "name": "[Лимитированное предложение на 72 часа] Пакет фрагментов Айдола (Lilja)"
     },
     {
       "id": "shop_pack_item-0011",
-      "name": "[72 часа] Набор частей продюсируемого айдола (China)"
+      "name": "[Лимитированное предложение на 72 часа] Пакет фрагментов Продюсируемого Айдола (Китай)"
     },
     {
       "id": "shop_pack_item-0012",
-      "name": "[72 часа] Набор частей продюсируемого айдола (Sumika)"
+      "name": "[Ограничено 72 часа] Пакет Фрагментов Айдола (Sumika)"
     },
     {
       "id": "shop_pack_item-0013",
-      "name": "[72 часа] Набор частей продюсируемого айдола (Hiro)"
+      "name": "[Лимитированное предложение на 72 часа] Пакет фрагментов Продюсируемого Айдола (Hiro)"
     },
     {
       "id": "shop_pack_item-0014",
-      "name": "[72 часа] Набор частей продюсируемого айдола (Rinami)"
+      "name": "[Лимитированное предложение на 72 часа] Пакет фрагментов Айдола (Rinami)"
     },
     {
       "id": "shop_pack_item-0050",
-      "name": "Набор ко Дню спорта Hatsuhoshi"
+      "name": "Набор «Спортивный день Хацухоси»"
     },
     {
       "id": "shop_pack_item-0057",
-      "name": "Набор айдола к 1.5-летию"
+      "name": "Айдол-пак к 1.5-летию"
     },
     {
       "id": "shop_pack_item-0058",
-      "name": "Набор поддержки к 1.5-летию"
+      "name": "Пакет поддержки к 1.5-летию"
     },
     {
       "id": "shop_pack_item-0061",
-      "name": "Сезонный набор к 1.5-летию"
+      "name": "Пакет сезона к 1,5-летию"
     },
     {
       "id": "shop_pack_item-0062",
@@ -815,259 +843,263 @@
     },
     {
       "id": "shop_pack_item-0063",
-      "name": "Промо TVCM: выгодный набор тренировки A"
+      "name": "Набор ценности тренировки в честь ТВ-рекламы А"
     },
     {
       "id": "shop_pack_item-0064",
-      "name": "Промо TVCM: выгодный набор тренировки B"
+      "name": "Пакет тренировочной ценности в память о ТВ-рекламе B"
     },
     {
       "id": "shop_pack_item-0067",
-      "name": "2-й юбилейный Айдол-пакет"
+      "name": "Пак «Айдол» к 2-летию"
     },
     {
       "id": "shop_pack_item-0068",
-      "name": "2-й юбилейный Пакет поддержки"
+      "name": "Поддерживающий пакет 2-летия"
     },
     {
       "id": "shop_pack_item-0069",
-      "name": "Гарантированный пакет 2-й годовщины Live Tour SSR P Айдол"
+      "name": "Пакет с гарантированным SSR Айдолом для Live-тура в честь 2-й годовщины"
     },
     {
       "id": "shop_pack_item-0071",
-      "name": "Памятный пакет 2-го периода H.I.F Selection Экзамен"
+      "name": "Памятный набор Экзамена выбора H.I.F. 2-го периода"
     },
     {
       "id": "shop_pack_item-100dl",
-      "name": "[1 млн загрузок] Набор тренировки (до 6/28)"
+      "name": "[1 млн DL] Пакет для Тренировки (до 28.06)"
     },
     {
       "id": "shop_pack_item-1stPeriodHarmonyStar-selection-ticket",
-      "name": "Набор Harmony Star 1-го периода"
+      "name": "Набор «Звезда гармонии» 1-го периода"
     },
     {
       "id": "shop_pack_item-1stPeriodSpotlightStar-selection-ticket",
-      "name": "Набор Spotlight Star 1-го периода"
+      "name": "Набор «Звезда особого внимания» (1-й период)"
     },
     {
       "id": "shop_pack_item-300dl-selection-ticket-pack",
-      "name": "Набор за 3 млн загрузок"
+      "name": "Пакет в честь 3 миллионов загрузок"
     },
     {
       "id": "shop_pack_item-66",
-      "name": "Пакет 2-й годовщины"
+      "name": "Пакет к вечеру 2-й годовщины"
     },
     {
       "id": "shop_pack_item-aniversary-selection-ticket",
-      "name": "Набор накануне 1-й годовщины"
+      "name": "Пакет в преддверии 1-й годовщины"
     },
     {
       "id": "shop_pack_item-childsmock-01",
-      "name": "[1 млн загрузок] Набор «Детский фартук» A (до 6/28)"
+      "name": "[1 млн. загрузок] Набор детского чепчика А (до 28.06)"
     },
     {
       "id": "shop_pack_item-childsmock-02",
-      "name": "[1 млн загрузок] Набор «Детский фартук» B (до 6/28)"
+      "name": "[1 млн. загрузок] Набор детской smock B (до 28.06)"
     },
     {
       "id": "shop_pack_item-childsmock-03",
-      "name": "[1 млн загрузок] Набор «Детский фартук» C (до 6/28)"
+      "name": "[1 млн. загрузок] Набор детской smock C (до 28.06)"
     },
     {
       "id": "shop_pack_item-daily-AP-0001",
-      "name": "Ежедневно! Набор AP"
+      "name": "Ежедневное обновление! Набор AP"
     },
     {
       "id": "shop_pack_item-first-live_001",
-      "name": "Набор первого выступления Voice"
+      "name": "Пакет «Первое вокальное выступление»"
     },
     {
       "id": "shop_pack_item-first-live_002",
-      "name": "Набор первого выступления Spirit"
+      "name": "Пакет «Первое выступление Духа»"
     },
     {
       "id": "shop_pack_item-first-live_003",
-      "name": "Набор первого выступления Love"
+      "name": "Пакет «Первая любовь»"
     },
     {
       "id": "shop_pack_item-freshman-support-01",
-      "name": "Поддержка новичков! SSR P-айдон гарантирован + набор тренировки"
+      "name": "Поддержка новичков! Гача с гарантированным SSR P-Айдолом и пакет для Тренировки"
     },
     {
       "id": "shop_pack_item-half-aniversary-selection-ticket",
-      "name": "Набор накануне полугодовщины"
+      "name": "Набор в преддверии полугодовья"
     },
     {
       "id": "shop_pack_item-monthly-0002",
-      "name": "Ежемесячно! Набор тренировки"
+      "name": "Ежемесячные обновления! Пакет тренировки"
     },
     {
       "id": "shop_pack_item-monthly-0002_re01",
-      "name": "Ежемесячно! Набор тренировки"
+      "name": "Ежемесячные обновления! Пакет тренировки"
     },
     {
       "id": "shop_pack_item-newyear_2500_01",
-      "name": "Набор удачи 2025 Серебро"
+      "name": "Счастливый пакет 2025 Серебро"
     },
     {
       "id": "shop_pack_item-newyear_2500_02",
-      "name": "Набор удачи 2026 Серебро"
+      "name": "Счастливый пакет 2026 Серебро"
     },
     {
       "id": "shop_pack_item-newyear_5000_01",
-      "name": "Набор удачи 2025 Золото"
+      "name": "Счастливый пакет 2025 Gold"
     },
     {
       "id": "shop_pack_item-newyear_5000_02",
-      "name": "Набор удачи 2026 Золото"
+      "name": "Счастливый пакет 2026 Gold"
     },
     {
       "id": "shop_pack_item-onsen-costume-amao",
-      "name": "Купальник для горячих источников (Mao Arimura)"
+      "name": "Купальник для онсэна (Mao Arimura)"
     },
     {
       "id": "shop_pack_item-onsen-costume-fktn",
-      "name": "Купальник для горячих источников (Kotone Fujita)"
+      "name": "Купальник для 온сэна (Kotone Fujita)"
     },
     {
       "id": "shop_pack_item-onsen-costume-hski",
-      "name": "Купальник для горячих источников (Saki Hanami)"
+      "name": "Купальник для 온сэна (Saki Hanami)"
     },
     {
       "id": "shop_pack_item-onsen-costume-kllj",
-      "name": "Купальник для горячих источников (Lilja Katsuragi)"
+      "name": "Купальник для онсена (Lilja Katsuragi)"
     },
     {
       "id": "shop_pack_item-onsen-costume-shro",
-      "name": "Купальник для горячих источников (Hiro Shinosawa)"
+      "name": "Купальник для онсэна (Hiro Shinosawa)"
     },
     {
       "id": "shop_pack_item-onsen-costume-ssmk",
-      "name": "Купальник для горячих источников (Sumika Shiun)"
+      "name": "Купальник для 온сэна (Sumika Shiun)"
     },
     {
       "id": "shop_pack_item-onsen-costume-ttmr",
-      "name": "Купальник для горячих источников (Temari Tsukimura)"
+      "name": "Купальник для онсэна (Temari Tsukimura)"
     },
     {
       "id": "shop_pack_item-pre1.5anniversary-selection-ticket",
-      "name": "Набор Fes к 1.5-летию"
+      "name": "Пак «Вечер 1.5-летней годовщины»"
     },
     {
       "id": "shop_pack_item-weekly-0002",
-      "name": "Еженедельно! Набор тренировки"
+      "name": "Еженедельный пакет «Тренировка»"
     },
     {
       "id": "shop_pack_jsna-0001",
-      "name": "[72 часа] Набор частей продюсируемого айдола (Sena)"
+      "name": "[Лимитированное предложение на 72 часа] Пакет Фрагментов Продюсируемого Айдола (Сена)"
     },
     {
       "id": "shop_pass_item-0001",
-      "name": "Премиум пропуск миссий Май 2024"
+      "name": "Премиум-пропуск миссий на май 2024 года"
     },
     {
       "id": "shop_pass_item-0002",
-      "name": "Премиум пропуск миссий Июнь 2024"
+      "name": "Премиум-пропуск миссий за июнь 2024"
     },
     {
       "id": "shop_pass_item-0003",
-      "name": "Премиум пропуск миссий Июль 2024"
+      "name": "Премиум-пропуск миссий за июль 2024 года"
     },
     {
       "id": "shop_pass_item-0004",
-      "name": "Премиум пропуск миссий Август 2024"
+      "name": "Премиум-пропуск миссий за август 2024"
     },
     {
       "id": "shop_pass_item-0005",
-      "name": "Премиум пропуск миссий Сентябрь 2024"
+      "name": "Премиум-пропуск миссий: сентябрь 2024"
     },
     {
       "id": "shop_pass_item-0006",
-      "name": "Премиум пропуск миссий Октябрь 2024"
+      "name": "Премиум-пропуск миссий за октябрь 2024"
     },
     {
       "id": "shop_pass_item-0007",
-      "name": "Премиум пропуск миссий Ноябрь 2024"
+      "name": "Премиум-пропуск миссий на ноябрь 2024 года"
     },
     {
       "id": "shop_pass_item-0008",
-      "name": "Премиум пропуск миссий Декабрь 2024"
+      "name": "Премиум-пропуск миссий за декабрь 2024 года"
     },
     {
       "id": "shop_pass_item-0009",
-      "name": "Премиум пропуск миссий Январь 2025"
+      "name": "Премиум-пропуск миссий на январь 2025 года"
     },
     {
       "id": "shop_pass_item-0010",
-      "name": "Премиум пропуск миссий Февраль 2025"
+      "name": "Премиум-пропуск миссий на февраль 2025 года"
     },
     {
       "id": "shop_pass_item-0011",
-      "name": "Премиум пропуск миссий Март 2025"
+      "name": "Премиум-пропуск миссий на март 2025 года"
     },
     {
       "id": "shop_pass_item-0012",
-      "name": "Премиум пропуск миссий Апрель 2025"
+      "name": "Премиум-пропуск миссий на апрель 2025 года"
     },
     {
       "id": "shop_pass_item-0013",
-      "name": "Премиум пропуск миссий Май 2025"
+      "name": "Премиум-пропуск миссий на май 2025 года"
     },
     {
       "id": "shop_pass_item-0014",
-      "name": "Премиум пропуск миссий Июнь 2025"
+      "name": "Премиум-пропуск миссий на июнь 2025 г."
     },
     {
       "id": "shop_pass_item-0015",
-      "name": "Премиум пропуск миссий Июль 2025"
+      "name": "Премиум-пропуск миссий на июль 2025 года"
     },
     {
       "id": "shop_pass_item-0016",
-      "name": "Премиум пропуск миссий Август 2025"
+      "name": "Премиум-пропуск миссий на август 2025 года"
     },
     {
       "id": "shop_pass_item-0017",
-      "name": "Премиум пропуск миссий Сентябрь 2025"
+      "name": "Премиум-пропуск миссий: сентябрь 2025"
     },
     {
       "id": "shop_pass_item-0018",
-      "name": "Премиум пропуск миссий Октябрь 2025"
+      "name": "Премиум-пропуск миссий за октябрь 2025 года"
     },
     {
       "id": "shop_pass_item-0019",
-      "name": "Премиум пропуск миссий Ноябрь 2025"
+      "name": "Премиум-пропуск миссий на ноябрь 2025 года"
     },
     {
       "id": "shop_pass_item-0020",
-      "name": "Премиум пропуск миссий Декабрь 2025"
+      "name": "Премиум-пропуск миссий за декабрь 2025 года"
     },
     {
       "id": "shop_pass_item-0021",
-      "name": "Премиум пропуск миссий Январь 2026"
+      "name": "Премиум-пропуск миссий на январь 2026 года"
     },
     {
       "id": "shop_pass_item-0022",
-      "name": "Премиум пропуск миссий Февраль 2026"
+      "name": "Премиум-пропуск миссий за февраль 2026 года"
     },
     {
       "id": "shop_pass_item-0023",
-      "name": "Премиум пропуск миссий Март 2026"
+      "name": "Премиум-пропуск миссий на март 2026 года"
     },
     {
       "id": "shop_pass_item-0024",
-      "name": "Премиум пропуск миссий Апрель 2026"
+      "name": "Премиум-пропуск Миссий: апрель 2026"
     },
     {
       "id": "shop_pass_item-0025",
-      "name": "Премиум пропуск миссий Май 2026"
+      "name": "Премиум-пропуск миссий на май 2026 года"
     },
     {
       "id": "shop_pass_item-0026",
-      "name": "Премиум Пасс миссии Июнь 2026"
+      "name": "Премиум-пропуск миссий на июнь 2026 года"
     },
     {
       "id": "shop_pass_item-0027",
-      "name": "Премиум Пасс миссии Июль 2026"
+      "name": "Премиум-пропуск миссий за июль 2026 года"
+    },
+    {
+      "id": "shop_pass_item-0028",
+      "name": "Премиум-пропуск миссий на август 2026 года"
     }
   ]
 }

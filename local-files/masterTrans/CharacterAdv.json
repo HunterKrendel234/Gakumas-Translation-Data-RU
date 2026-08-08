@@ -27,7 +27,7 @@
     },
     {
       "characterId": "gkgt",
-      "name": "Академия Gokugetsu",
+      "name": "Gokugetsu Academy",
       "regexp": "Gokugetsu Academy"
     },
     {
@@ -117,12 +117,12 @@
     },
     {
       "characterId": "trvi",
-      "name": "Тренер визуала",
+      "name": "Тренер по визуалу",
       "regexp": "Visual Trainer"
     },
     {
       "characterId": "trvo",
-      "name": "Тренер вокала",
+      "name": "Тренер по вокалу",
       "regexp": "Vocal Trainer"
     },
     {

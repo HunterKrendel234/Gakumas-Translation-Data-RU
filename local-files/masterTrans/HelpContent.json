@@ -18,35 +18,35 @@
       "helpCategoryId": "help-achievement",
       "id": "achievement-idol",
       "order": 2,
-      "name": "Достижения айдолов",
+      "name": "Достижения Айдола",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/696f88b3357c9c547697f4d3131e783f4c0001181ef70c6f9aeb37f940a6fd33/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-achievement",
       "id": "achievement-others",
       "order": 4,
-      "name": "Прочие достижения",
+      "name": "Другие достижения",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5c049150e00aad2531d72b1cf66483a60e5a7b7ec6d93e559f24b84ac10f206b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-achievement",
       "id": "achievement-produce-achievement",
       "order": 3,
-      "name": "Достижения продюсирования",
+      "name": "Продюсирование Достижений",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9f91b8fe31a6571d893fd1ad8bdaa7dfc937300014f640f9c5958fd29a8895a1/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event",
       "order": 1,
-      "name": "Событие Live Tour",
+      "name": "Live-тур события",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5718ca277c0e55876721f6565da942a63d9f7c62339a0506ca1d68b7b1ed00bd/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-bonus",
       "order": 3,
-      "name": "Бонусы события",
+      "name": "Бонусы событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/efbe80af0702cdf5153f3d81799588dadf31ea28b61e7bd61d03bf170f831404/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -60,7 +60,7 @@
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-gasha",
       "order": 4,
-      "name": "Гача события",
+      "name": "Гача событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0f8de71942e90d3d380be5ab9979aa7e45227d1d5a61c45fd47a44e21eac459e/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -74,7 +74,7 @@
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-idol",
       "order": 2,
-      "name": "Награды события: айдол продюсирования",
+      "name": "Награды события — Продюсируемый Айдол",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e9519748305956c629ae431161d52de1f765fd0df69e46f582f880e9604a0396/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -88,14 +88,14 @@
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-story",
       "order": 5,
-      "name": "Комью события",
+      "name": "Комму по событию",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4d74ef61854d742ff34de31dc842d430a531d4be8719f6bd439e58d52aecee23/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-exchange",
       "order": 5,
-      "name": "Медали регионального тура",
+      "name": "Региональные медали тура",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/970877bc6b8009997efbc9788eb5abd69dfb272c9291c03e3ed511b9ddb8aef5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -123,21 +123,21 @@
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-ranking",
       "order": 8,
-      "name": "Рейтинг кружков",
+      "name": "Рейтинг Круга",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c2482ea0b746cc6bc9d44b0e51732c391313d69e191b45b0ff60dedf5b74b6b7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-reward",
       "order": 4,
-      "name": "Награды события",
+      "name": "Награды за событие",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c898fbd5a76e2797e564f5fe0720422f46edcba3ded7cdc5171ae68f6399bf3f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-rule",
       "order": 1,
-      "name": "События регионального тура",
+      "name": "Региональные турниры",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/f5c599d710e4df06a3ebb24ca6fd704bb49ad1e766eca8c9d587685005b2f2ce/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -151,28 +151,28 @@
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-story",
       "order": 6,
-      "name": "Комью события",
+      "name": "Событие «Комью»",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/20c208df7b7ff6ec7af42582b19bbdcee4c718ff83f57c5e6ec38a0e9a988311/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-competition",
       "id": "competition-competition",
       "order": 1,
-      "name": "Командный турнир",
+      "name": "Командный Турнир",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/22cbb530643f407ffdcdee5e6e8f0018cbdba93df3d98e4579e3484f1131e424/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-competition",
       "id": "competition-competition-ranking",
       "order": 10,
-      "name": "Рейтинг Link Contest",
+      "name": "Командный Турнир",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8019e5ae680fa280389711f1075bbd528817cb5e355a9d9c47a7cd492c08e9c0/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-competition",
       "id": "competition-grade",
       "order": 8,
-      "name": "Ранги",
+      "name": "Классы",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6bae1383e32a5e56b01ad2cad22076d62a048c75f1da2034d7b11428377c5628/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -186,7 +186,7 @@
       "helpCategoryId": "help-competition",
       "id": "competition-rate-pt",
       "order": 9,
-      "name": "Мой юнит",
+      "name": "Мой Юнит",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/56a9533ccac7f4c57193f8b16bb0663e09bf1276d4d5f14fe07c99dbefbab87f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -200,7 +200,7 @@
       "helpCategoryId": "help-competition",
       "id": "competition-rule",
       "order": 2,
-      "name": "Правила Link Contest",
+      "name": "Ссылка на правила Турнира",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9b61a46c96a6d3993fc02b9b5e69979c0507304a1b387a7e467f3e9d14c9c934/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -214,7 +214,7 @@
       "helpCategoryId": "help-competition",
       "id": "competition-squad",
       "order": 3,
-      "name": "Формация",
+      "name": "Схема",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b44dadbd9ac4036adfd1d8a4f3830aa57faa2feea602f783ad25f945b66405be/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -235,28 +235,28 @@
       "helpCategoryId": "help-contest",
       "id": "contest-contest",
       "order": 1,
-      "name": "Конкурсы",
+      "name": "Турниры",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/59cb73d0e7617c2f890a2962b7733f20a7eda7e7d060e9dbcf79719a65a0d3ca/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-contest-ranking",
       "order": 10,
-      "name": "Рейтинг конкурсов",
+      "name": "Рейтинг Турнира",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/68d8b0b139e1301c46570af58353cdf58d958a3ccc47ffb2204e155365008417/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-grade",
       "order": 8,
-      "name": "Ранги",
+      "name": "Классы",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/62d0e0ace86216d3be88dd829a5d0e8316e35cad34f9c8b88584196484f5d8e5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-myunit",
       "order": 6,
-      "name": "Мой юнит",
+      "name": "Мой Юнит",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4c576837c4b64a0fa4ca6c494af379aa9ddcc6ecd27467f69286f6446a9f26bf/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -270,14 +270,14 @@
       "helpCategoryId": "help-contest",
       "id": "contest-rate-pt",
       "order": 9,
-      "name": "Очки рейтинга",
+      "name": "Шансы",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e1d38000dd6380a7de108890d4d2af4dc982c0d2ebadf373810fbb4e7fd932b5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-rule",
       "order": 2,
-      "name": "Правила конкурса",
+      "name": "Правила турнира",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e88125f4aab736ec3faf39fb5426792332248cb35d8951527da9fd82376e431c/index.html?_cb=39174970686372a53afaa2bab2c1512a38c2f3978ecc285ec036d508e415b36c"
     },
     {
@@ -312,28 +312,28 @@
       "helpCategoryId": "help-dearness-doost-campaign",
       "id": "help-dearness-doost-campaign-info",
       "order": 57,
-      "name": "Кампания бонуса связи",
+      "name": "Кампания «Укрепление отношений»",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/124013cd1ef4053d618fe3fd184aefd8f105dc41c8fd76898c686f0dbf6d3d51/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-dearness-map",
       "id": "help-dearness-map-info",
       "order": 56,
-      "name": "Карта связи",
+      "name": "Карта Отношений",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a6b7c96963ab0063249f2040abb6f6a25b450aa5363faa5b3f4d4323f4422688/index.html?_cb=93108200b5035a17c9f42b4e053ad6863628f473e3f646b98521368a002dfa57"
     },
     {
       "helpCategoryId": "help-dearness-top",
       "id": "help-dearness-top-info",
       "order": 55,
-      "name": "Меню связи",
+      "name": "Меню Отношений",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/82c916c8a754a503bd2785ba8464dc07b93c171a30b83aa69b132a132a258419/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-event_mission",
       "id": "event_mission-event_mission",
       "order": 1,
-      "name": "Миссии события",
+      "name": "Событийные миссии",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/807ee7e79b72ab256195db206b2d7b6b80884d261709c6cf19ce91baf2036cb4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -358,38 +358,45 @@
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/173642794a3d08beab154fb6db2b3f32f62fc407029b5a4787a8f9d4998bbc1d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
+      "helpCategoryId": "help-grade-mission",
+      "id": "grade-mission",
+      "order": 65,
+      "name": "Ранг Шанса P",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3d83a307619a42796deec727e915d00bba21f6a00b831bcbd17b1a13ca5777e4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
       "helpCategoryId": "help-guild",
       "id": "guild-create",
       "order": 2,
-      "name": "Создание кружка",
+      "name": "Создание Круга",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/750e998a0f4f609f3cc290848dce4059ec9e9fae1403f88bc6213e936bfcff06/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-Guild",
       "order": 1,
-      "name": "Кружки",
+      "name": "Круги",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fb292097472eb10d0cafee447f7b1e3e89f16cd603633e26d716382c3606aba1/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-join",
       "order": 3,
-      "name": "Вступление в кружок",
+      "name": "Вступление в Круг",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6c9268073be3283b9395c95d472171a341f855d083a3c2957e9586606c0e9c99/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-leave",
       "order": 6,
-      "name": "Выход/исключение из кружка",
+      "name": "Выход из Круга / Исключение из Круга",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7faca849c3b50c9039cfd8b484adfe2f11bcb0b9bf92be0ad8de8b68a16c7b76/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-message-board",
       "order": 4,
-      "name": "Доска сообщений",
+      "name": "Доска объявлений",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fba2bc77f81f6ac08a9838eb9fadbbb2667077a3cf08bbff7f3be39b7e4b2445/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -403,21 +410,21 @@
       "helpCategoryId": "help-highscore",
       "id": "highscore-highscore",
       "order": 1,
-      "name": "Месяц усиления айдолов",
+      "name": "Месяц улучшения Айдола",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e38cd1c76b10c41d827e56eb7e13703b02dac556efaf462a8ce69a3f0404e210/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-highscore",
       "id": "highscore-ranking",
       "order": 2,
-      "name": "Типы рейтинга хайскора",
+      "name": "Типы рейтинга очковสูงสุด",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ecb57403b28ed8ff02acbd5ce44303fc23dafc1873ac3854104f9b35e2ec96e2/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-highscore",
       "id": "highscore-score_reward",
       "order": 3,
-      "name": "Награды за хайскор",
+      "name": "Награды за достижения высокого счета",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/29f23aa0fa37596ab7f21d25b4f5ce722ab69ccfde5ef3b1e1e169b989e7540d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -431,14 +438,14 @@
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-event-gasha",
       "order": 6,
-      "name": "Гача события",
+      "name": "Гача-ивент",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/26b77d1896624a24e10d923d59276cbd45ccb78372d52509ed6af794f51a19f6/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-event-item",
       "order": 3,
-      "name": "Звёздный свет",
+      "name": "Звездный свет",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8c594ad52dd0af89e6c07b3fdfbcb5eb23ead5eb4553fe72f0b7c61c8c6af8dd/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -452,28 +459,28 @@
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-eventmode-produce",
       "order": 2,
-      "name": "Режим события: продюсирование",
-      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fe04c3c843e70e2045f9381c0cd8ceda67dccd93e99a44c3d3e2660e7988489e/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+      "name": "Режим Продюсирования",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/efa3edfab9dd320514254c9aff26abb5bf8df8e122a14c33dff3bf7a233d66ef/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-highscorerush",
       "order": 1,
-      "name": "Месяц усиления айдолов Кунио Дзё",
+      "name": "Месяц улучшения Айдола Kunio Juo",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/04b998ed18867919e9a0873ad318f12655374fc58cc145fb8d4408eaad5461a4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-ranking",
       "order": 4,
-      "name": "Типы рейтинга хайскора",
+      "name": "Типы рейтинга высоких очков",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/69d9c06ac25042e74b316ca1594da4fac87ca70ea2dda2881a458413022bcdae/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-score-reward",
       "order": 5,
-      "name": "Награды за хайскор",
+      "name": "Награды за достижения по оценке",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4c55a12bdecbbd992e0e017a755226ca29f1013d0e7536167d4d2a8014ddc4f7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -501,14 +508,14 @@
       "helpCategoryId": "help-home",
       "id": "home-home-character-change",
       "order": 7,
-      "name": "Настройки айдола на главной",
+      "name": "Настройки Айдола на Главной",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/26c5d63ef0827cb61bebb7b69884029fc50b509c293b1297c3038f3eb88aa7cf/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-home",
       "id": "home-jewel",
       "order": 4,
-      "name": "Драгоценности",
+      "name": "Самоцветы",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a1fa796178c4e39f334946c0b8203f2f12ed607fd91dbd13cf205fe53b3b1f6b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -522,49 +529,49 @@
       "helpCategoryId": "help-home",
       "id": "home-money-received",
       "order": 5,
-      "name": "Фонды активности",
+      "name": "Средства деятельности",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4bdcb748a914c214eb2ee34234159b9d3ec692d7ec5b17e53948c828d34d0c8d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-home",
       "id": "home-p-lv",
       "order": 2,
-      "name": "Уровень продюсера",
+      "name": "Уровень Продюсера",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/35813c0edfab0645384f933531bfbdc06d293c47875aba47b90cedf2dea39ecf/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-home",
       "id": "home-work",
       "order": 6,
-      "name": "Работа",
+      "name": "Работы",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9ef3baefbbf19689115c56b91b12f87a060d4c296ee406bb5c5e91e20d4dba2d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-another",
       "order": 2,
-      "name": "Другой айдол",
+      "name": "Другой Айдол",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5ebf2428cfaa4d1dbdc456311a18711b5b68d0713dc984fa70bf09fb99d7ba3b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-dearness",
       "order": 53,
-      "name": "Связь",
-      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7e27f781d0aaee6b304644ec706cefa5e7e8519e5dfb58d7c86a6ca8ad275d10/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+      "name": "Отношения",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/44dc5c6189318f5b177076e6670c58a9a3f5edd0c77ccc61118807710051e1fb/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-dearness-pt",
       "order": 54,
-      "name": "Очки связи",
+      "name": "ОтношенияОчк.",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/f4f7406c4cab626ed608ba3ad0f68221497e661db5912478f6e7df938490f9e8/index.html?_cb=93108200b5035a17c9f42b4e053ad6863628f473e3f646b98521368a002dfa57"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-idol-card",
       "order": 1,
-      "name": "Аидол продюсирования",
+      "name": "Продюсируемый Айдол",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2f0444bf8d40903d97dfd61d6aa87fac089679aed16e777bff25b54182575b97/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -585,7 +592,7 @@
       "helpCategoryId": "help-idol",
       "id": "idol-idol-card-release",
       "order": 52,
-      "name": "Разблокировка айдола продюсирования",
+      "name": "Разблокировка Продюсируемого Айдола",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/00221c617592b91bc7ff63936a6fa404435704045a26abbc4896d66fa9121416/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -599,21 +606,21 @@
       "helpCategoryId": "help-idol",
       "id": "idol-plan1",
       "order": 20,
-      "name": "План: Sense",
+      "name": "План: Чутьё",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/24130d7154868b7744558f3d35ba852aa1c366967b4234b88d85ccdeccc327ed/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-plan2",
       "order": 30,
-      "name": "План: Logic",
+      "name": "План: Логика",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9b5f95645cbfd1055d82e7948d94320789971137c5ed6611f625b41db53c2619/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-plan3",
       "order": 40,
-      "name": "План: Anomaly",
+      "name": "План: Аномалия",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e0e65bc05f2c5cfcd114a72e296c83ebf7ca44646d49f5e7afd8eb71aede519f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -634,7 +641,7 @@
       "helpCategoryId": "help-idol",
       "id": "idol-unit",
       "order": 3,
-      "name": "Юнит-айдол",
+      "name": "Юнит Айдол",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/cfd559cee9d7995f8159fcc268eb193c593fe7b5da5338d7b51242885caa9915/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -648,14 +655,14 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-audition-flow",
       "order": 16,
-      "name": "Ход экзамена",
+      "name": "Процесс Экзамена",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c6b4e29fae184f1405f50b3bf53c1b74c2dcff351fa8d56e35551e779be2dc60/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-audition-view",
       "order": 17,
-      "name": "Экран экзамена",
+      "name": "Экзамен",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4e387ab1d1985be9ecba611d1d0a675658ec1f22815a4b2008b1e29ef9cfb93f/index.html?_cb=39174970686372a53afaa2bab2c1512a38c2f3978ecc285ec036d508e415b36c"
     },
     {
@@ -669,7 +676,7 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-effect",
       "order": 12,
-      "name": "Срабатывающие эффекты",
+      "name": "Активируемые Эффекты",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/abeb3386f07efef535671b3020899fc69338d8295f8d0a4a493349a13bab028c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -683,7 +690,7 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-health-lesson",
       "order": 3,
-      "name": "Выносливость (уроки)",
+      "name": "Выносливость (Уроки)",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/d25ecfd8c9cdc112a8e8833651454c674a552318aaedbcd9a299214f5fa709da/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -697,63 +704,63 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-lesson-view",
       "order": 2,
-      "name": "Экран урока",
+      "name": "Отображение урока",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ab2e90318b6810814e1b45f8533a38cacbba969f57ed38753c79e4882eec2ee9/index.html?_cb=39174970686372a53afaa2bab2c1512a38c2f3978ecc285ec036d508e415b36c"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-p-drink",
       "order": 9,
-      "name": "P-предметы",
+      "name": "P-Предметы",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c05bd5db643cb99d12bb006c3dd7366a5c40f519f79ca7dcb3a08a6da699c6ba/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-p-item",
       "order": 8,
-      "name": "P-напитки",
+      "name": "P-Напитки",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b4e130e4c39a81b9a7baa79ca99b2623e1ffaaa4ed43074e33489672cc7f992c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-perfect-lesson",
       "order": 14,
-      "name": "Идеальные уроки",
+      "name": "Идеальные Уроки",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a29f839406d03abcc6c425f62d478f70cb1289e85a8ca0f4688d881b2474fd2e/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-produce-card",
       "order": 5,
-      "name": "Карты навыка",
+      "name": "Карты Навыка",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5633ff0a9021e5f9f6a228ad507d0ceacb26c4f6f77590b4e9ef37bc0bba64d7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-produce-card-conditions",
       "order": 18,
-      "name": "Условия использования и эффектов карт навыка",
+      "name": "Условия использования и эффекты карт навыков",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/197c37f9fbc359c01a4c03bb2323a05c9c77132fccc825142438c87694412d9f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-produce-card-powerup",
       "order": 6,
-      "name": "Улучшение карты навыка",
+      "name": "Улучшение Карты Навыка",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2603b24d15603a0b1c6e07941d591b2aa93810fd9749199994d2f340edbb8669/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-produce-card-replay",
       "order": 19,
-      "name": "Перезапустить",
+      "name": "Повтор",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e1ccaeef74d4e231beb5503c3dd27cd3170ceea938868c710b4307512a7c400c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-produce-card-use",
       "order": 7,
-      "name": "Использование карты навыка",
+      "name": "Порядок использования Карты Навыка",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b9cde558b51e1db3128dd515a881af02eb080284731bf95a4433deed87176a6a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -767,21 +774,21 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-support",
       "order": 11,
-      "name": "Поддержка карты навыка",
+      "name": "Поддержка Карт Навыков",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/de981107974c8be1fa0bded5f65719119028432059d3d52fe4ca95677d74b6ce/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-event-bonus",
       "order": 2,
-      "name": "Бонусы события",
+      "name": "Бонусы событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4f76463c0023f24d3dafa1f08fef19795039df18bb04ee94df8c582ea66fae79/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-exchange",
       "order": 8,
-      "name": "Предметы обмена события",
+      "name": "Предметы обмена",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b7f9d95db6d5ff23853363083e6ee5d6a5554f697da6ec1fadf6031357378e85/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -795,21 +802,21 @@
       "helpCategoryId": "help-livetour-event",
       "id": "tour-idol",
       "order": 5,
-      "name": "Награды события: айдол продюсирования",
+      "name": "Награды события дают Продюсируемого Айдола",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/1a199cb4bebb7ec8cf3770851744839c660e156f85aa2ee5651e32ce4f0fdec5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-play-ticket",
       "order": 4,
-      "name": "Билет на испытание лайва",
+      "name": "Билет на Live-челлендж",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c6cc293ad9ff12c986fb0b5381f3eea7b63202696a13d48d29d290f7a1c4f821/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-reward",
       "order": 7,
-      "name": "Награды события",
+      "name": "Награды за события",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e7b5e26de203b45a229fc8a4ae0cd4e722b959d809103103c672e5f1c2933101/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -823,28 +830,28 @@
       "helpCategoryId": "help-livetour-event",
       "id": "tour-story",
       "order": 6,
-      "name": "Комью события",
+      "name": "Комму Событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/f63e5591f0202933c0a7f3187aa05eab52d9fce9e4c79050d47b5612d78c2c16/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-tour",
       "order": 1,
-      "name": "Событие Live Tour",
+      "name": "Live-тур",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6961d91f3b558c4c7706a8729a1a17850d0d0127d486b8b5c4e4e8cba65bfdb4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-bonus",
       "order": 4,
-      "name": "Бонусы события",
+      "name": "Бонусы событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5a7c99dc93a7aeb838daf577be189f3aa48d2d057649f50790a4028b7a4607d6/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-coin",
       "order": 6,
-      "name": "Предметы обмена события",
+      "name": "Предметы обмена в событиях",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b1ba36ee1cdf715e65b4b5a127bb8bf9c6d4a75c3b7f9063291786827cd6a759/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -858,91 +865,91 @@
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-main-story",
       "order": 3,
-      "name": "Разблокировка комью Хацубоси",
+      "name": "Разблокировка Hatsuboshi Commu",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/970489851815c3bf44c549253376df0f8fc4e28375c0f342d395b7aa6ec8e50c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-mission",
       "order": 2,
-      "name": "Миссии события",
+      "name": "Миссии событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0ee6ebdaf7014b85cd1797169cd9aa6633c2620e3c20789599ac0c8cce00c0b9/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-point",
       "order": 5,
-      "name": "Награды за суммарные очки события",
+      "name": "Награды за накопленные очки событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a641ab474c493fe1feb9ed77aaebdee70f334f5d2a5fde33a75873acba225be7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-story",
       "order": 1,
-      "name": "События комью Хацубоси",
+      "name": "Комму Событий Hatsuboshi",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b6a21942d458c858eb6f6d72ab94f98b5b24ad71a5002465b4be6c928f74642b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "help-hif-produce-memory-ability",
       "order": 9,
-      "name": "Способность только у H.I.F.",
+      "name": "Способность только для H.I.F.",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c7ad38dec09d4003ecaba0130f659fb2b310fbd4bb1e1d2af362001d857916e7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "help-selection-memory",
       "order": 8,
-      "name": "Запись квалификационных матчей",
+      "name": "Запись квалификации",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/91c45d9078a50354452e6d9e67ceb99a70261d00e4c9295ca58de9020f491b6f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory",
       "order": 1,
-      "name": "Воспоминания",
+      "name": "Записи",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5597f96b1017578d35bf8a7db9189c2c1fdb6c5449373c3027c20838ec7d87bb/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory-contest",
       "order": 3,
-      "name": "Эффекты в формации конкурса",
+      "name": "Эффекты при формировании Турнира",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e93bd3c6581a3b5e277a166a3fa5d95c8a8d95a6ef166b4aa52b90bef758c6b4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory-convert",
       "order": 5,
-      "name": "Конвертация воспоминаний",
+      "name": "Преобразование записи",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c060228c94dd7368ba56aa293c518c1246562c5df2176f7dacac2d7828c58460/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory-deck-edit",
       "order": 4,
-      "name": "Экран формации воспоминаний",
+      "name": "Экран формирования Записи",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/e9827ebf5ff4a34c2f112ccb1b4a27b02dbd20c58a83d2cbe8415086904a7f40/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory-inherit",
       "order": 6,
-      "name": "Синтез воспоминаний",
+      "name": "Синтез записей",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6434f55e2fa5aea6a5a725dd2417b813648becdd792dadaa124f8fccd0186034/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory-produce",
       "order": 2,
-      "name": "Эффекты в формации продюсирования",
+      "name": "Эффекты во время Продюсирования",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/f55ad8e5c496ac39b7d4fa3ac94ba36c2326b9cfefd425b894e070e60ecc8536/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory-review",
       "order": 7,
-      "name": "Просмотр продюсирования",
+      "name": "Продюсирование обзора",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9ddc76a5ddd7466b8cbaefa04120648f992a6eeaecccf996081c64a320eec8b4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -963,7 +970,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-data-linkage",
       "order": 17,
-      "name": "Связка данных",
+      "name": "Связывание данных",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3fe79e9445e2b349016d13ca9da5ac914ac739391c5bf501fda846774ad6f99b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -998,7 +1005,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-live-shooting",
       "order": 8,
-      "name": "Фотосъёмка",
+      "name": "Фотография",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/caaeeca53c2edd56aff23dd646ff7677a8b0ef51f65939e90ff61267d07a558f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1026,14 +1033,14 @@
       "helpCategoryId": "help-menu",
       "id": "menu-predownload",
       "order": 16,
-      "name": "Массовая загрузка",
+      "name": "Пакетная загрузка",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/62357b8804000d57d44aab5e9d9f3a25d18c13952d26b75b76e9de8b19cbdb8c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-produce-collection",
       "order": 6,
-      "name": "P-энциклопедия",
+      "name": "P-Энциклопедия",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0665f9a890abc579d8e825e3b214950ac46b8020bbc718e36e5df6bd47d9dc1b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1047,7 +1054,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-roster",
       "order": 11,
-      "name": "Список",
+      "name": "Состав",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/93dd5f019bc4faf29b7801907a3f9a82f90f29873f7c25597bfca525a5766c44/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1061,28 +1068,28 @@
       "helpCategoryId": "help-menu",
       "id": "menu-title",
       "order": 15,
-      "name": "Титул",
+      "name": "Звание",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3c8f57827cb87885aa570e0351fbe226916e3266a207a1b0a55bce3e3e737f70/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-daily",
       "order": 2,
-      "name": "Ежедневные миссии",
+      "name": "Ежедневные Миссии",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3b8d4ed61ab7b47fe28bb2a2de167505441eb843760ecf573405841bb8bb464b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-event",
       "order": 7,
-      "name": "Миссии события",
+      "name": "Миссии событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/46ca8fd39d3001f8ce198cd801fdb8cf7e4f7a9fad2257d0c95d080344cb2702/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-idol",
       "order": 6,
-      "name": "Миссия айдола",
+      "name": "Миссия Айдола",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0d1cdd97bdd1d541ef341e0b8c12b912564c12325016315db96ea693130eff64/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1103,21 +1110,21 @@
       "helpCategoryId": "help-mission",
       "id": "mission-pass",
       "order": 8,
-      "name": "Пас к миссии",
+      "name": "Пропуск Миссий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/20089854976f5844e39ddaa28ec744cf38722cfeb01bca499ab7187259a88d83/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-special",
       "order": 5,
-      "name": "Ограниченные миссии",
+      "name": "Ограниченные по времени миссии",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/52e50d023d982af1119c133285ca2c2a43328aed2add4a5733096403039ec73c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-weekly",
       "order": 3,
-      "name": "Еженедельные миссии",
+      "name": "Еженедельные Миссии",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/089cc62bb48a9f27488817ae126306a5a2485bdd2b32c8731654b225e638e3c7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1138,35 +1145,35 @@
       "helpCategoryId": "help-produce",
       "id": "help-hif-produce",
       "order": 54,
-      "name": "Hatsuboshi Айдол Фестиваль",
+      "name": "Hatsuboshi IDOL FESTIVAL",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6d053d98a799d43f465dbbec7e659d63027b1c481cc4cfabd9f8dff468197d2c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "help-hif-produce-finals",
       "order": 60,
-      "name": "Финал",
+      "name": "Финалы",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3848927b5372f010a0387005b003cb271d475eacc3a4b07a1afb8d823a33411d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "help-hif-produce-item-customize",
       "order": 57,
-      "name": "Настройка P-Предмета",
+      "name": "Кастомный P-Предмет",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3a5b1864643e3caefc55cf94a4ce9648cc5d8fc1abb559d7af76a358b663d711/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "help-hif-produce-memory-ability",
       "order": 63,
-      "name": "Только Способность H.I.F.",
-      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/549b4cbce563debb2a984304397cd402f14978b98f69f864144e46a1306b52f5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+      "name": "Способность только для H.I.F.",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/27e00602516af8fce417232f85a3a1392521dbdaa0ac8f0af9c0a472bc6a0c00/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "help-hif-produce-open-lesson",
       "order": 56,
-      "name": "Открыть Урок",
+      "name": "Открыть урок",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/de43bb0cbfe2a8118f0630f7ee36f4ff41d3463ec4599dd66d611302e5a162b9/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1180,42 +1187,42 @@
       "helpCategoryId": "help-produce",
       "id": "help-hif-produce-selection",
       "order": 58,
-      "name": "Квалификационных матчей",
+      "name": "Квалификация",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7c4d347ab6b9a8432d1edb5ffaafa234671d9fe5e12f05e40cc34ae9125020a4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "help-hif-produce-star",
       "order": 55,
-      "name": "Звездный потенциал",
+      "name": "Звёздный Потенциал",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/765876e2a01bedfe02f787fe3a00bd486a93172e4f15faafdbdf7ba9de521f2a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "help-selection-memory",
       "order": 59,
-      "name": "Запись Квалификационных матчей",
+      "name": "Запись квалификации",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2bab14e7b7e2f34cf831f6ba171377e8e07c1e15e4fbbb6f477083ecbcdfb25b/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-003-add",
       "order": 37,
-      "name": "Сложность: Master (Hajime)",
+      "name": "Сложность: Мастер (Hajime)",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ab05085dd912f6739b407371ba30d30d6ed3f50ecab338d2928e2523276120de/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-004-add",
       "order": 50,
-      "name": "Сложность: Legend (Hajime)",
+      "name": "Сложность: Легенда (Hajime)",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5dd00aab0d7ffed9b9cac7c8faf053ea818ceb9c9df130eaefb3f858dd4ab763/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-005-add",
       "order": 47,
-      "name": "Сложность: Master (NIA) ",
+      "name": "Сложность: Master (NIA)",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0971306c95a87639730221e2aa4fc718af6ac3374e19c4397801bf6a3b322dc5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1236,7 +1243,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-confirm",
       "order": 8,
-      "name": "Экран подтверждения старта",
+      "name": "Экран подтверждения начала",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/24d2f815b5a0bec2ec7917413174593a8c3f5eff4c457d6166b7c9c18d774622/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1250,77 +1257,77 @@
       "helpCategoryId": "help-produce",
       "id": "produce-customize",
       "order": 42,
-      "name": "Спец. консультация",
+      "name": "Спец. Консультация",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a8ee5d71a163252de84346f4085e9a590ea98113ad9c5feb528d0384920cd754/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-customize-customize",
       "order": 43,
-      "name": "Настройка карты навыка",
+      "name": "Настройка Карты Навыка",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5b33782f918ef0307dfdc8291bd7cfab3d16eb6fb48b8da397932922d3723bed/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-easy-mode",
       "order": 54,
-      "name": "Режим помощи",
+      "name": "Режим Поддержки",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/dc6dcca18772ecafd7f4e3ab4c46cb9187b0474acf3de7ae8856e74816f74780/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-ending",
       "order": 29,
-      "name": "Концовка",
+      "name": "Финал",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/610a7142651ff3ecd04fdff4a93d02086d3f94adedb2bfae61b7d0345e19f6c7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-event",
       "order": 22,
-      "name": "Комью айдола (продюсирование)",
+      "name": "Айдол-комьюнити (Продюсирование)",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9c0da5c845b18b7f9207880e219058d86768205317fd240297d7c831d510c2f5/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-exam-audition",
       "order": 27,
-      "name": "Экзамены (продюсирование)",
+      "name": "Экзамены (Продюсирование)",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a8dfe40efac4adf6414b1c51a29521459c1da988301b587c8da3b95083007f51/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-fanpresent",
       "order": 44,
-      "name": "Угощения",
-      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9ee0bd0006500c79527809acc5eb7a3800f130e9c9bb0756581e424f1abfa29f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+      "name": "Закуски",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/457083185677d890aeba642fc3ea2defa439f1796a34d8b0c79f1686d0f15419/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-fanvote",
       "order": 39,
-      "name": "Голоса фанатов",
+      "name": "Голоса Фанатов",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5291f4bc8c1d8dfcd84a1a21099aa5efe0a563fdb8f35dad4de58cbed73e6e90/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-generate-memory",
       "order": 32,
-      "name": "Создание воспоминаний",
+      "name": "Создание Записей",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/57518177f6e31bea30b483caf16ea057793b78e9864a63d5131bb40b7e5a773c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-growth-info",
       "order": 4,
-      "name": "Инфо тренировки",
+      "name": "Информация о тренировке",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/371001e91c9b5c4b31f35bee03269e702df7bcfe345b79203beb2e68330bb908/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-guide",
       "order": 49,
-      "name": "Гид получения",
+      "name": "Руководство по получению",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0569c934f9e234ab1f0699f131ea156fc58e9172e9a58743f101ce1488f8ec45/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1334,14 +1341,14 @@
       "helpCategoryId": "help-produce",
       "id": "produce-health-produce",
       "order": 14,
-      "name": "Выносливость (продюсирование)",
+      "name": "Выносливость (Продюсирование)",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/d7433fc6a04e517ef4c5185b37bb34a3254c234b1568ea1e41c834dedd88ab12/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-idol-card-select",
       "order": 2,
-      "name": "Выбор айдола продюсирования",
+      "name": "Выбор продюсируемого айдола",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/642bcd0ee6a0bab393819883fea27e2f39a60d043e8addb02da49c454f6c1b0d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1355,21 +1362,21 @@
       "helpCategoryId": "help-produce",
       "id": "produce-lesson",
       "order": 24,
-      "name": "Уроки (продюсирование)",
+      "name": "Уроки (Продюсирование)",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/703bdc24cd4c0d3402297c0faf47996470f8c2141d88cf49ff8e04da799f6525/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-live",
       "order": 28,
-      "name": "P-лайвы",
+      "name": "P-Lives",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/16a6f47bd59c4b893c25414ab10fa0972753ee23666d3b028f456f008b26384c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-memory-deck-edit",
       "order": 7,
-      "name": "Формация воспоминаний (продюсирование)",
+      "name": "Формирование Записи (Продюсирование)",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c51ffcb5ef2228ee8dc48a5a881eeff02c4a95322feb513c9ed912136ae26c31/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1390,14 +1397,14 @@
       "helpCategoryId": "help-produce",
       "id": "produce-ppoint",
       "order": 18,
-      "name": "P-очки",
+      "name": "P-Очки",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/39c66ac949cb9cf2551f6371d7e18e3506e838a88a00b086f21ac6cc985afeea/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-present",
       "order": 21,
-      "name": "Подарок",
+      "name": "Пособие",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/1f9824eba32662fcd0d13fd801ba1103054e23bc8eb6f3c4f52b4e96492e7b97/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1425,14 +1432,14 @@
       "helpCategoryId": "help-produce",
       "id": "produce-produce-drink",
       "order": 16,
-      "name": "P-напитки",
+      "name": "P-Напитки",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/18153e1564b37807532c144ce77376fde49d0a20571240bad7849a2c262ac6d2/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-produce-item",
       "order": 17,
-      "name": "P-предметы",
+      "name": "P-Предметы",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/4e85c926d879241b2181a28e1b58e6f357f41426e1d172d31f612c29f5ae52af/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1446,7 +1453,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-ProduceSchedule",
       "order": 11,
-      "name": "P-книга",
+      "name": "P-Книга",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9e9f06d5d30e2451fe5be29abcb54899a95afac0f87b9110f6df988b0fab5264/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1474,21 +1481,21 @@
       "helpCategoryId": "help-produce",
       "id": "produce-schedule-select",
       "order": 9,
-      "name": "Выбор расписания",
+      "name": "Выбор графика",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/76a702194371ac6094b16e5f5edfb3877bb6f55836aaeec568009eb78dbc3d42/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-select-info",
       "order": 5,
-      "name": "Детали формации",
+      "name": "Детали формирования",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/9de55f3f418d6da89bacf9017f817424207a2a29b8d8356d6e87f82a461e1bd6/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-self_lesson",
       "order": 41,
-      "name": "Самостоятельные уроки",
+      "name": "Самоучители",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/5cf3c83601ff180df543eb7c05cb865df9df7efbf0afc90646faf3014d39d7c7/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1503,7 +1510,7 @@
       "id": "produce-shool-actibity",
       "order": 20,
       "name": "Lessons/Outings",
-      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fdd91c9d8dc50475a5ec4523ab81999a96eec89b733c651f315d477b38cf3075/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b1d68743d0e70654f5c4769b75f992ae1a0b2fc3462e13913f5537e9d0f32626/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1516,21 +1523,21 @@
       "helpCategoryId": "help-produce",
       "id": "produce-sp-lesson",
       "order": 25,
-      "name": "SP-уроки",
+      "name": "Уроки SP",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/866a82568980d12d7b128344ddefdf6e6de8758f98f82b92f743e21b23835fa0/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-support-card-deck-edit",
       "order": 6,
-      "name": "Формация карт поддержки (продюсирование)",
+      "name": "Сбор карт поддержки (Продюсирование)",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/67b2c3941f3f59b4edf0008285eff0bae79966982f2333253fdd6032bd00b3a4/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-support-event",
       "order": 23,
-      "name": "События карт поддержки",
+      "name": "События Карт Поддержки",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/74b138401b3780833b9bbd5096dd3d962f8cd47d141f28b57a3ac5aa75505468/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1558,7 +1565,7 @@
       "helpCategoryId": "help-produce",
       "id": "ProduceCardConvert",
       "order": 51,
-      "name": "Смена карты навыка",
+      "name": "Смена Карты Навыка",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/83c812f6ee4404aa579e5ba2243ced3baf30d02eff033916d30a1b088871c053/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1572,7 +1579,7 @@
       "helpCategoryId": "help-producer-ranking",
       "id": "producer-ranking",
       "order": 1,
-      "name": "Рейтинг продюсера",
+      "name": "Рейтинг продюсеров",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/24339460f5106eb18b80c0e08070d2f910b76f85d246202582b4decc2f62f714/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1593,49 +1600,49 @@
       "helpCategoryId": "help-research-event",
       "id": "research-event-bonus",
       "order": 6,
-      "name": "Бонусы события",
+      "name": "Бонусы событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ad82dc051a992c8057de8f190e153b7ffc272c5b58e9b695956d549c8b64ea3d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-research-event",
       "id": "research-event-event-coin",
       "order": 5,
-      "name": "Предметы обмена события",
+      "name": "Предметы обмена",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c387956c689d9b500ee55da14099ffb47a8a78adb6d53fa6903dfcb601ab07c9/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-research-event",
       "id": "research-event-event-point",
       "order": 4,
-      "name": "Награды за суммарные очки события",
+      "name": "Награды за накопленные очки событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/112d621eda6a2b2e303082b878f835c1e090b138fec07676eaee6de1c1db95bb/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-research-event",
       "id": "research-event-event-produce",
       "order": 2,
-      "name": "Режим события: продюсирование",
+      "name": "Режим «Продюсирование»",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/adb0a2f3ae898f902ee3c18bbc8458e07677f0ba39c374eb1c28f487ecb419fa/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-research-event",
       "id": "research-event-reroll",
       "order": 3,
-      "name": "Переброс способности воспоминания",
+      "name": "Переброс Способности Записи",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8262699f0ea3f82c468712b81b657670179ef6726bd778ade528afd5c74fce0c/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-research-event",
       "id": "research-event-research-event",
       "order": 1,
-      "name": "Семинар продюсирования Асари-сэнсэя",
+      "name": "Семинар по продюсированию Асари-сенсея",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/8b329388918a9179f7dd8d3e4a249f76872135055703548cc96f153b789aff16/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-coingasha",
       "order": 5,
-      "name": "Гача за монеты",
+      "name": "Гача монет",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7284b1b9c3487104ec03df3bd6e01bc458cd68ce8f6a1458204cf1c23d0b0fb8/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1649,14 +1656,14 @@
       "helpCategoryId": "help-shop",
       "id": "shop-exchange",
       "order": 7,
-      "name": "Обмен предметов",
+      "name": "Обмен предметами",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/240089810cd581169cac11edd9050cb850156fdf57f5bbc47655981578f1c7e0/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-exchange-daily",
       "order": 6,
-      "name": "Ежедневный обмен",
+      "name": "Ежедневный Обмен",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c8963d9e3cc422e9b420544f6b65282a8531b7ab7579a041d11a3ef1b383c276/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1677,14 +1684,14 @@
       "helpCategoryId": "help-shop",
       "id": "shop-jewel",
       "order": 2,
-      "name": "Драгоценности",
-      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/237126396ca725b5a904f1bbac382e2fe0b95190375f11e7e3a23d588744207f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+      "name": "Самоцветы",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7c6b5b26a715a34d83955a674027d6d6d1ccec71f15694f44878b7baebf4fc99/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-mission-pass",
       "order": 4,
-      "name": "Пассы",
+      "name": "Пропуски",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/768da0242bfba47305409e0c2dd68089491e52d916e28cec74ad7b7e58fea15f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1698,42 +1705,42 @@
       "helpCategoryId": "help-story",
       "id": "story-story",
       "order": 1,
-      "name": "Комью",
+      "name": "Коммьюнити",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3b4a20f32eb91ce3cc00dcaf838acfab515b62b191cfa9d58cc554aa6e15d0c3/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-story",
       "id": "story-story-event-story",
       "order": 5,
-      "name": "Комью события",
+      "name": "Комму Событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b83d73d654f16d498b7a2f5cebef214abcbeabecf5e895faf8903428fb3efe26/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-story",
       "id": "story-story-idol",
       "order": 3,
-      "name": "Комью айдола",
+      "name": "Комму Айдолов",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/d5429c5704179444c78ec9d5d61cfb1da5dfe0f824f86a51bdf595c3114cabae/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-story",
       "id": "story-story-main",
       "order": 2,
-      "name": "Комью Хацубоси",
+      "name": "Комму Hatsuboshi",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/7255ebcb3ba84c0f4ba4084c1b8dfeb2f31a2283b36107561cf22dbc4cdc2313/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-story",
       "id": "story-story-support-card",
       "order": 4,
-      "name": "Комью поддержки",
+      "name": "Комму Поддержки",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/6c7842fa9d871444d97989c82f637d861e035c84b0b236dd5b1f32638ff7cb32/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-coin",
       "order": 6,
-      "name": "Предметы обмена события",
+      "name": "Предметы обмена",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/933da18b573607d542beb60780b60f8b28413f2346e83872a5d938af419c893a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1747,14 +1754,14 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-mission",
       "order": 5,
-      "name": "Миссии события",
+      "name": "Миссии событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/acae3544777787c490e9bd1ae6cda0010a3d0d58c3ceeebcbc279c04bebf896f/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-point",
       "order": 3,
-      "name": "Награды за суммарные очки события",
+      "name": "Награды за накопленные очки событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/1b463aedce761d20d514d51761f2865a191fa9eed394b4b2ab18b046f9cb8f04/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1768,14 +1775,14 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-story-bonus",
       "order": 2,
-      "name": "Бонусы события",
+      "name": "Бонусы событий",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b910beb4027ce06d9f60a0528d4afd4104eb951958704857680c285853ae040d/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-story-story-unlock",
       "order": 4,
-      "name": "Комью события",
+      "name": "Событие сообщества",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3cb663d2655076e8acaa5c0b6e69cb5d8ad8dee76dd0593f3d7e6a515f0ad04a/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1789,7 +1796,7 @@
       "helpCategoryId": "help-support",
       "id": "support-lesson-support",
       "order": 2,
-      "name": "Поддержка карты навыка",
+      "name": "Поддержка Карты Навыка",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3ed53b2dddb2b9b8e6a01b7fc695b1546a1ed504563b58fb167265651749b3a6/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1817,14 +1824,14 @@
       "helpCategoryId": "help-support",
       "id": "support-support-card",
       "order": 1,
-      "name": "Карты поддержки",
+      "name": "Карты Поддержки",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/04d3385d8bc107805f7e661b5675c050bfbbf3434817f486ba1ee6a5df7e9218/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-support",
       "id": "support-support-card-deck-edit",
       "order": 7,
-      "name": "Формация карт поддержки",
+      "name": "Сборка Карт Поддержки",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/2d2058c46e1e7f78802e3e30ad35f703859667c7a7e858d62f0ee4733a397b79/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1838,7 +1845,7 @@
       "helpCategoryId": "help-support",
       "id": "support-support-card-level-limit-rank",
       "order": 6,
-      "name": "Лимит-брейк",
+      "name": "Преодоление предела",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/3c7fb6bda20452a5231ec846c7d86ed2ea84e957200977ef54f9f26026c518d8/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1852,14 +1859,14 @@
       "helpCategoryId": "help-tower",
       "id": "clear-rank",
       "order": 3,
-      "name": "Звезды условий прохождения",
+      "name": "Звезды условия прохождения",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/ef4b13222933e6a963be5b9e3a19d7dcf74aa6e2b6a9162fec3755be31df9503/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-tower",
       "id": "memory-memory-tower",
       "order": 4,
-      "name": "Формация воспоминаний для Idol Road",
+      "name": "Запись формирования для Idol Road",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/fb33b03f0b4fb366a7f80c9c476238516c4e8027ae51fa6095ceb1c63a0e2384/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
@@ -1880,14 +1887,14 @@
       "helpCategoryId": "help-tower",
       "id": "tower-ranking",
       "order": 6,
-      "name": "Рейтинг Idol Road",
+      "name": "Рейтинг Айдол Роуд",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/c0eb9fd62719ac1940a91d6f2868e4896e2b9ff92a1d1403836b553e160a59b3/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     },
     {
       "helpCategoryId": "help-tower",
       "id": "tower-rule",
       "order": 2,
-      "name": "Правила Idol Road",
+      "name": "Правила Айдол Роуд",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b5e4178d9a7ddabb5b0c82258acf4830459e35d0928499d25b65e43193b1dc69/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     }
   ]

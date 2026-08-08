@@ -8,73 +8,79 @@
     {
       "tutorialType": "TutorialType_Work",
       "name": "Работа",
-      "description": "Функция «Работа» открыта",
-      "routeDescription": "Check from \"Work\" on the Home screen"
+      "description": "Разблокирована функция «Работа»",
+      "routeDescription": "Check from \"Job\" on the Home screen"
     },
     {
       "tutorialType": "TutorialType_PvpRate",
-      "name": "Контест",
-      "description": "Функция «Контест» открыта",
+      "name": "Турнир",
+      "description": "Разблокирована функция Турнира",
       "routeDescription": "Check from \"Contest\""
     },
     {
       "tutorialType": "TutorialType_CoinGasha",
-      "name": "Гача за монеты",
-      "description": "Функция «Гача за монеты» открыта",
+      "name": "Гача монет",
+      "description": "Разблокирована функция Гачи монет",
       "routeDescription": "Check from \"Coin Gacha\" in the Shop"
     },
     {
       "tutorialType": "TutorialType_MoneyReceive",
-      "name": "Средства активности",
-      "description": "Функция «Средства активности» открыта",
+      "name": "Средства деятельности",
+      "description": "Разблокирована функция «Фонды активности»",
       "routeDescription": "Check from \"Activity Funds\" on the Home screen"
     },
     {
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
-      "name": "Тренировка айдола продюсирования",
-      "description": "Функция «Тренировка айдола продюсирования» открыта",
+      "name": "Продюсирование тренировки Айдола",
+      "description": "Разблокирована функция «Продюсирование Айдолов»",
       "routeDescription": "Check from \"P-Idol Development\" under Idol"
     },
     {
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
-      "name": "Улучшение карты поддержки",
-      "description": "Функция «Улучшение карты поддержки» открыта",
+      "name": "Улучшение Карты Поддержки",
+      "description": "Разблокирована функция улучшения Карт Поддержки",
       "routeDescription": "Check from \"Support Cards\" under Idol"
     },
     {
       "tutorialType": "TutorialType_DailyExchange",
       "name": "Магазин ежедневного обмена",
-      "description": "Функция «Магазин ежедневного обмена» открыта",
+      "description": "Разблокирована функция Магазина ежедневного Обмена",
       "routeDescription": "Check from \"Daily Exchange Shop\" in the Shop"
     },
     {
       "tutorialType": "TutorialType_Tower",
-      "name": "Дорога Айдола",
-      "description": "Функция «Idol Road» открыта",
+      "name": "Путь Айдола",
+      "description": "Разблокирована функция «Путь Айдола»",
       "routeDescription": "Check from \"The Idol Road\" under Contest"
     },
     {
       "tutorialType": "TutorialType_Guild",
       "name": "Круг",
-      "description": "Функция «Круг» открыта",
+      "description": "Разблокирована функция Круга",
       "routeDescription": "Check from \"Circle\" in the Menu"
     },
     {
       "tutorialType": "TutorialType_DearnessTop",
-      "name": "Меню BondLv",
-      "description": "Функция «Меню BondLv» открыта",
+      "name": "Меню Отношений",
+      "description": "Разблокирована функция «Меню Отношений»",
       "routeDescription": "You can check this from the Home BondLv"
     },
     {
+      "tutorialType": 32,
+      "name": "Рейтинг P\nДостижения",
+      "description": "Достижения P-Rating \nразблокированы",
+      "routeDescription": "You can check them from the normal missions menu"
+    },
+    {
       "tutorialType": "TutorialType_ProducerRanking",
-      "name": "Рейтинг продюсера",
-      "description": "«Рейтинг продюсера» открыт",
+      "name": "Рейтинг продюсеров",
+      "description": "Открыт [Рейтинг продюсеров]",
       "routeDescription": "You can check your P-rankings here"
     },
     {
       "tutorialType": "TutorialType_ProduceCardConvert",
-      "name": "Смена карты навыка",
-      "description": "Функция «Смена карты навыка» открыта",
+      "name": "Переключение Карт Навыков",
+      "description": "Разблокировано «Переключение Карты Навыка»",
       "routeDescription": "Available in produce"
     }
   ]

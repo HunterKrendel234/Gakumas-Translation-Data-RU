@@ -7,19 +7,19 @@
   "data": [
     {
       "id": "april_event_group-001",
-      "title": "Сцена мечты 1 апреля"
+      "title": "Сонная сцена 1 апреля"
     },
     {
       "id": "april_event_group-002",
-      "title": "Сцена мечты 1 апреля"
+      "title": "Сонная сцена 1 апреля"
     },
     {
       "id": "box_gasha_event-01-01",
-      "title": "Летний лайв-фестиваль в разгаре лета"
+      "title": "Midsummer Summer Live Fes"
     },
     {
       "id": "box_gasha_event-02-01",
-      "title": "Летнее вечернее противостояние"
+      "title": "Летний вечер: Поединок"
     },
     {
       "id": "box_gasha_event-07-01",
@@ -27,39 +27,39 @@
     },
     {
       "id": "box_gasha_event-09-01",
-      "title": "Другмас вокруг торта"
+      "title": "Дружеский Рождество вокруг торта"
     },
     {
       "id": "box_gasha_event-10-01",
-      "title": "Валентиновский концерт"
+      "title": "Валентинская концерто"
     },
     {
       "id": "box_gasha_event-11-01",
-      "title": "Хинамацури подменышей"
+      "title": "Фестиваль Хинами Чендлингов"
     },
     {
       "id": "box_gasha_event-12-01",
-      "title": "Порхающая сакура на стартовой линии"
+      "title": "Лепестки Sakura на старте"
     },
     {
       "id": "box_gasha_event-15-01",
-      "title": "Событие Live Tour - Hiroshima"
+      "title": "Live-тур — Хиросима"
     },
     {
       "id": "box_gasha_event-19-01",
-      "title": "Событие Live Tour - Nagoya"
+      "title": "Live-тур: Нагоя"
     },
     {
       "id": "box_gasha_event-20-01",
-      "title": "Live Тур Событие SP - GO MY WAY!!"
+      "title": "Live Tour Event SP — GO MY WAY!!"
     },
     {
       "id": "livetour_event_group-001",
-      "title": "Событие Live Tour - Osaka"
+      "title": "Live-тур: Осака"
     },
     {
       "id": "livetour_event_group-002",
-      "title": "Событие Live Tour - Shibuya"
+      "title": "Live Tour Event — Сибуя"
     },
     {
       "id": "main_story_group-01-01",
@@ -170,6 +170,10 @@
       "title": "STEP2"
     },
     {
+      "id": "story_dearness_atbm_step-03",
+      "title": "STEP3"
+    },
+    {
       "id": "story_dearness_fktn_step-01",
       "title": "STEP1"
     },
@@ -218,6 +222,10 @@
       "title": "STEP3"
     },
     {
+      "id": "story_dearness_hski_step-04",
+      "title": "STEP4"
+    },
+    {
       "id": "story_dearness_hume_step-01",
       "title": "STEP1"
     },
@@ -228,6 +236,10 @@
     {
       "id": "story_dearness_hume_step-03",
       "title": "STEP3"
+    },
+    {
+      "id": "story_dearness_hume_step-04",
+      "title": "STEP4"
     },
     {
       "id": "story_dearness_jsna_step-01",
@@ -311,15 +323,15 @@
     },
     {
       "id": "story_event_group-05-01",
-      "title": "Айдолы студсовета"
+      "title": "Айдолы студенческого совета"
     },
     {
       "id": "story_event_group-06-01",
-      "title": "Hatsuboshi Onsen ~Развеянные зимним ветром~"
+      "title": "Hatsuboshi Onsen ~Разбросанные зимним ветром~"
     },
     {
       "id": "story_event_group-13-01",
-      "title": "Экскурсия класса 3-1"
+      "title": "Полевой выход класса 3-1"
     },
     {
       "id": "story_event_group-14-01",
@@ -327,7 +339,7 @@
     },
     {
       "id": "story_event_group-16-01",
-      "title": "Лучшие подруги? Повседневные проказы одной троицы"
+      "title": "Лучшие друзья? Будни трио"
     },
     {
       "id": "story_event_group-17-01",
@@ -339,7 +351,7 @@
     },
     {
       "id": "story_event_group-21-01",
-      "title": "Повседневная жизнь Sena и Tsubame"
+      "title": "Будни Sena и Tsubame"
     },
     {
       "id": "story_event_group-22-01",
@@ -347,27 +359,27 @@
     },
     {
       "id": "story_event_group-23-01",
-      "title": "Повседневная жизнь Temari и Hiro"
+      "title": "Будни Temari и Hiro"
     },
     {
       "id": "story_event_group-24-01",
-      "title": "Повседневная жизнь членов студсовета первого года"
+      "title": "Будни членов студенческого совета на 1-м курсе"
     },
     {
       "id": "story_gvg_group-01-01",
-      "title": "#Анимейт Хайп Скад"
+      "title": "#Анимируй Squad Hype"
     },
     {
       "id": "story-1st-anniversary-20250516",
-      "title": "С нашей встречи и до сегодняшнего дня"
+      "title": "От нашей встречи и до сегодняшнего дня"
     },
     {
       "id": "story-aprilfool-group-2025-01",
-      "title": "Мечта 1 апреля"
+      "title": "Сон 1 апреля"
     },
     {
       "id": "story-atbm-group-2025-1113",
-      "title": "Tsubame Amaya STEP1 Эп.0.5"
+      "title": "Tsubame Amaya ШАГ 1 Эп.0.5"
     }
   ]
 }

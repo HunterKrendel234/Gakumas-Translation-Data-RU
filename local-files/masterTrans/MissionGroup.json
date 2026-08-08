@@ -7,267 +7,279 @@
   "data": [
     {
       "id": "dearness_normal-mission_amao_01",
-      "name": "Миссия айдола: Мао"
+      "name": "Миссия Айдола: Mao"
+    },
+    {
+      "id": "dearness_normal-mission_atbm_01",
+      "name": "Миссия Айдола: Tsubame Amaya"
     },
     {
       "id": "dearness_normal-mission_fktn_01",
-      "name": "Миссия айдола: Котоне"
+      "name": "Миссия Айдола: Kotone"
     },
     {
       "id": "dearness_normal-mission_hmsz_01",
-      "name": "Миссия айдола: Мисудзу"
+      "name": "Миссия Айдола: Misuzu"
     },
     {
       "id": "dearness_normal-mission_hrnm_01",
-      "name": "Миссия айдола: Ринами"
+      "name": "Миссия Айдола: Rinami"
     },
     {
       "id": "dearness_normal-mission_hski_01",
-      "name": "Миссия айдола: Саки"
+      "name": "Миссия Айдола: Saki"
     },
     {
       "id": "dearness_normal-mission_hume_01",
-      "name": "Миссия айдола: Умэ"
+      "name": "Миссия Айдола: Ume"
     },
     {
       "id": "dearness_normal-mission_jsna_01",
-      "name": "Миссия айдола: Сена"
+      "name": "Миссия Айдола: Sena Juo"
     },
     {
       "id": "dearness_normal-mission_kcna_01",
-      "name": "Миссия айдола: Чина"
+      "name": "Миссия Айдола: Китай"
     },
     {
       "id": "dearness_normal-mission_kllj_01",
-      "name": "Миссия айдола: Лилья"
+      "name": "Миссия Айдола: Lilja Katsuragi"
     },
     {
       "id": "dearness_normal-mission_shro_01",
-      "name": "Миссия айдола: Хиро"
+      "name": "Миссия Айдола: Hiro"
     },
     {
       "id": "dearness_normal-mission_ssmk_01",
-      "name": "Миссия айдола: Сумика"
+      "name": "Миссия Айдола: Sumika"
     },
     {
       "id": "dearness_normal-mission_ttmr_01",
-      "name": "Миссия айдола: Темари"
+      "name": "Миссия Айдола: Temari"
     },
     {
       "id": "dearness_panel-mission_amao_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по укреплению Отношений"
+    },
+    {
+      "id": "dearness_panel-mission_atbm_01",
+      "name": "Кампания «Усиление Отношений»"
     },
     {
       "id": "dearness_panel-mission_fktn_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_hmsz_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по укреплению Отношений"
     },
     {
       "id": "dearness_panel-mission_hrnm_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по улучшению Отношений"
     },
     {
       "id": "dearness_panel-mission_hski_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_hume_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по укреплению Отношений"
     },
     {
       "id": "dearness_panel-mission_jsna_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление отношений»"
     },
     {
       "id": "dearness_panel-mission_kcna_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Усиление отношений»"
     },
     {
       "id": "dearness_panel-mission_kllj_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_amao_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_fktn_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Усиление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_hmsz_01",
-      "name": "Кампания усиления отношений"
+      "name": "Кампания «Усиление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_hrnm_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по укреплению Отношений"
     },
     {
       "id": "dearness_panel-mission_relaunch_hski_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_hume_01",
-      "name": "Кампания повышения отношений"
+      "name": "Кампания «Усиление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_jsna_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по усилению Отношений"
     },
     {
       "id": "dearness_panel-mission_relaunch_kcna_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по усилению Отношений"
     },
     {
       "id": "dearness_panel-mission_relaunch_kllj_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_shro_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по укреплению Отношений"
     },
     {
       "id": "dearness_panel-mission_relaunch_ssmk_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_ttmr_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания улучшения Отношений"
     },
     {
       "id": "dearness_panel-mission_shro_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Усиление Отношений»"
     },
     {
       "id": "dearness_panel-mission_ssmk_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление отношений»"
     },
     {
       "id": "dearness_panel-mission_ttmr_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания усиления Отношений"
+    },
+    {
+      "id": "grade_mission-001-group_1",
+      "name": "Миссия P-Рейтинга"
     },
     {
       "id": "limited-time-mission-001-group_1",
-      "name": "Празднование запуска H.I.F.! Ограниченная по времени миссия (〜2026/6/15 10:59)"
+      "name": "Празднование запуска H.I.F. Ограниченная миссия (до 15.06.2026, 10:59)"
     },
     {
       "id": "mission_group-daily-001",
-      "name": "Ежедневные миссии"
+      "name": "Ежедневная Миссия"
     },
     {
       "id": "mission_group-release_memorial_1",
-      "name": "Миссии в честь поступления. День 1"
+      "name": "Миссия в честь Дня поступления, день 1"
     },
     {
       "id": "mission_group-release_memorial_2",
-      "name": "Миссии в честь поступления. День 2"
+      "name": "Миссия в честь дня зачисления — День 2"
     },
     {
       "id": "mission_group-release_memorial_3",
-      "name": "Миссии в честь поступления. День 3"
+      "name": "Миссия в честь записи в реестр — День 3"
     },
     {
       "id": "mission_group-release_memorial_4",
-      "name": "Миссии в честь поступления. День 4"
+      "name": "Миссия в честь записи — День 4"
     },
     {
       "id": "mission_group-release_memorial_5",
-      "name": "Миссии в честь поступления. День 5"
+      "name": "Миссия в честь поступления — День 5"
     },
     {
       "id": "mission_group-release_memorial_6",
-      "name": "Миссии в честь поступления. День 6"
+      "name": "Миссия в честь записи: День 6"
     },
     {
       "id": "mission_group-release_memorial_7",
-      "name": "Миссии в честь поступления. День 7"
+      "name": "Миссия в честь поступления — День 7"
     },
     {
       "id": "mission_group-weekly-001",
-      "name": "Еженедельные миссии"
+      "name": "Еженедельная Миссия"
     },
     {
       "id": "mission-continuous-gasha-mission_001",
-      "name": "Миссии TV CM (до 2026/2/1 4:59)"
+      "name": "Миссия ТВ-рекламы (до 01.02.2026 4:59)"
     },
     {
       "id": "mission-group-april-event-001",
-      "name": "Миссии спецсобытия 001"
+      "name": "Специальная миссия 001"
     },
     {
       "id": "mission-group-box-gasha-event-001",
-      "name": "Миссии события Box Story 001"
+      "name": "Миссия события Сюжета Box 001"
     },
     {
       "id": "mission-group-box-gasha-event-002",
-      "name": "Миссии события Box Story 002"
+      "name": "Миссия сюжетного события Box 002"
     },
     {
       "id": "mission-group-box-gasha-event-003",
-      "name": "Рапсодия Хэллоуина"
+      "name": "Хэллоуинская рапсодия"
     },
     {
       "id": "mission-group-box-gasha-event-004",
-      "name": "Кексовый праздник друзей"
+      "name": "Дружеский Рождественский торт"
     },
     {
       "id": "mission-group-box-gasha-event-005",
-      "name": "Валентиновский концерт"
+      "name": "Валентинская концерто"
     },
     {
       "id": "mission-group-box-gasha-event-006",
-      "name": "Ченджленги Хинаматсури"
+      "name": "Фестиваль Хината Чейнджлингов"
     },
     {
       "id": "mission-group-box-gasha-event-007",
-      "name": "Порхание сакуры на старте"
+      "name": "Летящая Sakura на старте"
     },
     {
       "id": "mission-group-box-gasha-event-015",
-      "name": "Миссии события Box Story 008"
+      "name": "Миссия события Box Story 008"
     },
     {
       "id": "mission-group-box-gasha-event-019",
-      "name": "Событие Live Tour — Нагоя"
+      "name": "Live-тур: Нагоя"
     },
     {
       "id": "mission-group-box-gasha-event-020",
-      "name": "Live Тур Событие SP - GO MY WAY!!"
+      "name": "Live Tour Event SP — GO MY WAY!!"
     },
     {
       "id": "mission-group-circle-battle-event-001",
-      "name": "#Анимировать Хайп-сквад"
+      "name": "#Зажги Hype Squad"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_1",
-      "name": "Миссии возвращения"
+      "name": "Миссия возвращения"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_2",
-      "name": "Миссии возвращения"
+      "name": "Миссия возвращения"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_3",
-      "name": "Миссии возвращения"
+      "name": "Миссия возвращения"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_4",
-      "name": "Миссии возвращения"
+      "name": "Миссия возвращения"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_5",
-      "name": "Миссии возвращения"
+      "name": "Миссия возвращения"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_6",
-      "name": "Миссии возвращения"
+      "name": "Миссия возвращения"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_7",
-      "name": "Миссии возвращения"
+      "name": "Миссия возвращения"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_003_1",
@@ -275,15 +287,15 @@
     },
     {
       "id": "mission-group-comeback_daily_release_mission_003_2",
-      "name": "Ежедневные миссии возвращения"
+      "name": "Ежедневные Миссии возвращения"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_003_3",
-      "name": "Ежедневные миссии возвращения"
+      "name": "Ежедневные Миссии возвращения"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_003_4",
-      "name": "Ежедневные миссии возвращения"
+      "name": "Ежедневные Миссии возвращения"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_003_5",
@@ -291,7 +303,7 @@
     },
     {
       "id": "mission-group-comeback_daily_release_mission_003_6",
-      "name": "Ежедневные миссии возвращения"
+      "name": "Ежедневные Миссии Возвращения"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_003_7",
@@ -299,579 +311,599 @@
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_1",
-      "name": "Миссии прохождения NIA"
+      "name": "Миссия по завершению NIA"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_2",
-      "name": "Миссии прохождения NIA"
+      "name": "Миссия по прохождению NIA"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_3",
-      "name": "Миссии прохождения NIA"
+      "name": "Миссия по завершению NIA"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_4",
-      "name": "Миссии прохождения NIA"
+      "name": "Миссия по завершению NIA"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_5",
-      "name": "Миссии прохождения NIA"
+      "name": "Миссия по зачистке NIA"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_6",
-      "name": "Миссии прохождения NIA"
+      "name": "Миссия по зачистке NIA"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_7",
-      "name": "Миссии прохождения NIA"
+      "name": "Миссия по завершению NIA"
     },
     {
       "id": "mission-group-highscore-event-001",
-      "name": "Месяц усиления айдолов Кунио Джуо"
+      "name": "Месяц улучшения Айдола Kunio Juo"
     },
     {
       "id": "mission-group-highscore-event-001_1",
-      "name": "Месяц усиления айдолов Кунио Джуо"
+      "name": "Месяц улучшения Айдола Kunio Juo"
     },
     {
       "id": "mission-group-highscore-event-002",
-      "name": "Месяц усиления айдолов Кунио Джуо"
+      "name": "Месяц улучшения Айдолов Kunio Juo"
     },
     {
       "id": "mission-group-highscore-event-002_1",
-      "name": "Месяц усиления айдолов Кунио Джуо"
+      "name": "Месяц улучшения Айдолов Kunio Juo"
     },
     {
       "id": "mission-group-highscore-event-003_1",
-      "name": "Миссии события месяца усиления айдолов"
+      "name": "Миссия ежемесячного события улучшения Айдола"
     },
     {
       "id": "mission-group-highscore-event-003_2",
-      "name": "Миссии события месяца усиления айдолов"
+      "name": "Миссия ежемесячного улучшения Айдола"
     },
     {
       "id": "mission-group-highscore-event-003_3",
-      "name": "Миссии события месяца усиления айдолов"
+      "name": "Миссия ежемесячного события улучшения Айдолов"
     },
     {
       "id": "mission-group-highscore-event-003_4",
-      "name": "Миссии события месяца усиления айдолов"
+      "name": "Миссия события «Апгрейд Айдола» в этом месяце"
     },
     {
       "id": "mission-group-highscore-event-003_5",
-      "name": "Миссии события месяца усиления айдолов"
+      "name": "Миссия события «Апгрейд Айдолов» в этом месяце"
     },
     {
       "id": "mission-group-highscore-event-004_1",
-      "name": "Миссии события месяца усиления айдолов"
+      "name": "Миссия события «Месяц улучшения Айдола»"
     },
     {
       "id": "mission-group-highscore-event-004_2",
-      "name": "Миссии события месяца усиления айдолов"
+      "name": "Миссия события «Месяц улучшения Айдолов»"
     },
     {
       "id": "mission-group-highscore-event-004_3",
-      "name": "Миссии события месяца усиления айдолов"
+      "name": "Миссия события ежемесячного улучшения Айдола"
     },
     {
       "id": "mission-group-highscore-event-004_4",
-      "name": "Миссии события месяца усиления айдолов"
+      "name": "Миссия события «Месяц улучшения Айдола»"
     },
     {
       "id": "mission-group-highscore-event-004_5",
-      "name": "Миссии события месяца усиления айдолов"
+      "name": "Миссия события ежемесячного улучшения Айдолов"
     },
     {
       "id": "mission-group-highscorerush-event-001_1",
-      "name": "Месяц усиления айдолов Кунио Джуо — обновлённый"
+      "name": "Месяц улучшения Айдола Kunio Juo — Пересмотренный"
     },
     {
       "id": "mission-group-highscorerush-event-001_2",
-      "name": "Месяц усиления айдолов Кунио Джуо — обновлённый"
+      "name": "Месяц улучшения Айдола Kunio Juo — Пересмотренная версия"
     },
     {
       "id": "mission-group-highscorerush-event-001_3",
-      "name": "Месяц усиления айдолов Кунио Джуо — обновлённый"
+      "name": "Месяц усиления айдолов Kunio Juo — Пересмотренный"
     },
     {
       "id": "mission-group-highscorerush-event-001_4",
-      "name": "Месяц усиления айдолов Кунио Джуо — обновлённый"
+      "name": "Месяц улучшения Айдолов Kunio Juo — Переработанная версия"
     },
     {
       "id": "mission-group-highscorerush-event-001_5",
-      "name": "Месяц усиления айдолов Кунио Джуо — обновлённый"
+      "name": "Месяц улучшения Айдолов Kunio Juo — Пересмотренный"
     },
     {
       "id": "mission-group-highscorerush-event-002_1",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Twinkling of the Stars〜"
     },
     {
       "id": "mission-group-highscorerush-event-002_2",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц усиления Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-002_3",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Твинкинг звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-002_4",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-002_5",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Сверкание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-003_1",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звёзд〜"
     },
     {
       "id": "mission-group-highscorerush-event-003_2",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-003_3",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-003_4",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Сверкание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-003_5",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-004_1",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-004_2",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-004_3",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц усиления Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-004_4",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-004_5",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдола Kunio Juo 〜Сверкание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-005_1",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-005_2",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-005_3",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-005_4",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-005_5",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-006_1",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-006_2",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-006_3",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-006_4",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-006_5",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-007_1",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц развития айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-007_2",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Сверкание звёзд〜"
     },
     {
       "id": "mission-group-highscorerush-event-007_3",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-007_4",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц развития Айдолов Kunio Juo 〜Сверкание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-007_5",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдола Kunio Juo 〜Twinkling of the Stars〜"
     },
     {
       "id": "mission-group-highscorerush-event-008_1",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-008_2",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-008_3",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-008_4",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-008_5",
-      "name": "Миссии события High Score Rush"
+      "name": "Миссия события High Score Rush"
     },
     {
       "id": "mission-group-highscorerush-event-009_1",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-009_2",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-009_3",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдола Kunio Juo 〜Мерцание звёзд〜"
     },
     {
       "id": "mission-group-highscorerush-event-009_4",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-009_5",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдола Kunio Juo 〜Сверкание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-010_1",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-010_2",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Сверкание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-010_3",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-010_4",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Сверкание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-010_5",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звёзд〜"
     },
     {
       "id": "mission-group-highscorerush-event-011_1",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-011_2",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-011_3",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-011_4",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-011_5",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звёзд〜"
     },
     {
       "id": "mission-group-highscorerush-event-012_1",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Сверкание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-012_2",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Сверка звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-012_3",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Твинклинг звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-012_4",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц усиления айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-012_5",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Twinkling of the Stars〜"
     },
     {
       "id": "mission-group-highscorerush-event-013_1",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-013_2",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-013_3",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-013_4",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц усиления Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-highscorerush-event-013_5",
-      "name": "Месяц усиления айдолов Кунио Джуо 〜Сияние звёзд〜"
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звёзд〜"
     },
     {
       "id": "mission-group-highscorerush-event-014_1",
-      "name": "Месяц улучшения Айдол Kunio Juo 〜Сияние звезд〜 (Misuzu/Hiro)"
+      "name": "Месяц улучшения Айдола Kunio Juo 〜Сверкание звезд〜 (Misuzu/Hiro)"
     },
     {
       "id": "mission-group-highscorerush-event-014_2",
-      "name": "Месяц улучшения Айдол Kunio Juo 〜Сияние звезд〜 (Misuzu/Hiro)"
+      "name": "Месяц развития Айдола Kunio Juo 〜Мерцание звезд〜 (Misuzu/Hiro)"
     },
     {
       "id": "mission-group-highscorerush-event-014_3",
-      "name": "Месяц улучшения Айдол Kunio Juo 〜Сияние звезд〜 (Misuzu/Hiro)"
+      "name": "Месяц усиления Айдолов Kunio Juo 〜Мерцание звёзд〜 (Misuzu/Hiro)"
     },
     {
       "id": "mission-group-highscorerush-event-014_4",
-      "name": "Месяц улучшения Айдол Kunio Juo 〜Сияние звезд〜 (Misuzu/Hiro)"
+      "name": "Месяц улучшения айдолов Kunio Juo 〜Мерцание звезд〜 (Misuzu/Hiro)"
     },
     {
       "id": "mission-group-highscorerush-event-014_5",
-      "name": "Месяц усиления айдолов Kunio Juo 〜Twinkling of the Stars〜"
+      "name": "Месяц прокачки айдолов Kunio Juo 〜Мерцание звезд〜 (Misuzu/Hiro)"
+    },
+    {
+      "id": "mission-group-highscorerush-event-015_1",
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
+    },
+    {
+      "id": "mission-group-highscorerush-event-015_2",
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
+    },
+    {
+      "id": "mission-group-highscorerush-event-015_3",
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
+    },
+    {
+      "id": "mission-group-highscorerush-event-015_4",
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
+    },
+    {
+      "id": "mission-group-highscorerush-event-015_5",
+      "name": "Месяц улучшения Айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "id": "mission-group-main-story-event-001_1",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-001_2",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-001_3",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-001_4",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-001_5",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-002_1",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-002_2",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-002_3",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-002_4",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-002_5",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-003_1",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-003_2",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-003_3",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-003_4",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-003_5",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-004_1",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-004_2",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-004_3",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-004_4",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-004_5",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-005_1",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-005_2",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-005_3",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-005_4",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-005_5",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-006_1",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-006_2",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-006_3",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-006_4",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общестного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-006_5",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-007_1",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного мероприятия Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-007_2",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-007_3",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-007_4",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия событийного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-007_5",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-008_1",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-008_2",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-008_3",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-008_4",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-008_5",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-009_1",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-009_2",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-009_3",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-009_4",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного события Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-009_5",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-010_1",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-main-story-event-010_2",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия общественного мероприятия Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-010_3",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-010_4",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события сообщества Hatsuboshi"
     },
     {
       "id": "mission-group-main-story-event-010_5",
-      "name": "Миссии события Hatsuboshi Commu"
+      "name": "Миссия события Hatsuboshi Commu"
     },
     {
       "id": "mission-group-mission_HIF_clear_1",
-      "name": "HIF Очистка миссии"
+      "name": "Миссия Завершения HIF"
     },
     {
       "id": "mission-group-panel-mission-01",
-      "name": "Панельные миссии 1 (лист 1)"
+      "name": "Лист миссий 1-й панели"
     },
     {
       "id": "mission-group-panel-mission-02",
-      "name": "Панельные миссии 1 (лист 2)"
+      "name": "Лист миссий 1-й панели 2"
     },
     {
       "id": "mission-group-research-event-001",
@@ -903,115 +935,127 @@
     },
     {
       "id": "mission-group-story-event-002",
-      "name": "Миссии сюжетного события 002"
+      "name": "Сюжетная миссия 002"
     },
     {
       "id": "mission-group-story-event-003",
-      "name": "Миссии сюжетного события 003"
+      "name": "Сюжетная миссия 003"
     },
     {
       "id": "mission-group-story-event-004",
-      "name": "Миссии сюжетного события 004"
+      "name": "Сюжетная миссия 004"
     },
     {
       "id": "mission-group-story-event-006",
-      "name": "Миссии сюжетного события 006"
+      "name": "Сюжетная миссия 006"
     },
     {
       "id": "mission-group-story-event-007",
-      "name": "Миссии сюжетного события 007"
+      "name": "Сюжетная миссия 007"
     },
     {
       "id": "mission-group-story-event-008",
-      "name": "Миссии сюжетного события 008"
+      "name": "Сюжетная миссия 008"
     },
     {
       "id": "mission-group-story-event-009",
-      "name": "Миссии сюжетного события 009"
+      "name": "Сюжетная миссия 009"
     },
     {
       "id": "mission-group-story-event-010",
-      "name": "Миссии сюжетного события 010"
+      "name": "Сюжетная миссия 010"
     },
     {
       "id": "mission-group-story-event-011",
-      "name": "Миссии сюжетного события 011"
+      "name": "Сюжетная миссия 011"
     },
     {
       "id": "mission-group-story-event-012",
-      "name": "Миссии сюжетного события 012"
+      "name": "Сюжетная миссия 012"
     },
     {
       "id": "mission-group-story-event-013",
-      "name": "Миссии сюжетного события 013"
+      "name": "Сюжетная миссия 013"
     },
     {
       "id": "mission-group-story-event-014",
-      "name": "Миссии сюжетного события 014"
+      "name": "Сюжетная миссия 014"
     },
     {
       "id": "mission-group-tour-event-001",
-      "name": "Миссии тур-события 001"
+      "name": "Миссия Турнирного события 001"
     },
     {
       "id": "mission-group-tour-event-002",
-      "name": "Миссии тур-события 002"
+      "name": "Миссия события тура 002"
     },
     {
       "id": "panel_mission-event-002-group_1",
-      "name": "Панельные миссии 2 (лист 1)"
+      "name": "Лист миссий №2 (1)"
     },
     {
       "id": "panel_mission-event-002-group_2",
-      "name": "Панельные миссии 2 (лист 2)"
+      "name": "2-й лист панели миссий 2"
     },
     {
       "id": "panel_mission-event-003-group_1",
-      "name": "Панельные миссии к 1,5 млн загрузок"
+      "name": "Миссия в честь 1,5 млн загрузок"
     },
     {
       "id": "panel_mission-event-004-group_1",
-      "name": "Панельные миссии 3 (лист 1)"
+      "name": "Лист 3-й панели миссии 1"
     },
     {
       "id": "panel_mission-event-004-group_2",
-      "name": "Панельные миссии 3 (лист 2)"
+      "name": "Лист 3-й панельной миссии 2"
     },
     {
       "id": "panel_mission-event-006-group_1",
-      "name": "Панельные миссии 4 (лист 1)"
+      "name": "Лист 4-й панели миссии 1"
     },
     {
       "id": "panel_mission-event-006-group_2",
-      "name": "Панельные миссии 4 (лист 2)"
+      "name": "Лист 4-й панели 2"
     },
     {
       "id": "panel_mission-event-007-group_1",
-      "name": "Группа панельных миссий 1"
+      "name": "Панель группы миссий 1"
     },
     {
       "id": "panel_mission-event-007-group_2",
-      "name": "Группа панельных миссий 2"
+      "name": "Панель группы миссий 2"
     },
     {
       "id": "panel_mission-event-008-group_1",
-      "name": "Группа панельных миссий 1"
+      "name": "Панель группы миссий 1"
     },
     {
       "id": "panel_mission-event-008-group_2",
-      "name": "Группа панельных миссий 2"
+      "name": "Панель группы миссий 2"
     },
     {
       "id": "panel_mission-event-009-group_1",
-      "name": "Группа панельных миссий 1"
+      "name": "Панель группы миссий 1"
     },
     {
       "id": "panel_mission-event-009-group_2",
-      "name": "Группа панельных миссий 2"
+      "name": "Панель группы миссий 2"
+    },
+    {
+      "id": "panel_mission-event-010-group_1",
+      "name": "Панель группы миссий 1"
+    },
+    {
+      "id": "panel_mission-event-010-group_2",
+      "name": "Панель группы миссий 2"
+    },
+    {
+      "id": "panel_mission-event-011-group_1",
+      "name": "Панель миссии группы 1"
     },
     {
       "id": "panel_mission-event-niv-group_1",
-      "name": "Испытания Кунио Джуо: путь к A+"
+      "name": "Путь к оценке A+ в испытании Kunio Juo"
     }
   ]
 }

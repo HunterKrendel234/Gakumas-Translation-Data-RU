@@ -20,28 +20,28 @@
     {
       "id": "help-box-gasha-event",
       "order": 24,
-      "name": "Событие Live Tour",
+      "name": "Live-тур в событии",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-circle-battle-event",
       "order": 26,
-      "name": "События регионального тура",
+      "name": "Региональные туры",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-competition",
       "order": 12,
-      "name": "Командный турнир",
+      "name": "Командный Турнир",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-contest",
       "order": 12,
-      "name": "Конкурсы",
+      "name": "Турниры",
       "texts": [
         " You can compete against producers nationwide. In contests, you can use the parameters, skill cards, and P items tied to the memories gained during production. ",
         " Performance battles are conducted on each stage, and victories are determined by the scores obtained. The producer with the most stage victories wins. ",
@@ -53,35 +53,35 @@
     {
       "id": "help-dearness-doost-campaign",
       "order": 11,
-      "name": "Кампания бонуса связи",
+      "name": "Кампания «Укрепление отношений»",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-dearness-map",
       "order": 10,
-      "name": "Карта связи",
+      "name": "Карта отношений",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-dearness-top",
       "order": 9,
-      "name": "Меню связи",
+      "name": "Меню Отношений",
       "texts": [],
       "hiddenHelpList": false
     },
     {
       "id": "help-event_mission",
       "order": 25,
-      "name": "Миссии события",
+      "name": "Миссии событий",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-event-mission",
       "order": 22,
-      "name": "Спецмиссии",
+      "name": "Специальные миссии",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -93,9 +93,16 @@
       "hiddenHelpList": false
     },
     {
+      "id": "help-grade-mission",
+      "order": 29,
+      "name": "Рейтинг P",
+      "texts": [],
+      "hiddenHelpList": false
+    },
+    {
       "id": "help-guild",
       "order": 16,
-      "name": "Кружки",
+      "name": "Круги",
       "texts": [
         " In Circles, you can team up and interact with producers nationwide. ",
         " In Circles, you can request training items from Circle members and receive donated items. Donating items also earns you Friend Coins."
@@ -105,14 +112,14 @@
     {
       "id": "help-highscore",
       "order": 24,
-      "name": "Месяц усиления айдолов",
+      "name": "Месяц улучшения Айдола",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-highscorerush",
       "order": 23,
-      "name": "Месяц усиления айдолов",
+      "name": "Месяц улучшения Айдолов",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -140,21 +147,21 @@
     {
       "id": "help-livetour-event",
       "order": 23,
-      "name": "Событие Live Tour",
+      "name": "Live-турное событие",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-main-story-event",
       "order": 23,
-      "name": "Событие комью Хацубоси",
+      "name": "Комму Hatsuboshi",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-memory",
       "order": 4,
-      "name": "Воспоминания",
+      "name": "Записи",
       "texts": [],
       "hiddenHelpList": false
     },
@@ -175,14 +182,14 @@
     {
       "id": "help-panel-mission",
       "order": 21,
-      "name": "События панельных миссий",
+      "name": "События миссий",
       "texts": [],
       "hiddenHelpList": true
     },
     {
       "id": "help-photography-prepare-top",
       "order": 23,
-      "name": "Фотосессии айдолов",
+      "name": "Фотосессии с айдолами",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -207,7 +214,7 @@
     {
       "id": "help-research-event",
       "order": 28,
-      "name": "Семинар продюсирования Асари-сэнсэя",
+      "name": "Семинар по продюсированию Асари-сэнсэй",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -221,7 +228,7 @@
     {
       "id": "help-story",
       "order": 8,
-      "name": "Комью",
+      "name": "Комму",
       "texts": [],
       "hiddenHelpList": false
     },
@@ -242,7 +249,7 @@
     {
       "id": "help-support",
       "order": 3,
-      "name": "Карты поддержки",
+      "name": "Карты Поддержки",
       "texts": [],
       "hiddenHelpList": false
     },

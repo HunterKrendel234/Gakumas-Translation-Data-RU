@@ -7,99 +7,103 @@
   "data": [
     {
       "id": "dearness_panel-mission_amao_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания усиления Отношений"
+    },
+    {
+      "id": "dearness_panel-mission_atbm_01",
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_fktn_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление уз»"
     },
     {
       "id": "dearness_panel-mission_hmsz_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_hrnm_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по укреплению Отношений"
     },
     {
       "id": "dearness_panel-mission_hski_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по укреплению Отношений"
     },
     {
       "id": "dearness_panel-mission_hume_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_jsna_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_kcna_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания усиления Отношений"
     },
     {
       "id": "dearness_panel-mission_kllj_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_amao_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по улучшению Отношений"
     },
     {
       "id": "dearness_panel-mission_relaunch_fktn_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Усиление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_hmsz_01",
-      "name": "Кампания усиления отношений"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_hrnm_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Усиление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_hski_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по укреплению Отношений"
     },
     {
       "id": "dearness_panel-mission_relaunch_hume_01",
-      "name": "Кампания усиления отношений"
+      "name": "Кампания усиления Отношений"
     },
     {
       "id": "dearness_panel-mission_relaunch_jsna_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_kcna_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по укреплению Отношений"
     },
     {
       "id": "dearness_panel-mission_relaunch_kllj_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_shro_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_ssmk_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_relaunch_ttmr_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Усиление Отношений»"
     },
     {
       "id": "dearness_panel-mission_shro_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания по укреплению Отношений"
     },
     {
       "id": "dearness_panel-mission_ssmk_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Укрепление Отношений»"
     },
     {
       "id": "dearness_panel-mission_ttmr_01",
-      "name": "Кампания усиления связи"
+      "name": "Кампания «Усиление Отношений»"
     },
     {
       "id": "panel_mission-event-002",
@@ -107,35 +111,43 @@
     },
     {
       "id": "panel_mission-event-003",
-      "name": "Панель миссий к 1.5 млн загрузок"
+      "name": "Панельная миссия в честь 1,5 млн загрузок"
     },
     {
       "id": "panel_mission-event-004",
-      "name": "Панель миссий"
+      "name": "Панель Миссии"
     },
     {
       "id": "panel_mission-event-006",
-      "name": "Панель миссий"
+      "name": "Панель миссии"
     },
     {
       "id": "panel_mission-event-007",
-      "name": "Миссии испытания Кунио Джуо 〜NIA〜"
+      "name": "Миссия Kunio Juo 〜NIA〜"
     },
     {
       "id": "panel_mission-event-008",
-      "name": "Миссии испытания Кунио Джуо 〜STEP3〜"
+      "name": "Миссия Kunio Juo: Вызов 〜ШАГ 3〜"
     },
     {
       "id": "panel_mission-event-009",
-      "name": "Миссии испытания Кунио Джуо 〜HIF Support〜"
+      "name": "Миссия Kunio Juo 〜Поддержка HIF〜"
+    },
+    {
+      "id": "panel_mission-event-010",
+      "name": "Панельная миссия GO MY WAY!!"
+    },
+    {
+      "id": "panel_mission-event-011",
+      "name": "Миссия панели в честь появления всех Айдолов (ШАГ 3)"
     },
     {
       "id": "panel_mission-event-niv",
-      "name": "Миссии испытания Кунио Джуо 〜Путь к A+〜"
+      "name": "Миссия Kunio Juo: Путь к A+"
     },
     {
       "id": "panel-mission-01",
-      "name": "Панель миссий"
+      "name": "Панель Миссии"
     }
   ]
 }

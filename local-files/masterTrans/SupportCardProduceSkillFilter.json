@@ -9,222 +9,222 @@
     {
       "id": "s_card_p_skill_filter-lessonpresentproducepointup-p_trigger-end_lesson_before_present-lesson",
       "order": 36,
-      "title": "Получение P-очков +"
+      "title": "+P-Очк."
     },
     {
       "id": "s_card_p_skill_filter-lessonvocalspchangeratepermiladdition-p_trigger-produce_start-no_description",
       "order": 3,
-      "title": "Шанс появления SP-урока +"
+      "title": "Шанс триггера SP Урока +"
     },
     {
       "id": "s_card_p_skill_filter-maxstaminaaddition-p_trigger-produce_start-no_description",
       "order": 31,
-      "title": "Макс. выносливость +"
+      "title": "Макс. Выносливость"
     },
     {
       "id": "s_card_p_skill_filter-producepointadditiondisabletrigger-p_trigger-produce_start-initial",
       "order": 35,
-      "title": "Начальные P-очки +"
+      "title": "P-Очки при старте +"
     },
     {
       "id": "s_card_p_skill_filter-shopproducedrinkpricediscountmultiple-p_trigger-start_shop-no_description",
       "order": 37,
-      "title": "Скидка на P-напитки во время консультации"
+      "title": "Скидка на P-Напиток во время Консультации"
     },
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_audition",
       "order": 33,
-      "title": "Выносливость восстанавливается после экзаменов/аудиций"
+      "title": "Восстановление Выносливости после Экзаменов/Прослушиваний"
     },
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_lesson-lesson_sp",
       "order": 32,
-      "title": "Выносливость восстанавливается после SP-уроков"
+      "title": "Восстановление Выносливости после Уроков SP"
     },
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-start_present",
       "order": 34,
-      "title": "Выносливость восстанавливается при выборе Present/Gift"
+      "title": "Восстановление Выносливости при выборе Позволения/Подарка"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_drink",
       "order": 29,
-      "title": "Повышение параметров после обмена P-напитка на консультации"
+      "title": "Увеличение Пара после Обмена P Напитком в Консультации"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-change_produce_card",
       "order": 13,
-      "title": "Повышение параметров при изменении Карт навыка"
+      "title": "Повышение параметров при смене Карт Навыка"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-customize_produce_card",
       "order": 32,
-      "title": "Повышение параметров при настройке Карт навыка"
+      "title": "Увеличение параметров при кастомизации Карт Навыка"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-active_skill-deck_all",
       "order": 12,
-      "title": "Повышение параметров при удалении активных Карт навыка"
+      "title": "Повышение Пара при удалении Активных карт навыков"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-deck_all",
       "order": 10,
-      "title": "Повышение параметров при удалении Карт навыка"
+      "title": "Увеличение Пара при удалении Карт Навыка"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
       "order": 11,
-      "title": "Повышение параметров при удалении ментальных Карт навыка"
+      "title": "Увеличение Пара при удалении Карт Ментал Навыка"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition",
       "order": 25,
-      "title": "Повышение параметров после экзаменов/аудиций"
+      "title": "Повышение параметров после Экзаменов/Прослушиваний"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_sp-produce_card_count-0020_0000",
       "order": 36,
-      "title": "Повышение параметров, если в конце SP-урока у вас 20 или больше Карт навыка"
+      "title": "Увеличьте параметры, если у вас есть 20 или более Карт Навыка в конце SP Урока"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal",
       "order": 4,
-      "title": "Повышение параметров после уроков"
+      "title": "Прирост параметров после Уроков"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal_normal",
       "order": 5,
-      "title": "Повышение параметров после обычных уроков"
+      "title": "Прирост пара после обычных Уроков"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal_sp",
       "order": 6,
-      "title": "Повышение параметров после SP-уроков"
+      "title": "Увеличение Пара после Уроков SP"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_step_event_activity",
       "order": 27,
-      "title": "Повышение параметров в конце outing "
+      "title": "Повышение Пара в конце выхода"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_step_event_school",
       "order": 24,
-      "title": "Повышение параметров после занятий/работ"
+      "title": "Увеличение Пара после Классов/Профессий"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-active_skill-deck_all",
       "order": 16,
-      "title": "Повышение параметров при получении активных Карт навыка"
+      "title": "Повышение Пара при получении Активных карт навыков"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all",
       "order": 14,
-      "title": "Повышение параметров при получении Карт навыка"
+      "title": "Прирост Пара при получении Карт Навыка"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_block-000",
       "order": 33,
-      "title": "Повышение параметров при получении Карты навыка с эффектом Energy"
+      "title": "Увеличение параметров при получении Карты Навыка с Эффектом Энергии"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000",
       "order": 19,
-      "title": "Повышение параметров при получении Карт навыка Motivation"
+      "title": "Увеличение Пара при получении Карт Навыков Мотивации"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_concentration-000",
       "order": 21,
-      "title": "Повышение параметров при получении Карт навыка Confidence"
+      "title": "Увеличение Пара при получении Карт Навыков Уверенности"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_full_power-000",
       "order": 22,
-      "title": "Повышение параметров при получении Карт навыка Full Power"
+      "title": "Увеличение Пара при получении Карт Навыка Полной Силы"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000",
       "order": 18,
-      "title": "Повышение параметров при получении Карт навыка Focus"
+      "title": "Увеличение Пара при получении Карт Навыка Концентрации"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000",
       "order": 17,
-      "title": "Повышение параметров при получении Карт навыка Good Shape"
+      "title": "Повышение параметров при получении Карт Навыка в Хорошей Форме"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_preservation-000",
       "order": 23,
-      "title": "Повышение параметров при получении Карт навыка Preservation"
+      "title": "Увеличение Пара при получении Карт Навыка Сбережения"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_review-000",
       "order": 20,
-      "title": "Повышение параметров при получении Карт навыка Good Impression"
+      "title": "Повышение Пара при получении Карт Навыка «Хорошее Впечатление»"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
       "order": 15,
-      "title": "Повышение параметров при получении ментальных Карт навыка"
+      "title": "Повышение Пара при получении Карт Навыков Ментал"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-p_card_search-ssr-deck_all-1",
       "order": 34,
-      "title": "Повышение параметров при получении Карты навыка (SSR)"
+      "title": "Увеличение параметров при получении Карты Навыка (SSR)"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_drink",
       "order": 31,
-      "title": "Повышение параметров при получении P-напитка"
+      "title": "Увеличение Пара при получении P-Напитка"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_item",
       "order": 35,
-      "title": "Повышение параметров при получении P-предмета"
+      "title": "Увеличение параметров при получении P-Предмета"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-produce_start-initial",
       "order": 1,
-      "title": "Начальные параметры +"
+      "title": "Нач. Параметр +"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_customize",
       "order": 37,
-      "title": "Повышение параметров в начале Sp. Training"
+      "title": "Увеличение параметров в начале Сп. Тренировки"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_present",
       "order": 26,
-      "title": "Повышение параметров при выборе Present/Gift"
+      "title": "Повышение Пара при выборе Разрешения/Подарка"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_refresh",
       "order": 30,
-      "title": "Повышение параметров при выборе отдыха"
+      "title": "Прибавка Пара при выборе Отдыха"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_shop",
       "order": 28,
-      "title": "Повышение параметров при выборе консультации"
+      "title": "Повышение Пара при выборе Консультации"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-active_skill-deck_all",
       "order": 9,
-      "title": "Повышение параметров при улучшении активных Карт навыка"
+      "title": "Увеличение параметров при улучшении Активных карт навыков"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-deck_all",
       "order": 7,
-      "title": "Повышение параметров при улучшении Карт навыка"
+      "title": "Увеличение параметров при улучшении Карт Навыка"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-upgrade_produce_card-0000_0000-p_card_search-mental_skill-deck_all",
       "order": 8,
-      "title": "Повышение параметров при улучшении ментальных Карт навыка"
+      "title": "Увеличение Пара при улучшении Карт Навыка Ментал"
     },
     {
       "id": "s_card_p_skill_filter-vocalgrowthrateaddition-p_trigger-produce_start-no_description",
       "order": 2,
-      "title": "Бонус к параметрам +"
+      "title": "Бонус Параметра +"
     }
   ]
 }

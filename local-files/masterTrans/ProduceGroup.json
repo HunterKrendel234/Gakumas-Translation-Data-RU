@@ -8,17 +8,17 @@
     {
       "id": "produce_group-001",
       "name": "Hajime",
-      "description": "Hajime── Это сцена, на которую могут выйти только лучшие исполнители академии айдолов Hatsuboshi. Оттачивая себя, они начинают сиять──"
+      "description": "Hajime── Это этап, на котором могут стоять лишь лучшие ученицы Академии Айдолов Hatsuboshi. Оттачивая мастерство, они начинают сиять──"
     },
     {
       "id": "produce_group-002",
-      "name": "Следующее прослушивание айдолов",
-      "description": "NEXT IDOL AUDITION ──также известен как N.I.A\nГонка за звание лучшего айдола следующего поколения началась! Соберите своих фанатов и выходите на сцену славы──"
+      "name": "NEXT IDOL AUDITION",
+      "description": "NEXT IDOL AUDITION ── или N.I.A\nНачалась гонка за звание лучшего айдола нового поколения! Собирайте своих фанатов и выходите на сцену славы──"
     },
     {
       "id": "produce_group-003",
-      "name": "Хацубоши ИДОЛ ФЕСТИВАЛ",
-      "description": "Hatsuboshi IDOL FESTIVAL──\nБитва за топовое место в Hatsuboshi Academy начинается! Стремись к Prima Stella!"
+      "name": "Hatsuboshi IDOL FESTIVAL",
+      "description": "Hatsuboshi IDOL FESTIVAL──\nБитва за первое место в Hatsuboshi Academy начинается! Стремитесь к Prima Stella!"
     }
   ]
 }

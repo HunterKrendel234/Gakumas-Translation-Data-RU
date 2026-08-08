@@ -7,19 +7,19 @@
   "data": [
     {
       "type": "ProducePlanType_Common",
-      "name": "Общий "
+      "name": "Обычный"
     },
     {
       "type": "ProducePlanType_Plan1",
-      "name": "【Только Sense】"
+      "name": "«Только Чутьё»"
     },
     {
       "type": "ProducePlanType_Plan2",
-      "name": "【Только Logic】"
+      "name": "«Только логика»"
     },
     {
       "type": "ProducePlanType_Plan3",
-      "name": "【Только Anomaly】"
+      "name": "«Только Аномалия»"
     }
   ]
 }

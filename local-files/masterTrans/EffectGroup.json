@@ -11,15 +11,15 @@
     },
     {
       "id": "effect_group-visible-audition_npc_enhance-000",
-      "name": "Счёт соперника "
+      "name": "Оценка соперника"
     },
     {
       "id": "effect_group-visible-before_audition_refresh_stamina_down-000",
-      "name": "Уменьшение восстановления Выносливости перед экзаменом "
+      "name": "Сниженное восстановление Выносливости перед Экзаменом"
     },
     {
       "id": "effect_group-visible-before_audition_refresh_stamina_up-000",
-      "name": "Увеличение восстановления Выносливости перед экзаменом "
+      "name": "Увеличенное восстановление Выносливости перед Экзаменом"
     },
     {
       "id": "effect_group-visible-dance_addition-000",
@@ -27,19 +27,19 @@
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_down-000",
-      "name": "Расход P-Point на прогулки -"
+      "name": "Использование P-Очк. для вылазок —"
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_up-000",
-      "name": "Расход P-Point на прогулки +"
+      "name": "Расход P-Очк. на Вылазки +"
     },
     {
       "id": "effect_group-visible-event_school_stamina_down-000",
-      "name": "Расход Выносливости на занятиях -"
+      "name": "Расход Выносливости на уроках —"
     },
     {
       "id": "effect_group-visible-event_school_stamina_up-000",
-      "name": "Расход Выносливости на занятиях +"
+      "name": "+К расходу Выносливости в Классах"
     },
     {
       "id": "effect_group-visible-exam_add_grow_effect-000",
@@ -51,59 +51,59 @@
     },
     {
       "id": "effect_group-visible-exam_anti_debuff-000",
-      "name": "Иммунитет к снижению статусов "
+      "name": "Иммунитет к снижению статуса"
     },
     {
       "id": "effect_group-visible-exam_block_restriction-000",
-      "name": "Запрет увеличения Energy "
+      "name": "Энергия: увеличение отключено"
     },
     {
       "id": "effect_group-visible-exam_block-000",
-      "name": "Энергия "
+      "name": "Энергия"
     },
     {
       "id": "effect_group-visible-exam_card_draw-000",
-      "name": "Добор Карты навыка "
+      "name": "Вытянуть Карту Навыка"
     },
     {
       "id": "effect_group-visible-exam_card_play_aggressive-000",
-      "name": "Мотивация "
+      "name": "Мотивация"
     },
     {
       "id": "effect_group-visible-exam_card_search_effect_play_count_buff-000",
-      "name": "Дополнительная активация Карты навыка "
+      "name": "Доп. активация Карты Навыка"
     },
     {
       "id": "effect_group-visible-exam_card_upgrade-000",
-      "name": "Улучшение во время уроков "
+      "name": "Улучшено во время уроков"
     },
     {
       "id": "effect_group-visible-exam_concentration-000",
-      "name": "Уверенность "
+      "name": "Уверенный"
     },
     {
       "id": "effect_group-visible-exam_effect_timer-000",
-      "name": "Отложенная активация "
+      "name": "Зарезервировано для активации"
     },
     {
       "id": "effect_group-visible-exam_extra_turn-000",
-      "name": "Дополнительный ход "
+      "name": "Доп. ход"
     },
     {
       "id": "effect_group-visible-exam_full_power_point_reduce-000",
-      "name": "Уменьшение очков Full Power "
+      "name": "Снижение очков Полной Силы"
     },
     {
       "id": "effect_group-visible-exam_full_power-000",
-      "name": "Полная Сила "
+      "name": "Полная Сила"
     },
     {
       "id": "effect_group-visible-exam_gimmick_slump-000",
-      "name": "Спад "
+      "name": "Спад"
     },
     {
       "id": "effect_group-visible-exam_hand_grave_count_card_draw-000",
-      "name": "Замена руки "
+      "name": "Заменить Карты в Руке"
     },
     {
       "id": "effect_group-visible-exam_lesson_buff_reduce-000",
@@ -111,7 +111,7 @@
     },
     {
       "id": "effect_group-visible-exam_lesson_buff-000",
-      "name": "Концентрация "
+      "name": "Концентрация"
     },
     {
       "id": "effect_group-visible-exam_lesson_depend_block-000",
@@ -123,23 +123,23 @@
     },
     {
       "id": "effect_group-visible-exam_lesson_value_multiple_down-000",
-      "name": "Снижение количества увеличения параметра -"
+      "name": "Количество увеличения параметра -"
     },
     {
       "id": "effect_group-visible-exam_lesson_value_multiple-000",
-      "name": "Снижение количества увеличения параметра +"
+      "name": "+Коэф. увеличения параметра"
     },
     {
       "id": "effect_group-visible-exam_lesson-000",
-      "name": "Параметр "
+      "name": "Параметр"
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn_reduce-000",
-      "name": "Сильное уменьшение"
+      "name": "Сильное снижение"
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
-      "name": "Отличная Форма "
+      "name": "Отличная Форма"
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_reduce-000",
@@ -147,15 +147,15 @@
     },
     {
       "id": "effect_group-visible-exam_parameter_buff-000",
-      "name": "Хорошая Форма "
+      "name": "Хорошая Форма"
     },
     {
       "id": "effect_group-visible-exam_playable_value_add-000",
-      "name": "Использование Карты навыка "
+      "name": "Использование Карты Навыка"
     },
     {
       "id": "effect_group-visible-exam_preservation-000",
-      "name": "Сохранение "
+      "name": "Сбережение"
     },
     {
       "id": "effect_group-visible-exam_review_reduce-000",
@@ -163,47 +163,47 @@
     },
     {
       "id": "effect_group-visible-exam_review-000",
-      "name": "Хорошее Впечатление "
+      "name": "Хорошее Впечатление"
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_add_fix-000",
-      "name": "Дополнительный расход Выносливости "
+      "name": "Доп. расход Выносливости"
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_add-000",
-      "name": "Повышенный расход Выносливости "
+      "name": "Увеличенное потребление Выносливости"
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_down_fix-000",
-      "name": "Сниженный расход Выносливости "
+      "name": "Снижение расхода Выносливости"
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_down-000",
-      "name": "Уменьшение Выносливости "
+      "name": "Снижение Выносливости"
     },
     {
       "id": "effect_group-visible-exam_stance_reset-000",
-      "name": "Снятие ограничителя "
+      "name": "Выпуск руководства"
     },
     {
       "id": "effect_group-visible-exam_status_enchant_encore-000",
-      "name": "Повтор "
+      "name": "Повтор"
     },
     {
       "id": "effect_group-visible-exam_status_enchant-000",
-      "name": "Постоянный эффект "
+      "name": "Длительный эффект"
     },
     {
       "id": "effect_group-visible-exam_turn_down-000",
-      "name": "Уменьшение количества ходов "
+      "name": "Сокращение кол-ва ходов"
     },
     {
       "id": "effect_group-visible-produce_card_delete-000",
-      "name": "Удаление "
+      "name": "Удалить"
     },
     {
       "id": "effect_group-visible-produce_card_upgrade-000",
-      "name": "Улучшение "
+      "name": "Улучшение"
     },
     {
       "id": "effect_group-visible-produce_point_addition-000",
@@ -215,43 +215,43 @@
     },
     {
       "id": "effect_group-visible-shop_price_discount_multiple-000",
-      "name": "Скидка на все варианты консультации "
+      "name": "Скидка на все варианты консультаций"
     },
     {
       "id": "effect_group-visible-shop_price_up_multiple-000",
-      "name": "Повышение цены на все варианты консультации "
+      "name": "Увеличение для всех вариантов консультаций"
     },
     {
       "id": "effect_group-visible-shop_produce_card_delete_price_discount_multiple-000",
-      "name": "Скидка на удаление Карты навыка на консультации "
+      "name": "Скидка на удаление Карты Навыка в Консультации"
     },
     {
       "id": "effect_group-visible-shop_produce_card_delete_price_up_multiple-000",
-      "name": "Повышение цены удаления Карты навыка на консультации "
+      "name": "Увеличение цены удаления Карты Навыка в Консультации"
     },
     {
       "id": "effect_group-visible-shop_produce_card_price_discount_multiple-000",
-      "name": "Скидка на Карты навыка на консультации "
+      "name": "Скидка на Карты Навыков в Консультации"
     },
     {
       "id": "effect_group-visible-shop_produce_card_price_up_multiple-000",
-      "name": "Повышение цены Карт навыка на консультации "
+      "name": "Увеличение стоимости Карт Навыков в Консультации"
     },
     {
       "id": "effect_group-visible-shop_produce_card_upgrade_price_discount_multiple-000",
-      "name": "Скидка на улучшение Карты навыка на консультации "
+      "name": "Скидка на улучшение Карты Навыка в Консультации"
     },
     {
       "id": "effect_group-visible-shop_produce_card_upgrade_price_up_multiple-000",
-      "name": "Повышение цены улучшения Карты навыка на консультации "
+      "name": "↑ стоимости улучшения Карты Навыка в Консультации"
     },
     {
       "id": "effect_group-visible-shop_produce_drink_price_discount_multiple-000",
-      "name": "Скидка на P-Drinks на консультации "
+      "name": "Скидка на напитки в Консультации"
     },
     {
       "id": "effect_group-visible-shop_produce_drink_price_up_multiple-000",
-      "name": "Повышение цены P-Drinks на консультации "
+      "name": "Увеличение цены на напитки в Консультации"
     },
     {
       "id": "effect_group-visible-stamina_recover_fix-000",
@@ -263,7 +263,7 @@
     },
     {
       "id": "effect_group-visible-stance_lock-000",
-      "name": "Фиксация ограничителя "
+      "name": "Фиксация ориентира"
     },
     {
       "id": "effect_group-visible-visual_addition-000",

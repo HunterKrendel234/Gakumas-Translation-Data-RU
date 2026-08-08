@@ -31,11 +31,11 @@
     },
     {
       "id": "i_card-skin-amao-3-003",
-      "name": "Фестиваль '24"
+      "name": "Фестиваль «24»"
     },
     {
       "id": "i_card-skin-amao-3-005",
-      "name": "Хэллоуин '24"
+      "name": "Хэллоуин «24"
     },
     {
       "id": "i_card-skin-amao-3-006",
@@ -47,7 +47,7 @@
     },
     {
       "id": "i_card-skin-amao-3-008",
-      "name": "Валентин '25"
+      "name": "Валентин «25»"
     },
     {
       "id": "i_card-skin-amao-3-009",
@@ -55,15 +55,15 @@
     },
     {
       "id": "i_card-skin-amao-3-010",
-      "name": "Сакура '25"
+      "name": "Sakura «25»"
     },
     {
       "id": "i_card-skin-amao-3-011",
-      "name": "Анимация '25"
+      "name": "Animate «25»"
     },
     {
       "id": "i_card-skin-amao-3-012",
-      "name": "Howling over the World '25"
+      "name": "Howling over the World «25»"
     },
     {
       "id": "i_card-skin-amao-3-013",
@@ -79,7 +79,7 @@
     },
     {
       "id": "i_card-skin-amao-3-016",
-      "name": "ENDLESS DANCE '26"
+      "name": "ENDLESS DANCE «26»"
     },
     {
       "id": "i_card-skin-amao-3-017",
@@ -103,11 +103,15 @@
     },
     {
       "id": "i_card-skin-atbm-3-006",
-      "name": "Хинамацури '26"
+      "name": "Хинамацури «26»"
     },
     {
       "id": "i_card-skin-atbm-3-007",
-      "name": "Сакура '26"
+      "name": "Sakura «26»"
+    },
+    {
+      "id": "i_card-skin-atbm-3-009",
+      "name": "Howling over the World «26»"
     },
     {
       "id": "i_card-skin-atbm-3-012",
@@ -115,11 +119,15 @@
     },
     {
       "id": "i_card-skin-atbm-3-013",
-      "name": "ENDLESS DANCE '26"
+      "name": "ENDLESS DANCE «26»"
     },
     {
       "id": "i_card-skin-atbm-3-016",
       "name": "GO MY WAY!! '26"
+    },
+    {
+      "id": "i_card-skin-atbm-3-018",
+      "name": ""
     },
     {
       "id": "i_card-skin-fktn-1-000",
@@ -163,15 +171,15 @@
     },
     {
       "id": "i_card-skin-fktn-3-008",
-      "name": "Валентин '25"
+      "name": "Валентин «25»"
     },
     {
       "id": "i_card-skin-fktn-3-009",
-      "name": "Хинамацури '25"
+      "name": "Хинамацури «25»"
     },
     {
       "id": "i_card-skin-fktn-3-010",
-      "name": "Сакура '25"
+      "name": "Sakura «25»"
     },
     {
       "id": "i_card-skin-fktn-3-011",
@@ -179,7 +187,7 @@
     },
     {
       "id": "i_card-skin-fktn-3-012",
-      "name": "Анимация '25"
+      "name": "Animate «25»"
     },
     {
       "id": "i_card-skin-fktn-3-013",
@@ -187,7 +195,7 @@
     },
     {
       "id": "i_card-skin-fktn-3-014",
-      "name": "Howling over the World '25"
+      "name": "Howling over the World «25»"
     },
     {
       "id": "i_card-skin-fktn-3-015",
@@ -199,7 +207,7 @@
     },
     {
       "id": "i_card-skin-fktn-3-017",
-      "name": "ENDLESS DANCE '26"
+      "name": "ENDLESS DANCE «26»"
     },
     {
       "id": "i_card-skin-fktn-3-019",
@@ -227,15 +235,15 @@
     },
     {
       "id": "i_card-skin-hmsz-3-002",
-      "name": "Фестиваль '25"
+      "name": "Фестиваль «25»"
     },
     {
       "id": "i_card-skin-hmsz-3-003",
-      "name": "Хэллоуин '25"
+      "name": "Хэллоуин «25"
     },
     {
       "id": "i_card-skin-hmsz-3-004",
-      "name": "Рождество '25"
+      "name": "Рождество «25»"
     },
     {
       "id": "i_card-skin-hmsz-3-005",
@@ -243,7 +251,7 @@
     },
     {
       "id": "i_card-skin-hmsz-3-006",
-      "name": "Валентин '26"
+      "name": "Валентин «26»"
     },
     {
       "id": "i_card-skin-hmsz-3-007",
@@ -251,19 +259,23 @@
     },
     {
       "id": "i_card-skin-hmsz-3-008",
-      "name": "Сакура '26"
+      "name": "Sakura «26»"
     },
     {
       "id": "i_card-skin-hmsz-3-009",
-      "name": "Анимация '25"
+      "name": "Animate «25»"
     },
     {
       "id": "i_card-skin-hmsz-3-010",
       "name": ""
     },
     {
+      "id": "i_card-skin-hmsz-3-011",
+      "name": "Howling over the World «26»"
+    },
+    {
       "id": "i_card-skin-hmsz-3-012",
-      "name": "Сейчас чудо (゚∀゚)! '25"
+      "name": "Mirakulu na Now (゚∀゚)! '25"
     },
     {
       "id": "i_card-skin-hmsz-3-013",
@@ -283,7 +295,7 @@
     },
     {
       "id": "i_card-skin-hmsz-3-019",
-      "name": "GO MY WAY!! '26"
+      "name": "GO MY WAY!! «26»"
     },
     {
       "id": "i_card-skin-hrnm-1-000",
@@ -311,7 +323,7 @@
     },
     {
       "id": "i_card-skin-hrnm-3-003",
-      "name": "Фестиваль '24"
+      "name": "Фестиваль «24»"
     },
     {
       "id": "i_card-skin-hrnm-3-004",
@@ -335,15 +347,15 @@
     },
     {
       "id": "i_card-skin-hrnm-3-009",
-      "name": "Хинамацури '25"
+      "name": "Хинамацури «25»"
     },
     {
       "id": "i_card-skin-hrnm-3-010",
-      "name": "Сакура '25"
+      "name": "Sakura «25»"
     },
     {
       "id": "i_card-skin-hrnm-3-011",
-      "name": "Анимировать '25"
+      "name": "Animate «25»"
     },
     {
       "id": "i_card-skin-hrnm-3-012",
@@ -355,15 +367,15 @@
     },
     {
       "id": "i_card-skin-hrnm-3-014",
-      "name": "Миракулу на Ноу (゚∀゚)! '25"
+      "name": "Mirakulu na Now (゚∀゚)! '25"
     },
     {
       "id": "i_card-skin-hrnm-3-015",
-      "name": "Gamushara ni Ikou! '25"
+      "name": "Gamushara ni Ikou! «25»"
     },
     {
       "id": "i_card-skin-hrnm-3-016",
-      "name": "ENDLESS DANCE '26"
+      "name": "ENDLESS DANCE «26»"
     },
     {
       "id": "i_card-skin-hrnm-3-017",
@@ -407,7 +419,7 @@
     },
     {
       "id": "i_card-skin-hski-3-005",
-      "name": "Хэллоуин '24"
+      "name": "Хэллоуин «24"
     },
     {
       "id": "i_card-skin-hski-3-006",
@@ -415,7 +427,7 @@
     },
     {
       "id": "i_card-skin-hski-3-007",
-      "name": "Рождество '24"
+      "name": "Рождество «24"
     },
     {
       "id": "i_card-skin-hski-3-008",
@@ -423,11 +435,11 @@
     },
     {
       "id": "i_card-skin-hski-3-009",
-      "name": "Валентин '25"
+      "name": "День святого Валентина «25"
     },
     {
       "id": "i_card-skin-hski-3-010",
-      "name": "Хинамацури '25"
+      "name": "Хинамацури «25»"
     },
     {
       "id": "i_card-skin-hski-3-011",
@@ -439,11 +451,11 @@
     },
     {
       "id": "i_card-skin-hski-3-013",
-      "name": "Howling over the World '25"
+      "name": "Howling over the World «25»"
     },
     {
       "id": "i_card-skin-hski-3-014",
-      "name": "Миракулу на Ноу (゚∀゚)! '25"
+      "name": "Mirakulu na Now (゚∀゚)! '25"
     },
     {
       "id": "i_card-skin-hski-3-015",
@@ -451,10 +463,14 @@
     },
     {
       "id": "i_card-skin-hski-3-016",
-      "name": "ENDLESS DANCE '26"
+      "name": "ENDLESS DANCE «26»"
     },
     {
       "id": "i_card-skin-hski-3-017",
+      "name": ""
+    },
+    {
+      "id": "i_card-skin-hski-3-018",
       "name": ""
     },
     {
@@ -483,11 +499,11 @@
     },
     {
       "id": "i_card-skin-hume-3-002",
-      "name": "Фестиваль '24"
+      "name": "Фестиваль «24»"
     },
     {
       "id": "i_card-skin-hume-3-004",
-      "name": "Хэллоуин '24"
+      "name": "Хэллоуин «24"
     },
     {
       "id": "i_card-skin-hume-3-005",
@@ -499,7 +515,7 @@
     },
     {
       "id": "i_card-skin-hume-3-007",
-      "name": "Валентин '26"
+      "name": "Валентин «26»"
     },
     {
       "id": "i_card-skin-hume-3-008",
@@ -511,11 +527,11 @@
     },
     {
       "id": "i_card-skin-hume-3-010",
-      "name": "Сакура '26"
+      "name": "Sakura «26»"
     },
     {
       "id": "i_card-skin-hume-3-011",
-      "name": "Анимировать '25"
+      "name": "Animate «25»"
     },
     {
       "id": "i_card-skin-hume-3-012",
@@ -523,11 +539,11 @@
     },
     {
       "id": "i_card-skin-hume-3-013",
-      "name": "Howling over the World '25"
+      "name": "Howling over the World «25»"
     },
     {
       "id": "i_card-skin-hume-3-014",
-      "name": "Миракулу на Ноу (゚∀゚)! '25"
+      "name": "Mirakulu na Now (゚∀゚)! '25"
     },
     {
       "id": "i_card-skin-hume-3-015",
@@ -539,6 +555,10 @@
     },
     {
       "id": "i_card-skin-hume-3-017",
+      "name": ""
+    },
+    {
+      "id": "i_card-skin-hume-3-018",
       "name": ""
     },
     {
@@ -559,7 +579,7 @@
     },
     {
       "id": "i_card-skin-jsna-3-001",
-      "name": "Рождество '25"
+      "name": "Рождество «25»"
     },
     {
       "id": "i_card-skin-jsna-3-002",
@@ -571,11 +591,11 @@
     },
     {
       "id": "i_card-skin-jsna-3-004",
-      "name": "Хинамацури '25"
+      "name": "Хинамацури «25»"
     },
     {
       "id": "i_card-skin-jsna-3-005",
-      "name": "Сакура '25"
+      "name": "Sakura «25»"
     },
     {
       "id": "i_card-skin-jsna-3-006",
@@ -583,19 +603,19 @@
     },
     {
       "id": "i_card-skin-jsna-3-007",
-      "name": "Лето '25"
+      "name": "Лето «25"
     },
     {
       "id": "i_card-skin-jsna-3-008",
-      "name": "Фестиваль '25"
+      "name": "Фестиваль «25»"
     },
     {
       "id": "i_card-skin-jsna-3-009",
-      "name": "Хэллоуин '25"
+      "name": "Хэллоуин «25"
     },
     {
       "id": "i_card-skin-jsna-3-010",
-      "name": "Анимировать '25"
+      "name": "Animate «25»"
     },
     {
       "id": "i_card-skin-jsna-3-011",
@@ -603,11 +623,11 @@
     },
     {
       "id": "i_card-skin-jsna-3-012",
-      "name": "Howling over the World '25"
+      "name": "Howling over the World «25»"
     },
     {
       "id": "i_card-skin-jsna-3-013",
-      "name": "Чудо сейчас (゚∀゚)! '25"
+      "name": "Mirakulu na Now (゚∀゚)! '25"
     },
     {
       "id": "i_card-skin-jsna-3-014",
@@ -655,7 +675,7 @@
     },
     {
       "id": "i_card-skin-kcna-3-004",
-      "name": "Фестиваль '24"
+      "name": "Фестиваль «24»"
     },
     {
       "id": "i_card-skin-kcna-3-005",
@@ -663,7 +683,7 @@
     },
     {
       "id": "i_card-skin-kcna-3-006",
-      "name": "Рождество '24"
+      "name": "Рождество «24"
     },
     {
       "id": "i_card-skin-kcna-3-007",
@@ -671,7 +691,7 @@
     },
     {
       "id": "i_card-skin-kcna-3-008",
-      "name": "Валентин '25"
+      "name": "Валентин «25»"
     },
     {
       "id": "i_card-skin-kcna-3-009",
@@ -679,11 +699,11 @@
     },
     {
       "id": "i_card-skin-kcna-3-010",
-      "name": "Сакура '25"
+      "name": "Sakura «25»"
     },
     {
       "id": "i_card-skin-kcna-3-011",
-      "name": "Анимация '25"
+      "name": "Animate «25»"
     },
     {
       "id": "i_card-skin-kcna-3-012",
@@ -691,7 +711,7 @@
     },
     {
       "id": "i_card-skin-kcna-3-013",
-      "name": "Чудо сейчас (゚∀゚)! '25"
+      "name": "Миракулу на Ноу (゚∀゚)! '25"
     },
     {
       "id": "i_card-skin-kcna-3-014",
@@ -707,7 +727,7 @@
     },
     {
       "id": "i_card-skin-kcna-3-017",
-      "name": "ENDLESS DANCE '26"
+      "name": "ENDLESS DANCE «26»"
     },
     {
       "id": "i_card-skin-kcna-3-020",
@@ -739,7 +759,7 @@
     },
     {
       "id": "i_card-skin-kllj-3-004",
-      "name": "Хэллоуин '24"
+      "name": "Хэллоуин «24"
     },
     {
       "id": "i_card-skin-kllj-3-005",
@@ -751,7 +771,7 @@
     },
     {
       "id": "i_card-skin-kllj-3-007",
-      "name": "Валентин '25"
+      "name": "Валентин «25»"
     },
     {
       "id": "i_card-skin-kllj-3-008",
@@ -759,7 +779,7 @@
     },
     {
       "id": "i_card-skin-kllj-3-009",
-      "name": "Хинамацури '25"
+      "name": "Хинамацури «25»"
     },
     {
       "id": "i_card-skin-kllj-3-010",
@@ -767,7 +787,7 @@
     },
     {
       "id": "i_card-skin-kllj-3-011",
-      "name": "Анимация '25"
+      "name": "Animate «25»"
     },
     {
       "id": "i_card-skin-kllj-3-012",
@@ -775,7 +795,7 @@
     },
     {
       "id": "i_card-skin-kllj-3-013",
-      "name": "Миракулу на Ноу (゚∀゚)! '25"
+      "name": "Mirakulu na Now (゚∀゚)! '25"
     },
     {
       "id": "i_card-skin-kllj-3-014",
@@ -787,7 +807,7 @@
     },
     {
       "id": "i_card-skin-kllj-3-016",
-      "name": "ENDLESS DANCE '26"
+      "name": "ENDLESS DANCE «26»"
     },
     {
       "id": "i_card-skin-kllj-3-017",
@@ -827,11 +847,11 @@
     },
     {
       "id": "i_card-skin-shro-3-003",
-      "name": "Лето '24"
+      "name": "Лето «24"
     },
     {
       "id": "i_card-skin-shro-3-004",
-      "name": "Фестиваль '24"
+      "name": "Фестиваль «24»"
     },
     {
       "id": "i_card-skin-shro-3-006",
@@ -851,11 +871,11 @@
     },
     {
       "id": "i_card-skin-shro-3-010",
-      "name": "Сакура '25"
+      "name": "Sakura «25»"
     },
     {
       "id": "i_card-skin-shro-3-011",
-      "name": "Анимация '25"
+      "name": "Animate «25»"
     },
     {
       "id": "i_card-skin-shro-3-012",
@@ -863,7 +883,7 @@
     },
     {
       "id": "i_card-skin-shro-3-013",
-      "name": "Howling over the World '25"
+      "name": "Howling over the World «25»"
     },
     {
       "id": "i_card-skin-shro-3-014",
@@ -871,7 +891,7 @@
     },
     {
       "id": "i_card-skin-shro-3-015",
-      "name": "Gamushara ni Ikou! '25"
+      "name": "Gamushara ni Ikou! «25»"
     },
     {
       "id": "i_card-skin-shro-3-016",
@@ -879,7 +899,7 @@
     },
     {
       "id": "i_card-skin-shro-3-017",
-      "name": "ENDLESS DANCE '26"
+      "name": "ENDLESS DANCE «26»"
     },
     {
       "id": "i_card-skin-shro-3-018",
@@ -887,7 +907,7 @@
     },
     {
       "id": "i_card-skin-shro-3-020",
-      "name": "GO MY WAY!! '26"
+      "name": "GO MY WAY!! «26»"
     },
     {
       "id": "i_card-skin-ssmk-1-000",
@@ -915,7 +935,7 @@
     },
     {
       "id": "i_card-skin-ssmk-3-003",
-      "name": "Фестиваль '24"
+      "name": "Фестиваль «24»"
     },
     {
       "id": "i_card-skin-ssmk-3-005",
@@ -923,7 +943,7 @@
     },
     {
       "id": "i_card-skin-ssmk-3-006",
-      "name": "Рождество '24"
+      "name": "Рождество «24"
     },
     {
       "id": "i_card-skin-ssmk-3-007",
@@ -931,11 +951,11 @@
     },
     {
       "id": "i_card-skin-ssmk-3-008",
-      "name": "Валентин '25"
+      "name": "Валентин «25»"
     },
     {
       "id": "i_card-skin-ssmk-3-009",
-      "name": "Хинамацури '25"
+      "name": "Хинамацури «25»"
     },
     {
       "id": "i_card-skin-ssmk-3-010",
@@ -943,7 +963,7 @@
     },
     {
       "id": "i_card-skin-ssmk-3-011",
-      "name": "Анимировать '25"
+      "name": "Animate «25»"
     },
     {
       "id": "i_card-skin-ssmk-3-012",
@@ -951,7 +971,7 @@
     },
     {
       "id": "i_card-skin-ssmk-3-013",
-      "name": "Howling over the World '25"
+      "name": "Howling over the World «25»"
     },
     {
       "id": "i_card-skin-ssmk-3-014",
@@ -963,7 +983,7 @@
     },
     {
       "id": "i_card-skin-ssmk-3-016",
-      "name": "ENDLESS DANCE '26"
+      "name": "ENDLESS DANCE «26»"
     },
     {
       "id": "i_card-skin-ssmk-3-017",
@@ -999,15 +1019,15 @@
     },
     {
       "id": "i_card-skin-ttmr-3-003",
-      "name": "Лето '24"
+      "name": "Лето «24"
     },
     {
       "id": "i_card-skin-ttmr-3-004",
-      "name": "Фестиваль '24"
+      "name": "Фестиваль «24»"
     },
     {
       "id": "i_card-skin-ttmr-3-006",
-      "name": "Рождество '24"
+      "name": "Рождество «24"
     },
     {
       "id": "i_card-skin-ttmr-3-007",
@@ -1015,7 +1035,7 @@
     },
     {
       "id": "i_card-skin-ttmr-3-008",
-      "name": "Валентин '25"
+      "name": "Валентин «25»"
     },
     {
       "id": "i_card-skin-ttmr-3-009",
@@ -1023,7 +1043,7 @@
     },
     {
       "id": "i_card-skin-ttmr-3-010",
-      "name": "Сакура '25"
+      "name": "Sakura «25»"
     },
     {
       "id": "i_card-skin-ttmr-3-011",
@@ -1031,15 +1051,15 @@
     },
     {
       "id": "i_card-skin-ttmr-3-012",
-      "name": "Анимировать '25"
+      "name": "«Animate '25»"
     },
     {
       "id": "i_card-skin-ttmr-3-013",
-      "name": "Howling over the World '25"
+      "name": "Howling over the World «25»"
     },
     {
       "id": "i_card-skin-ttmr-3-014",
-      "name": "Миракула на Ноу (゚∀゚)! '25"
+      "name": "Mirakulu na Now (゚∀゚)! '25"
     },
     {
       "id": "i_card-skin-ttmr-3-015",
@@ -1051,7 +1071,7 @@
     },
     {
       "id": "i_card-skin-ttmr-3-017",
-      "name": "ENDLESS DANCE '26"
+      "name": "ENDLESS DANCE «26»"
     },
     {
       "id": "i_card-skin-ttmr-3-018",
@@ -1059,7 +1079,7 @@
     },
     {
       "id": "i_card-skin-ttmr-3-020",
-      "name": "GO MY WAY!! '26"
+      "name": "GO MY WAY!! «26»"
     }
   ]
 }

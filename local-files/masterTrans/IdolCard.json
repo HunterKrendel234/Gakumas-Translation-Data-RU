@@ -15,7 +15,7 @@
     },
     {
       "id": "i_card-amao-2-000",
-      "name": "Крутой старт"
+      "name": "Крутое начало"
     },
     {
       "id": "i_card-amao-3-000",
@@ -55,7 +55,7 @@
     },
     {
       "id": "i_card-atbm-2-000",
-      "name": "Целеустремлённость"
+      "name": "Одержимый"
     },
     {
       "id": "i_card-atbm-3-000",
@@ -64,6 +64,10 @@
     {
       "id": "i_card-atbm-3-012",
       "name": "Campus mode!!"
+    },
+    {
+      "id": "i_card-atbm-3-018",
+      "name": "Кураиай"
     },
     {
       "id": "i_card-fktn-1-000",
@@ -75,7 +79,7 @@
     },
     {
       "id": "i_card-fktn-2-000",
-      "name": "Начала быть милой♡"
+      "name": "Стала милой♡"
     },
     {
       "id": "i_card-fktn-3-000",
@@ -119,7 +123,7 @@
     },
     {
       "id": "i_card-hmsz-1-001",
-      "name": "Первый дух"
+      "name": "Первый Дух"
     },
     {
       "id": "i_card-hmsz-2-000",
@@ -151,7 +155,7 @@
     },
     {
       "id": "i_card-hrnm-1-000",
-      "name": "Школьная Жизнь"
+      "name": "Школьная жизнь"
     },
     {
       "id": "i_card-hrnm-1-001",
@@ -159,11 +163,11 @@
     },
     {
       "id": "i_card-hrnm-2-000",
-      "name": "Начало самой себя"
+      "name": "Начало моего «Я»"
     },
     {
       "id": "i_card-hrnm-3-000",
-      "name": "clumsy trick"
+      "name": "Clumsy trick"
     },
     {
       "id": "i_card-hrnm-3-001",
@@ -211,7 +215,7 @@
     },
     {
       "id": "i_card-hski-2-000",
-      "name": "Я лучшая!"
+      "name": "Я — лучший!"
     },
     {
       "id": "i_card-hski-3-000",
@@ -250,6 +254,10 @@
       "name": "Wildest Flower"
     },
     {
+      "id": "i_card-hski-3-018",
+      "name": "Дорога Гякуты"
+    },
+    {
       "id": "i_card-hski-3-019",
       "name": "GO MY WAY!!"
     },
@@ -263,7 +271,7 @@
     },
     {
       "id": "i_card-hume-2-000",
-      "name": "Начало айдола!"
+      "name": "Начало пути Айдола!"
     },
     {
       "id": "i_card-hume-3-000",
@@ -294,6 +302,10 @@
       "name": "Masshiroi Page to Suisai no Shujinkou"
     },
     {
+      "id": "i_card-hume-3-018",
+      "name": "GO MY WAY!!"
+    },
+    {
       "id": "i_card-jsna-1-000",
       "name": "Школьная жизнь"
     },
@@ -303,7 +315,7 @@
     },
     {
       "id": "i_card-jsna-2-000",
-      "name": "Первая Звезда"
+      "name": "Prima Stella"
     },
     {
       "id": "i_card-jsna-3-000",
@@ -319,7 +331,7 @@
     },
     {
       "id": "i_card-jsna-3-006",
-      "name": "Our Chant"
+      "name": "Наш Chant"
     },
     {
       "id": "i_card-jsna-3-011",
@@ -343,7 +355,7 @@
     },
     {
       "id": "i_card-kcna-2-000",
-      "name": "Гордо шагать вперёд"
+      "name": "Смело шагай вперед"
     },
     {
       "id": "i_card-kcna-3-000",
@@ -391,7 +403,7 @@
     },
     {
       "id": "i_card-kllj-2-000",
-      "name": "За пределы первого шага"
+      "name": "За пределами первого шага"
     },
     {
       "id": "i_card-kllj-3-000",
@@ -423,7 +435,7 @@
     },
     {
       "id": "i_card-kllj-3-015",
-      "name": "Atmosphere"
+      "name": "Atmosphere (Gakuen iDOLM@STER song)"
     },
     {
       "id": "i_card-kllj-3-017",
@@ -431,7 +443,7 @@
     },
     {
       "id": "i_card-kllj-3-018",
-      "name": "Garakuta Road"
+      "name": "Дорога Гякута"
     },
     {
       "id": "i_card-shro-1-000",
@@ -443,7 +455,7 @@
     },
     {
       "id": "i_card-shro-2-000",
-      "name": "Самая неподходящая вещь"
+      "name": "Самое неподходящее существо"
     },
     {
       "id": "i_card-shro-3-000",
@@ -479,7 +491,7 @@
     },
     {
       "id": "i_card-shro-3-018",
-      "name": "Garakuta Road"
+      "name": "Дорога Гякрута"
     },
     {
       "id": "i_card-ssmk-1-000",
@@ -487,11 +499,11 @@
     },
     {
       "id": "i_card-ssmk-1-001",
-      "name": "Первая Любовь"
+      "name": "Первая любовь"
     },
     {
       "id": "i_card-ssmk-2-000",
-      "name": "Снова к мечтам"
+      "name": "Путь к мечте продолжается"
     },
     {
       "id": "i_card-ssmk-3-000",
@@ -515,11 +527,11 @@
     },
     {
       "id": "i_card-ssmk-3-012",
-      "name": "Love & Joy"
+      "name": "Love & Joy (Gakuen iDOLM@STER song)"
     },
     {
       "id": "i_card-ssmk-3-014",
-      "name": "Миракуна Нау(゚∀゚)!"
+      "name": "Mirakuru na Nau(゚∀゚)!"
     },
     {
       "id": "i_card-ssmk-3-017",
@@ -543,7 +555,7 @@
     },
     {
       "id": "i_card-ttmr-3-001",
-      "name": "Ivy"
+      "name": "IVY"
     },
     {
       "id": "i_card-ttmr-3-002",
@@ -571,7 +583,7 @@
     },
     {
       "id": "i_card-ttmr-3-018",
-      "name": "Garakuta Road"
+      "name": "Дорога Гякута"
     }
   ]
 }

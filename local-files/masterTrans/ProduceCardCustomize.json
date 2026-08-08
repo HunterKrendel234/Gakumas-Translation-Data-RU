@@ -257,19 +257,19 @@
       "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Эффект удержания +"
+      "description": "Эффект поддержания +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
       "customizeCount": 2,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Эффект удержания +"
+      "description": "Эффект поддержания +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-p_card-02-act-1_037-enc_1-g_effect-p_card-02-act-1_037-enc_2-g_effect-p_card-02-act-1_037-enc_3",
       "customizeCount": 3,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Эффект удержания +"
+      "description": "Эффект поддержания +"
     },
     {
       "id": "p_card_custom-040_040_070-g_effect-parameter_buff_multiple_per_turn_add-1-g_effect-parameter_buff_multiple_per_turn_add-2-g_effect-parameter_buff_multiple_per_turn_add-4",
@@ -647,7 +647,7 @@
       "id": "p_card_custom-040-g_effect-play_move_position_type_change-grave",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Снять ограничение 1 раз за занятие"
+      "description": "Снять лимит 1x на один Урок"
     },
     {
       "id": "p_card_custom-070-g_effect-aggressive_add-3",
@@ -719,7 +719,7 @@
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_card_move-p_card_search-deck-hold-select-1_1",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "В резерве +"
+      "description": "ВКЛ + Удержание"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_card_play_aggressive-0002",
@@ -731,7 +731,7 @@
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_card_upgrade-p_card_search-hand-all-0_0",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Улучшить карту навыка"
+      "description": "Улучшить Карту Навыка"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_concentration-0001",
@@ -743,79 +743,79 @@
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_effect_timer-0001-01-e_effect-exam_preservation-0001",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Сохранение +"
+      "description": "Сбережение +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_full_power_point-0002",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_FullPowerPointAdd",
-      "description": "Очки полной силы +"
+      "description": "+ к очкам Полной Силы"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_buff-0002",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonBuffAdd",
-      "description": "Фокус +"
+      "description": "Концентрация +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_depend_block-0300-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonDependBlockAdd",
-      "description": "Параметр энергии +"
+      "description": "Энергия Параметра +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_depend_exam_card_play_aggressive-1100-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
-      "description": "Параметр мотивации +"
+      "description": "Мотивация +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson_depend_exam_review-0600-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
-      "description": "Параметр хорошего впечатления +"
+      "description": "+Хорошее Впечатление"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson-0006-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonAdd",
-      "description": "Параметр +"
+      "description": " Параметр +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_lesson-0012-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonAdd",
-      "description": "Параметр +"
+      "description": " Параметр +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_parameter_buff_multiple_per_turn-02",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
-      "description": "Отличная форма +"
+      "description": "Отличная Форма +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_parameter_buff-02",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
-      "description": "Хорошая форма +"
+      "description": "Хорошая Форма +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_preservation-0001",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Сохранение +"
+      "description": "Сбережение +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_review-0002",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ReviewAdd",
-      "description": "Хорошее впечатление +"
+      "description": "Хорошее Впечатление +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_add-e_effect-exam_stamina_consumption_down-02",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
-      "description": "Потребление выносливости -"
+      "description": "Расход Выносливости -"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_change-e_effect-exam_concentration-0001-e_effect-exam_concentration-0002",
@@ -827,7 +827,7 @@
       "id": "p_card_custom-070-g_effect-effect_change-e_effect-exam_preservation-0001-e_effect-exam_preservation-0002",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Сохранение +"
+      "description": "Сбережение +"
     },
     {
       "id": "p_card_custom-070-g_effect-full_power_point_add-2",
@@ -881,7 +881,7 @@
       "id": "p_card_custom-070-g_effect-p_card-02-act-3_187-enc_1",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Эффект удержания +"
+      "description": "Эффект выносливости +"
     },
     {
       "id": "p_card_custom-070-g_effect-parameter_buff_multiple_per_turn_add-2",
@@ -959,7 +959,7 @@
       "id": "p_card_custom-100-g_effect-effect_add-e_effect-exam_playable_value_add-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Использование карт навыков +"
+      "description": "Использование Карты Навыка +"
     },
     {
       "id": "p_card_custom-100-g_effect-lesson_count_add-1",
@@ -983,7 +983,7 @@
       "id": "p_card_custom-100-g_effect-p_card-02-act-3_050-enc_1",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Эффект удержания +"
+      "description": "Эффект Выносливости +"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_013-1",
@@ -995,7 +995,7 @@
       "id": "p_card_custom-p_card-01-ido-3_013-2",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Использование карт навыков +"
+      "description": "+ Использование Карты Навыка"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_014-1",
@@ -1007,7 +1007,7 @@
       "id": "p_card_custom-p_card-01-ido-3_014-2",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Использование карт навыков +"
+      "description": "+ к использованию Карты Навыка"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_016-1-1",
@@ -1031,7 +1031,7 @@
       "id": "p_card_custom-p_card-01-ido-3_016-2",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Использование карт навыков +"
+      "description": "Использование Карты Навыка +"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_017-1",
@@ -1043,19 +1043,19 @@
       "id": "p_card_custom-p_card-01-ido-3_017-2",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Использование карт навыков +"
+      "description": "Использование Карты Навыка +"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_020-1",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonAdd",
-      "description": "Параметр +"
+      "description": " Параметр +"
     },
     {
       "id": "p_card_custom-p_card-01-ido-3_020-2",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Использование карт навыков +"
+      "description": "Использование Карты Навыка +"
     },
     {
       "id": "p_card_custom-p_card-02-ido-3_015-1",
@@ -1067,7 +1067,7 @@
       "id": "p_card_custom-p_card-02-ido-3_015-2",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Использование карт навыков +"
+      "description": "+ к использованию Карты Навыка"
     },
     {
       "id": "p_card_custom-p_card-02-ido-3_018-1",
@@ -1079,7 +1079,7 @@
       "id": "p_card_custom-p_card-02-ido-3_018-2",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Снять ограничение 1 раз за занятие"
+      "description": "Снять лимит 1x на каждый Урок"
     },
     {
       "id": "p_card_custom-p_card-02-ido-3_019-1",
@@ -1091,7 +1091,7 @@
       "id": "p_card_custom-p_card-02-ido-3_019-2",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Использование карт навыков +"
+      "description": "Использование Карт Навыков +"
     },
     {
       "id": "p_card_custom-p_card-02-ido-3_021-1",
@@ -1103,7 +1103,7 @@
       "id": "p_card_custom-p_card-02-ido-3_021-2",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Использование карт навыков +"
+      "description": "+ к использованию Карты Навыка"
     },
     {
       "id": "p_card_custom-p_card-02-ido-3_067-1-1",
@@ -1127,7 +1127,7 @@
       "id": "p_card_custom-p_card-02-ido-3_067-2",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Использование карт навыков +"
+      "description": "Использование Карты Навыка +"
     },
     {
       "id": "p_card_custom-p_card-03-ido-3_083-1",
@@ -1139,7 +1139,7 @@
       "id": "p_card_custom-p_card-03-ido-3_083-2",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Использование карт навыков +"
+      "description": "+к использованию Карты Навыка"
     },
     {
       "id": "p_card_custom-wrapper-p_card-00-sup-3_158-a-01",
@@ -1151,7 +1151,7 @@
       "id": "p_card_custom-wrapper-p_card-00-sup-3_158-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Улучшить карту навыка"
+      "description": "Улучшить Карту Навыка"
     },
     {
       "id": "p_card_custom-wrapper-p_card-00-sup-3_161-a-01",
@@ -1163,13 +1163,13 @@
       "id": "p_card_custom-wrapper-p_card-00-sup-3_161-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
-      "description": "Потребление выносливости -"
+      "description": "Расход Выносливости —"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_068-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
-      "description": "Хорошая форма +"
+      "description": "Хорошая Форма +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_068-b-01",
@@ -1199,7 +1199,7 @@
       "id": "p_card_custom-wrapper-p_card-01-act-1_069-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonBuffAdd",
-      "description": "Фокус +"
+      "description": "Концентрация +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-1_069-b-01",
@@ -1289,7 +1289,7 @@
       "id": "p_card_custom-wrapper-p_card-01-act-2_061-c-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
-      "description": "Хорошая форма +"
+      "description": "Хорошая Форма +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-3_184-a-01",
@@ -1301,7 +1301,7 @@
       "id": "p_card_custom-wrapper-p_card-01-act-3_184-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Снять ограничение 1 раз за занятие"
+      "description": "Снять лимит 1x на каждый Урок"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-act-3_185-a-01",
@@ -1325,7 +1325,7 @@
       "id": "p_card_custom-wrapper-p_card-01-men-2_098-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonAdd",
-      "description": "Параметр +"
+      "description": " Параметр +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-men-2_099-a-01",
@@ -1337,13 +1337,13 @@
       "id": "p_card_custom-wrapper-p_card-01-men-2_099-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonAdd",
-      "description": "Параметр +"
+      "description": " Параметр +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-men-2_104-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_LessonAdd",
-      "description": "Параметр +"
+      "description": " Параметр +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-men-2_104-b-01",
@@ -1403,7 +1403,7 @@
       "id": "p_card_custom-wrapper-p_card-01-sup-3_157-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
-      "description": "Хорошая форма +"
+      "description": "Хорошая Форма +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-01-sup-3_160-a-01",
@@ -1451,7 +1451,7 @@
       "id": "p_card_custom-wrapper-p_card-02-act-1_071-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ReviewAdd",
-      "description": "Хорошее впечатление +"
+      "description": "Хорошее Впечатление +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-act-1_071-b-01",
@@ -1511,7 +1511,7 @@
       "id": "p_card_custom-wrapper-p_card-02-act-3_187-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Эффект удержания +"
+      "description": "Эффект Выносл. +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-men-1_076-a-01",
@@ -1541,7 +1541,7 @@
       "id": "p_card_custom-wrapper-p_card-02-men-1_076-c-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Снять ограничение 1 раз за занятие"
+      "description": "Снять лимит 1x на урок"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-men-2_100-a-01",
@@ -1565,7 +1565,7 @@
       "id": "p_card_custom-wrapper-p_card-02-men-2_101-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ReviewAdd",
-      "description": "Хорошее впечатление +"
+      "description": "+Хорошее Впечатление"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-men-2_111-a-01",
@@ -1607,7 +1607,7 @@
       "id": "p_card_custom-wrapper-p_card-02-sup-2_089-c-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
-      "description": "Потребление выносливости -"
+      "description": "Расход Выносливости -"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-sup-3_156-a-01",
@@ -1619,7 +1619,7 @@
       "id": "p_card_custom-wrapper-p_card-02-sup-3_156-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ReviewAdd",
-      "description": "Хорошее впечатление +"
+      "description": "+Хорошее Впечатление"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-sup-3_178-a-01",
@@ -1637,7 +1637,7 @@
       "id": "p_card_custom-wrapper-p_card-02-sup-3_180-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_ReviewAdd",
-      "description": "Хорошее впечатление +"
+      "description": "+Хорошее Впечатление"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-sup-3_180-b-01",
@@ -1649,7 +1649,7 @@
       "id": "p_card_custom-wrapper-p_card-02-sup-3_181-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
-      "description": "Потребление выносливости -"
+      "description": "Расход Выносливости -"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-sup-3_181-b-01",
@@ -1667,7 +1667,7 @@
       "id": "p_card_custom-wrapper-p_card-02-sup-3_182-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Улучшить карту навыка"
+      "description": "Улучшить Карту Навыка"
     },
     {
       "id": "p_card_custom-wrapper-p_card-02-sup-3_195-a-01",
@@ -1709,13 +1709,13 @@
       "id": "p_card_custom-wrapper-p_card-03-act-1_043-c-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "В резерве +"
+      "description": "Удержание +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-act-1_072-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Сохранение +"
+      "description": "Сбережение +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-act-1_072-b-01",
@@ -1745,7 +1745,7 @@
       "id": "p_card_custom-wrapper-p_card-03-act-1_073-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Сохранение +"
+      "description": "Сбережение +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-act-1_073-b-01",
@@ -1799,7 +1799,7 @@
       "id": "p_card_custom-wrapper-p_card-03-act-2_106-c-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Снять ограничение 1 раз за занятие"
+      "description": "Снять лимит 1x на урок"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-act-3_188-a-01",
@@ -1835,7 +1835,7 @@
       "id": "p_card_custom-wrapper-p_card-03-men-1_050-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Снять ограничение 1 раз за занятие"
+      "description": "Снять лимит 1 шт. на один Урок"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-1_050-c-01",
@@ -1865,13 +1865,13 @@
       "id": "p_card_custom-wrapper-p_card-03-men-2_078-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Сохранение +"
+      "description": "Сбережение +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-2_103-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "В резерве +"
+      "description": "Удержание +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-2_103-b-01",
@@ -1883,7 +1883,7 @@
       "id": "p_card_custom-wrapper-p_card-03-men-2_112-a-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Сохранение +"
+      "description": "Сбережение +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-men-2_112-b-01",
@@ -1949,7 +1949,7 @@
       "id": "p_card_custom-wrapper-p_card-03-sup-3_194-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
-      "description": "Сохранение +"
+      "description": "Сбережение +"
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-sup-3_196-a-01",
@@ -1959,6 +1959,18 @@
     },
     {
       "id": "p_card_custom-wrapper-p_card-03-sup-3_196-b-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-sup-3_250-a-01",
+      "customizeCount": 1,
+      "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-wrapper-p_card-03-sup-3_250-b-01",
       "customizeCount": 1,
       "overwriteProduceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
       "description": ""

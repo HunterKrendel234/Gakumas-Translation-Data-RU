@@ -7,19 +7,19 @@
   "data": [
     {
       "eventType": "EventType_MissionDailyRelease",
-      "name": "Спецмиссии"
+      "name": "Специальные миссии"
     },
     {
       "eventType": "EventType_MissionPanel",
-      "name": "Панельные миссии"
+      "name": "Панель миссий"
     },
     {
       "eventType": "EventType_ProduceHighScore",
-      "name": "Месяц усиления айдолов Кунио Дзё"
+      "name": "Месяц улучшения Айдола Kunio Juo"
     },
     {
       "eventType": "EventType_StoryCampaign",
-      "name": "Период бесплатной разблокировки комью"
+      "name": "Период бесплатного разблокирования сообщества"
     },
     {
       "eventType": "EventType_StoryEvent",
@@ -27,11 +27,11 @@
     },
     {
       "eventType": "EventType_StoryEventMainStory",
-      "name": "Комью Хацубоси"
+      "name": "Hatsuboshi Комму"
     },
     {
       "eventType": "EventType_StoryEventBoxGasha",
-      "name": "Тур Live"
+      "name": "Live-тур"
     },
     {
       "eventType": "EventType_StoryEventGuildMission",
@@ -43,15 +43,15 @@
     },
     {
       "eventType": "EventType_DearnessBoost",
-      "name": "Кампания усиления связи"
+      "name": "Кампания усиления Отношений"
     },
     {
       "eventType": "EventType_Tour",
-      "name": "Тур Live"
+      "name": "Live-тур"
     },
     {
       "eventType": "EventType_Research",
-      "name": "Семинар продюсирования Асари-сэнсэя"
+      "name": "Производственный семинар Асари-Сэнсэй"
     }
   ]
 }

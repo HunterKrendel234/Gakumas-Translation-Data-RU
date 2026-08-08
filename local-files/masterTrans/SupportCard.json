@@ -26,7 +26,7 @@
           "text": "/ Низкий"
         }
       ],
-      "name": "Осторожная растяжка"
+      "name": "Осторожное растяжение"
     },
     {
       "id": "s_card-1-0001",
@@ -42,7 +42,7 @@
           "text": "/ Низкий"
         }
       ],
-      "name": "Полная мощь, а потом отдых"
+      "name": "Полная Сила, затем отдых"
     },
     {
       "id": "s_card-1-0002",
@@ -58,7 +58,7 @@
           "text": "/ Низкий"
         }
       ],
-      "name": "Накручивать секущиеся кончики"
+      "name": "Вращение раздвоенных кончиков"
     },
     {
       "id": "s_card-1-0003",
@@ -74,7 +74,7 @@
           "text": "/ Низкий"
         }
       ],
-      "name": "Передышка принца"
+      "name": "Дыхание принца"
     },
     {
       "id": "s_card-1-0004",
@@ -90,7 +90,7 @@
           "text": "/ Низкий"
         }
       ],
-      "name": "Надёжная старшая сестрёнка"
+      "name": "Надежная старшая сестра"
     },
     {
       "id": "s_card-1-0005",
@@ -106,7 +106,7 @@
           "text": "/ Низкий"
         }
       ],
-      "name": "Тренировка в воображении"
+      "name": "Тренировка изображений"
     },
     {
       "id": "s_card-1-0006",
@@ -122,7 +122,7 @@
           "text": "/ Низкий"
         }
       ],
-      "name": "Сосредоточенная дополнительная практика"
+      "name": "Концентрированная дополнительная практика"
     },
     {
       "id": "s_card-1-0007",
@@ -138,7 +138,7 @@
           "text": "/ Низкий"
         }
       ],
-      "name": "Переключатель ВКЛ!"
+      "name": "Включить!"
     },
     {
       "id": "s_card-1-0008",
@@ -154,7 +154,7 @@
           "text": "/ Низкий"
         }
       ],
-      "name": "В погоне за мечтами"
+      "name": "Преследование мечты"
     },
     {
       "id": "s_card-1-0009",
@@ -170,7 +170,7 @@
           "text": "/ Низкий"
         }
       ],
-      "name": "Секретное меню старшей сестрёнки"
+      "name": "Секретное меню старшей сестры"
     },
     {
       "id": "s_card-1-0010",
@@ -218,7 +218,7 @@
           "text": "/ Низкий"
         }
       ],
-      "name": "Прямая и прилежная"
+      "name": "Прямолинейный и прилежный"
     },
     {
       "id": "s_card-2-0000",
@@ -234,7 +234,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Звонок любви от всего сердца"
+      "name": "Искренняя любовь"
     },
     {
       "id": "s_card-2-0001",
@@ -247,10 +247,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Средний"
+          "text": "/ Среднее"
         }
       ],
-      "name": "Пока что отвернуться"
+      "name": "Отказ на данный момент"
     },
     {
       "id": "s_card-2-0002",
@@ -266,7 +266,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Непринуждённая, но твёрдая"
+      "name": "Легкий, но твердый"
     },
     {
       "id": "s_card-2-0003",
@@ -298,7 +298,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Под руководством шаг за шагом"
+      "name": "Пошаговое руководство"
     },
     {
       "id": "s_card-2-0005",
@@ -314,7 +314,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Мягкие щёчки"
+      "name": "Пухлые щечки"
     },
     {
       "id": "s_card-2-0006",
@@ -327,10 +327,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Средний"
+          "text": "/ Среднее"
         }
       ],
-      "name": "Очаровательные квадрицепсы"
+      "name": "Очаровательные четырехглазки"
     },
     {
       "id": "s_card-2-0007",
@@ -346,7 +346,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Мягко и волнительно"
+      "name": "Мягкий и волнительный"
     },
     {
       "id": "s_card-2-0008",
@@ -362,7 +362,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Мечтательное состояние с румянцем"
+      "name": "Краснеющий сон"
     },
     {
       "id": "s_card-2-0009",
@@ -410,7 +410,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Колеблющиеся намерения"
+      "name": "Неустойчивые намерения"
     },
     {
       "id": "s_card-2-0012",
@@ -426,7 +426,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Невозможно игнорировать"
+      "name": "Нельзя игнорировать"
     },
     {
       "id": "s_card-2-0013",
@@ -442,7 +442,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Цветок расцветёт"
+      "name": "Расцвету цветка"
     },
     {
       "id": "s_card-2-0014",
@@ -458,7 +458,7 @@
           "text": "/ Низкий"
         }
       ],
-      "name": "Самый первый друг"
+      "name": "Первый друг в жизни"
     },
     {
       "id": "s_card-2-0015",
@@ -474,7 +474,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Делим наушники"
+      "name": "Общие наушники"
     },
     {
       "id": "s_card-2-0016",
@@ -506,7 +506,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Ням-ням, хрум-хрум"
+      "name": "Чамп-Чамп, Манч-Манч"
     },
     {
       "id": "s_card-2-0018",
@@ -522,7 +522,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Скованная растяжка"
+      "name": "Жесткая растяжка"
     },
     {
       "id": "s_card-2-0019",
@@ -538,7 +538,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Прими позу"
+      "name": "Замри!"
     },
     {
       "id": "s_card-2-0020",
@@ -551,7 +551,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Средний"
+          "text": "/ Среднее"
         }
       ],
       "name": "Наслаждайся пляжем!"
@@ -570,7 +570,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Контакт пятого рода"
+      "name": "Встреча пятого рода"
     },
     {
       "id": "s_card-2-0022",
@@ -586,7 +586,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Сегодня я просто наблюдаю"
+      "name": "Я просто понаблюдаю сегодня"
     },
     {
       "id": "s_card-2-0023",
@@ -599,10 +599,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Средний"
+          "text": "/ Среднее"
         }
       ],
-      "name": "Доброта такая тёплая"
+      "name": "Теплота доброты"
     },
     {
       "id": "s_card-2-0024",
@@ -618,7 +618,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Уютно и плотно"
+      "name": "Уютный и плотный"
     },
     {
       "id": "s_card-2-0025",
@@ -650,7 +650,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Всё такое пенистое и так вкусно пахнет♪"
+      "name": "Все такие пузырящиеся и отлично пахнут♪"
     },
     {
       "id": "s_card-2-0027",
@@ -682,7 +682,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Величественный мискантус!"
+      "name": "Величественная пампасная трава!"
     },
     {
       "id": "s_card-2-0029",
@@ -698,7 +698,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Благодарность China"
+      "name": "Благодарность Китая"
     },
     {
       "id": "s_card-2-0030",
@@ -711,10 +711,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Средний"
+          "text": "/ Среднее"
         }
       ],
-      "name": "Любопытный напиток"
+      "name": "Захватывающий напиток"
     },
     {
       "id": "s_card-2-0031",
@@ -746,7 +746,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Шкворчащая скумбрия"
+      "name": "Жаркая скумбрия"
     },
     {
       "id": "s_card-2-0033",
@@ -762,7 +762,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Давай завирусимся!"
+      "name": "Стань вирусным!"
     },
     {
       "id": "s_card-2-0034",
@@ -778,7 +778,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Поймай стрекозу"
+      "name": "Поймать стрекозу"
     },
     {
       "id": "s_card-2-0035",
@@ -794,7 +794,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Десятикратный XL!"
+      "name": "Декапле XL!"
     },
     {
       "id": "s_card-2-0036",
@@ -810,7 +810,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Милая~ω поза☆"
+      "name": "Милая~ω Поза☆"
     },
     {
       "id": "s_card-2-0037",
@@ -826,7 +826,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Калории/2 = счастья в 2 раза больше"
+      "name": "Калории/2 = 2x Счастье"
     },
     {
       "id": "s_card-2-0038",
@@ -842,7 +842,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Стремясь к вершине"
+      "name": "Стремление к вершине"
     },
     {
       "id": "s_card-2-0039",
@@ -858,7 +858,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Всё ещё стараюсь стать лучше"
+      "name": "Всё ещё пытаюсь улучшиться"
     },
     {
       "id": "s_card-2-0040",
@@ -871,10 +871,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Средний"
+          "text": "/ Среднее"
         }
       ],
-      "name": "База > продвинутого"
+      "name": "Основы > Продвинутый"
     },
     {
       "id": "s_card-2-0041",
@@ -890,7 +890,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Взрывное рождение SSC"
+      "name": "Рождение взрывного SSC"
     },
     {
       "id": "s_card-2-0042",
@@ -906,7 +906,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "От всего сердца"
+      "name": "Со всей душой"
     },
     {
       "id": "s_card-2-0043",
@@ -919,10 +919,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Средний"
+          "text": "/ Среднее"
         }
       ],
-      "name": "Полный вперёд!"
+      "name": "Полная скорость!"
     },
     {
       "id": "s_card-2-0044",
@@ -938,7 +938,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Фух и брысь"
+      "name": "Фью и Шу"
     },
     {
       "id": "s_card-2-0045",
@@ -970,7 +970,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Бип-бип, пинг!"
+      "name": "Бип-Бип, Пинг!"
     },
     {
       "id": "s_card-2-0047",
@@ -986,7 +986,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Секретная техника: тройной прыжок!"
+      "name": "Секретная технология: Тройной прыжок!"
     },
     {
       "id": "s_card-2-0048",
@@ -1018,7 +1018,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Унизительное 2-е место"
+      "name": "Позорное 2-е место"
     },
     {
       "id": "s_card-2-0050",
@@ -1034,7 +1034,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Столик на двоих~♪"
+      "name": "Ужин на двоих~♪"
     },
     {
       "id": "s_card-2-0051",
@@ -1066,7 +1066,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Un, deux, trois!"
+      "name": "Раз, два, три!"
     },
     {
       "id": "s_card-2-0053",
@@ -1079,10 +1079,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Средний"
+          "text": "/ Среднее"
         }
       ],
-      "name": "Плюх~"
+      "name": "Фламп~"
     },
     {
       "id": "s_card-2-0054",
@@ -1114,7 +1114,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Спарта и специи"
+      "name": "Спарты и специи"
     },
     {
       "id": "s_card-2-0058",
@@ -1130,7 +1130,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Прохладное мгновение"
+      "name": "Прохладный миг"
     },
     {
       "id": "s_card-2-0059",
@@ -1159,10 +1159,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Средний"
+          "text": "/ Среднее"
         }
       ],
-      "name": "Колющее предупреждение"
+      "name": "Оstr_SpikyWarning"
     },
     {
       "id": "s_card-2-0061",
@@ -1178,7 +1178,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Держи корпус крепко!"
+      "name": "Сохраняйте силу ядра!"
     },
     {
       "id": "s_card-2-0062",
@@ -1194,7 +1194,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Счастливого Хэллоуина~!"
+      "name": "С праздником Хэллоуина!"
     },
     {
       "id": "s_card-2-0063",
@@ -1210,7 +1210,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Тёплый массаж стоп"
+      "name": "Теплый массаж стоп"
     },
     {
       "id": "s_card-2-0064",
@@ -1239,7 +1239,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Средний"
+          "text": "/ Среднее"
         }
       ],
       "name": "Спящий принц"
@@ -1274,7 +1274,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Сияния в полном расцвете"
+      "name": "Солнечные блики в полном цвету"
     },
     {
       "id": "s_card-2-0068",
@@ -1322,7 +1322,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Балансировка белья"
+      "name": "Балансировка стирки"
     },
     {
       "id": "s_card-2-0071",
@@ -1354,7 +1354,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Рыцарь и сорванец"
+      "name": "Рыцарь и задиристая девчонка"
     },
     {
       "id": "s_card-2-0073",
@@ -1367,10 +1367,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Средний"
+          "text": "/ Среднее"
         }
       ],
-      "name": "Потянуть и растянуть"
+      "name": "Растяжка и тяга"
     },
     {
       "id": "s_card-2-0074",
@@ -1402,7 +1402,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Things I won't compromise on"
+      "name": "То, на чем я не пойду на компромисс"
     },
     {
       "id": "s_card-2-0076",
@@ -1418,7 +1418,39 @@
           "text": "/ Средний"
         }
       ],
-      "name": "A relaxed, yawning face"
+      "name": "Расслабленное лицо с зевотой"
+    },
+    {
+      "id": "s_card-2-0077",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ Средний"
+        }
+      ],
+      "name": "М-м, арбуз — просто объедение!"
+    },
+    {
+      "id": "s_card-2-0079",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ Средний"
+        }
+      ],
+      "name": "Какое странное совпадение!"
     },
     {
       "id": "s_card-3-0000",
@@ -1434,7 +1466,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Я и тебе это приготовлю!"
+      "name": "Я сделаю это и для тебя!"
     },
     {
       "id": "s_card-3-0001",
@@ -1466,7 +1498,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Жутко бесит"
+      "name": "Черт возьми, как бесит"
     },
     {
       "id": "s_card-3-0003",
@@ -1479,10 +1511,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Положись на старшую сестрёнку!"
+      "name": "Оставь это старшей!"
     },
     {
       "id": "s_card-3-0004",
@@ -1498,7 +1530,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Мггрррррр…!"
+      "name": "Мггрrrrrrr…!"
     },
     {
       "id": "s_card-3-0005",
@@ -1511,10 +1543,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Следующая сакура"
+      "name": "Далее вишня"
     },
     {
       "id": "s_card-3-0006",
@@ -1530,7 +1562,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Отличная работа, China."
+      "name": "Отличная работа, Китай."
     },
     {
       "id": "s_card-3-0007",
@@ -1546,7 +1578,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Совсем как настоящий принц"
+      "name": "Подобно настоящему принцу"
     },
     {
       "id": "s_card-3-0008",
@@ -1559,10 +1591,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Поймала твоё вкусное личико!"
+      "name": "Твоё аппетитное личико!"
     },
     {
       "id": "s_card-3-0009",
@@ -1578,7 +1610,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Вместе мы справимся"
+      "name": "Мы можем сделать это вместе"
     },
     {
       "id": "s_card-3-0010",
@@ -1594,7 +1626,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Мило + мило = супер мило!"
+      "name": "Мило + Мило = Супер-мило!"
     },
     {
       "id": "s_card-3-0011",
@@ -1607,10 +1639,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Я не ошибалась"
+      "name": "Я не ошибался"
     },
     {
       "id": "s_card-3-0012",
@@ -1626,7 +1658,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Опять слишком надавила"
+      "name": "Снова перенапрягся"
     },
     {
       "id": "s_card-3-0013",
@@ -1639,10 +1671,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Вот это совпадение"
+      "name": "О, какое совпадение"
     },
     {
       "id": "s_card-3-0014",
@@ -1655,10 +1687,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Серьёзно?"
+      "name": "Серьезно?"
     },
     {
       "id": "s_card-3-0015",
@@ -1690,7 +1722,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Никто не останется позади"
+      "name": "Никого не оставить позади"
     },
     {
       "id": "s_card-3-0017",
@@ -1703,10 +1735,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Давай понесём вместе♪"
+      "name": "Давайте нести это вместе♪"
     },
     {
       "id": "s_card-3-0018",
@@ -1722,7 +1754,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Вторая вечеринка в классе!"
+      "name": "Вторая школьная вечеринка!"
     },
     {
       "id": "s_card-3-0019",
@@ -1738,7 +1770,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Ты моя гордость и радость"
+      "name": "Ты — моя гордость и радость"
     },
     {
       "id": "s_card-3-0020",
@@ -1754,7 +1786,7 @@
           "text": "/ Средний"
         }
       ],
-      "name": "Осенний аппетит уже здесь"
+      "name": "Осенний аппетит настал"
     },
     {
       "id": "s_card-3-0021",
@@ -1770,7 +1802,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Samidare"
+      "name": "Самидаре"
     },
     {
       "id": "s_card-3-0022",
@@ -1802,7 +1834,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Только не вставай пока!"
+      "name": "Пожалуйста, не вставай еще!"
     },
     {
       "id": "s_card-3-0024",
@@ -1815,7 +1847,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
       "name": "Не «A», а «E»!"
@@ -1834,7 +1866,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Новый вызов успешно пройден!"
+      "name": "Успех нового испытания!"
     },
     {
       "id": "s_card-3-0026",
@@ -1847,10 +1879,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Эй! Холодно же!"
+      "name": "Эй! Это же Холод!"
     },
     {
       "id": "s_card-3-0027",
@@ -1863,10 +1895,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Давай наслаждаться летом!"
+      "name": "Встречай лето!"
     },
     {
       "id": "s_card-3-0028",
@@ -1895,10 +1927,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Наслаждаясь летом"
+      "name": "Наслаждение летом"
     },
     {
       "id": "s_card-3-0030",
@@ -1927,10 +1959,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Хочешь устроить фейерверк?"
+      "name": "Хотите устроить фейерверк?"
     },
     {
       "id": "s_card-3-0032",
@@ -1946,7 +1978,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Продюсирование — это тяжело"
+      "name": "Трудно производить"
     },
     {
       "id": "s_card-3-0033",
@@ -1962,7 +1994,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Давай помиримся"
+      "name": "Давай придумаем"
     },
     {
       "id": "s_card-3-0034",
@@ -1978,7 +2010,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Вместе это проще простого"
+      "name": "Вместе — проще простого"
     },
     {
       "id": "s_card-3-0035",
@@ -1991,7 +2023,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
       "name": "Давай не спешить"
@@ -2010,7 +2042,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Тебе не идёт?"
+      "name": "Тебе это идет?"
     },
     {
       "id": "s_card-3-0037",
@@ -2026,7 +2058,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Осень в самом разгаре"
+      "name": "Пик осени"
     },
     {
       "id": "s_card-3-0038",
@@ -2042,7 +2074,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Президент, мы всё подготовили"
+      "name": "Господин Президент, мы готовы"
     },
     {
       "id": "s_card-3-0039",
@@ -2071,10 +2103,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Уже готово?"
+      "name": "Готово ли оно?"
     },
     {
       "id": "s_card-3-0041",
@@ -2087,10 +2119,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Так блестит и так красиво!"
+      "name": "Такая блестящая и красивая!"
     },
     {
       "id": "s_card-3-0042",
@@ -2122,7 +2154,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Подожди меня!"
+      "name": "Жди вверх!"
     },
     {
       "id": "s_card-3-0044",
@@ -2135,10 +2167,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Ещё раз!"
+      "name": "Еще один раз!"
     },
     {
       "id": "s_card-3-0045",
@@ -2151,10 +2183,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Вместе♪"
+      "name": "Вместе сейчас♪"
     },
     {
       "id": "s_card-3-0046",
@@ -2167,10 +2199,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Вот наши три года"
+      "name": "Это наши три года"
     },
     {
       "id": "s_card-3-0047",
@@ -2186,7 +2218,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Valentine ♡ meeting!"
+      "name": "Встреча с Валентином ♡!"
     },
     {
       "id": "s_card-3-0048",
@@ -2202,7 +2234,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Что бы ни случилось!"
+      "name": "Что бы то ни было!"
     },
     {
       "id": "s_card-3-0049",
@@ -2218,7 +2250,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Сможешь встать на ноги сама?"
+      "name": "Сможешь выстоять сам?"
     },
     {
       "id": "s_card-3-0050",
@@ -2234,7 +2266,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Вы мне обе нравитесь"
+      "name": "Вы мне нравитесь"
     },
     {
       "id": "s_card-3-0051",
@@ -2266,7 +2298,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Поздравляю с поступлением!"
+      "name": "Поздравляем с прохождением!"
     },
     {
       "id": "s_card-3-0053",
@@ -2282,7 +2314,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Ладно, ещё один раунд!"
+      "name": "Хорошо, еще один раунд!"
     },
     {
       "id": "s_card-3-0054",
@@ -2298,7 +2330,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Ты достойный соперник!"
+      "name": "Ты достойный противник!"
     },
     {
       "id": "s_card-3-0055",
@@ -2314,7 +2346,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Всё начинается здесь, правда же!"
+      "name": "Это ведь здесь начинается, верно!"
     },
     {
       "id": "s_card-3-0056",
@@ -2330,7 +2362,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Такая же неуклюжая, как всегда"
+      "name": "Неуклюжий как всегда"
     },
     {
       "id": "s_card-3-0057",
@@ -2346,7 +2378,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Невероятно полезные друзья!"
+      "name": "Совершенно полезные друзья!"
     },
     {
       "id": "s_card-3-0058",
@@ -2362,7 +2394,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Просто разговариваю сама с собой"
+      "name": "Просто разговариваю сам с собой"
     },
     {
       "id": "s_card-3-0059",
@@ -2375,10 +2407,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Теперь мы совсем близки♪"
+      "name": "Совсем закрыто теперь♪"
     },
     {
       "id": "s_card-3-0060",
@@ -2410,7 +2442,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Мнение каждого♪"
+      "name": "Мнения всех♪"
     },
     {
       "id": "s_card-3-0062",
@@ -2426,7 +2458,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Молодец, Kuramoto"
+      "name": "Отличная работа, Курамото"
     },
     {
       "id": "s_card-3-0063",
@@ -2442,7 +2474,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Немного пофанатеть — это хорошо!"
+      "name": "Немного фанатства — это хорошо!"
     },
     {
       "id": "s_card-3-0064",
@@ -2455,7 +2487,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
       "name": "Всегда стараешься изо всех сил"
@@ -2474,7 +2506,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Что это за отношения?"
+      "name": "Какой вид отношений?"
     },
     {
       "id": "s_card-3-0066",
@@ -2490,7 +2522,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Ну никак не оставить в покое"
+      "name": "Просто не могу оставить в покое"
     },
     {
       "id": "s_card-3-0067",
@@ -2503,10 +2535,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Мы супер близки!"
+      "name": "Мы совсем близко!"
     },
     {
       "id": "s_card-3-0068",
@@ -2522,7 +2554,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Я тебе не мама!"
+      "name": "Я тебе не мать!"
     },
     {
       "id": "s_card-3-0069",
@@ -2538,7 +2570,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Пусть это длится вечно"
+      "name": "Надеюсь, это будет вечно"
     },
     {
       "id": "s_card-3-0070",
@@ -2554,7 +2586,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Эй, я пришла за тобой!"
+      "name": "Эй, я пришел за тобой!"
     },
     {
       "id": "s_card-3-0071",
@@ -2570,7 +2602,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Давай как следует зажжём!"
+      "name": "Зажжём!"
     },
     {
       "id": "s_card-3-0072",
@@ -2586,7 +2618,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Ой, поосторожнее"
+      "name": "Ой, осторожнее"
     },
     {
       "id": "s_card-3-0073",
@@ -2602,7 +2634,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "#ГайаруМир"
+      "name": "#GyaruPeace"
     },
     {
       "id": "s_card-3-0074",
@@ -2618,7 +2650,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Я про это знаю!"
+      "name": "Я знаю об этом!"
     },
     {
       "id": "s_card-3-0075",
@@ -2666,7 +2698,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Остывать тоже важно!"
+      "name": "Охлаждение — это важно!"
     },
     {
       "id": "s_card-3-0078",
@@ -2679,10 +2711,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "На старт, внимание, марш!"
+      "name": "Марш, разведка!"
     },
     {
       "id": "s_card-3-0079",
@@ -2698,7 +2730,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Наконец-то я тебя нашла!"
+      "name": "Я наконец-то нашел тебя!"
     },
     {
       "id": "s_card-3-0080",
@@ -2727,7 +2759,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
       "name": "С Рождеством, сестрёнка♪"
@@ -2743,7 +2775,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
       "name": "Почему ты здесь?!"
@@ -2762,7 +2794,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Она в открытую бездельничает!?"
+      "name": "Она же открыто бездельничает!?"
     },
     {
       "id": "s_card-3-0084",
@@ -2778,7 +2810,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Это же концерт Temari, да?"
+      "name": "Это же выступление с Temari, верно?"
     },
     {
       "id": "s_card-3-0085",
@@ -2791,10 +2823,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Пора встретиться с собой"
+      "name": "Пора взглянуть правде в глаза"
     },
     {
       "id": "s_card-3-0086",
@@ -2810,7 +2842,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Я покажу тебе, как надо!"
+      "name": "Я покажу тебе, как это делается!"
     },
     {
       "id": "s_card-3-0087",
@@ -2855,10 +2887,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Береги себя!"
+      "name": "Берегите себя!"
     },
     {
       "id": "s_card-3-0090",
@@ -2874,7 +2906,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Я нашла это"
+      "name": "Я нашел это"
     },
     {
       "id": "s_card-3-0091",
@@ -2890,7 +2922,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Я же точно победила, да~?!"
+      "name": "Я же полностью победила, да~?!"
     },
     {
       "id": "s_card-3-0092",
@@ -2903,10 +2935,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Прокачанный ланч-бокс"
+      "name": "Эволюционировавший ланч-бокс"
     },
     {
       "id": "s_card-3-0093",
@@ -2922,7 +2954,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Хорошая работа в этом долгом пути!"
+      "name": "Отличная работа в долгом путешествии!"
     },
     {
       "id": "s_card-3-0094",
@@ -2938,7 +2970,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Там наверху?!"
+      "name": "Там, наверху?!"
     },
     {
       "id": "s_card-3-0095",
@@ -2954,7 +2986,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Я жду вечеринку с нетерпением!"
+      "name": "Я в предвкушении вечеринки!"
     },
     {
       "id": "s_card-3-0096",
@@ -2967,10 +2999,10 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ Высокий"
+          "text": "/ Высокое"
         }
       ],
-      "name": "Только мы вдвоём, в поезде"
+      "name": "Только мы двое в поезде"
     },
     {
       "id": "s_card-3-0097",
@@ -3034,7 +3066,7 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Что будет происходить~?"
+      "name": "Что же произойдет?"
     },
     {
       "id": "s_card-3-0102",
@@ -3050,10 +3082,10 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Оден, идёт в помощь~!"
+      "name": "Оден, проход свободный!"
     },
     {
-      "id": "s_card-3-0105",
+      "id": "s_card-3-0103",
       "upgradeProduceCardProduceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3066,7 +3098,55 @@
           "text": "/ Высокий"
         }
       ],
-      "name": "Развлекай меня"
+      "name": "Следующая песня — это~!!"
+    },
+    {
+      "id": "s_card-3-0104",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ Высокий"
+        }
+      ],
+      "name": "Я хотел бы попросить интервью"
+    },
+    {
+      "id": "s_card-3-0105",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ Высокое"
+        }
+      ],
+      "name": "Развлеки меня"
+    },
+    {
+      "id": "s_card-3-0108",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ Высокое"
+        }
+      ],
+      "name": "Нарушение порядка!"
     }
   ]
 }

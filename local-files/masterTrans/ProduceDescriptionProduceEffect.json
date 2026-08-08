@@ -19,7 +19,7 @@
     },
     {
       "type": "ProduceEffectType_VocalDown",
-      "name": "Вокал -"
+      "name": "Вокал —"
     },
     {
       "type": "ProduceEffectType_DanceDown",
@@ -27,39 +27,39 @@
     },
     {
       "type": "ProduceEffectType_VisualDown",
-      "name": "Визуал -"
+      "name": "Визуал —"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
-      "name": "Бонус урока вокала +"
+      "name": "Бонус к параметрам вокала +"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateAddition",
-      "name": "Бонус урока танца +"
+      "name": "Бонус к параметрам танца +"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateAddition",
-      "name": "Бонус урока визуала +"
+      "name": "Бонус к Визуал +"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateDown",
-      "name": "Бонус урока вокала -"
+      "name": "Бонус к параметру Вокала -"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateDown",
-      "name": "Бонус урока танца -"
+      "name": "Бонус к параметрам танца -"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateDown",
-      "name": "Бонус урока визуала -"
+      "name": "Бонус к визуальным параметрам —"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverFix",
-      "name": "Восстановление выносливости "
+      "name": "Восстановление Выносливости"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverMultiple",
-      "name": "Восстановление выносливости в процентах "
+      "name": "Восстановление % Выносливости"
     },
     {
       "type": "ProduceEffectType_StaminaReduceFix",
@@ -67,83 +67,83 @@
     },
     {
       "type": "ProduceEffectType_StaminaReduceMultiple",
-      "name": "Снижение выносливости в процентах "
+      "name": "Снижение % Выносливости"
     },
     {
       "type": "ProduceEffectType_StaminaSpecify",
-      "name": "Изменение выносливости "
+      "name": "Изменение Выносливости"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverValueUp",
-      "name": "Количество восстановления выносливости +"
+      "name": "+к количеству восстановления Выносливости"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverValueDown",
-      "name": "Количество восстановления выносливости -"
+      "name": "Выносл. - Количество восстановления"
     },
     {
       "type": "ProduceEffectType_StaminaReduceValueUp",
-      "name": "Количество снижения выносливости +"
+      "name": "+к количеству снижения Выносливости"
     },
     {
       "type": "ProduceEffectType_StaminaReduceValueDown",
-      "name": "Количество снижения выносливости -"
+      "name": "Вычет Выносливости -"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverDisable",
-      "name": "Восстановление выносливости неактивно "
+      "name": "Восстановление выносливости неактивно"
     },
     {
       "type": "ProduceEffectType_MaxStaminaAddition",
-      "name": "Макс. выносливость +"
+      "name": "Макс. Выносливость +"
     },
     {
       "type": "ProduceEffectType_MaxStaminaReduceFix",
-      "name": "Макс. выносливость -"
+      "name": "Макс. Выносливость -"
     },
     {
       "type": "ProduceEffectType_MaxStaminaReduceMultiple",
-      "name": "Макс. выносливость в процентах -"
+      "name": "Макс. Выносливость —"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceFix",
-      "name": "P-очки -"
+      "name": "P-Очки -"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceMultiple",
-      "name": "P-очки в процентах -"
+      "name": "P-Points Percentage -"
     },
     {
       "type": "ProduceEffectType_ProducePointSpecify",
-      "name": "Изменение P-очков "
+      "name": "Изменение P-Очков"
     },
     {
       "type": "ProduceEffectType_ProducePointAdditionValueUp",
-      "name": "Количество получения P-очков +"
+      "name": "+ к количеству P-Очков"
     },
     {
       "type": "ProduceEffectType_ProducePointAdditionValueDown",
-      "name": "Количество получения P-очков -"
+      "name": "Доп. P-Очков -"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceValueUp",
-      "name": "Количество потери P-очков +"
+      "name": "+ к кол-ву снижения P-Очков"
     },
     {
       "type": "ProduceEffectType_ProducePointReduceValueDown",
-      "name": "Количество потери P-очков -"
+      "name": "Снижение P-Очков -"
     },
     {
       "type": "ProduceEffectType_ProduceCardUpgrade",
-      "name": "Улучшение "
+      "name": "Улучшение"
     },
     {
       "type": "ProduceEffectType_ProduceCardDuplicate",
-      "name": "Копирование "
+      "name": "Копировать"
     },
     {
       "type": "ProduceEffectType_ProduceCardDuplicateUpgrade",
-      "name": "Копирование и улучшение "
+      "name": "Копирование и улучшение"
     },
     {
       "type": "ProduceEffectType_ProduceCardChange",
@@ -151,219 +151,219 @@
     },
     {
       "type": "ProduceEffectType_ProduceCardChangeUpgrade",
-      "name": "Изменение и улучшение "
+      "name": "Изменение и улучшение"
     },
     {
       "type": "ProduceEffectType_ProduceCardDelete",
-      "name": "Удаление "
+      "name": "Удалить"
     },
     {
       "type": "ProduceEffectType_ProducePointAddition",
-      "name": "Получение P-очков"
+      "name": "Прирост P-Очков"
     },
     {
       "type": "ProduceEffectType_ProducePointGetDisable",
-      "name": "Получение P-очков неактивно "
+      "name": "Получение P-Очков неактивно"
     },
     {
       "type": "ProduceEffectType_ProduceItemGetDisable",
-      "name": "Получение P-предметов неактивно "
+      "name": "P-Предмет: получение неактивно"
     },
     {
       "type": "ProduceEffectType_ProduceDrinkGetDisable",
-      "name": "Получение P-напитков неактивно "
+      "name": "P-Напиток: Неактивен"
     },
     {
       "type": "ProduceEffectType_ProduceReward",
-      "name": "Получение награды "
+      "name": "Полученная Награда"
     },
     {
       "type": "ProduceEffectType_ProduceRewardSet",
-      "name": "Получение награды "
+      "name": "Награда"
     },
     {
       "type": "ProduceEffectType_AuditionParameterBonusMultiple",
-      "name": "Увеличение бонуса очков "
+      "name": "Увеличение Бонуса Оценки"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilAddition",
-      "name": "Шанс появления SP-урока +"
+      "name": "Шанс появления Урока SP +"
     },
     {
       "type": "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
-      "name": "Шанс появления SP-урока вокала +"
+      "name": "Шанс появления урока Вокала SP +"
     },
     {
       "type": "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
-      "name": "Шанс появления SP-урока танца +"
+      "name": "Шанс появления урока Танец SP +"
     },
     {
       "type": "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
-      "name": "Шанс появления SP-урока визуала +"
+      "name": "Шанс появления Визуала в Уроке +"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilDown",
-      "name": "Шанс появления SP-урока -"
+      "name": "Шанс появления Урока SP -"
     },
     {
       "type": "ProduceEffectType_ExamStatusEnchant",
-      "name": "Появление эффекта урока "
+      "name": "Возникновение эффекта урока"
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountUp",
-      "name": "Варианты Карт навыка в награде за урок +"
+      "name": "+Вариантов Карт Навыков из Награды Урока"
     },
     {
       "type": "ProduceEffectType_LessonPresentProduceCardRewardCountDown",
-      "name": "Варианты Карт навыка в награде за урок -"
+      "name": "Варианты карт Навыков в награде за Урок —"
     },
     {
       "type": "ProduceEffectType_ShopPriceDiscountMultiple",
-      "name": "Скидка на все предметы консультации "
+      "name": "Скидка на все товары в консультации"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiple",
-      "name": "Скидка на Карту навыка в консультации "
+      "name": "Скидка на Карту Навыка при консультировании"
     },
     {
       "type": "ProduceEffectType_ShopProduceDrinkPriceDiscountMultiple",
-      "name": "Скидка на P-напиток в консультации "
+      "name": "Скидка на P-Напиток от консультации"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceDiscountMultiple",
-      "name": "Скидка на улучшение Карты навыка в консультации "
+      "name": "Скидка на улучшение Карты Навыка Консультации"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceSpecify",
-      "name": "Изменение улучшения Карты навыка в консультации "
+      "name": "Изменение стоимости улучшения Карты Навыка Консультации"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceDiscountMultiple",
-      "name": "Скидка на удаление Карты навыка в консультации "
+      "name": "Скидка на удаление Карты Навыка Консультации"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceSpecify",
-      "name": "Изменение улучшения Карты навыка в консультации "
+      "name": "Изменение улучшения Карты Навыка Консультации"
     },
     {
       "type": "ProduceEffectType_ProduceResultRewardMoneyUp",
-      "name": "Получение денег за завершение продюсирования +"
+      "name": "+К деньгам за Продюсирование"
     },
     {
       "type": "ProduceEffectType_ProduceResultRewardSupportCardEnhancePointUp",
-      "name": "Получение очков поддержки за завершение продюсирования +"
+      "name": "Продюсирование: Очк. поддержки завершения ↑"
     },
     {
       "type": "ProduceEffectType_SupportCardEventStaminaRecoverUp",
-      "name": "Восстановление выносливости от события поддержки +"
+      "name": "Восст. Выносливости от Поддержки +"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProducePointAdditionValueUp",
-      "name": "Получение P-очков от события поддержки +"
+      "name": "P-Очки за событие поддержки ↑"
     },
     {
       "type": "ProduceEffectType_SupportCardEventParameterAdditionValueUp",
-      "name": "Увеличение параметра от события поддержки +"
+      "name": "+К параметрам события поддержки"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProbabilityUp",
-      "name": "Шанс появления события поддержки +"
+      "name": "Шанс события поддержки +"
     },
     {
       "type": "ProduceEffectType_LessonPresentProducePointUp",
-      "name": "Получение P-очков из награды за урок +"
+      "name": "+ к получению P-Очков за награду Урока"
     },
     {
       "type": "ProduceEffectType_SupportCardProduceCardUpgradeProbabilityUp",
-      "name": "Шанс появления поддержки на уроке +"
+      "name": "Шанс появления Урока +"
     },
     {
       "type": "ProduceEffectType_ProduceCardSelectRerollCountUp",
-      "name": "Количество рероллов +"
+      "name": "Перезагрузка +"
     },
     {
       "type": "ProduceEffectType_ProducePointAdditionDisableTrigger",
-      "name": "Начальные P-очки +"
+      "name": "Начальные P-Очки +"
     },
     {
       "type": "ProduceEffectType_ParameterLimitUp",
-      "name": "Увеличение предела параметра"
+      "name": "Увеличение лимита параметров"
     },
     {
       "type": "ProduceEffectType_ExamTurnUp",
-      "name": "Количество ходов +"
+      "name": "Кол-во ходов +"
     },
     {
       "type": "ProduceEffectType_ExamTurnDown",
-      "name": "Количество ходов -"
+      "name": "Кол-во ходов -"
     },
     {
       "type": "ProduceEffectType_AuditionNpcEnhance",
-      "name": "Очки соперника "
+      "name": "Оценка соперника"
     },
     {
       "type": "ProduceEffectType_ShopPriceUpMultiple",
-      "name": "Все предметы консультации +"
+      "name": "Консультация всех предметов +"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceUpMultiple",
-      "name": "Карты навыка в консультации +"
+      "name": "Карта Навыка «Консультация» +"
     },
     {
       "type": "ProduceEffectType_ShopProduceDrinkPriceUpMultiple",
-      "name": "P-напитки в консультации +"
+      "name": "Консультация P-Напиток +"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardUpgradePriceUpMultiple",
-      "name": "Улучшение Карт навыка в консультации +"
+      "name": "Карта Навыка Консультации ↑"
     },
     {
       "type": "ProduceEffectType_ShopProduceCardDeletePriceUpMultiple",
-      "name": "Удаление Карт навыка в консультации +"
+      "name": "Удаление Карты Навыка Консультации +"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaUp",
-      "name": "Расход выносливости на занятиях +"
+      "name": "+ к расходу Выносливости класса"
     },
     {
       "type": "ProduceEffectType_EventSchoolStaminaDown",
-      "name": "Расход выносливости на занятиях -"
+      "name": "Расход Выносливости класса -"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointUp",
-      "name": "Расход P-очков на выход +"
+      "name": "+ К расходу P-Очков на прогулках"
     },
     {
       "type": "ProduceEffectType_EventActivityProducePointDown",
-      "name": "Расход P-очков на выход -"
+      "name": "Расход P-Очков за прогулку —"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaUp",
-      "name": "Восстановление выносливости перед экзаменом +"
+      "name": "+Восст. Выносливости перед Экзаменом"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaDown",
-      "name": "Восстановление выносливости перед экзаменом -"
+      "name": "Восстановление Выносливости перед Экзаменом —"
     },
     {
       "type": "ProduceEffectType_ProduceCardExcludeCountUp",
-      "name": "Удаление Карты навыка "
+      "name": "Удаление Карты Навыка"
     },
     {
       "type": "ProduceEffectType_AuditionNpcWeaken",
-      "name": "Очки соперника "
+      "name": "Оценка соперника"
     },
     {
       "type": "ProduceEffectType_StarPermilUp",
-      "name": "Увеличение прироста Звездного потенциала"
+      "name": "Прирост Звёздного Потенциала"
     },
     {
       "type": "ProduceEffectType_StarAddition",
-      "name": "Получить Звездный потенциал "
+      "name": "Получить Звёздный Потенциал"
     },
     {
       "type": "ProduceEffectType_ProduceCardChangeSelect",
-      "name": "Выбрать изменение "
+      "name": "Выбрать изменение"
     },
     {
       "type": "ProduceEffectType_ProduceDrinkPossessLimitUp",
@@ -371,7 +371,7 @@
     },
     {
       "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiplePermanent",
-      "name": "Скидка на карты навыков Консультации"
+      "name": "Скидка на Карты Навыков от Навыка Консультирования"
     }
   ]
 }

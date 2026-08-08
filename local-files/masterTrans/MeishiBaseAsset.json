@@ -7,83 +7,95 @@
   "data": [
     {
       "id": "all-live-01",
-      "name": "Памятное MOIW 2025"
+      "name": "Празднование MOIW 2025"
     },
     {
       "id": "all-live-02",
-      "name": "Празднование 2-го периода выборочного экзамена H.I.F"
+      "name": "Празднование Экзамена от H.I.F. во 2-м периоде"
+    },
+    {
+      "id": "all-live-03",
+      "name": "IWSF2026 -YAKUDOU-"
+    },
+    {
+      "id": "all-live-04",
+      "name": "IWSF2026 -ZESSYOU-"
+    },
+    {
+      "id": "all-live-05",
+      "name": "IWSF2026 -KYOUMEI-"
     },
     {
       "id": "amao-001",
-      "name": "Мастер-достижение Мао"
+      "name": "Мастер достижений Мао"
     },
     {
       "id": "amao-birthday-01",
-      "name": "Сладкая магия"
+      "name": "Sweet Magic"
     },
     {
       "id": "amao-birthday-02",
-      "name": "День рождения Мао Аримуры 2025"
+      "name": "День рождения Mao Arimura 2025"
     },
     {
       "id": "atbm-001",
-      "name": "Мастер-достижение Цубамэ"
+      "name": "Мастерское достижение Tsubame"
     },
     {
       "id": "atbm-birthday-01",
-      "name": "Tsubame Amaya: День рождения 2026"
+      "name": "День рождения Tsubame Amaya 2026"
     },
     {
       "id": "common-aprilfool2026-001",
-      "name": "Сцена мечты 1 апреля"
+      "name": "Этап мечты в 1 апреля"
     },
     {
       "id": "common-frame-001",
-      "name": "Начальная рамка 1"
+      "name": "Начальный кадр 1"
     },
     {
       "id": "common-frame-002",
-      "name": "Начальная рамка 2"
+      "name": "Начальный кадр 2"
     },
     {
       "id": "common-frame-003",
-      "name": "Начальная рамка 3"
+      "name": "Начальный кадр 3"
     },
     {
       "id": "common-frame-004",
-      "name": "Начальная рамка 4"
+      "name": "Начальный кадр 4"
     },
     {
       "id": "common-frame-005",
-      "name": "Начальная рамка 5"
+      "name": "Начальный кадр 5"
     },
     {
       "id": "common-frame-006",
-      "name": "Начальная рамка 6"
+      "name": "Начальный кадр 6"
     },
     {
       "id": "common-frame-007",
-      "name": "Начальная рамка 7"
+      "name": "Начальный кадр 7"
     },
     {
       "id": "common-frame-008",
-      "name": "Начальная рамка 8"
+      "name": "Начальный кадр 8"
     },
     {
       "id": "common-frame-009",
-      "name": "Начальная рамка 9"
+      "name": "Начальный кадр 9"
     },
     {
       "id": "common-frame-010",
-      "name": "Начальная рамка 10"
+      "name": "Начальный кадр 10"
     },
     {
       "id": "common-frame-valentine-001",
-      "name": "[Тебе нравятся... мои сладости?]②"
+      "name": "«Тебе нравятся... мои сладости?»②"
     },
     {
       "id": "common-frame-valentine-002",
-      "name": "[Тебе нравятся... мои сладости?]①"
+      "name": "«Тебе нравятся... мои сладости?»①"
     },
     {
       "id": "event-story-001",
@@ -95,87 +107,87 @@
     },
     {
       "id": "event-story-005",
-      "name": "Айдолы студсовета"
+      "name": "Айдолы 학생ского совета"
     },
     {
       "id": "event-story-006",
-      "name": "Онсэн Хацубоси"
+      "name": "Онсэн Хацубоши"
     },
     {
       "id": "event-story-013",
-      "name": "Экскурсия класса 3-1"
+      "name": "Полевой выезд 3-1 класса"
     },
     {
       "id": "event-story-014",
-      "name": "Спортивный фестиваль Хацубоси"
+      "name": "Спортивный фестиваль Hatsuboshi"
     },
     {
       "id": "event-story-016",
-      "name": "Лучшие подруги? Повседневность трио"
+      "name": "Лучшие друзья? Ежедневные приключения трио"
     },
     {
       "id": "event-story-017",
-      "name": "Повседневность класса 3-1"
+      "name": "Будни класса 3-1"
     },
     {
       "id": "event-story-020",
-      "name": "Повседневность Лильи и Сумики"
+      "name": "Будни Lilja и Sumika"
     },
     {
       "id": "event-story-021",
-      "name": "Повседневность Сены и Цубамэ"
+      "name": "Повседневная жизнь Сены и Цубаме"
     },
     {
       "id": "event-story-022",
-      "name": "Повседневность Котоны и Мао"
+      "name": "Повседневная жизнь Kotone и Mao"
     },
     {
       "id": "event-story-023",
-      "name": "Повседневность Темари и Хиро"
+      "name": "Повседневная жизнь Temari и Hiro"
     },
     {
       "id": "event-story-024",
-      "name": "Повседневность членов студсовета 1 курса"
+      "name": "Будни членов студенческого совета 1-го года"
     },
     {
       "id": "first-live-01",
-      "name": "Первое выступление Voice"
+      "name": "Первое живое выступление"
     },
     {
       "id": "first-live-02",
-      "name": "Первое выступление Spirit"
+      "name": "Первое выступление Духа"
     },
     {
       "id": "first-live-03",
-      "name": "Первое выступление Love"
+      "name": "Первое выступление в прямом эфире"
     },
     {
       "id": "first-live-05",
-      "name": "Звезда Spotlight 1 периода"
+      "name": "Звезда первого периода"
     },
     {
       "id": "first-live-06",
-      "name": "Звезда Harmony 1 периода"
+      "name": "Первая Звезда Гармонии"
     },
     {
       "id": "first-live-07",
-      "name": "1 период"
+      "name": "1-й период"
     },
     {
       "id": "fktn-001",
-      "name": "Мастер-достижение Котоне"
+      "name": "Мастерское достижение Kotone"
     },
     {
       "id": "fktn-birthday-01",
-      "name": "Самая милая!!!"
+      "name": "The Cute!!!"
     },
     {
       "id": "fktn-birthday-02",
-      "name": "День рождения Котоны Фудзиты 2026"
+      "name": "День рождения Kotone Fujita 2026"
     },
     {
       "id": "hmsz-001",
-      "name": "Мастер-достижение Мисудзу"
+      "name": "Мастер Достижений Мисузу"
     },
     {
       "id": "hmsz-birthday-01",
@@ -183,659 +195,671 @@
     },
     {
       "id": "hmsz-birthday-02",
-      "name": "День рождения Мисудзу Хатая 2026"
+      "name": "День рождения Misuzu Hataya 2026"
     },
     {
       "id": "hrnm-001",
-      "name": "Мастер-достижение Ринами"
+      "name": "Мастер Достижений Rinami"
     },
     {
       "id": "hrnm-birthday-01",
-      "name": "marble heart"
+      "name": "Marble heart"
     },
     {
       "id": "hrnm-birthday-02",
-      "name": "День рождения Ринами Химэсаки 2026"
+      "name": "День рождения Rinami Himesaki 2026"
     },
     {
       "id": "hski-001",
-      "name": "Мастер-достижение Саки"
+      "name": "Мастер Достижения Saki"
     },
     {
       "id": "hski-birthday-01",
-      "name": "Попробуй сейчас"
+      "name": "Попробуйте сейчас"
     },
     {
       "id": "hski-birthday-02",
-      "name": "День рождения Саки Ханами 2026"
+      "name": "День рождения Saki Hanami 2026"
     },
     {
       "id": "hume-001",
-      "name": "Мастер-достижение Умэ"
+      "name": "Главное достижение Ume"
     },
     {
       "id": "hume-birthday-01",
-      "name": "Tsuyotsuyo Saikyou Exercise "
+      "name": "Tsuyotsuyo Saikyou Exercise"
     },
     {
       "id": "hume-birthday-02",
-      "name": "День рождения Умэ Ханами 2026"
+      "name": "День рождения Ume Hanami 2026"
     },
     {
       "id": "jsna-001",
-      "name": "Мастер-достижение Сены"
+      "name": "Мастер Достижений Sena"
     },
     {
       "id": "jsna-birthday-01",
-      "name": "Косметика"
+      "name": "Cosmetic"
     },
     {
       "id": "jsna-birthday-02",
-      "name": "День рождения Сены Дзюо 2025"
+      "name": "День рождения Sena Juo 2025"
     },
     {
       "id": "kcna-001",
-      "name": "Мастер-достижение Чины"
+      "name": "Главное Достижение Китая"
     },
     {
       "id": "kcna-birthday-01",
-      "name": "Полна восхищения"
+      "name": "Полный восхищения"
     },
     {
       "id": "kcna-birthday-02",
-      "name": "День рождения Чины Курамото 2025"
+      "name": "День рождения China Kuramoto 2025"
+    },
+    {
+      "id": "kcna-birthday-03",
+      "name": "День рождения China Kuramoto 2026"
     },
     {
       "id": "kllj-001",
-      "name": "Мастер-достижение Лильи"
+      "name": "Мастерское достижение Лилья"
     },
     {
       "id": "kllj-birthday-01",
-      "name": "Проснись!!"
+      "name": "Wake up!!"
     },
     {
       "id": "kllj-birthday-02",
-      "name": "День рождения Лильи Кацураги 2025"
+      "name": "День рождения Lilja Katsuragi 2025"
+    },
+    {
+      "id": "kllj-birthday-03",
+      "name": "День рождения Lilja Katsuragi 2026"
     },
     {
       "id": "master-ranking-01-amao-01",
-      "name": "N.I.A мастер-рейтинг Мао Аримуры Золото+"
+      "name": "Золотой ранг Mao Arimura в рейтинге N.I.A Master"
     },
     {
       "id": "master-ranking-01-amao-02",
-      "name": "N.I.A мастер-рейтинг Мао Аримуры Золото"
+      "name": "Золото Mao Arimura в рейтинге N.I.A Master"
     },
     {
       "id": "master-ranking-01-amao-03",
-      "name": "N.I.A мастер-рейтинг Мао Аримуры Серебро"
+      "name": "N.I.A Мастер-рейтинг Mao Arimura Серебро"
     },
     {
       "id": "master-ranking-01-amao-04",
-      "name": "N.I.A мастер-рейтинг Мао Аримуры Бронза"
+      "name": "N.I.A Master Ranking Mao Arimura Бронза"
     },
     {
       "id": "master-ranking-01-fktn-01",
-      "name": "N.I.A мастер-рейтинг Котоны Фудзиты Золото+"
+      "name": "NEXT IDOL AUDITION Мастер-рейтинг Kotone Fujita Gold+"
     },
     {
       "id": "master-ranking-01-fktn-02",
-      "name": "N.I.A мастер-рейтинг Котоны Фудзиты Золото"
+      "name": "NEXT IDOL AUDITION Мастер-рейтинг Kotone Fujita Gold"
     },
     {
       "id": "master-ranking-01-fktn-03",
-      "name": "N.I.A мастер-рейтинг Котоны Фудзиты Серебро"
+      "name": "N.I.A Мастер-рейтинг Kotone Fujita Серебро"
     },
     {
       "id": "master-ranking-01-fktn-04",
-      "name": "N.I.A мастер-рейтинг Котоны Фудзиты Бронза"
+      "name": "N.I.A Ранг мастеров Kotone Fujita Бронза"
     },
     {
       "id": "master-ranking-01-hrnm-01",
-      "name": "N.I.A мастер-рейтинг Ринами Химэсаки Золото+"
+      "name": "NEXT IDOL AUDITION Мастер-рейтинг Rinami Himesaki Gold+"
     },
     {
       "id": "master-ranking-01-hrnm-02",
-      "name": "N.I.A мастер-рейтинг Ринами Химэсаки Золото"
+      "name": "Золотой рейтинг N.I.A Rinami Himesaki"
     },
     {
       "id": "master-ranking-01-hrnm-03",
-      "name": "N.I.A мастер-рейтинг Ринами Химэсаки Серебро"
+      "name": "Рейтинг мастеров N.I.A Rinami Himesaki Silver"
     },
     {
       "id": "master-ranking-01-hrnm-04",
-      "name": "N.I.A мастер-рейтинг Ринами Химэсаки Бронза"
+      "name": "Ранг мастеров N.I.A: Rinami Himesaki — Бронза"
     },
     {
       "id": "master-ranking-01-hski-01",
-      "name": "N.I.A мастер-рейтинг Саки Ханами Золото+"
+      "name": "NEXT IDOL AUDITION Мастер-рейтинг Saki Hanami Gold+"
     },
     {
       "id": "master-ranking-01-hski-02",
-      "name": "N.I.A мастер-рейтинг Саки Ханами Золото"
+      "name": "NEXT IDOL AUDITION Мастер-рейтинг Saki Hanami Gold"
     },
     {
       "id": "master-ranking-01-hski-03",
-      "name": "N.I.A мастер-рейтинг Саки Ханами Серебро"
+      "name": "N.I.A Master Ranking Saki Hanami Silver"
     },
     {
       "id": "master-ranking-01-hski-04",
-      "name": "N.I.A мастер-рейтинг Саки Ханами Бронза"
+      "name": "Ранг N.I.A Master: Saki Hanami — Бронза"
     },
     {
       "id": "master-ranking-01-hume-01",
-      "name": "N.I.A мастер-рейтинг Умэ Ханами Золото+"
+      "name": "Золотой рейтинг N.I.A Мастера Ume Hanami"
     },
     {
       "id": "master-ranking-01-hume-02",
-      "name": "N.I.A мастер-рейтинг Умэ Ханами Золото"
+      "name": "Золотой рейтинг N.I.A мастера Ume Hanami"
     },
     {
       "id": "master-ranking-01-hume-03",
-      "name": "N.I.A мастер-рейтинг Умэ Ханами Серебро"
+      "name": "Серебро N.I.A Master Ranking Ume Hanami"
     },
     {
       "id": "master-ranking-01-hume-04",
-      "name": "N.I.A мастер-рейтинг Умэ Ханами Бронза"
+      "name": "Бронза Умэ Ханами в рейтинге мастеров N.I.A"
     },
     {
       "id": "master-ranking-01-jsna-01",
-      "name": "N.I.A мастер-рейтинг Сены Дзюо Золото+"
+      "name": "Золотой рейтинг N.I.A Мастер Sena Juo"
     },
     {
       "id": "master-ranking-01-jsna-02",
-      "name": "N.I.A мастер-рейтинг Сены Дзюо Золото"
+      "name": "Золотой рейтинг N.I.A Master Sena Juo"
     },
     {
       "id": "master-ranking-01-jsna-03",
-      "name": "N.I.A мастер-рейтинг Сены Дзюо Серебро"
+      "name": "N.I.A Master Ranking Sena Juo Silver"
     },
     {
       "id": "master-ranking-01-jsna-04",
-      "name": "N.I.A мастер-рейтинг Сены Дзюо Бронза"
+      "name": "N.I.A. Мастер-Рейтинг Sena Juo Бронза"
     },
     {
       "id": "master-ranking-01-kcna-01",
-      "name": "N.I.A мастер-рейтинг Чины Курамото Золото+"
+      "name": "Ранг мастеров N.I.A China Kuramoto Gold+"
     },
     {
       "id": "master-ranking-01-kcna-02",
-      "name": "N.I.A мастер-рейтинг Чины Курамото Золото"
+      "name": "N.I.A Master Ranking China Kuramoto Gold"
     },
     {
       "id": "master-ranking-01-kcna-03",
-      "name": "N.I.A мастер-рейтинг Чины Курамото Серебро"
+      "name": "N.I.A Мастер-рейтинг China Kuramoto Серебро"
     },
     {
       "id": "master-ranking-01-kcna-04",
-      "name": "N.I.A мастер-рейтинг Чины Курамото Бронза"
+      "name": "Ранг мастеров N.I.A China Kuramoto Бронза"
     },
     {
       "id": "master-ranking-01-kllj-01",
-      "name": "N.I.A мастер-рейтинг Лильи Кацураги Золото+"
+      "name": "Рейтинг N.I.A Master Lilja Katsuragi Gold+"
     },
     {
       "id": "master-ranking-01-kllj-02",
-      "name": "N.I.A мастер-рейтинг Лильи Кацураги Золото"
+      "name": "N.I.A Мастер-рейтинг Lilja Katsuragi Gold"
     },
     {
       "id": "master-ranking-01-kllj-03",
-      "name": "N.I.A мастер-рейтинг Лильи Кацураги Серебро"
+      "name": "Ранг мастеров N.I.A. Lilja Katsuragi Серебро"
     },
     {
       "id": "master-ranking-01-kllj-04",
-      "name": "N.I.A мастер-рейтинг Лильи Кацураги Бронза"
+      "name": "N.I.A Мастер-рейтинг Lilja Katsuragi Бронза"
     },
     {
       "id": "master-ranking-01-shro-01",
-      "name": "N.I.A мастер-рейтинг Хиро Шиносавы Золото+"
+      "name": "Рейтинг N.I.A Master Hiro Shinosawa Gold+"
     },
     {
       "id": "master-ranking-01-shro-02",
-      "name": "N.I.A мастер-рейтинг Хиро Шиносавы Золото"
+      "name": "N.I.A Мастер-рейтинг Hiro Shinosawa Gold"
     },
     {
       "id": "master-ranking-01-shro-03",
-      "name": "N.I.A мастер-рейтинг Хиро Шиносавы Серебро"
+      "name": "N.I.A Мастер-рейтинг Hiro Shinosawa Silver"
     },
     {
       "id": "master-ranking-01-shro-04",
-      "name": "N.I.A мастер-рейтинг Хиро Шиносавы Бронза"
+      "name": "Ранг N.I.A Master: Hiro Shinosawa Бронза"
     },
     {
       "id": "master-ranking-01-ssmk-01",
-      "name": "N.I.A мастер-рейтинг Сумики Шиун Золото+"
+      "name": "Рейтинг мастеров N.I.A Sumika Shiun Gold+"
     },
     {
       "id": "master-ranking-01-ssmk-02",
-      "name": "N.I.A мастер-рейтинг Сумики Шиун Золото"
+      "name": "NEXT IDOL AUDITION Мастер-рейтинг Sumika Shiun Gold"
     },
     {
       "id": "master-ranking-01-ssmk-03",
-      "name": "N.I.A мастер-рейтинг Сумики Шиун Серебро"
+      "name": "N.I.A Мастер-рейтинг Sumika Shiun Silver"
     },
     {
       "id": "master-ranking-01-ssmk-04",
-      "name": "N.I.A мастер-рейтинг Сумики Шиун Бронза"
+      "name": "N.I.A Master Ranking Sumika Shiun Бронза"
     },
     {
       "id": "master-ranking-01-ttmr-01",
-      "name": "N.I.A мастер-рейтинг Темари Цукимуры Золото+"
+      "name": "NEXT IDOL AUDITION Мастер-рейтинг Temari Tsukimura Gold+"
     },
     {
       "id": "master-ranking-01-ttmr-02",
-      "name": "N.I.A мастер-рейтинг Темари Цукимуры Золото"
+      "name": "Золотой рейтинг NEXT IDOL AUDITION Temari Tsukimura"
     },
     {
       "id": "master-ranking-01-ttmr-03",
-      "name": "N.I.A мастер-рейтинг Темари Цукимуры Серебро"
+      "name": "N.I.A Мастер-рейтинг Temari Tsukimura Silver"
     },
     {
       "id": "master-ranking-01-ttmr-04",
-      "name": "N.I.A мастер-рейтинг Темари Цукимуры Бронза"
+      "name": "Бронза в рейтинге мастеров N.I.A Temari Tsukimura"
     },
     {
       "id": "master-ranking-02-amao-01",
-      "name": "2-й N.I.A мастер-рейтинг Мао Аримуры Золото+"
+      "name": "2-й Ранг мастера N.I.A Mao Arimura Gold+"
     },
     {
       "id": "master-ranking-02-amao-02",
-      "name": "2-й N.I.A мастер-рейтинг Мао Аримуры Золото"
+      "name": "2-е место в рейтинге N.I.A Master Mao Arimura Gold"
     },
     {
       "id": "master-ranking-02-amao-03",
-      "name": "2-й N.I.A мастер-рейтинг Мао Аримуры Серебро"
+      "name": "2-е место в Рейтинге N.I.A Master, Mao Arimura Silver"
     },
     {
       "id": "master-ranking-02-amao-04",
-      "name": "2-й N.I.A мастер-рейтинг Мао Аримуры Бронза"
+      "name": "2-е место в рейтинге мастеров N.I.A, Mao Arimura, Бронза"
     },
     {
       "id": "master-ranking-02-fktn-01",
-      "name": "2-й N.I.A мастер-рейтинг Котоны Фудзиты Золото+"
+      "name": "2-й Ранг мастеров N.I.A Kotone Fujita Gold+"
     },
     {
       "id": "master-ranking-02-fktn-02",
-      "name": "2-й N.I.A мастер-рейтинг Котоны Фудзиты Золото"
+      "name": "2-й Ранг мастеров N.I.A: Kotone Fujita Gold"
     },
     {
       "id": "master-ranking-02-fktn-03",
-      "name": "2-й N.I.A мастер-рейтинг Котоны Фудзиты Серебро"
+      "name": "2-й Рейтинг мастеров N.I.A: Kotone Fujita Silver"
     },
     {
       "id": "master-ranking-02-fktn-04",
-      "name": "2-й N.I.A мастер-рейтинг Котоны Фудзиты Бронза"
+      "name": "2-й Ранг Мастеров N.I.A Kotone Fujita Бронза"
     },
     {
       "id": "master-ranking-02-hmsz-01",
-      "name": "2-й N.I.A мастер-рейтинг Мисудзу Хатая Золото+"
+      "name": "2-й NEXT IDOL AUDITION Мастер-рейтинг Misuzu Hataya Gold+"
     },
     {
       "id": "master-ranking-02-hmsz-02",
-      "name": "2-й N.I.A мастер-рейтинг Мисудзу Хатая Золото"
+      "name": "2-й Ранг Мастеров N.I.A Misuzu Hataya Gold"
     },
     {
       "id": "master-ranking-02-hmsz-03",
-      "name": "2-й N.I.A мастер-рейтинг Мисудзу Хатая Серебро"
+      "name": "2-й Рейтинг мастеров N.I.A Misuzu Hataya Silver"
     },
     {
       "id": "master-ranking-02-hmsz-04",
-      "name": "2-й N.I.A мастер-рейтинг Мисудзу Хатая Бронза"
+      "name": "2-й Рейтинг мастеров N.I.A Misuzu Hataya Бронза"
     },
     {
       "id": "master-ranking-02-hrnm-01",
-      "name": "2-й N.I.A мастер-рейтинг Ринами Химэсаки Золото+"
+      "name": "2-й золотой рейтинг N.I.A мастера Rinami Himesaki Gold+"
     },
     {
       "id": "master-ranking-02-hrnm-02",
-      "name": "2-й N.I.A мастер-рейтинг Ринами Химэсаки Золото"
+      "name": "2-й Ранг Мастера N.I.A Rinami Himesaki Gold"
     },
     {
       "id": "master-ranking-02-hrnm-03",
-      "name": "2-й N.I.A мастер-рейтинг Ринами Химэсаки Серебро"
+      "name": "2-е место в рейтинге мастеров N.I.A — Rinami Himesaki Silver"
     },
     {
       "id": "master-ranking-02-hrnm-04",
-      "name": "2-й N.I.A мастер-рейтинг Ринами Химэсаки Бронза"
+      "name": "2-й Ранг мастеров N.I.A Rinami Himesaki Бронза"
     },
     {
       "id": "master-ranking-02-hski-01",
-      "name": "2-й N.I.A мастер-рейтинг Саки Ханами Золото+"
+      "name": "2-й N.I.A Master Ranking Saki Hanami Gold+"
     },
     {
       "id": "master-ranking-02-hski-02",
-      "name": "2-й N.I.A мастер-рейтинг Саки Ханами Золото"
+      "name": "Золото 2-го Рейтинга Мастеров N.I.A Saki Hanami"
     },
     {
       "id": "master-ranking-02-hski-03",
-      "name": "2-й N.I.A мастер-рейтинг Саки Ханами Серебро"
+      "name": "2-й Ранг Мастеров N.I.A Saki Hanami Серебро"
     },
     {
       "id": "master-ranking-02-hski-04",
-      "name": "2-й N.I.A мастер-рейтинг Саки Ханами Бронза"
+      "name": "Бронза 2-го Рейтинга Мастеров N.I.A Saki Hanami"
     },
     {
       "id": "master-ranking-02-hume-01",
-      "name": "2-й N.I.A мастер-рейтинг Умэ Ханами Золото+"
+      "name": "2-й Ранг мастеров N.I.A: Ume Hanami Gold+"
     },
     {
       "id": "master-ranking-02-hume-02",
-      "name": "2-й N.I.A мастер-рейтинг Умэ Ханами Золото"
+      "name": "2-й золотой рейтинг N.I.A мастеров Ume Hanami"
     },
     {
       "id": "master-ranking-02-hume-03",
-      "name": "2-й N.I.A мастер-рейтинг Умэ Ханами Серебро"
+      "name": "2-й Ранг Мастеров N.I.A: Ume Hanami Silver"
     },
     {
       "id": "master-ranking-02-hume-04",
-      "name": "2-й N.I.A мастер-рейтинг Умэ Ханами Бронза"
+      "name": "Бронза 2-го Рейтинга Мастеров N.I.A Ume Hanami"
     },
     {
       "id": "master-ranking-02-jsna-01",
-      "name": "2-й N.I.A мастер-рейтинг Сены Дзюо Золото+"
+      "name": "2-й Gold+ Ранг мастеров N.I.A Sena Juo"
     },
     {
       "id": "master-ranking-02-jsna-02",
-      "name": "2-й N.I.A мастер-рейтинг Сены Дзюо Золото"
+      "name": "2-й золотой ранг мастера N.I.A Sena Juo"
     },
     {
       "id": "master-ranking-02-jsna-03",
-      "name": "2-й N.I.A мастер-рейтинг Сены Дзюо Серебро"
+      "name": "2-е место в рейтинге мастеров N.I.A: Sena Juo Silver"
     },
     {
       "id": "master-ranking-02-jsna-04",
-      "name": "2-й N.I.A мастер-рейтинг Сены Дзюо Бронза"
+      "name": "Бронза 2-го Рейтинга Мастеров N.I.A Sena Juo"
     },
     {
       "id": "master-ranking-02-kcna-01",
-      "name": "2-й N.I.A мастер-рейтинг Чины Курамото Золото+"
+      "name": "2-й N.I.A Master Ranking China Kuramoto Gold+"
     },
     {
       "id": "master-ranking-02-kcna-02",
-      "name": "2-й N.I.A мастер-рейтинг Чины Курамото Золото"
+      "name": "2-й N.I.A Master Ranking China Kuramoto Gold"
     },
     {
       "id": "master-ranking-02-kcna-03",
-      "name": "2-й N.I.A мастер-рейтинг Чины Курамото Серебро"
+      "name": "2-й N.I.A Master Ranking China Kuramoto Silver"
     },
     {
       "id": "master-ranking-02-kcna-04",
-      "name": "2-й N.I.A мастер-рейтинг Чины Курамото Бронза"
+      "name": "2-й Ранг N.I.A Master Ranking China Kuramoto Бронза"
     },
     {
       "id": "master-ranking-02-kllj-01",
-      "name": "2-й N.I.A мастер-рейтинг Лильи Кацураги Золото+"
+      "name": "2-й N.I.A Master Ranking Lilja Katsuragi Gold+"
     },
     {
       "id": "master-ranking-02-kllj-02",
-      "name": "2-й N.I.A мастер-рейтинг Лильи Кацураги Золото"
+      "name": "2-е место в рейтинге N.I.A Master Lilja Katsuragi Gold"
     },
     {
       "id": "master-ranking-02-kllj-03",
-      "name": "2-й N.I.A мастер-рейтинг Лильи Кацураги Серебро"
+      "name": "2-е место в рейтинге N.I.A Master: Lilja Katsuragi Silver"
     },
     {
       "id": "master-ranking-02-kllj-04",
-      "name": "2-й N.I.A мастер-рейтинг Лильи Кацураги Бронза"
+      "name": "2-й Ранг Мастера N.I.A Lilja Katsuragi Бронза"
     },
     {
       "id": "master-ranking-02-shro-01",
-      "name": "2-й N.I.A мастер-рейтинг Хиро Шиносавы Золото+"
+      "name": "2-й Ранг мастера N.I.A Hiro Shinosawa Gold+"
     },
     {
       "id": "master-ranking-02-shro-02",
-      "name": "2-й N.I.A мастер-рейтинг Хиро Шиносавы Золото"
+      "name": "2-й Ранг мастера N.I.A Hiro Shinosawa Gold"
     },
     {
       "id": "master-ranking-02-shro-03",
-      "name": "2-й N.I.A мастер-рейтинг Хиро Шиносавы Серебро"
+      "name": "2-е место в рейтинге N.I.A Master: Hiro Shinosawa Silver"
     },
     {
       "id": "master-ranking-02-shro-04",
-      "name": "2-й N.I.A мастер-рейтинг Хиро Шиносавы Бронза"
+      "name": "2-е место в рейтинге N.I.A Master Hiro Shinosawa Бронза"
     },
     {
       "id": "master-ranking-02-ssmk-01",
-      "name": "2-й N.I.A мастер-рейтинг Сумики Шиун Золото+"
+      "name": "2-й N.I.A Master Ranking Sumika Shiun Gold+"
     },
     {
       "id": "master-ranking-02-ssmk-02",
-      "name": "2-й N.I.A мастер-рейтинг Сумики Шиун Золото"
+      "name": "2-й NEXT IDOL AUDITION Мастер-Рейтинг Sumika Shiun Gold"
     },
     {
       "id": "master-ranking-02-ssmk-03",
-      "name": "2-й N.I.A мастер-рейтинг Сумики Шиун Серебро"
+      "name": "2-е место в рейтинге мастеров N.I.A Sumika Shiun Silver"
     },
     {
       "id": "master-ranking-02-ssmk-04",
-      "name": "2-й N.I.A мастер-рейтинг Сумики Шиун Бронза"
+      "name": "2-й Ранг мастера N.I.A Sumika Shiun Бронза"
     },
     {
       "id": "master-ranking-02-ttmr-01",
-      "name": "2-й N.I.A мастер-рейтинг Темари Цукимуры Золото+"
+      "name": "2-е место в рейтинге мастеров N.I.A Temari Tsukimura Gold+"
     },
     {
       "id": "master-ranking-02-ttmr-02",
-      "name": "2-й N.I.A мастер-рейтинг Темари Цукимуры Золото"
+      "name": "2-е место в рейтинге N.I.A Master Temari Tsukimura Gold"
     },
     {
       "id": "master-ranking-02-ttmr-03",
-      "name": "2-й N.I.A мастер-рейтинг Темари Цукимуры Серебро"
+      "name": "2-е место в рейтинге N.I.A Master Temari Tsukimura Silver"
     },
     {
       "id": "master-ranking-02-ttmr-04",
-      "name": "2-й N.I.A мастер-рейтинг Темари Цукимуры Бронза"
+      "name": "Бронза 2-го Рейтинга мастеров NEXT IDOL AUDITION Temari Tsukimura"
     },
     {
       "id": "master-ranking-03-amao-01",
-      "name": "3-й N.I.A мастер-рейтинг Мао Аримуры Золото+"
+      "name": "3-е место в рейтинге N.I.A Master: Mao Arimura Gold+"
     },
     {
       "id": "master-ranking-03-amao-02",
-      "name": "3-й N.I.A мастер-рейтинг Мао Аримуры Золото"
+      "name": "3-е место в РЕЙТИНГЕ N.I.A Master, Mao Arimura Gold"
     },
     {
       "id": "master-ranking-03-amao-03",
-      "name": "3-й N.I.A мастер-рейтинг Мао Аримуры Серебро"
+      "name": "3-е место в Рейтинге N.I.A Master: Mao Arimura Silver"
     },
     {
       "id": "master-ranking-03-amao-04",
-      "name": "3-й N.I.A мастер-рейтинг Мао Аримуры Бронза"
+      "name": "3-е место в Рейтинге N.I.A Master, Mao Arimura, Бронза"
     },
     {
       "id": "master-ranking-03-fktn-01",
-      "name": "3-й N.I.A мастер-рейтинг Котоны Фудзиты Золото"
+      "name": "3-й золотой рейтинг N.I.A Мастера Kotone Fujita"
     },
     {
       "id": "master-ranking-03-fktn-02",
-      "name": "3-й N.I.A мастер-рейтинг Котоны Фудзиты Золото+"
+      "name": "3-й рейтинг NEXT IDOL AUDITION Kotone Fujita Gold+"
     },
     {
       "id": "master-ranking-03-fktn-03",
-      "name": "3-й N.I.A мастер-рейтинг Котоны Фудзиты Серебро"
+      "name": "3-е место в рейтинге N.I.A Master: Kotone Fujita Silver"
     },
     {
       "id": "master-ranking-03-fktn-04",
-      "name": "3-й N.I.A мастер-рейтинг Котоны Фудзиты Бронза"
+      "name": "3-й Рейтинг NEXT IDOL AUDITION: Kotone Fujita Бронза"
     },
     {
       "id": "master-ranking-03-hmsz-01",
-      "name": "3-й N.I.A мастер-рейтинг Мисудзу Хатая Золото"
+      "name": "3-й Рейтинг N.I.A Мастеров Misuzu Hataya Gold"
     },
     {
       "id": "master-ranking-03-hmsz-02",
-      "name": "3-й N.I.A мастер-рейтинг Мисудзу Хатая Золото+"
+      "name": "3-й Ранг N.I.A Master Misuzu Hataya Gold+"
     },
     {
       "id": "master-ranking-03-hmsz-03",
-      "name": "3-й N.I.A мастер-рейтинг Мисудзу Хатая Серебро"
+      "name": "3-й Ранг Мастеров N.I.A Misuzu Hataya Silver"
     },
     {
       "id": "master-ranking-03-hmsz-04",
-      "name": "3-й N.I.A мастер-рейтинг Мисудзу Хатая Бронза"
+      "name": "3-й РЕЙТИНГ N.I.A Master Misuzu Hataya Бронза"
     },
     {
       "id": "master-ranking-03-hrnm-01",
-      "name": "3-й N.I.A мастер-рейтинг Ринами Химэсаки Золото+"
+      "name": "3-й мастер-рейтинг N.I.A Rinami Himesaki Gold+"
     },
     {
       "id": "master-ranking-03-hrnm-02",
-      "name": "3-й N.I.A мастер-рейтинг Ринами Химэсаки Золото"
+      "name": "3-й золотой рейтинг N.I.A мастера Rinami Himesaki"
     },
     {
       "id": "master-ranking-03-hrnm-03",
-      "name": "3-й N.I.A мастер-рейтинг Ринами Химэсаки Серебро"
+      "name": "3-й мастер-рейтинг N.I.A Rinami Himesaki Silver"
     },
     {
       "id": "master-ranking-03-hrnm-04",
-      "name": "3-й N.I.A мастер-рейтинг Ринами Химэсаки Бронза"
+      "name": "3-й Ранг Мастера N.I.A: Rinami Himesaki Бронза"
     },
     {
       "id": "master-ranking-03-hski-01",
-      "name": "3-й N.I.A мастер-рейтинг Саки Ханами Золото+"
+      "name": "3-й Gold+ рейтинг N.I.A Master Saki Hanami"
     },
     {
       "id": "master-ranking-03-hski-02",
-      "name": "3-й N.I.A мастер-рейтинг Саки Ханами Золото"
+      "name": "3-й золотой рейтинг N.I.A мастера Saki Hanami"
     },
     {
       "id": "master-ranking-03-hski-03",
-      "name": "3-й N.I.A мастер-рейтинг Саки Ханами Серебро"
+      "name": "3-й Ранг Мастера N.I.A Saki Hanami Silver"
     },
     {
       "id": "master-ranking-03-hski-04",
-      "name": "3-й N.I.A мастер-рейтинг Саки Ханами Бронза"
+      "name": "3-й Ранг Мастера N.I.A Saki Hanami Бронза"
     },
     {
       "id": "master-ranking-03-hume-01",
-      "name": "3-й N.I.A мастер-рейтинг Умэ Ханами Золото+"
+      "name": "Золотой рейтинг мастеров 3-го N.I.A: Ume Hanami"
     },
     {
       "id": "master-ranking-03-hume-02",
-      "name": "3-й N.I.A мастер-рейтинг Умэ Ханами Золото"
+      "name": "3-й золотой рейтинг N.I.A мастеров Ume Hanami"
     },
     {
       "id": "master-ranking-03-hume-03",
-      "name": "3-й N.I.A мастер-рейтинг Умэ Ханами Серебро"
+      "name": "3-й Рейтинг Мастеров N.I.A: Ume Hanami Silver"
     },
     {
       "id": "master-ranking-03-hume-04",
-      "name": "3-й N.I.A мастер-рейтинг Умэ Ханами Бронза"
+      "name": "Бронза 3-го Рейтинга N.I.A Мастеров Ume Hanami"
     },
     {
       "id": "master-ranking-03-jsna-01",
-      "name": "3-й N.I.A мастер-рейтинг Сены Дзюо Золото+"
+      "name": "3-й Золотой Ранг Мастеров N.I.A Sena Juo"
     },
     {
       "id": "master-ranking-03-jsna-02",
-      "name": "3-й N.I.A мастер-рейтинг Сены Дзюо Золото"
+      "name": "3-й золотой рейтинг N.I.A мастера Sena Juo"
     },
     {
       "id": "master-ranking-03-jsna-03",
-      "name": "3-й N.I.A мастер-рейтинг Сены Дзюо Серебро"
+      "name": "3-е место в рейтинге N.I.A Master: Sena Juo Silver"
     },
     {
       "id": "master-ranking-03-jsna-04",
-      "name": "3-й N.I.A мастер-рейтинг Сены Дзюо Бронза"
+      "name": "3-й Бронзовый Ранг Мастера N.I.A Sena Juo"
     },
     {
       "id": "master-ranking-03-kcna-01",
-      "name": "3-й N.I.A мастер-рейтинг Чины Курамото Золото+"
+      "name": "3-й Ранг N.I.A Master Ranking China Kuramoto Gold+"
     },
     {
       "id": "master-ranking-03-kcna-02",
-      "name": "3-й N.I.A мастер-рейтинг Чины Курамото Золото"
+      "name": "3-й Ранг NEXT IDOL AUDITION China Kuramoto Gold"
     },
     {
       "id": "master-ranking-03-kcna-03",
-      "name": "3-й N.I.A мастер-рейтинг Чины Курамото Серебро"
+      "name": "3-й Ранг NEXT IDOL AUDITION China Kuramoto Silver"
     },
     {
       "id": "master-ranking-03-kcna-04",
-      "name": "3-й N.I.A мастер-рейтинг Чины Курамото Бронза"
+      "name": "3-й Ранг NEXT IDOL AUDITION China Kuramoto Бронза"
     },
     {
       "id": "master-ranking-03-kllj-01",
-      "name": "3-й N.I.A мастер-рейтинг Лильи Кацураги Золото+"
+      "name": "3-й Ранг мастера N.I.A Lilja Katsuragi Gold+"
     },
     {
       "id": "master-ranking-03-kllj-02",
-      "name": "3-й N.I.A мастер-рейтинг Лильи Кацураги Золото"
+      "name": "3-й золотой рейтинг N.I.A Master Lilja Katsuragi"
     },
     {
       "id": "master-ranking-03-kllj-03",
-      "name": "3-й N.I.A мастер-рейтинг Лильи Кацураги Серебро"
+      "name": "3-е место в рейтинге N.I.A Master: Lilja Katsuragi Silver"
     },
     {
       "id": "master-ranking-03-kllj-04",
-      "name": "3-й N.I.A мастер-рейтинг Лильи Кацураги Бронза"
+      "name": "3-й Ранг Мастеров N.I.A Lilja Katsuragi Бронза"
     },
     {
       "id": "master-ranking-03-shro-01",
-      "name": "3-й N.I.A мастер-рейтинг Хиро Шиносавы Золото+"
+      "name": "3-й рейтинг N.I.A Master Hiro Shinosawa Gold+"
     },
     {
       "id": "master-ranking-03-shro-02",
-      "name": "3-й N.I.A мастер-рейтинг Хиро Шиносавы Золото"
+      "name": "3-й золотой рейтинг N.I.A Master Hiro Shinosawa"
     },
     {
       "id": "master-ranking-03-shro-03",
-      "name": "3-й N.I.A мастер-рейтинг Хиро Шиносавы Серебро"
+      "name": "3-е место в Рейтинге мастеров N.I.A: Hiro Shinosawa Silver"
     },
     {
       "id": "master-ranking-03-shro-04",
-      "name": "3-й N.I.A мастер-рейтинг Хиро Шиносавы Бронза"
+      "name": "Бронза Hiro Shinosawa в 3-м рейтинге N.I.A Master"
     },
     {
       "id": "master-ranking-03-ssmk-01",
-      "name": "3-й N.I.A мастер-рейтинг Сумики Шиун Золото"
+      "name": "3-е место в рейтинге N.I.A Master: Sumika Shiun Gold"
     },
     {
       "id": "master-ranking-03-ssmk-02",
-      "name": "3-й N.I.A мастер-рейтинг Сумики Шиун Золото+"
+      "name": "3-й рейтинг N.I.A Master Sumika Shiun Gold+"
     },
     {
       "id": "master-ranking-03-ssmk-03",
-      "name": "3-й N.I.A мастер-рейтинг Сумики Шиун Серебро"
+      "name": "3-е место в рейтинге мастеров N.I.A: Sumika Shiun Silver"
     },
     {
       "id": "master-ranking-03-ssmk-04",
-      "name": "3-й N.I.A мастер-рейтинг Сумики Шиун Бронза"
+      "name": "3-й Н.И.А. Мастер-Рейтинг Sumika Shiun Бронза"
     },
     {
       "id": "master-ranking-03-ttmr-01",
-      "name": "3-й N.I.A мастер-рейтинг Темари Цукимуры Золото+"
+      "name": "3-й Золотой рейтинг N.I.A Master Temari Tsukimura"
     },
     {
       "id": "master-ranking-03-ttmr-02",
-      "name": "3-й N.I.A мастер-рейтинг Темари Цукимуры Золото"
+      "name": "3-е место в рейтинге мастеров N.I.A Temari Tsukimura Gold"
     },
     {
       "id": "master-ranking-03-ttmr-03",
-      "name": "3-й N.I.A мастер-рейтинг Темари Цукимуры Серебро"
+      "name": "3-е место в рейтинге мастеров N.I.A: Temari Tsukimura Silver"
     },
     {
       "id": "master-ranking-03-ttmr-04",
-      "name": "3-й N.I.A мастер-рейтинг Темари Цукимуры Бронза"
+      "name": "Бронза 3-го Рейтинга Мастеров N.I.A Temari Tsukimura"
     },
     {
       "id": "normal-001",
-      "name": "Фон визитки"
+      "name": "Визитка BG"
     },
     {
       "id": "normal-002",
-      "name": "Приятно познакомиться, академия Хацубоси"
+      "name": "Приятно познакомиться, Hatsuboshi Academy"
     },
     {
       "id": "panel-mission-001",
-      "name": "Закулисные фото айдолов"
+      "name": "ВЫКЛ-кадры айдолов"
     },
     {
       "id": "panel-mission-002",
-      "name": "Сцена приёма пищи одного дня"
+      "name": "Сцена с обедом из «Одного дня»"
     },
     {
       "id": "panel-mission-006-01",
-      "name": "Самая милая в мире?"
+      "name": "Самые милые в мире?"
+    },
+    {
+      "id": "panel-mission-007",
+      "name": "GO MY WAY!!"
     },
     {
       "id": "shibuya-ooh-001",
@@ -843,7 +867,7 @@
     },
     {
       "id": "shro-001",
-      "name": "Мастер-достижение Хиро"
+      "name": "Мастер Достижений Hiro"
     },
     {
       "id": "shro-birthday-01",
@@ -851,11 +875,11 @@
     },
     {
       "id": "shro-birthday-02",
-      "name": "День рождения Хиро Шиносавы 2025"
+      "name": "День рождения Хиро Синосавы 2025"
     },
     {
       "id": "ssmk-001",
-      "name": "Мастер-достижение Сумики"
+      "name": "Мастер достижений Sumika"
     },
     {
       "id": "ssmk-birthday-01",
@@ -863,307 +887,307 @@
     },
     {
       "id": "ssmk-birthday-02",
-      "name": "День рождения Сумики Шиун 2025"
+      "name": "День рождения Sumika Shiun 2025"
     },
     {
       "id": "story-bg-dormitory-amaoroom-00-night",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-dormitory-corridor-00-night",
-      "name": "Фон общения"
+      "name": "Фон общежития"
     },
     {
       "id": "story-bg-dormitory-corridor-00-noon",
-      "name": "Фон общения"
+      "name": "Фон общежития"
     },
     {
       "id": "story-bg-dormitory-fktnroom-00-night",
-      "name": "Фон общения"
+      "name": "Фон общежития"
     },
     {
       "id": "story-bg-dormitory-fktnroom-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-dormitory-gate-00-evening",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-dormitory-gate-00-night",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-dormitory-gate-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-dormitory-hskiroom-00-night",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-dormitory-hskiroom-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-dormitory-humeroom-00-noon",
-      "name": "Фон общения"
+      "name": "Фон общежития"
     },
     {
       "id": "story-bg-dormitory-kllj-ssmkroom-00-noon",
-      "name": "Фон общения"
+      "name": "Фон общежития"
     },
     {
       "id": "story-bg-dormitory-shroroom-00-noon",
-      "name": "Фон общения"
+      "name": "Фон общежития"
     },
     {
       "id": "story-bg-dormitory-ttmrroom-00-night",
-      "name": "Фон общения"
+      "name": "Фон общежития"
     },
     {
       "id": "story-bg-dormitory-ttmrroom-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-beachhouse-00-night",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-beachhouse-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-dream-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-livehouse-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-negative-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-outstage-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-positive-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-river-00-night",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-river-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-sea-00-evening",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-sea-00-night",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-sea-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-sky-00-night",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-sky-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-other-summerstage-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-aquarium-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-arcade-street-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-arcade-street-01-night",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-cafe-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-gamecenter-in-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-gamecenter-out-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-karaoke-in-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-kcnahouse-corridor-00-noon",
-      "name": "Фон общения"
+      "name": "Фон общежития"
     },
     {
       "id": "story-bg-outschool-kcnahouse-kcnaroom-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-kcnahouse-out-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-maidcafe-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-mall-entrance-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-mall-passage-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-proom-00-evening",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-proom-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-spa-resort-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-sports-facilities-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-station-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-summer-festival-00-night",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-themepark-gate-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-themepark-in-00-evening",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-themepark-in-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-themepark-outstage-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-themepark-picnicarea-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-townstreet-00-evening",
-      "name": "Фон общения"
+      "name": "Фон поселения"
     },
     {
       "id": "story-bg-outschool-townstreet-00-night",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-townstreet-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-outschool-train-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-school-cafeteria-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-school-councilroom-00-evening",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-school-councilroom-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-school-entrance-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-school-entrance-01-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-school-ground-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-school-nurseoffice-00-evening",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-school-nurseoffice-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-school-pclassroom-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-school-principal-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-school-store-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "story-bg-school-teachersroom-00-noon",
-      "name": "Фон общения"
+      "name": "Фон сообщества"
     },
     {
       "id": "summer-greeting",
-      "name": "Летнее приветствие от Кунио Дзюо"
+      "name": "Летнее приветствие от Kunio Juo"
     },
     {
       "id": "ttmr-001",
-      "name": "Мастер-достижение Темари"
+      "name": "Мастер Достижений Temari"
     },
     {
       "id": "ttmr-birthday-01",
-      "name": "Так много мечт впереди"
+      "name": "Столько мечтаний предстоит исполнить"
     },
     {
       "id": "ttmr-birthday-02",
-      "name": "Несчастливый свет"
+      "name": "Unhappy Light"
     },
     {
       "id": "ttmr-birthday-03",
-      "name": "Tsukimura Temari День Рождения Live Stream 2026"
+      "name": "Прямой эфир в честь дня рождения Temari Tsukimura 2026"
     }
   ]
 }

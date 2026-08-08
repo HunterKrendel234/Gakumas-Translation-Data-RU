@@ -92,7 +92,7 @@
       "texts": [
         "Clearing the lesson goals grants you rewards useful for production."
       ],
-      "title": "Основы уроков"
+      "title": "Основы урока"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -166,7 +166,7 @@
       "texts": [
         "Compete with other idols, and placing in the top 3 will mean passing the exam."
       ],
-      "title": "Основы экзаменов"
+      "title": "Основы Экзамена"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -270,7 +270,7 @@
       "texts": [
         "In exams, score bonuses are applied each turn. The higher the parameters, the greater the score bonuses."
       ],
-      "title": "Основы экзаменов"
+      "title": "Основы Экзамена"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -329,7 +329,7 @@
       "texts": [
         "The live shows you can participate in are determined by production results and idol growth."
       ],
-      "title": "О лайвах"
+      "title": "О Live"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -355,7 +355,7 @@
       "texts": [
         "The performance of the Memories depends on the evaluation of the production."
       ],
-      "title": "О воспоминаниях"
+      "title": "О Записях"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -392,7 +392,7 @@
       "texts": [
         "When your Producer Level increases, new skill cards and P-Drinks are unlocked, appearing during production."
       ],
-      "title": "Ур. продюсера"
+      "title": "Ур. Продюсера"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -559,7 +559,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for consumption instead."
+        "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for usage instead."
       ],
       "title": ""
     },
@@ -575,7 +575,7 @@
         "",
         "Using skill cards requires stamina. When Energy is available, it’s consumed instead of stamina."
       ],
-      "title": "Основы уроков"
+      "title": "Основы урока"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -756,7 +756,7 @@
         "You can check detailed information on active effects during lessons by tapping the icons. ",
         "P-items activate effects when conditions are met. Starting P-items depend on the produced idol."
       ],
-      "title": "Основы уроков"
+      "title": "Основы урока"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -960,7 +960,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for consumption instead."
+        "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for usage instead."
       ],
       "title": ""
     },
@@ -976,7 +976,7 @@
         "",
         "Using skill cards requires stamina. When Energy is available, it’s consumed instead of stamina."
       ],
-      "title": "Основы уроков"
+      "title": "Основы урока"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -1144,7 +1144,7 @@
         "You can check detailed information on active effects during lessons by tapping the icons. ",
         "P-items activate effects when conditions are met. Starting P-items depend on the produced idol."
       ],
-      "title": "Основы уроков"
+      "title": "Основы урока"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -1348,7 +1348,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Upper",
       "tutorialProduceCommandType": "TutorialProduceCommandType_StepLessonEnd",
       "texts": [
-        "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for consumption instead."
+        "{ExamEffectType.ExamBlock}Energy has increased! {ExamEffectType.ExamBlock}When stamina decreases, Energy is prioritized for usage instead."
       ],
       "title": ""
     },
@@ -1364,7 +1364,7 @@
         "",
         "Using skill cards requires stamina. When Energy is available, it’s consumed instead of stamina."
       ],
-      "title": "Основы уроков"
+      "title": "Основы урока"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -1532,7 +1532,7 @@
         "You can check detailed information on active effects during lessons by tapping the icons. ",
         "P-items activate effects when conditions are met. Starting P-items depend on the produced idol."
       ],
-      "title": "Основы уроков"
+      "title": "Основы урока"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -1990,6 +1990,17 @@
       "title": ""
     },
     {
+      "tutorialType": 32,
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "navigationType": "TutorialNavigationType_Tips",
+      "navigationPositionType": "TutorialNavigationPositionType_Unknown",
+      "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
+      "texts": [],
+      "title": ""
+    },
+    {
       "tutorialType": "TutorialType_ProduceIdolCardSelect",
       "idolCardId": "",
       "step": 1,
@@ -2068,7 +2079,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
-        "Activity grants skill cards, P-Points, and P drinks as rewards."
+        "Choosing allowance grants skill cards, P-Points, and P drinks as rewards."
       ],
       "title": ""
     },
@@ -2303,7 +2314,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Сложность «Hajime»: Legend"
+      "title": "Сложность «Hajime»: Легенда"
     },
     {
       "tutorialType": "TutorialType_ProduceHatsuboshiIdolFestivalTop",
@@ -2531,7 +2542,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Месяц интенсивного продюсирования айдолов Кунио Дзюо 〜Сияние звёзд〜"
+      "title": "Интенсивный месяц айдолов Kunio Juo 〜Мерцание звезд〜"
     },
     {
       "tutorialType": "TutorialType_StoryEvent",
@@ -2597,10 +2608,10 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [
-        " The “Master” difficulty for “N.I.A” has been unlocked.\nIt is more difficult than “Pro,” but parameters increase more easily, and fan votes are easier to gather.\nOnly idols who have reached Affection Level 20 can attempt it. ",
+        " The “Master” difficulty for “N.I.A” has been unlocked.\nIt is more difficult than “Pro,” but parameters increase more easily, and fan votes are easier to gather.\nOnly idols who have reached Bond Lv 20 can attempt it. ",
         " Challenge P Items are P Items that can be selected before starting Produce on “Master” difficulty.\nTheir effects increase the amount of parameters gained from the Audition Bonus when clearing auditions.\n"
       ],
-      "title": "Мастер N.I.A"
+      "title": "Мастер N.I.A."
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionMasterRanking",
@@ -2611,7 +2622,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Рейтинг N.I.A Master"
+      "title": "Рейтинг мастеров N.I.A"
     },
     {
       "tutorialType": "TutorialType_Tour",
@@ -2644,7 +2655,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Рейтинг продюсеров Сезон 2"
+      "title": "Рейтинг продюсеров: Сезон 3"
     },
     {
       "tutorialType": "TutorialType_ProduceCardConvert",
@@ -2655,7 +2666,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Смена карты навыка"
+      "title": "Смена Карты Навыка"
     },
     {
       "tutorialType": "TutorialType_CompetitionPreOpen",
