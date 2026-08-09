@@ -1,30 +1,44 @@
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/qARc4Hdc3n)](https://natsume.io/GakumasLocalize)
+# Gakumas Translation Data RU
 
-# Gakumas-Translation-Data-RU
+Русская локализация данных игры для [gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify).
 
-- Русская локализация данных для [gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify)
-- Репозиторий основан на английском проекте: https://github.com/NatsumeLS/Gakumas-Translation-Data-EN
+Репозиторий основан на английском проекте [Gakumas Translation Data EN](https://github.com/NatsumeLS/Gakumas-Translation-Data-EN).
 
-## Документация
-https://gakumas.natsume.io
+---
 
-## Структура файлов
+## 📌 О проекте
 
-- `./local-files/localization.json`: строки интерфейса и системные тексты.
-- `./local-files/generic.json`: общие строки и короткие фразы.
-- `./local-files/genericTrans`: разложенные по темам переводы из `generic.json`.
-- Имена папок и файлов в `genericTrans` можно менять, если так удобнее разделять контент.
-- `./local-files/resource`: сюжетные и событийные текстовые ресурсы.
+Русификация выполнена с использованием автоматизации на базе локальной LLM-модели.
 
-## Примечание
+В связи с автоматизированным переводом в локализации могут встречаться неточности. Например:
+* перепутанный род в фразах персонажей;
+* некорректные формулировки;
+* слитный или неудачно оформленный текст в некоторых карточках;
+* другие ошибки перевода.
 
-Для Android рекомендуется использовать 2 метод `Localify Method` для корректности отображения текста.
-После утановки отчистить кэш и данные в Localify и переустановить локализацию.
+Основная цель проекта — сделать Gakumas понятнее для игроков, которые не знают японский или английский, но любят айдол-тематику, аниме или просто хотят познакомиться с игрой.
 
-В Localify указать вместо ссылки на API вот эту: 
+---
 
-`https://api.github.com/repos/HunterKrendel234/Gakumas-Translation-Data-RU/releases/latest`
+## 🛠️ Установка
 
-Русификация выполняется поэтапно с автоматизацией с помощью "ChatGPT 5.4".
-Базовая цель форка: сохранить смысл, тон, контекст сцены и игровую терминологию без механического дословного перевода.
-Если заметите не корректный перевод, сообщайте в Issues
+Актуальные инструкции по установке мода для разных платформ, а также каналы для отправки баг-репортов и координации перевода доступны на нашем Discord-сервере.
+
+💬 **[Присоединиться к нашему Discord-серверу](https://discord.gg/jgEz8CxKPn)**
+
+---
+
+## ⚙️ Техническая информация
+
+> [!NOTE]
+> Информация ниже предназначена в первую очередь для переводчиков и тех, кто хочет помогать проекту.
+
+### 📂 Структура файлов
+
+* `./local-files/localization.json` (`.json`) — Строки локализации, в основном UI.
+* `./local-files/generic.json` (`.json`) — Общие строки, в основном UI.
+* `./local-files/genericTrans/index` (`.json`) — Общие строки, в основном UI.
+* `./local-files/genericTrans/lyrics` (`.json`) — Песни.
+* `./local-files/resource` (`.txt`) — Ресурсные файлы, в основном комму (сюжетные сцены).
+* `./local-files/gakumasassets` — Кастомный шрифт для PC-версии игры.
+* `./local-files/gkanz0-ontMIX.otf` — Кастомный шрифт для Android-версии игры.
