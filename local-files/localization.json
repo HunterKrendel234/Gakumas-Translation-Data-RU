@@ -1,4 +1,4 @@
-{
+﻿{
   "account_delete.confirm.checkbox_text": "Подтвердить",
   "account_delete.confirm.description": "■Важные примечания (※Пожалуйста, прочтите внимательно)\n・Игровые данные будут удалены и станут недоступны.\n・Все текущие самоцветы (купленные и бесплатные) будут утеряны.\n・Настройки передачи игровых данных через Bandai Namco ID\nбудут отключены.\n・Удаленные аккаунты восстановить невозможно.",
   "account_delete.confirm.title": "Запрос на удаление аккаунта",
@@ -6267,7 +6267,7 @@
   "story.play_confirm_sheet.use_key_description": "Хотите использовать ключ записи, чтобы открыть комьюнити?",
   "story.play_confirm_sheet.voice.downloadSize": "({0})",
   "story.play_confirm_sheet.voice.off": "Без озвучки",
-  "story.play_confirm_sheet.voice.on": "Вод.",
+  "story.play_confirm_sheet.voice.on": "С озвучкой",
   "story.play_confirm_sheet.voice.title": "Настройки голоса",
   "story.skip_confirm_sheet.description": "Это непрочитанное Комму.\nХотите его пропустить?",
   "story.skip_confirm_sheet.title": "Подтверждение пропуска",
