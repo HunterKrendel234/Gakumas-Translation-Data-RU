@@ -141,23 +141,26 @@ jobs:
     - name: Get latest commit message
       id: commit_info
       run: |
-        COMMIT_MSG=$(git log -1 --pretty=%B)
-        COMMIT_MSG="${COMMIT_MSG//$'\n'/\\n}"
-        echo "message=$COMMIT_MSG" >> $GITHUB_OUTPUT
-        
-        # Генерируем версию заново для этого шага
+        # Получаем имя ветки, хэш и дату
         branch=$(git rev-parse --abbrev-ref HEAD)
         hash=$(git rev-parse --short=7 HEAD)
         datetime=$(date +'%Y%m%d.%H%M%S')
         echo "version=$datetime.$branch.$hash" >> $GITHUB_OUTPUT
+        
+        # Безопасная запись многострочного текста коммита в OUTPUT
+        echo "message<<EOF" >> $GITHUB_OUTPUT
+        git log -1 --pretty=%B >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
 
     - name: Send notification to Discord
-      uses: FullOfSnakes/discord-webhook-notify@v1
+      uses: rjstone/discord-webhook-notify@v2
       with:
-        webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+        webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
         username: "GitHub Релиз"
+        severity: info
+        color: '#00ff00'
         title: "🚀 Вышла новая версия: `${{ steps.commit_info.outputs.version }}`"
         description: |
           **Что изменилось:**
           ${{ steps.commit_info.outputs.message }}
-        color: "0x00ff00"
+
