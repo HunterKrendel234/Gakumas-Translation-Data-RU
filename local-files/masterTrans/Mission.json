@@ -1683,7 +1683,7 @@
     },
     {
       "id": "mission-box-gasha-event-005-mission_3",
-      "name": "Вытяните Гачу из события за {threshold} сек."
+      "name": "Вытяните Гачу из события {threshold} раз."
     },
     {
       "id": "mission-box-gasha-event-005-mission_4",
@@ -1703,7 +1703,7 @@
     },
     {
       "id": "mission-box-gasha-event-006-mission_3",
-      "name": "Вытяни Гача-коробку события за {threshold} сек."
+      "name": "Вытяни Гача-коробку события {threshold} раз."
     },
     {
       "id": "mission-box-gasha-event-006-mission_4",
@@ -1723,7 +1723,7 @@
     },
     {
       "id": "mission-box-gasha-event-007-mission_3",
-      "name": "Вытянуть Гачу из события {threshold} сек."
+      "name": "Вытянуть Гачу из события {threshold} раз(а)"
     },
     {
       "id": "mission-box-gasha-event-007-mission_4",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_64",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_65",
@@ -1971,7 +1971,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_74",
-      "name": "Сдать финальный Экзамен за {threshold} сек."
+      "name": "Сдать финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_75",
@@ -2095,7 +2095,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_003-mission_54",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-comeback_daily_release_mission_003-mission_55",
@@ -2427,7 +2427,7 @@
     },
     {
       "id": "mission-daily-incrementmoneyexchangecount-1",
-      "name": "Обмен {threshold} сек. в Обмене денег"
+      "name": "Обмен {threshold} раз(а) в Обмене денег"
     },
     {
       "id": "mission-daily-incrementproduceclearcount-1",
@@ -2563,7 +2563,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_11",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscore-event-003-mission_12",
@@ -2587,7 +2587,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_21",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscore-event-003-mission_22",
@@ -2659,7 +2659,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_51",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscore-event-003-mission_52",
@@ -2707,7 +2707,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_21",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscore-event-004-mission_22",
@@ -2731,7 +2731,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_31",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscore-event-004-mission_32",
@@ -2755,7 +2755,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_41",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscore-event-004-mission_42",
@@ -2803,7 +2803,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_11",
-      "name": "Сдай финальный Экзамен за {threshold} сек."
+      "name": "Сдай финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-001-mission_12",
@@ -2827,7 +2827,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_21",
-      "name": "Сдайте финальный экзамен за {threshold} сек."
+      "name": "Сдайте финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-001-mission_22",
@@ -2851,7 +2851,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_31",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-001-mission_32",
@@ -2875,7 +2875,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_41",
-      "name": "Сдай финальный Экзамен за {threshold} сек."
+      "name": "Сдай финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-001-mission_42",
@@ -2899,7 +2899,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_51",
-      "name": "Сдай финальный Экзамен за {threshold} сек."
+      "name": "Сдай финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-001-mission_52",
@@ -2943,7 +2943,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_21",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-002-mission_22",
@@ -2963,7 +2963,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_31",
-      "name": "Сдать финальный Экзамен за {threshold} сек."
+      "name": "Сдать финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-002-mission_32",
@@ -2983,7 +2983,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_41",
-      "name": "Сдайте финальный экзамен за {threshold} сек."
+      "name": "Сдайте финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-002-mission_42",
@@ -3003,7 +3003,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_51",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-002-mission_52",
@@ -3023,7 +3023,7 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_11",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-003-mission_12",
@@ -3043,7 +3043,7 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_21",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-003-mission_22",
@@ -3063,7 +3063,7 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_31",
-      "name": "Сдайте финальный экзамен за {threshold} сек."
+      "name": "Сдайте финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-003-mission_32",
@@ -3083,7 +3083,7 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_41",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-003-mission_42",
@@ -3103,7 +3103,7 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_51",
-      "name": "Пройти финальный Экзамен за {threshold} сек."
+      "name": "Пройти финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-003-mission_52",
@@ -3143,7 +3143,7 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_21",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-004-mission_22",
@@ -3163,7 +3163,7 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_31",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-004-mission_32",
@@ -3183,7 +3183,7 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_41",
-      "name": "Сдать финальный Экзамен за {threshold} сек."
+      "name": "Сдать финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-004-mission_42",
@@ -3203,7 +3203,7 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_51",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-004-mission_52",
@@ -3223,7 +3223,7 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_11",
-      "name": "Сдай финальный Экзамен за {threshold} сек."
+      "name": "Сдай финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-005-mission_12",
@@ -3243,7 +3243,7 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_21",
-      "name": "Сдай финальный Экзамен за {threshold} сек."
+      "name": "Сдай финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-005-mission_22",
@@ -3263,7 +3263,7 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_31",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-005-mission_32",
@@ -3283,7 +3283,7 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_41",
-      "name": "Сдай финальный Экзамен за {threshold} сек."
+      "name": "Сдай финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-005-mission_42",
@@ -3303,7 +3303,7 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_51",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-005-mission_52",
@@ -3323,7 +3323,7 @@
     },
     {
       "id": "mission-highscorerush-event-006-mission_11",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-006-mission_12",
@@ -3343,7 +3343,7 @@
     },
     {
       "id": "mission-highscorerush-event-006-mission_21",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-006-mission_22",
@@ -3383,7 +3383,7 @@
     },
     {
       "id": "mission-highscorerush-event-006-mission_41",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-006-mission_42",
@@ -3403,7 +3403,7 @@
     },
     {
       "id": "mission-highscorerush-event-006-mission_51",
-      "name": "Сдай финальный Экзамен за {threshold} сек."
+      "name": "Сдай финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-006-mission_52",
@@ -3423,7 +3423,7 @@
     },
     {
       "id": "mission-highscorerush-event-007-mission_11",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-007-mission_12",
@@ -3463,7 +3463,7 @@
     },
     {
       "id": "mission-highscorerush-event-007-mission_31",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-007-mission_32",
@@ -3483,7 +3483,7 @@
     },
     {
       "id": "mission-highscorerush-event-007-mission_41",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-007-mission_42",
@@ -3523,7 +3523,7 @@
     },
     {
       "id": "mission-highscorerush-event-008-mission_11",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-008-mission_12",
@@ -3543,7 +3543,7 @@
     },
     {
       "id": "mission-highscorerush-event-008-mission_21",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-008-mission_22",
@@ -3563,7 +3563,7 @@
     },
     {
       "id": "mission-highscorerush-event-008-mission_31",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-008-mission_32",
@@ -3583,7 +3583,7 @@
     },
     {
       "id": "mission-highscorerush-event-008-mission_41",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-008-mission_42",
@@ -3603,7 +3603,7 @@
     },
     {
       "id": "mission-highscorerush-event-008-mission_51",
-      "name": "Пройти финальный Экзамен за {threshold} сек."
+      "name": "Пройти финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-008-mission_52",
@@ -3663,7 +3663,7 @@
     },
     {
       "id": "mission-highscorerush-event-009-mission_31",
-      "name": "Сдайте финальный экзамен за {threshold} сек."
+      "name": "Сдайте финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-009-mission_32",
@@ -3683,7 +3683,7 @@
     },
     {
       "id": "mission-highscorerush-event-009-mission_41",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-009-mission_42",
@@ -3743,7 +3743,7 @@
     },
     {
       "id": "mission-highscorerush-event-010-mission_21",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-010-mission_22",
@@ -3803,7 +3803,7 @@
     },
     {
       "id": "mission-highscorerush-event-010-mission_51",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-010-mission_52",
@@ -3823,7 +3823,7 @@
     },
     {
       "id": "mission-highscorerush-event-011-mission_11",
-      "name": "Сдай финальный Экзамен за {threshold} сек."
+      "name": "Сдай финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-011-mission_12",
@@ -3843,7 +3843,7 @@
     },
     {
       "id": "mission-highscorerush-event-011-mission_21",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-011-mission_22",
@@ -3863,7 +3863,7 @@
     },
     {
       "id": "mission-highscorerush-event-011-mission_31",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-011-mission_32",
@@ -3883,7 +3883,7 @@
     },
     {
       "id": "mission-highscorerush-event-011-mission_41",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-011-mission_42",
@@ -3923,7 +3923,7 @@
     },
     {
       "id": "mission-highscorerush-event-012-mission_11",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-012-mission_12",
@@ -3943,7 +3943,7 @@
     },
     {
       "id": "mission-highscorerush-event-012-mission_21",
-      "name": "Сдайте финальный экзамен за {threshold} сек."
+      "name": "Сдайте финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-012-mission_22",
@@ -3963,7 +3963,7 @@
     },
     {
       "id": "mission-highscorerush-event-012-mission_31",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-012-mission_32",
@@ -4023,7 +4023,7 @@
     },
     {
       "id": "mission-highscorerush-event-013-mission_11",
-      "name": "Сдать финальный Экзамен за {threshold} сек."
+      "name": "Сдать финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-013-mission_12",
@@ -4043,7 +4043,7 @@
     },
     {
       "id": "mission-highscorerush-event-013-mission_21",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-013-mission_22",
@@ -4063,7 +4063,7 @@
     },
     {
       "id": "mission-highscorerush-event-013-mission_31",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-013-mission_32",
@@ -4083,7 +4083,7 @@
     },
     {
       "id": "mission-highscorerush-event-013-mission_41",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-013-mission_42",
@@ -4103,7 +4103,7 @@
     },
     {
       "id": "mission-highscorerush-event-013-mission_51",
-      "name": "Сдай финальный Экзамен за {threshold} сек."
+      "name": "Сдай финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-013-mission_52",
@@ -4123,7 +4123,7 @@
     },
     {
       "id": "mission-highscorerush-event-014-mission_11",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-014-mission_12",
@@ -4143,7 +4143,7 @@
     },
     {
       "id": "mission-highscorerush-event-014-mission_21",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-014-mission_22",
@@ -4163,7 +4163,7 @@
     },
     {
       "id": "mission-highscorerush-event-014-mission_31",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-014-mission_32",
@@ -4183,7 +4183,7 @@
     },
     {
       "id": "mission-highscorerush-event-014-mission_41",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-014-mission_42",
@@ -4203,7 +4203,7 @@
     },
     {
       "id": "mission-highscorerush-event-014-mission_51",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-014-mission_52",
@@ -4243,7 +4243,7 @@
     },
     {
       "id": "mission-highscorerush-event-015-mission_21",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-highscorerush-event-015-mission_22",
@@ -5599,15 +5599,15 @@
     },
     {
       "id": "mission-normal-incrementidolcardlevellimitrankupdatecount-1",
-      "name": "Продюсирование айдолов за {threshold} сек."
+      "name": "Продюсирование айдолов {threshold} раз."
     },
     {
       "id": "mission-normal-incrementIdolcardpotentialrankupdatecount-1",
-      "name": "Разблокируйте таланты для продюсирования айдолов за {threshold} сек."
+      "name": "Разблокируйте таланты для продюсирования айдолов {threshold} раз."
     },
     {
       "id": "mission-normal-incrementmeishiexchangecount-1",
-      "name": "Получение визиток от других продюсеров за {threshold} сек."
+      "name": "Получение визиток от других продюсеров {threshold} раз."
     },
     {
       "id": "mission-normal-incrementmemorygradecount-a-1",
@@ -5643,11 +5643,11 @@
     },
     {
       "id": "mission-normal-incrementmoneyexchangecount-1",
-      "name": "Обмен {threshold} сек. в Обмене денег"
+      "name": "Обмен {threshold} раз(а) в Обмене денег"
     },
     {
       "id": "mission-normal-incrementproduceclearcount-1",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-normal-incrementproducememorydeckupdatecount-1",
@@ -5663,7 +5663,7 @@
     },
     {
       "id": "mission-normal-incrementpvpratewincount-1",
-      "name": "Победы в Турнирах за {threshold} сек."
+      "name": "Победы в Турнирах {threshold} раз."
     },
     {
       "id": "mission-normal-incrementreceivemoney-1",
@@ -5671,7 +5671,7 @@
     },
     {
       "id": "mission-normal-incrementsupportcardenhancecount-1",
-      "name": "Улучшение Карт Поддержки {threshold} сек."
+      "name": "Улучшение Карт Поддержки {threshold} раз(а)"
     },
     {
       "id": "mission-normal-incrementsupportcardlevellimitrankupdatecount-1",
@@ -5911,7 +5911,7 @@
     },
     {
       "id": "mission-panel-mission-2-1",
-      "name": "План: Завершить производство Чутья за {threshold} сек."
+      "name": "План: Завершить производство Чутья {threshold} раз."
     },
     {
       "id": "mission-panel-mission-2-2",
@@ -5927,7 +5927,7 @@
     },
     {
       "id": "mission-panel-mission-2-5",
-      "name": "Завершить производство {threshold} сек."
+      "name": "Завершить производство {threshold} раз(а)"
     },
     {
       "id": "mission-panel-mission-2-6",
@@ -5979,7 +5979,7 @@
     },
     {
       "id": "mission-release_mission-2-3",
-      "name": "Использовать P-Напитки {threshold} (сек)"
+      "name": "Использовать P-Напитки {threshold} (раз(а))"
     },
     {
       "id": "mission-release_mission-2-4",
@@ -6315,7 +6315,7 @@
     },
     {
       "id": "mission-story-event-001-mission_2",
-      "name": "Сдай финальный Экзамен за {threshold} сек."
+      "name": "Сдай финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-story-event-001-mission_3",
@@ -6363,7 +6363,7 @@
     },
     {
       "id": "mission-story-event-003-mission_2",
-      "name": "Сдать финальный Экзамен за {threshold} сек."
+      "name": "Сдать финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-story-event-003-mission_3",
@@ -6387,7 +6387,7 @@
     },
     {
       "id": "mission-story-event-004-mission_2",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-story-event-004-mission_3",
@@ -6411,7 +6411,7 @@
     },
     {
       "id": "mission-story-event-006-mission_2",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-story-event-006-mission_3",
@@ -6427,7 +6427,7 @@
     },
     {
       "id": "mission-story-event-006-mission_6",
-      "name": "Завершено Уроков SP за {threshold} сек."
+      "name": "Завершено Уроков SP {threshold} раз."
     },
     {
       "id": "mission-story-event-007-mission_1",
@@ -6459,7 +6459,7 @@
     },
     {
       "id": "mission-story-event-008-mission_2",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-story-event-008-mission_3",
@@ -6483,7 +6483,7 @@
     },
     {
       "id": "mission-story-event-009-mission_2",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-story-event-009-mission_3",
@@ -6507,7 +6507,7 @@
     },
     {
       "id": "mission-story-event-010-mission_2",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-story-event-010-mission_3",
@@ -6531,7 +6531,7 @@
     },
     {
       "id": "mission-story-event-011-mission_2",
-      "name": "Сдай финальный экзамен за {threshold} сек."
+      "name": "Сдай финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-story-event-011-mission_3",
@@ -6579,7 +6579,7 @@
     },
     {
       "id": "mission-story-event-013-mission_2",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-story-event-013-mission_3",
@@ -6603,7 +6603,7 @@
     },
     {
       "id": "mission-story-event-014-mission_2",
-      "name": "Сдать финальный экзамен за {threshold} сек."
+      "name": "Сдать финальный экзамен {threshold} раз."
     },
     {
       "id": "mission-story-event-014-mission_3",
@@ -6627,7 +6627,7 @@
     },
     {
       "id": "mission-tour-event-001-mission_2",
-      "name": "Сдай финальный Экзамен за {threshold} сек."
+      "name": "Сдай финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-tour-event-001-mission_3",
@@ -6655,7 +6655,7 @@
     },
     {
       "id": "mission-tour-event-002-mission_2",
-      "name": "Сдай финальный Экзамен за {threshold} сек."
+      "name": "Сдай финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-tour-event-002-mission_3",
@@ -6691,11 +6691,11 @@
     },
     {
       "id": "mission-weekly-incrementmoneyexchangecount-1",
-      "name": "Обменяйте {threshold} сек. в пункте Обмена"
+      "name": "Обменяйте {threshold} раз(а) в пункте Обмена"
     },
     {
       "id": "mission-weekly-incrementproduceclearcount-1",
-      "name": "Сдать финальный Экзамен за {threshold} сек."
+      "name": "Сдать финальный Экзамен {threshold} раз."
     },
     {
       "id": "mission-weekly-incrementpvpratewincount-1",
@@ -6707,7 +6707,7 @@
     },
     {
       "id": "mission-weekly-incrementsupportcardenhancecount-1",
-      "name": "Улучшение Карт Поддержки {threshold} (сек)"
+      "name": "Улучшение Карт Поддержки {threshold} (раз(а))"
     },
     {
       "id": "mission-weekly-incrementworktimecount-1",
@@ -6719,11 +6719,11 @@
     },
     {
       "id": "panel_mission-event-002-mission_11",
-      "name": "План: Выполнено производство Чутья за {threshold} сек."
+      "name": "План: Выполнено производство Чутья {threshold} раз."
     },
     {
       "id": "panel_mission-event-002-mission_12",
-      "name": "План: Выполнено производство Логики за {threshold} сек."
+      "name": "План: Выполнено производство Логики {threshold} раз."
     },
     {
       "id": "panel_mission-event-002-mission_13",
@@ -6755,7 +6755,7 @@
     },
     {
       "id": "panel_mission-event-002-mission_2",
-      "name": "Завершено Вокальных Уроков {threshold} (сек)"
+      "name": "Завершено Вокальных Уроков {threshold} (раз(а))"
     },
     {
       "id": "panel_mission-event-002-mission_3",
@@ -6831,7 +6831,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_12",
-      "name": "План: Выполнено производство Логики за {threshold} сек."
+      "name": "План: Выполнено производство Логики {threshold} раз."
     },
     {
       "id": "panel_mission-event-004-mission_13",
@@ -6843,7 +6843,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_15",
-      "name": "Завершить производство за {threshold} сек."
+      "name": "Завершить производство {threshold} раз."
     },
     {
       "id": "panel_mission-event-004-mission_16",
@@ -6899,11 +6899,11 @@
     },
     {
       "id": "panel_mission-event-006-mission_11",
-      "name": "План: Выполнить производство Чутья за {threshold} сек."
+      "name": "План: Выполнить производство Чутья {threshold} раз."
     },
     {
       "id": "panel_mission-event-006-mission_12",
-      "name": "План: Выполнено производство Логики за {threshold} сек."
+      "name": "План: Выполнено производство Логики {threshold} раз."
     },
     {
       "id": "panel_mission-event-006-mission_13",
@@ -6915,7 +6915,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_15",
-      "name": "Завершить производство {threshold} сек."
+      "name": "Завершить производство {threshold} раз(а)"
     },
     {
       "id": "panel_mission-event-006-mission_16",
@@ -6971,7 +6971,7 @@
     },
     {
       "id": "panel_mission-event-007-mission_11",
-      "name": "Сдайте финальный экзамен с оценкой A+ или выше за {threshold} сек."
+      "name": "Сдайте финальный экзамен с оценкой A+ или выше {threshold} раз."
     },
     {
       "id": "panel_mission-event-007-mission_12",
@@ -7199,7 +7199,7 @@
     },
     {
       "id": "panel_mission-event-010-mission_14",
-      "name": "Завершить производство за {threshold} сек."
+      "name": "Завершить производство {threshold} раз."
     },
     {
       "id": "panel_mission-event-010-mission_15",
@@ -7291,15 +7291,15 @@
     },
     {
       "id": "panel_mission-event-niv-mission_1",
-      "name": "Сдайте финальный экзамен с оценкой B+ или выше за {threshold} сек."
+      "name": "Сдайте финальный экзамен с оценкой B+ или выше {threshold} раз."
     },
     {
       "id": "panel_mission-event-niv-mission_2",
-      "name": "Сдать финальный экзамен с оценкой A или выше за {threshold} сек."
+      "name": "Сдать финальный экзамен с оценкой A или выше {threshold} раз."
     },
     {
       "id": "panel_mission-event-niv-mission_3",
-      "name": "Сдайте финальный экзамен с оценкой A+ или выше за {threshold} сек."
+      "name": "Сдайте финальный экзамен с оценкой A+ или выше {threshold} раз."
     },
     {
       "id": "panel_mission-event-niv-mission_4",
@@ -7359,7 +7359,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-001-03",
-      "name": "【Kimi to Semi Blue】Получите рейтинг A+ или выше в производстве Mao Arimura за {threshold} сек."
+      "name": "【Kimi to Semi Blue】Получите рейтинг A+ или выше в производстве Mao Arimura {threshold} раз."
     },
     {
       "id": "achieve-i_card-amao-3-001-04",
@@ -7743,7 +7743,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-011-03",
-      "name": "【Ameagari no Iris】Получите рейтинг A+ или выше в произведении Kotone Fujita за {threshold} сек."
+      "name": "【Ameagari no Iris】Получите рейтинг A+ или выше в произведении Kotone Fujita {threshold} раз."
     },
     {
       "id": "achieve-i_card-fktn-3-011-04",
@@ -7863,7 +7863,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-000-03",
-      "name": "【Tsuki no Kame】Получите рейтинг A+ или выше в производстве Misuzu Hataya за {threshold} сек."
+      "name": "【Tsuki no Kame】Получите рейтинг A+ или выше в производстве Misuzu Hataya {threshold} раз."
     },
     {
       "id": "achieve-i_card-hmsz-3-000-04",
@@ -8031,7 +8031,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-001-03",
-      "name": "【Kimi to Semi Blue】Получите рейтинг A+ или выше в производстве Rinami Himesaki за {threshold} сек."
+      "name": "【Kimi to Semi Blue】Получите рейтинг A+ или выше в производстве Rinami Himesaki {threshold} раз."
     },
     {
       "id": "achieve-i_card-hrnm-3-001-04",
@@ -8055,7 +8055,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-002-03",
-      "name": "【LUV】Получите рейтинг A+ или выше в производстве Rinami Himesaki за {threshold} сек."
+      "name": "【LUV】Получите рейтинг A+ или выше в производстве Rinami Himesaki {threshold} раз."
     },
     {
       "id": "achieve-i_card-hrnm-3-002-04",
@@ -8271,7 +8271,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-001-03",
-      "name": "【Boom Boom Pow】Получите рейтинг A+ или выше в производстве Saki Hanami за {threshold} сек."
+      "name": "【Boom Boom Pow】Получите рейтинг A+ или выше в производстве Saki Hanami {threshold} раз."
     },
     {
       "id": "achieve-i_card-hski-3-001-04",
@@ -8319,7 +8319,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-006-03",
-      "name": "【Kokon Touzai Chochoi no Choi】Получите рейтинг A+ или выше в производстве Saki Hanami за {threshold} сек."
+      "name": "【Kokon Touzai Chochoi no Choi】Получите рейтинг A+ или выше в производстве Saki Hanami {threshold} раз."
     },
     {
       "id": "achieve-i_card-hski-3-006-04",
@@ -8391,7 +8391,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-012-03",
-      "name": "【Ameagari no Iris】Получите рейтинг A+ или выше в производстве Saki Hanami за {threshold} сек."
+      "name": "【Ameagari no Iris】Получите рейтинг A+ или выше в производстве Saki Hanami {threshold} раз."
     },
     {
       "id": "achieve-i_card-hski-3-012-04",
@@ -8727,7 +8727,7 @@
     },
     {
       "id": "achieve-i_card-jsna-2-000-03",
-      "name": "【The Prima Stella】Получите рейтинг A+ или выше в производстве Sena Juo за {threshold} сек."
+      "name": "【The Prima Stella】Получите рейтинг A+ или выше в производстве Sena Juo {threshold} раз."
     },
     {
       "id": "achieve-i_card-jsna-2-000-04",
@@ -8751,7 +8751,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-000-03",
-      "name": "【Chiisana Yabou】Получите рейтинг A+ или выше в производстве Sena Juo за {threshold} сек."
+      "name": "【Chiisana Yabou】Получите рейтинг A+ или выше в производстве Sena Juo {threshold} раз."
     },
     {
       "id": "achieve-i_card-jsna-3-000-04",
@@ -8799,7 +8799,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-003-03",
-      "name": "【Happy Millefeuille】Получите рейтинг A+ или выше в производстве Sena Juo за {threshold} сек."
+      "name": "【Happy Millefeuille】Получите рейтинг A+ или выше в производстве Sena Juo {threshold} раз."
     },
     {
       "id": "achieve-i_card-jsna-3-003-04",
@@ -8867,7 +8867,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-015-02",
-      "name": "【Sekirara】Получите рейтинг A+ или выше в производстве Sena Juo за {threshold} сек."
+      "name": "【Sekirara】Получите рейтинг A+ или выше в производстве Sena Juo {threshold} раз."
     },
     {
       "id": "achieve-i_card-jsna-3-015-03",
@@ -8875,15 +8875,15 @@
     },
     {
       "id": "achieve-i_card-jsna-3-015-04",
-      "name": "【Sekirara】Получите рейтинг A+ или выше в производстве Sena Juo за {threshold} сек."
+      "name": "【Sekirara】Получите рейтинг A+ или выше в производстве Sena Juo {threshold} раз."
     },
     {
       "id": "achieve-i_card-jsna-3-015-05",
-      "name": "【Sekirara】Получите рейтинг A+ или выше в производстве Sena Juo за {threshold} сек."
+      "name": "【Sekirara】Получите рейтинг A+ или выше в производстве Sena Juo {threshold} раз."
     },
     {
       "id": "achieve-i_card-jsna-3-015-06",
-      "name": "【Sekirara】Получите рейтинг A+ или выше в производстве Sena Juo за {threshold} сек."
+      "name": "【Sekirara】Получите рейтинг A+ или выше в производстве Sena Juo {threshold} раз."
     },
     {
       "id": "achieve-i_card-jsna-3-016-01",
@@ -8967,7 +8967,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-002-03",
-      "name": "【Kasou Kyousoukyoku】Получите рейтинг A+ или выше в производстве China Kuramoto за {threshold} сек."
+      "name": "【Kasou Kyousoukyoku】Получите рейтинг A+ или выше в производстве China Kuramoto {threshold} раз."
     },
     {
       "id": "achieve-i_card-kcna-3-002-04",
@@ -9399,7 +9399,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-001-03",
-      "name": "【Contrast】Получите рейтинг A+ или выше в производстве Hiro Shinosawa за {threshold} сек."
+      "name": "【Contrast】Получите рейтинг A+ или выше в производстве Hiro Shinosawa {threshold} раз."
     },
     {
       "id": "achieve-i_card-shro-3-001-04",
@@ -9495,7 +9495,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-012-03",
-      "name": "【SUNFADED】Получите рейтинг A+ или выше в производстве Hiro Shinosawa за {threshold} сек."
+      "name": "【SUNFADED】Получите рейтинг A+ или выше в производстве Hiro Shinosawa {threshold} раз."
     },
     {
       "id": "achieve-i_card-shro-3-012-04",
@@ -9543,7 +9543,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-016-03",
-      "name": "【Michinaru Hirogaru】Получите рейтинг A+ или выше в продукции Hiro Shinosawa за {threshold} сек."
+      "name": "【Michinaru Hirogaru】Получите рейтинг A+ или выше в продукции Hiro Shinosawa {threshold} раз."
     },
     {
       "id": "achieve-i_card-shro-3-016-04",
@@ -9615,7 +9615,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-001-03",
-      "name": "【Kimi to Semi Blue】Получите рейтинг A+ или выше в производстве Sumika Shiun за {threshold} сек."
+      "name": "【Kimi to Semi Blue】Получите рейтинг A+ или выше в производстве Sumika Shiun {threshold} раз."
     },
     {
       "id": "achieve-i_card-ssmk-3-001-04",
@@ -9903,7 +9903,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-011-03",
-      "name": "【Ameagari no Iris】Получите рейтинг A+ или выше в производстве Temari Tsukimura за {threshold} сек."
+      "name": "【Ameagari no Iris】Получите рейтинг A+ или выше в производстве Temari Tsukimura {threshold} раз."
     },
     {
       "id": "achieve-i_card-ttmr-3-011-04",
@@ -10243,11 +10243,11 @@
     },
     {
       "id": "achieve-p_common-025",
-      "name": "Завершено за {threshold} сек."
+      "name": "Завершено {threshold} раз."
     },
     {
       "id": "achieve-p_common-026",
-      "name": "Сдайте финальный экзамен с оценкой SS или выше за {threshold} сек."
+      "name": "Сдайте финальный экзамен с оценкой SS или выше {threshold} раз."
     },
     {
       "id": "achieve-p_common-027",
@@ -10519,7 +10519,7 @@
     },
     {
       "id": "achieve-p_idol-card-amao-003-3",
-      "name": "【Fluorite】Получите рейтинг A+ или выше в производстве Mao Arimura за {threshold} сек."
+      "name": "【Fluorite】Получите рейтинг A+ или выше в производстве Mao Arimura {threshold} раз."
     },
     {
       "id": "achieve-p_idol-card-fktn-002-1",
@@ -10663,7 +10663,7 @@
     },
     {
       "id": "achieve-p_idol-card-shro-003-3",
-      "name": "【Koukei】Получите рейтинг A+ или выше в производстве Hiro Shinosawa за {threshold} сек."
+      "name": "【Koukei】Получите рейтинг A+ или выше в производстве Hiro Shinosawa {threshold} раз."
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-1",
@@ -10675,7 +10675,7 @@
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-3",
-      "name": "【Перезагрузка мечты】Получите рейтинг A+ или выше в производстве Sumika Shiun за {threshold} сек."
+      "name": "【Перезагрузка мечты】Получите рейтинг A+ или выше в производстве Sumika Shiun {threshold} раз."
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-1",
@@ -10699,7 +10699,7 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-3",
-      "name": "【Wolf】Получите рейтинг A+ или выше в производстве Temari Tsukimura за {threshold} сек."
+      "name": "【Wolf】Получите рейтинг A+ или выше в производстве Temari Tsukimura {threshold} раз."
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-1",
@@ -11095,7 +11095,7 @@
     },
     {
       "id": "achieve-p_idol-hski-007",
-      "name": "Выполнено производство Saki Hanami за {threshold} сек."
+      "name": "Выполнено производство Saki Hanami {threshold} раз."
     },
     {
       "id": "achieve-p_idol-hski-008",
@@ -11891,7 +11891,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-003",
-      "name": "Завершите Урок SP за {threshold} сек. вместе с Temari Tsukimura"
+      "name": "Завершите Урок SP {threshold} раз. вместе с Temari Tsukimura"
     },
     {
       "id": "achieve-p_idol-ttmr-004",
