@@ -78,6 +78,12 @@
       "acquisitionRouteDescription": "Produce, etc."
     },
     {
+      "id": "item-coin-box-gasha-event-021",
+      "name": "Яркий Hatsuboshi",
+      "description": "Предмет для Гачи события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
       "id": "item-coin-highscorerush-event-001",
       "name": "Звёздный свет",
       "description": "Предмет для Гачи события",
@@ -216,6 +222,12 @@
       "acquisitionRouteDescription": "Exchange Shop, etc."
     },
     {
+      "id": "item-dearness-unlock-atbm",
+      "name": "Ключ записи Tsubame",
+      "description": "Предмет для разблокировки сюжета Отношений STEP 3 Tsubame Amaya",
+      "acquisitionRouteDescription": "Exchange Shop, etc."
+    },
+    {
       "id": "item-dearness-unlock-fktn",
       "name": "Ключ записи Котоне",
       "description": "Предмет для разблокировки реплик Отношений STEP3 Kotone Fujita",
@@ -294,6 +306,12 @@
       "acquisitionRouteDescription": "Produce, etc."
     },
     {
+      "id": "item-gacha-coin-2026-summer",
+      "name": "Монета Продюсирования",
+      "description": "Монета, используемая в Гаче монет летних каникул",
+      "acquisitionRouteDescription": "Produce"
+    },
+    {
       "id": "item-gacha-coin-anniversary-001",
       "name": "Монета Хацуми-тян",
       "description": "Монеты для использования в Гаче монет в честь 1-й годовщины",
@@ -316,6 +334,12 @@
       "name": "Лотерейный билет Hatsuboshi 2026",
       "description": "Предмет для Нового годового Гача-лотереи",
       "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-gacha-selection-ticket-007-stepup-skin",
+      "name": "Ваучер, который можно обменять на Гарантированный билет Гачи Скин Карты Навыка SSR Продюсер Айдол",
+      "description": "Ваучер, который можно обменять в Обмене билетов на Гарантированный билет Гачи для Айдола Продюсера со скином Карты Навыка.",
+      "acquisitionRouteDescription": "A bonus from STEP 3 of the Step-Up Gacha"
     },
     {
       "id": "item-gachaticket-2nd-anniv-10-001",
@@ -376,6 +400,30 @@
       "name": "Билет на рождественскую Гачу (10 штук)",
       "description": "Билет для использования в Гаче Билета Бонуса за Вход в Рождество",
       "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-gasha-00970-ticket-001",
+      "name": "【Kimi to Semi Blue】 Sumika Shiun Гарантированный Гача-билет",
+      "description": "Билет для Гарантированной Гачи Kimi to Semi Blue Sumika с Айдолами-Продюсерами в скинах Карт Навыка.",
+      "acquisitionRouteDescription": "Ticket Exchange"
+    },
+    {
+      "id": "item-gashaticket-gasha-00970-ticket-002",
+      "name": "【Kimi to Semi Blue】 Rinami Himesaki Гарантированный Гача-билет",
+      "description": "Билет для Гачи Kimi to Semi Blue Rinami с гарантированным получением Айдолов-продюсеров с обликами Карт Навыка",
+      "acquisitionRouteDescription": "Ticket Exchange"
+    },
+    {
+      "id": "item-gashaticket-gasha-00970-ticket-003",
+      "name": "【Kamurogiku】 Lilja Katsuragi Гарантированный билет Гача",
+      "description": "Билет для Гарантированной Гачи Kamurogiku Lilja с Айдолами-Продюсерами в обликах Карт Навыка",
+      "acquisitionRouteDescription": "Ticket Exchange"
+    },
+    {
+      "id": "item-gashaticket-gasha-00970-ticket-004",
+      "name": "【Kamurogiku】 Kotone Fujita Билет на гарантированную Гачу",
+      "description": "Билет для Гарантированной Гачи Kamurogiku Kotone с участием Айдолов-Продюсеров в скинах Карт Навыка",
+      "acquisitionRouteDescription": "Ticket Exchange"
     },
     {
       "id": "item-gashaticket-new-wednesday-26-0603-1",
@@ -513,6 +561,12 @@
       "id": "item-gashaticket-wednesday-260715",
       "name": "Гача-билет Гакумы на среду",
       "description": "Билет для Гачи «Среда» в Gakumas Wednesday",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-260812",
+      "name": "Гача-билет Гакумас Среда",
+      "description": "Билет для Гачи Gakumas Wednesday",
       "acquisitionRouteDescription": ""
     },
     {
@@ -1416,6 +1470,12 @@
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
+      "id": "item-piece-idol_jsna-3-020",
+      "name": "[「Nee, icchau yo.」] Sena Juo Деталь",
+      "description": "Предмет для пробуждения и разблокировки Продюсируемых Айдолов",
+      "acquisitionRouteDescription": "Event Gacha, etc."
+    },
+    {
       "id": "item-piece-idol_kcna-1-000",
       "name": "[Жизнь в кампусе] Осколок Чины Курамото",
       "description": "Предмет для Пробуждения и разблокировки Продюсируемых Айдолов",
@@ -1776,6 +1836,12 @@
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
+      "id": "item-piece-idol_ttmr-3-021",
+      "name": "[「Nee, icchau yo.」] Деталь Temari Tsukimura",
+      "description": "Предмет для пробуждения и разблокировки Продюсируемых Айдолов",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
       "id": "item-play-ticket_april-001",
       "name": "Билет на Live-челлендж",
       "description": "Предмет, позволяющий проходить этапы в Специальных событиях",
@@ -1966,6 +2032,12 @@
       "name": "Билет выбора к 2-й годовщине",
       "description": "Билет для обмена на Продюсируемых Айдолов и Карты Поддержки в магазине билетов",
       "acquisitionRouteDescription": "Shop, etc."
+    },
+    {
+      "id": "item-selection-ticket-007",
+      "name": "Билет выбора поддержки летних каникул",
+      "description": "Билет, который можно обменять на Карты Поддержки в Обмене Билетов.",
+      "acquisitionRouteDescription": "Summer Vacation Coin Gacha"
     },
     {
       "id": "item-staminaregen-1",

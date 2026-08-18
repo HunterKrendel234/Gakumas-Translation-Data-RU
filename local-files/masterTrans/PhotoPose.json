@@ -3956,6 +3956,214 @@
     {
       "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-ttmr",
       "name": "Скрещенные руки"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-amao",
+      "name": "Рука на подбородке"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-atbm",
+      "name": "Руки на бедрах"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-fktn",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-hmsz",
+      "name": "Шепот"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-hrnm",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-hski",
+      "name": "Руки на бедрах"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-hume",
+      "name": "Умоление"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-jsna",
+      "name": "Рука на подбородке"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-kcna",
+      "name": "Милая поза"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-kllj",
+      "name": "Умоляющая"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-shro",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-ssmk",
+      "name": "Рука на подбородке"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-ttmr",
+      "name": "Рука на подбородке"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-amao",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-hmsz",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-hrnm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-hski",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-hume",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-jsna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-kcna",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-kllj",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-shro",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-ssmk",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-ttmr",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-amao",
+      "name": "Поворот"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-atbm",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-fktn",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-hmsz",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-hrnm",
+      "name": "Умоляющая"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-hski",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-hume",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-jsna",
+      "name": "Разворот"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-kcna",
+      "name": "Шепот"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-kllj",
+      "name": "Шепот"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-shro",
+      "name": "Шепчет"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-ssmk",
+      "name": "Вид со всех сторон"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-ttmr",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-amao",
+      "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-atbm",
+      "name": "Скрещенные руки"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-fktn",
+      "name": "Подмигивание и знак мира"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-hmsz",
+      "name": "Улыбка"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-hrnm",
+      "name": "Изящная улыбка"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-hski",
+      "name": "Руки сцеплены"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-hume",
+      "name": "Восторг"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-jsna",
+      "name": "Гордая поза"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-kcna",
+      "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-kllj",
+      "name": "Небольшой наклон"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-shro",
+      "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-ssmk",
+      "name": "Бодрый"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-ttmr",
+      "name": "Рука вперед"
     }
   ]
 }

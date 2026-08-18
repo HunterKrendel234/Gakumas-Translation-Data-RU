@@ -56,6 +56,11 @@
       "description": "Жреб"
     },
     {
+      "id": "box-gasha-event-021_box_01_button",
+      "name": "Жребий",
+      "description": "Жребий"
+    },
+    {
       "id": "coin_gasha_button-1-001",
       "name": "Вытянуть 1",
       "description": "Вытянуть 1"
@@ -79,6 +84,11 @@
       "id": "coin_gasha_button-18m-aniv-001",
       "name": "Жребий x1",
       "description": "Жреб 1"
+    },
+    {
+      "id": "coin_gasha_button-2026-summer",
+      "name": "1 попытка",
+      "description": "1 попытка"
     },
     {
       "id": "coin_gasha_button-anniversary-001",
