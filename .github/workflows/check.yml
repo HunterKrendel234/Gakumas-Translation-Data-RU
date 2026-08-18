@@ -3,7 +3,7 @@ name: Check
 on:
   push:
     branches:
-      - '**'
+      - 'main'
     tags-ignore:
       - '**'
   pull_request:
@@ -38,6 +38,7 @@ jobs:
     runs-on: ubuntu-22.04
 
     needs: validate
+    if: github.event_name != 'pull_request'
 
     permissions:
       contents: write
