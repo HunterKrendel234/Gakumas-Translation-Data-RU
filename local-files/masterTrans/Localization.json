@@ -50,6 +50,14 @@
       "description": "Обменено"
     },
     {
+      "id": "grade_mission.top.button.idol.disabled",
+      "description": "Нет результатов продюсирования"
+    },
+    {
+      "id": "grade_mission.top.next_mission.description",
+      "description": "Получите Шанс {0} или выше с {1} айдолами"
+    },
+    {
       "id": "high_score_event.top.adv.title_label",
       "description": "Месяц усиления айдолов\n〜Сияние звёзд〜"
     },
@@ -112,6 +120,14 @@
     {
       "id": "picturebook.live.select.skin.lock",
       "description": " "
+    },
+    {
+      "id": "produce_card_skin.preview_overlay.label.select_skin",
+      "description": "Вы можете увидеть эффекты при использовании Карт Навыка."
+    },
+    {
+      "id": "produce_card_skin.top.label.description",
+      "description": "Вы можете изменить внешний вид Карт Навыка и некоторых отображаемых Эффектов."
     },
     {
       "id": "produce_prepare.easy_mode_apply",
@@ -246,6 +262,26 @@
       "description": "Только подходящие P-айдолы могут участвовать в режиме события"
     },
     {
+      "id": "setting.preference.live.camera.angle_horizontal",
+      "description": "Подготовка"
+    },
+    {
+      "id": "setting.preference.live.camera.angle_vertical",
+      "description": "Подготовка"
+    },
+    {
+      "id": "setting.preference.live.camera.description",
+      "description": "При включении этой опции движение камеры будет инвертировано при использовании управления жестами во время Live записи."
+    },
+    {
+      "id": "setting.preference.live.camera.description_panorama",
+      "description": ""
+    },
+    {
+      "id": "setting.preference.live.camera.position_depth",
+      "description": "Переключить камеру"
+    },
+    {
       "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",
       "description": "Показать сообщение подтверждения при разблокировке или усилении бонусов H.I.F."
     },
@@ -308,6 +344,14 @@
     {
       "id": "setting.produce.select_change_card_confirm.description",
       "description": "Показать сообщение подтверждения при выборе и смене Skill Card."
+    },
+    {
+      "id": "shop.need_init.description",
+      "description": "Получение информации.\nПожалуйста, обновите."
+    },
+    {
+      "id": "shop.need_init.title",
+      "description": "Информация"
     },
     {
       "id": "shop.web_store.confirm.description",

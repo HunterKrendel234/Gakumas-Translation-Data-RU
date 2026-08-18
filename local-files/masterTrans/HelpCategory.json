@@ -205,6 +205,13 @@
       "hiddenHelpList": false
     },
     {
+      "id": "help-produce_card_skin",
+      "order": 99,
+      "name": "Скин Карты Навыка",
+      "texts": [],
+      "hiddenHelpList": false
+    },
+    {
       "id": "help-producer-ranking",
       "order": 24,
       "name": "Рейтинг продюсеров",

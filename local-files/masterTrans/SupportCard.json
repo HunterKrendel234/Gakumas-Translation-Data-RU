@@ -1437,6 +1437,22 @@
       "name": "М-м, арбуз — просто объедение!"
     },
     {
+      "id": "s_card-2-0078",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ Medium"
+        }
+      ],
+      "name": "Испытание коньяка"
+    },
+    {
       "id": "s_card-2-0079",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -3131,6 +3147,22 @@
         }
       ],
       "name": "Развлеки меня"
+    },
+    {
+      "id": "s_card-3-0106",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ High"
+        }
+      ],
+      "name": "Хорошо пишет обзоры еды!"
     },
     {
       "id": "s_card-3-0108",
