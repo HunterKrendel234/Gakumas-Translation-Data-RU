@@ -9518,6 +9518,121 @@
       ]
     },
     {
+      "id": "enchant-p_card-02-ido-3_069-enc01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_OnHitEffect",
+          "text": "Direct Effect "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamCardPlayAggressive_Produce",
+          "text": "Motivation "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "increases, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamCardPlayAggressive_Produce",
+          "text": "Motivation "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectValue1",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "3 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamCount",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
       "id": "enchant-p_card-02-ido-3_073-enc01",
       "produceDescriptions": [
         {
@@ -9569,6 +9684,101 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "1 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamCount",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "enchant-p_card-02-ido-3_073-enc02",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamBlock",
+          "text": "Energy "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "After using a skill card with effects, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "Good Impression "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectValue1",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "2 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17199,6 +17409,131 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "</nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamCount",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "enchant-p_card-03-ido-3_239-enc01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_OnHitEffect",
+          "text": "Direct Effect "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "Confident "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "When it reaches 2nd phase, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Stamina cost of the next Skill Card used <nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectValue1",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "0"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr> (<nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectCount",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "1 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "x</nobr>) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -89473,6 +89808,336 @@
       ]
     },
     {
+      "id": "enchant-p_item_effect_01-3-340-0-enc01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Every 3 turns, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_StyleDot",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamBlock",
+          "text": "Energy "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectValue1",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "3 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_StyleDot",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "Focus "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectValue1",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "2 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamCount",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "enchant-p_item_effect_01-3-340-1-enc01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Every 3 turns, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_StyleDot",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamBlock",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamBlock",
+          "text": "Energy "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectValue1",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "5 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_StyleDot",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "Focus "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectValue1",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "3 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamCount",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
       "id": "enchant-p_item_effect_02-0-002-0-000-enc01",
       "produceDescriptions": [
         {
@@ -145049,6 +145714,396 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "+3 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamCount",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "enchant-p_item_effect_03-3-339-0-enc01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "Confident "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "when using a skill card with an effect, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "Confident "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "For the second phase,  "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_StyleDot",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentrationLessonMultipleAdditive",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentrationLessonMultipleAdditive",
+          "text": "Confidence Boost "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectValuePercent1",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "35 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "%</nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_StyleDot",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "next turn, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Change to "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamTurn",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_ExamCount",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "enchant-p_item_effect_03-3-339-1-enc01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "Confident "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "when using a skill card with an effect, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "Confident "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "For the second phase,  "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_StyleDot",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentrationLessonMultipleAdditive",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentrationLessonMultipleAdditive",
+          "text": "Confidence Boost "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "<nobr>+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_Exam",
+          "examDescriptionType": "ExamDescriptionType_CustomizeEffectValuePercent1",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "60 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "%</nobr>"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_StyleDot",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "next turn, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "Preservation "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Change to "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
