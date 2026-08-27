@@ -283,6 +283,12 @@
       "description": "Гача на 10 раз"
     },
     {
+      "id": "gasha_button-00988-wednesday-001-ticket-01",
+      "order": 2,
+      "name": "Призыв билетом",
+      "description": "Притянуть билетом"
+    },
+    {
       "id": "gasha_button-010-item_01",
       "order": 3,
       "name": "Гача предметов (10 раз)",

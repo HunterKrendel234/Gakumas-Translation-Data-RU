@@ -6334,6 +6334,38 @@
       "name": "Завершите Продюсирование после получения Карты Навыка «Климáкс»"
     },
     {
+      "id": "mission-research-event-007-mission_1",
+      "name": "Заходите в течение {threshold} дней!"
+    },
+    {
+      "id": "mission-research-event-007-mission_10",
+      "name": "Завершите Продюсирование после получения Карты Навыка \"To the Shining You\""
+    },
+    {
+      "id": "mission-research-event-007-mission_11",
+      "name": "Завершите Продюсирование после получения Карты Навыка \"Happy Charm\""
+    },
+    {
+      "id": "mission-research-event-007-mission_12",
+      "name": "Завершено Уроки SP {threshold} раз(а)"
+    },
+    {
+      "id": "mission-research-event-007-mission_2",
+      "name": "План: Сдать Финальный Экзамен {threshold} раз с Продюсируемым Айдолом типа Чутьё"
+    },
+    {
+      "id": "mission-research-event-007-mission_3",
+      "name": "Обмен консультациями {threshold} раз(а) в производстве"
+    },
+    {
+      "id": "mission-research-event-007-mission_8",
+      "name": "Завершите Продюсирование после получения Карты Навыка \"Dreamy Lips\""
+    },
+    {
+      "id": "mission-research-event-007-mission_9",
+      "name": "Завершите Продюсирование после получения Карты Навыка \"I Am a Star\""
+    },
+    {
       "id": "mission-story-event-001-mission_1",
       "name": "Давай зайдем на {threshold} дней!"
     },
@@ -8020,6 +8052,30 @@
     {
       "id": "achieve-i_card-hmsz-3-016-06",
       "name": "【VEIL】Установите Этап Тренировки Misuzu Hataya в {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-020-01",
+      "name": "【「Nee, icchau yo.」】Сдайте Финальный Экзамен, производя Misuzu Hataya"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-020-02",
+      "name": "【「Nee, icchau yo.」】Повысить Этап Тренировки Misuzu Hataya до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-020-03",
+      "name": "【「Nee, icchau yo.」】Получите оценку A+ или выше {threshold} раз при создании Misuzu Hataya"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-020-04",
+      "name": "【「Nee, icchau yo.」】Повысить Этап Тренировки Misuzu Hataya до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-020-05",
+      "name": "【「Nee, icchau yo.」】Повысить Этап Тренировки Misuzu Hataya до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-020-06",
+      "name": "【「Nee, icchau yo.」】Повысить Тренировочный этап Misuzu Hataya до {threshold}"
     },
     {
       "id": "achieve-i_card-hrnm-2-000-04",

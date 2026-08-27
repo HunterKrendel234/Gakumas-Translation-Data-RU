@@ -134,6 +134,10 @@
       "name": "Очки «Слеза» (Misuzu Hataya)"
     },
     {
+      "id": "shop_costume_costume_head_hmsz-hair-0008",
+      "name": "Собачьи ушки (Misuzu Hataya)"
+    },
+    {
       "id": "shop_costume_costume_head_hrnm-hair-0001",
       "name": "Украшение для волос «Гортензия» (Rinami Himesaki)"
     },
@@ -198,6 +202,10 @@
       "name": "Очки «Слеза» (Ume Hanami)"
     },
     {
+      "id": "shop_costume_costume_head_hume-hair-0008",
+      "name": "Собачьи уши (Ume Hanami)"
+    },
+    {
       "id": "shop_costume_costume_head_jsna-hair-0001",
       "name": "Украшение для волос «Гортензия» (Sena Juo)"
     },
@@ -240,6 +248,10 @@
     {
       "id": "shop_costume_costume_head_kcna-hair-0007",
       "name": "Очки «Слеза» (China Kuramoto)"
+    },
+    {
+      "id": "shop_costume_costume_head_kcna-hair-0008",
+      "name": "Собачьи ушки (China Kuramoto)"
     },
     {
       "id": "shop_costume_costume_head_kllj-hair-0001",
@@ -292,6 +304,10 @@
     {
       "id": "shop_costume_costume_head_shro-hair-0007",
       "name": "Очки «Слеза» (Hiro Shinosawa)"
+    },
+    {
+      "id": "shop_costume_costume_head_shro-hair-0008",
+      "name": "Собачьи ушки (Hiro Shinosawa)"
     },
     {
       "id": "shop_costume_costume_head_ssmk-hair-0001",
@@ -1104,6 +1120,10 @@
     {
       "id": "shop_pass_item-0028",
       "name": "Премиум-пропуск миссий на август 2026 года"
+    },
+    {
+      "id": "shop_pass_item-0029",
+      "name": "Премиум Пропуск Миссий сентябрь 2026"
     }
   ]
 }

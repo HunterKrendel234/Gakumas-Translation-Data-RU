@@ -506,6 +506,16 @@
       "description": "【Star-mine】Получено на 4-м этапе Расцвета Таланта Misuzu Hataya"
     },
     {
+      "id": "costume_head_hmsz-cstm-0173",
+      "name": "「Nee, icchau yo.」",
+      "description": "【Nee, icchau yo.」】Получите Misuzu Hataya"
+    },
+    {
+      "id": "costume_head_hmsz-cstm-0174",
+      "name": "「Nee, icchau yo.」",
+      "description": "【Nee, icchau yo.」】Получить на 4-м Этапе Цветения таланта Misuzu Hataya"
+    },
+    {
       "id": "costume_head_hmsz-hair-0001",
       "name": "Украшение для волос «Гортензия»",
       "description": "Купить украшение для волос «Гортензия» (Misuzu Hataya)"
@@ -559,6 +569,11 @@
       "id": "costume_head_hmsz-hair-0029",
       "name": "VEIL (градиент)",
       "description": "【VEIL】Получено Misuzu Hataya"
+    },
+    {
+      "id": "costume_head_hmsz-hair-0038",
+      "name": "Маскировочные очки",
+      "description": "Премиум Пропуск Миссий в сентябре 2026"
     },
     {
       "id": "costume_head_hmsz-schl-0000",
@@ -1491,6 +1506,11 @@
       "description": "【Атмосфера】Получите Lilja Katsuragi"
     },
     {
+      "id": "costume_head_kllj-hair-0038",
+      "name": "Маскировочные очки",
+      "description": "Премиум Пропуск Миссий в сентябре 2026"
+    },
+    {
       "id": "costume_head_kllj-schl-0000",
       "name": "Повседневная прическа",
       "description": "В наличии с самого начала"
@@ -1779,6 +1799,11 @@
       "id": "costume_head_ssmk-hair-0030",
       "name": "Любовь и радость (Градиент)",
       "description": "【Love & Joy】Получите Sumika Shiun"
+    },
+    {
+      "id": "costume_head_ssmk-hair-0038",
+      "name": "Маскировочные очки",
+      "description": "Премиум Пропуск Миссий в сентябре 2026"
     },
     {
       "id": "costume_head_ssmk-schl-0000",

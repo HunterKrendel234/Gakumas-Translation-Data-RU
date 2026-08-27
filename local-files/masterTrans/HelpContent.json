@@ -1910,6 +1910,13 @@
       "order": 2,
       "name": "Правила Айдол Роуд",
       "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/b5e4178d9a7ddabb5b0c82258acf4830459e35d0928499d25b65e43193b1dc69/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-trail",
+      "id": "trail",
+      "order": 1,
+      "name": "Запоминающийся наряд",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/0d5915c13562bd46b260d3ff4653ad458006d89e490d8f441ce895d54b3ced92/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
     }
   ]
 }

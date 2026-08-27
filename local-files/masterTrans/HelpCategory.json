@@ -266,6 +266,13 @@
       "name": "Дорога Айдола",
       "texts": [],
       "hiddenHelpList": false
+    },
+    {
+      "id": "help-trail",
+      "order": 30,
+      "name": "Запоминающийся наряд",
+      "texts": [],
+      "hiddenHelpList": true
     }
   ]
 }
