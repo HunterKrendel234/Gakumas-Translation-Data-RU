@@ -13043,6 +13043,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-hmsz-3-020-01",
+      "title": "「Nee, icchau yo.」Эп.1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-020-02",
+      "title": "「Nee, icchau yo.」Эп.2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-020-03",
+      "title": "「Nee, icchau yo.」Эп.3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-hrnm-3-000-01",
       "title": "Clumsy trick Эп.1",
       "produceEventHintProduceConditionDescriptions": []
@@ -14968,6 +14983,16 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-2-0055-01",
+      "title": "Давай полностью отключимся",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0055-02",
+      "title": "Мы в режиме \"Не беспокоить\"",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-2-0056-01",
       "title": "Всё строже и строже",
       "produceEventHintProduceConditionDescriptions": []
@@ -16785,6 +16810,21 @@
     {
       "id": "p_story-s_card-3-0106-03",
       "title": "Потому что я люблю быть Айдолом",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0107-01",
+      "title": "Лето в нашем стиле",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0107-02",
+      "title": "Создаем летние записи вместе",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0107-03",
+      "title": "Ты не любишь острую еду?",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

@@ -262,20 +262,8 @@
       "description": "Только подходящие P-айдолы могут участвовать в режиме события"
     },
     {
-      "id": "setting.preference.live.camera.angle_horizontal",
-      "description": "Подготовка"
-    },
-    {
-      "id": "setting.preference.live.camera.angle_vertical",
-      "description": "Подготовка"
-    },
-    {
       "id": "setting.preference.live.camera.description",
       "description": "При включении этой опции движение камеры будет инвертировано при использовании управления жестами во время Live записи."
-    },
-    {
-      "id": "setting.preference.live.camera.description_panorama",
-      "description": ""
     },
     {
       "id": "setting.preference.live.camera.position_depth",
@@ -344,6 +332,10 @@
     {
       "id": "setting.produce.select_change_card_confirm.description",
       "description": "Показать сообщение подтверждения при выборе и смене Skill Card."
+    },
+    {
+      "id": "setting.produce.support_event_produce_card_upgrade",
+      "description": "Получите улучшенную Карту Навыка"
     },
     {
       "id": "shop.need_init.description",

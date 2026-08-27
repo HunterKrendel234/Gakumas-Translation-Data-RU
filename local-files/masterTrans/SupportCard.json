@@ -1101,6 +1101,22 @@
       "name": "Хитрое модное шоу"
     },
     {
+      "id": "s_card-2-0055",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ Medium"
+        }
+      ],
+      "name": "Устраиваюсь на ночь"
+    },
+    {
       "id": "s_card-2-0056",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -3163,6 +3179,22 @@
         }
       ],
       "name": "Хорошо пишет обзоры еды!"
+    },
+    {
+      "id": "s_card-3-0107",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ High"
+        }
+      ],
+      "name": "Еще одна драгоценная запись"
     },
     {
       "id": "s_card-3-0108",

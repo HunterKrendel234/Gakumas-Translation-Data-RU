@@ -570,6 +570,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-wednesday-260826",
+      "name": "Гача-билет Гакумас в среду",
+      "description": "Билет для Гачи Gakumas Wednesday",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-wednesday-fainal-26-001-1",
       "name": "Специальный билет Саки",
       "description": "Билет для ежедневной Гачи «Gakuen Wednesday Final Season»",
@@ -837,6 +843,12 @@
       "id": "item-medal-research-event-006",
       "name": "Семинарный Тануки",
       "description": "Предмет, который можно обменять на различные награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-research-event-007",
+      "name": "Семинар Тануки",
+      "description": "Предмет для обмена на различные награды в магазине события",
       "acquisitionRouteDescription": "Produce, etc."
     },
     {
@@ -1179,6 +1191,12 @@
       "id": "item-piece-idol_hmsz-3-016",
       "name": "[VEIL] Осколок Мисузу Хатая",
       "description": "Предмет для Пробуждения и разблокировки Продюсируемых Айдолов",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_hmsz-3-020",
+      "name": "[「Nee, icchau yo.」] Часть Misuzu Hataya",
+      "description": "Предмет, используемый для пробуждения и разблокировки Продюсируемых Айдолов",
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
@@ -1995,6 +2013,12 @@
       "id": "item-research-event-006",
       "name": "Наклейка Асари-сенсея",
       "description": "Предмет для перекатки способностей Записи в событии Семинара по Продюсированию Асари-Сэнсэй",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-research-event-007",
+      "name": "Asari-Стикер Sensei",
+      "description": "Предмет, используемый для перекатки способностей Записи в событии Семинара по Продюсированию Asari-Sensei",
       "acquisitionRouteDescription": "Produce, etc."
     },
     {
