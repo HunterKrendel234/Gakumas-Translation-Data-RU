@@ -246,6 +246,36 @@
       "description": "【SUGAR FLAVOR】Повысьте уровень тренировки Mao Arimura до {threshold}"
     },
     {
+      "id": "achieve-i_card-amao-3-018-01",
+      "name": "Обнимающий свет",
+      "description": "【Shirube】Сдайте Финальный Экзамен, производя Mao Arimura"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-02",
+      "name": "Shirube",
+      "description": "【Shirube】Повысьте Этап Тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-03",
+      "name": "Стать самым крутым принцем в мире",
+      "description": "【Shirube】Получите рейтинг A+ или выше {threshold} раз при производстве Mao Arimura"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-04",
+      "name": "Shirube +",
+      "description": "【Shirube】Повысьте Этап Тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-05",
+      "name": "Shirube ++",
+      "description": "【Shirube】Повысьте Этап Тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-06",
+      "name": "Shirube +++",
+      "description": "【Shirube】Повысьте Этап Тренировки Mao Arimura до {threshold}"
+    },
+    {
       "id": "achieve-i_card-atbm-2-000-01",
       "name": "Вспышка фиолетовой молнии",
       "description": "【Single-Minded】Пройдите Финальный Экзамен, производя Tsubame Amaya"
@@ -2316,6 +2346,36 @@
       "description": "【Michinaru Hirogaru】Повысьте этап тренировки SP China Kuramoto до {threshold}"
     },
     {
+      "id": "achieve-i_card-kcna-3-018-01",
+      "name": "Все на борт, поехали～♪",
+      "description": "【Shirube】Сдайте Финальный Экзамен, производя China Kuramoto"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-02",
+      "name": "Shirube",
+      "description": "【Shirube】Повысьте Этап Тренировки China Kuramoto до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-03",
+      "name": "Достойный меня",
+      "description": "【Shirube】Получите рейтинг A+ или выше {threshold} раз при производстве China Kuramoto"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-04",
+      "name": "Shirube +",
+      "description": "【Shirube】Повысьте Этап Тренировки China Kuramoto до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-05",
+      "name": "Shirube ++",
+      "description": "【Shirube】Повысьте Этап Тренировки China Kuramoto до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-06",
+      "name": "Shirube +++",
+      "description": "【Shirube】Повысьте Этап Тренировки China Kuramoto до {threshold}"
+    },
+    {
       "id": "achieve-i_card-kllj-2-000-04",
       "name": "За пределами первого шага +",
       "description": "【На шаг впереди】Повысьте этап тренировки SP Lilja Katsuragi до {threshold}"
@@ -3124,6 +3184,36 @@
       "id": "achieve-i_card-ssmk-3-017-06",
       "name": "Tokimeki Emotion +++",
       "description": "【Tokimeki Emotion】Установите Этап Тренировки Sumika Shiun на {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-01",
+      "name": "Желание ответить",
+      "description": "【Shirube】Сдайте Финальный Экзамен, производя Sumika Shiun"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-02",
+      "name": "Shirube",
+      "description": "【Shirube】Повысьте Этап Тренировки Sumika Shiun до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-03",
+      "name": "Я исполню свои мечты!",
+      "description": "【Shirube】Получите рейтинг A+ или выше {threshold} раз при производстве Sumika Shiun"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-04",
+      "name": "Shirube +",
+      "description": "【Shirube】Повысьте Этап Тренировки Sumika Shiun до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-05",
+      "name": "Shirube ++",
+      "description": "【Shirube】Повысьте Этап Тренировки Sumika Shiun до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-06",
+      "name": "Shirube +++",
+      "description": "【Shirube】Повысьте Этап Тренировки Sumika Shiun до {threshold}"
     },
     {
       "id": "achieve-i_card-ttmr-2-000-04",
