@@ -25,6 +25,12 @@
       "description": "Платная 10-кратная Гача"
     },
     {
+      "id": "gasha_button_01000-ssr-idol-001",
+      "order": 1,
+      "name": "Платная 10-кратная Гача",
+      "description": "Платная 10-кратная Гача"
+    },
+    {
       "id": "gasha_button_animate-ssr-00630",
       "order": 1,
       "name": "Платная Гача на 10 круток",
@@ -299,6 +305,12 @@
       "order": 3,
       "name": "Гача на 10 попыток",
       "description": "Гача-билет на 10 круток"
+    },
+    {
+      "id": "gasha_button-01000-wednesday-001",
+      "order": 1,
+      "name": "Вытяните с билетом Гача Gakumas wednesday",
+      "description": "Притянуть билетом"
     },
     {
       "id": "gasha_button-640-fes",

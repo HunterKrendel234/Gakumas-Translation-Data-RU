@@ -6734,6 +6734,34 @@
       "name": "Завершено Уроков SP {threshold} время(ы)"
     },
     {
+      "id": "mission-tour-event-006-mission_1",
+      "name": "Заходите в течение {threshold} дней!"
+    },
+    {
+      "id": "mission-tour-event-006-mission_2",
+      "name": "Сдайте финальный экзамен {threshold} раз(а)"
+    },
+    {
+      "id": "mission-tour-event-006-mission_3",
+      "name": "Пройдите и завершите {threshold} этапов в событии"
+    },
+    {
+      "id": "mission-tour-event-006-mission_4",
+      "name": "Пройдите и завершите {threshold} этапов в событии с Hype Lv. 1 или выше"
+    },
+    {
+      "id": "mission-tour-event-006-mission_5",
+      "name": "Пройдите и завершите {threshold} этапов в событии с Hype Lv. 2 или выше"
+    },
+    {
+      "id": "mission-tour-event-006-mission_6",
+      "name": "Пройдите и завершите {threshold} этапов в событии с Hype Lv. 3 или выше"
+    },
+    {
+      "id": "mission-tour-event-006-mission_7",
+      "name": "Завершено SP Уроков {threshold} раз(а)"
+    },
+    {
       "id": "mission-weekly-competitionplaycount-1",
       "name": "Участвуйте в Командных Турнирах {threshold} раз"
     },
@@ -7572,6 +7600,30 @@
     {
       "id": "achieve-i_card-amao-3-017-06",
       "name": "【SUGAR FLAVOR】Повысьте этап тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-01",
+      "name": "【Shirube】Сдайте Финальный Экзамен, производя Mao Arimura"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-02",
+      "name": "【Shirube】Повысьте Этап Тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-03",
+      "name": "【Shirube】Получите оценку A+ или выше {threshold} раз при создании Mao Arimura"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-04",
+      "name": "【Shirube】Повысьте Этап Тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-05",
+      "name": "【Shirube】Повысьте Этап Тренировки Mao Arimura до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-06",
+      "name": "【Shirube】Повысьте Этап Тренировки Mao Arimura до {threshold}"
     },
     {
       "id": "achieve-i_card-atbm-2-000-01",
@@ -9230,6 +9282,30 @@
       "name": "【Michinaru Hirogaru】Повысьте Этап тренировки SP China Kuramoto до {threshold}"
     },
     {
+      "id": "achieve-i_card-kcna-3-018-01",
+      "name": "【Shirube】Сдайте Финальный Экзамен, производя China Kuramoto"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-02",
+      "name": "【Shirube】Повысьте Этап Тренировки China Kuramoto до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-03",
+      "name": "【Shirube】Получите оценку A+ или выше {threshold} раз при производстве China Kuramoto"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-04",
+      "name": "【Shirube】Повысьте Этап Тренировки China Kuramoto до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-05",
+      "name": "【Shirube】Повысьте Этап Тренировки China Kuramoto до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-06",
+      "name": "【Shirube】Повысьте Этап Тренировки China Kuramoto до {threshold}"
+    },
+    {
       "id": "achieve-i_card-kllj-2-000-04",
       "name": "【Один шаг впереди】Установите этап тренировки SP Lilja Katsuragi на {threshold}"
     },
@@ -9876,6 +9952,30 @@
     {
       "id": "achieve-i_card-ssmk-3-017-06",
       "name": "【Tokimeki Emotion】Установите {threshold} этапа Тренировки Сумики Сиун"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-01",
+      "name": "【Shirube】Сдайте Финальный Экзамен, производя Sumika Shiun"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-02",
+      "name": "【Shirube】Повысить Этап Тренировки Sumika Shiun до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-03",
+      "name": "【Shirube】Получите оценку A+ или выше {threshold} раз при производстве Sumika Shiun"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-04",
+      "name": "【Shirube】Повысьте Этап Тренировки Sumika Shiun до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-05",
+      "name": "【Shirube】Повысьте Этап Тренировки Sumika Shiun до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-06",
+      "name": "【Shirube】Повысьте Этап Тренировки Sumika Shiun до {threshold}"
     },
     {
       "id": "achieve-i_card-ttmr-2-000-04",

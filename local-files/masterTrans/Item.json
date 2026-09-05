@@ -456,6 +456,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-new-wednesday-26-0909-1",
+      "name": "Билет на Гачу Gakumas в среду",
+      "description": "Билет для Гачи Gakumas Wednesday",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-fix_1",
       "name": "Исправленный билет SSR Гачи",
       "description": "Билет, используемый в Гаче с гарантированным SSR-билетом",
@@ -942,6 +948,12 @@
       "acquisitionRouteDescription": "Live Tour Event, Produce"
     },
     {
+      "id": "item-medal-tour-event-006",
+      "name": "Медаль фестиваля Hatsuboshi",
+      "description": "Предмет для обмена на различные награды в магазине события",
+      "acquisitionRouteDescription": "Event \"Our Last Culture Festival\", Produce"
+    },
+    {
       "id": "item-memory_exchange-class1",
       "name": "Монета Чутья",
       "description": "Монета для Гачи Чутья",
@@ -1035,6 +1047,12 @@
       "id": "item-piece-idol_amao-3-017",
       "name": "[SUGAR FLAVOR] Осколок Mao Arimura",
       "description": "Предмет для Пробуждения и разблокировки Продюсируемых Айдолов",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_amao-3-018",
+      "name": "[Shirube] Mao Arimura Деталь",
+      "description": "Предмет для пробуждения и разблокировки Продюсируемых Айдолов",
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
@@ -1566,6 +1584,12 @@
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
+      "id": "item-piece-idol_kcna-3-018",
+      "name": "[Shirube] China Kuramoto Деталь",
+      "description": "Предмет для пробуждения и разблокировки Продюсируемых Айдолов",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
       "id": "item-piece-idol_kllj-1-000",
       "name": "[Жизнь в кампусе] Осколок Lilja Katsuragi",
       "description": "Предмет для Пробуждения и разблокировки Продюсируемых Айдолов",
@@ -1782,6 +1806,12 @@
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
+      "id": "item-piece-idol_ssmk-3-018",
+      "name": "[Shirube] Sumika Shiun Деталь",
+      "description": "Предмет для пробуждения и разблокировки Продюсируемых Айдолов",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
       "id": "item-piece-idol_ttmr-1-000",
       "name": "[Жизнь в кампусе] Осколок Темари Цукимиры",
       "description": "Предмет для Пробуждения и разблокировки Продюсируемых Айдолов",
@@ -1876,6 +1906,12 @@
       "name": "Билет на Live-челлендж (Сибуя)",
       "description": "Предмет, позволяющий проходить этапы в Live Tour Event",
       "acquisitionRouteDescription": "Live Tour Event"
+    },
+    {
+      "id": "item-play-ticket_tour-event-006",
+      "name": "Билет на фестиваль Hatsuboshi",
+      "description": "Предмет, позволяющий пройти этап в событии \"Our Last Culture Festival\"",
+      "acquisitionRouteDescription": "Event \"Our Last Culture Festival\""
     },
     {
       "id": "item-primastellamaterial-common-001",
