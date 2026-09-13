@@ -60,6 +60,13 @@
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "type": "ProduceAdvType_Opening",
+      "produceSplitTypes": "ProduceSplitType_Selection",
+      "targetCharacterId": "jsna",
+      "title": "Квалификация H.I.F"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "",
       "title": "Финал H.I.F"
@@ -69,6 +76,13 @@
       "type": "ProduceAdvType_Opening",
       "produceSplitTypes": "ProduceSplitType_Final",
       "targetCharacterId": "hski",
+      "title": "Финал H.I.F"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "type": "ProduceAdvType_Opening",
+      "produceSplitTypes": "ProduceSplitType_Final",
+      "targetCharacterId": "jsna",
       "title": "Финал H.I.F"
     },
     {

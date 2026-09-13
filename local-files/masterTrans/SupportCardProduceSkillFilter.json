@@ -57,6 +57,11 @@
       "title": "Повышение параметров при смене Карт Навыка"
     },
     {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-change_produce_card-p_card_search-deck_all-starter",
+      "order": 38,
+      "title": "Увеличение параметров при изменении базовой карты"
+    },
+    {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-customize_produce_card",
       "order": 32,
       "title": "Увеличение параметров при кастомизации Карт Навыка"
@@ -80,6 +85,11 @@
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition",
       "order": 25,
       "title": "Повышение параметров после Экзаменов/Прослушиваний"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition-produce_card_search_count-p_card_search-deck_all-0015_0000",
+      "order": 39,
+      "title": "Увеличение параметров, если при окончании Экзамена/Прослушивания есть 15 или более Карт Навыка"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_sp-produce_card_count-0020_0000",

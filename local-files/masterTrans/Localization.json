@@ -354,6 +354,10 @@
       "description": "Гача, где можно получить эти обменные очки"
     },
     {
+      "id": "story.idol.others.birthday",
+      "description": "Другие"
+    },
+    {
       "id": "story.story_event.section.normal_condition_lock_text",
       "description": "Заработайте очки события и прочитайте предыдущую комью для разблокировки "
     },

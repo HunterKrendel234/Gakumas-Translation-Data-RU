@@ -3069,6 +3069,22 @@
       "name": "Большой спортивный праздник!"
     },
     {
+      "id": "s_card-3-0099",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ High"
+        }
+      ],
+      "name": "Событие скоро, не так ли?"
+    },
+    {
       "id": "s_card-3-0100",
       "upgradeProduceCardProduceDescriptions": [
         {

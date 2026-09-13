@@ -3898,6 +3898,76 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-003-fktn-after_step_before_audition_mid1-1",
+      "title": "Наконец-то этот день",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-before-selection-01-01",
+      "title": "К 1-й Квалификации",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-before-selection-02-01",
+      "title": "К 2-й квалификации",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-before-selection-03-01",
+      "title": "К 3-й квалификации",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-final-failure-01",
+      "title": "Я не хочу, чтобы всё закончилось",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-main_match-opening-01",
+      "title": "А теперь — к Финальному H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-produce-007-after-selection-01-01",
+      "title": "Пройди первую квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-produce-007-after-selection-02-01",
+      "title": "Прорвись сквозь 2-ю квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-produce-007-after-selection-03-01",
+      "title": "Пройдите 3-ю квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-produce-007-selection-ending-a-01",
+      "title": "Прорвись сквозь квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-produce-008-after-final-01-01",
+      "title": "Раунд 1 финалов H.I.F выполнен!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-produce-008-final-ending-a-01",
+      "title": "Победа в финале H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-selection-failure-01",
+      "title": "Это еще не может закончиться",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-fktn-selection-opening-02",
+      "title": "Стремись пройти Квалификацию!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-003-hmsz-after_step_before_audition_mid1-1",
       "title": "Наконец-то этот день",
       "produceEventHintProduceConditionDescriptions": []
@@ -4174,6 +4244,76 @@
     },
     {
       "id": "p_story-003-hume-selection-opening-02",
+      "title": "Стремитесь пройти Квалификацию!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-after_step_before_audition_mid1-1",
+      "title": "Настал тот самый день",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-before-selection-01-01",
+      "title": "К 1-й Квалификации",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-before-selection-02-01",
+      "title": "К 2-й Квалификации",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-before-selection-03-01",
+      "title": "К 3-й квалификации",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-final-failure-01",
+      "title": "Я не хочу, чтобы это закончилось",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-main_match-opening-01",
+      "title": "А теперь — к финалу H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-produce-007-after-selection-01-01",
+      "title": "Пройди первую квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-produce-007-after-selection-02-01",
+      "title": "Пройди 2-ю квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-produce-007-after-selection-03-01",
+      "title": "Пройдите 3-ю Квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-produce-007-selection-ending-a-01",
+      "title": "Пройди квалификацию H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-produce-008-after-final-01-01",
+      "title": "Раунд 1 Финала H.I.F выполнен!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-produce-008-final-ending-a-01",
+      "title": "Победа в финале H.I.F !",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-selection-failure-01",
+      "title": "Это еще не может закончиться",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-jsna-selection-opening-02",
       "title": "Стремитесь пройти Квалификацию!",
       "produceEventHintProduceConditionDescriptions": []
     },
@@ -11483,6 +11623,136 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-event-003_fktn_activity_021",
+      "title": "Напитки на ваш вкус",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_activity_022",
+      "title": "Свидание в аквариуме?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_012",
+      "title": "Высоко оцененные песни",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_013",
+      "title": "Песни, к которым стоит относиться с осторожностью",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_014",
+      "title": "Сегодняшний урок вокала",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_015",
+      "title": "Необходимая сила для H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_016",
+      "title": "О продюсере",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_017",
+      "title": "Prima Stella Sena Juo",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_018",
+      "title": "Высоко оцененные танцы",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_019",
+      "title": "Танцы, на которые стоит обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_020",
+      "title": "Сегодняшний урок танца",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_021",
+      "title": "Достойный Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_022",
+      "title": "О соло- и юнит-выступлениях",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_023",
+      "title": "О H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_024",
+      "title": "Высоко оцененные визуалы",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_025",
+      "title": "Визуалы, на которые стоит обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_026",
+      "title": "Сегодняшний Визуал-Урок",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_027",
+      "title": "О Продюсировании",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_028",
+      "title": "Если я стану Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_029",
+      "title": "О 100PRO",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_030",
+      "title": "Проверка условий～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_031",
+      "title": "Как ты сейчас себя чувствуешь～?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_032",
+      "title": "Проверка условий!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_033",
+      "title": "Как ты сейчас себя чувствуешь?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_034",
+      "title": "Проверка условий♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_fktn_school_035",
+      "title": "Как ты сейчас себя чувствуешь?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-event-003_hmsz_activity_021",
       "title": "Ну, скажи «Ах»...♪",
       "produceEventHintProduceConditionDescriptions": []
@@ -12000,6 +12270,136 @@
     {
       "id": "p_story-event-003_hume_school_035",
       "title": "Как ты себя сейчас чувствуешь?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_activity_021",
+      "title": "Меню мечты!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_activity_022",
+      "title": "Привлекательные виды в аквариуме",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_012",
+      "title": "Высоко оцененные песни",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_013",
+      "title": "Песни, на которые стоит обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_014",
+      "title": "Сегодняшний урок вокала",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_015",
+      "title": "Сила, необходимая для H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_016",
+      "title": "О продюсере",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_017",
+      "title": "Назначенный Айдол — Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_018",
+      "title": "Высоко оцененные танцы",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_019",
+      "title": "Танцы, на которые стоит обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_020",
+      "title": "Сегодняшний урок танца",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_021",
+      "title": "Достойный Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_022",
+      "title": "О соло- и юнит-выступлениях",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_023",
+      "title": "О H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_024",
+      "title": "Высоко оцененные визуалы",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_025",
+      "title": "Визуалы, на которые стоит обратить внимание",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_026",
+      "title": "Сегодняшний Визуал Урока",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_027",
+      "title": "О продюсировании",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_028",
+      "title": "За пределами \"Prima Stella\"",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_029",
+      "title": "О 100PRO",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_030",
+      "title": "Проверка условий～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_031",
+      "title": "Как ты сейчас себя чувствуешь～?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_032",
+      "title": "Проверка условий!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_033",
+      "title": "Как ты сейчас себя чувствуешь?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_034",
+      "title": "Проверка условий♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_jsna_school_035",
+      "title": "Как ты сейчас себя чувствуешь?",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13610,6 +14010,21 @@
     {
       "id": "p_story-i_card-jsna-3-016-03",
       "title": "ENDLESS DANCE Эп.3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-jsna-3-017-01",
+      "title": "【Garakuta Road】Эп.1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-jsna-3-017-02",
+      "title": "【Garakuta Road】Эп.2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-jsna-3-017-03",
+      "title": "【Garakuta Road】Эп.3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -16750,6 +17165,21 @@
     {
       "id": "p_story-s_card-3-0098-03",
       "title": "Кульминация спортивного дня",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0099-01",
+      "title": "Почему стать учителем?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0099-02",
+      "title": "Каков образ учителя?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0099-03",
+      "title": "Кто на самом деле учитель?",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
