@@ -1915,6 +1915,643 @@
       "description": "Достигните 50000 места в рейтинге Temari Tsukimura в сезоне P-Ранг 3",
       "targetIdentityName": "Season 3",
       "targetContentName": "Temari Tsukimura"
+    },
+    {
+      "id": "badge-producerranking_004-amao_01",
+      "name": "ЗВЕЗДА(TOP100)",
+      "description": "Займите место в рейтинге TOP 100 для Mao Arimura в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Mao Arimura"
+    },
+    {
+      "id": "badge-producerranking_004-amao_02",
+      "name": "ЗВЕЗДА(TOP1000)",
+      "description": "Займите место в Рейтинге ТОП-1000 для Mao Arimura в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Mao Arimura"
+    },
+    {
+      "id": "badge-producerranking_004-amao_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в TOP 2000 рейтинга для Mao Arimura в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Mao Arimura"
+    },
+    {
+      "id": "badge-producerranking_004-amao_04",
+      "name": "Сириус (TOP5000)",
+      "description": "Займите место в TOP 5000 рейтинга для Mao Arimura в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Mao Arimura"
+    },
+    {
+      "id": "badge-producerranking_004-amao_05",
+      "name": "Сириус",
+      "description": "Достигните рейтинга в TOP 10000 для Mao Arimura в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Mao Arimura"
+    },
+    {
+      "id": "badge-producerranking_004-amao_06",
+      "name": "Вега",
+      "description": "Займите место в ТОП-30000 рейтинга для Mao Arimura в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Mao Arimura"
+    },
+    {
+      "id": "badge-producerranking_004-amao_07",
+      "name": "Альтаир",
+      "description": "Займите место в TOP 50000 рейтинга для Mao Arimura в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Mao Arimura"
+    },
+    {
+      "id": "badge-producerranking_004-atbm_01",
+      "name": "ЗВЕЗДА(TOP100)",
+      "description": "Займите место в ТОП-100 рейтинга для Tsubame Amaya в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Tsubame Amaya"
+    },
+    {
+      "id": "badge-producerranking_004-atbm_02",
+      "name": "ЗВЕЗДА (TOP1000)",
+      "description": "Займите место в ТОП-1000 рейтинга для Tsubame Amaya в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Tsubame Amaya"
+    },
+    {
+      "id": "badge-producerranking_004-atbm_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в ТОП-2000 рейтинга для Tsubame Amaya в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Tsubame Amaya"
+    },
+    {
+      "id": "badge-producerranking_004-atbm_04",
+      "name": "Сириус (TOP5000)",
+      "description": "Займите место в рейтинге TOP 5000 для Tsubame Amaya в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Tsubame Amaya"
+    },
+    {
+      "id": "badge-producerranking_004-atbm_05",
+      "name": "Сириус",
+      "description": "Займите место в TOP 10000 рейтинга для Tsubame Amaya в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Tsubame Amaya"
+    },
+    {
+      "id": "badge-producerranking_004-atbm_06",
+      "name": "Вега",
+      "description": "Достигните рейтинга в TOP 30000 для Tsubame Amaya в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Tsubame Amaya"
+    },
+    {
+      "id": "badge-producerranking_004-atbm_07",
+      "name": "Альтаир",
+      "description": "Достигните рейтинга в TOP 50000 для Tsubame Amaya в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Tsubame Amaya"
+    },
+    {
+      "id": "badge-producerranking_004-fktn_01",
+      "name": "ЗВЕЗДА(TOP100)",
+      "description": "Займите место в TOP 100 рейтинга Kotone Fujita в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Kotone Fujita"
+    },
+    {
+      "id": "badge-producerranking_004-fktn_02",
+      "name": "ЗВЕЗДА(TOP1000)",
+      "description": "Получите место в ТОП-1000 рейтинга для Kotone Fujita в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Kotone Fujita"
+    },
+    {
+      "id": "badge-producerranking_004-fktn_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в TOP 2000 рейтинга для Kotone Fujita в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Kotone Fujita"
+    },
+    {
+      "id": "badge-producerranking_004-fktn_04",
+      "name": "Sirius (TOP5000)",
+      "description": "Займите место в ТОП-5000 рейтинга для Kotone Fujita в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Kotone Fujita"
+    },
+    {
+      "id": "badge-producerranking_004-fktn_05",
+      "name": "Сириус",
+      "description": "Займите место в рейтинге TOP 10000 для Kotone Fujita в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Kotone Fujita"
+    },
+    {
+      "id": "badge-producerranking_004-fktn_06",
+      "name": "Вега",
+      "description": "Займите место в ТОП-30000 рейтинга для Kotone Fujita в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Kotone Fujita"
+    },
+    {
+      "id": "badge-producerranking_004-fktn_07",
+      "name": "Альтаир",
+      "description": "Займите место в TOP-50000 рейтинга для Kotone Fujita в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Kotone Fujita"
+    },
+    {
+      "id": "badge-producerranking_004-hmsz_01",
+      "name": "ЗВЕЗДА (TOP100)",
+      "description": "Займите место в ТОП-100 рейтинга для Misuzu Hataya в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Misuzu Hataya"
+    },
+    {
+      "id": "badge-producerranking_004-hmsz_02",
+      "name": "ЗВЕЗДА(TOP1000)",
+      "description": "Займите место в TOP 1000 рейтинга для Misuzu Hataya в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Misuzu Hataya"
+    },
+    {
+      "id": "badge-producerranking_004-hmsz_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в ТОП-2000 рейтинга для Misuzu Hataya в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Misuzu Hataya"
+    },
+    {
+      "id": "badge-producerranking_004-hmsz_04",
+      "name": "Sirius (TOP5000)",
+      "description": "Займите место в рейтинге TOP 5000 для Misuzu Hataya в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Misuzu Hataya"
+    },
+    {
+      "id": "badge-producerranking_004-hmsz_05",
+      "name": "Сириус",
+      "description": "Займите место в ТОП-10000 рейтинга для Misuzu Hataya в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Misuzu Hataya"
+    },
+    {
+      "id": "badge-producerranking_004-hmsz_06",
+      "name": "Вега",
+      "description": "Займите место в рейтинге TOP 30000 для Misuzu Hataya в P-Ранге сезона 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Misuzu Hataya"
+    },
+    {
+      "id": "badge-producerranking_004-hmsz_07",
+      "name": "Альтаир",
+      "description": "Достигните рейтинга в TOP 50000 для Misuzu Hataya в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Misuzu Hataya"
+    },
+    {
+      "id": "badge-producerranking_004-hrnm_01",
+      "name": "ЗВЕЗДА (TOP100)",
+      "description": "Займите место в TOP 100 рейтинга для Rinami Himesaki в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Rinami Himesaki"
+    },
+    {
+      "id": "badge-producerranking_004-hrnm_02",
+      "name": "ЗВЕЗДА(TOP1000)",
+      "description": "Займите место в ТОП-1000 рейтинга для Rinami Himesaki в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Rinami Himesaki"
+    },
+    {
+      "id": "badge-producerranking_004-hrnm_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в ТОП-2000 рейтинга для Rinami Himesaki в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Rinami Himesaki"
+    },
+    {
+      "id": "badge-producerranking_004-hrnm_04",
+      "name": "Sirius (TOP5000)",
+      "description": "Займите место в рейтинге TOP 5000 для Rinami Himesaki в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Rinami Himesaki"
+    },
+    {
+      "id": "badge-producerranking_004-hrnm_05",
+      "name": "Сириус",
+      "description": "Займите место в ТОП-10000 рейтинга для Rinami Himesaki в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Rinami Himesaki"
+    },
+    {
+      "id": "badge-producerranking_004-hrnm_06",
+      "name": "Вега",
+      "description": "Достигните рейтинга TOP 30000 для Rinami Himesaki в сезоне 4 P-Ранга\"",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Rinami Himesaki"
+    },
+    {
+      "id": "badge-producerranking_004-hrnm_07",
+      "name": "Альтаир",
+      "description": "Получите рейтинг в TOP 50000 для Rinami Himesaki в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Rinami Himesaki"
+    },
+    {
+      "id": "badge-producerranking_004-hski_01",
+      "name": "ЗВЕЗДА (TOP100)",
+      "description": "Займите место в рейтинге TOP 100 для Saki Hanami в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Saki Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hski_02",
+      "name": "ЗВЕЗДА(TOP1000)",
+      "description": "Займите место в ТОП-1000 рейтинга для Saki Hanami в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Saki Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hski_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в TOP 2000 рейтинга для Saki Hanami в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Saki Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hski_04",
+      "name": "Сириус (TOP5000)",
+      "description": "Займите место в TOP 5000 рейтинга для Saki Hanami в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Saki Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hski_05",
+      "name": "Сириус",
+      "description": "Достигните рейтинга в TOP 10000 для Saki Hanami в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Saki Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hski_06",
+      "name": "Вега",
+      "description": "Займите место в ТОП-30000 рейтинга для Saki Hanami в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Saki Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hski_07",
+      "name": "Альтаир",
+      "description": "Достигните рейтинга в TOP 50000 для Saki Hanami в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Saki Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hume_01",
+      "name": "ЗВЕЗДА (TOP100)",
+      "description": "Займите место в ТОП-100 рейтинга для Ume Hanami в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Ume Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hume_02",
+      "name": "ЗВЕЗДА (TOP1000)",
+      "description": "Займите место в ТОП-1000 рейтинга для Ume Hanami в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Ume Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hume_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в рейтинге TOP 2000 для Ume Hanami в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Ume Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hume_04",
+      "name": "Сириус (TOP5000)",
+      "description": "Займите место в рейтинге TOP 5000 для Ume Hanami в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Ume Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hume_05",
+      "name": "Сириус",
+      "description": "Займите место в TOP 10000 рейтинга для Ume Hanami в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Ume Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hume_06",
+      "name": "Вега",
+      "description": "Достигните рейтинга в TOP 30000 для Ume Hanami в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Ume Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-hume_07",
+      "name": "Альтаир",
+      "description": "Получите рейтинг в топ-50000 для Ume Hanami в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Ume Hanami"
+    },
+    {
+      "id": "badge-producerranking_004-jsna_01",
+      "name": "ЗВЕЗДА(TOP100)",
+      "description": "Займите место в рейтинге TOP 100 для Sena Juo в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sena Juo"
+    },
+    {
+      "id": "badge-producerranking_004-jsna_02",
+      "name": "ЗВЕЗДА(TOP1000)",
+      "description": "Займите место в TOP 1000 рейтинга для Sena Juo в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sena Juo"
+    },
+    {
+      "id": "badge-producerranking_004-jsna_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в ТОП-2000 рейтинга для Sena Juo в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sena Juo"
+    },
+    {
+      "id": "badge-producerranking_004-jsna_04",
+      "name": "Сириус (TOP5000)",
+      "description": "Получите место в TOP 5000 рейтинга для Sena Juo в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sena Juo"
+    },
+    {
+      "id": "badge-producerranking_004-jsna_05",
+      "name": "Сириус",
+      "description": "Займите место в ТОП-10000 рейтинга для Sena Juo в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sena Juo"
+    },
+    {
+      "id": "badge-producerranking_004-jsna_06",
+      "name": "Вега",
+      "description": "Получите рейтинг в TOP 30000 для Sena Juo в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sena Juo"
+    },
+    {
+      "id": "badge-producerranking_004-jsna_07",
+      "name": "Альтаир",
+      "description": "Достигните рейтинга TOP 50000 для Sena Juo в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sena Juo"
+    },
+    {
+      "id": "badge-producerranking_004-kcna_01",
+      "name": "ЗВЕЗДА(TOP100)",
+      "description": "Займите место в ТОП-100 рейтинга для China Kuramoto в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "China Kuramoto"
+    },
+    {
+      "id": "badge-producerranking_004-kcna_02",
+      "name": "ЗВЕЗДА(TOP1000)",
+      "description": "Займите место в ТОП-1000 рейтинга для China Kuramoto в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "China Kuramoto"
+    },
+    {
+      "id": "badge-producerranking_004-kcna_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в TOP 2000 рейтинга для China Kuramoto в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "China Kuramoto"
+    },
+    {
+      "id": "badge-producerranking_004-kcna_04",
+      "name": "Сириус (TOP5000)",
+      "description": "Займите место в ТОП-5000 рейтинга для China Kuramoto в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "China Kuramoto"
+    },
+    {
+      "id": "badge-producerranking_004-kcna_05",
+      "name": "Сириус",
+      "description": "Получите рейтинг в TOP 10000 для China Kuramoto в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "China Kuramoto"
+    },
+    {
+      "id": "badge-producerranking_004-kcna_06",
+      "name": "Вега",
+      "description": "Получите рейтинг в TOP 30000 для China Kuramoto в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "China Kuramoto"
+    },
+    {
+      "id": "badge-producerranking_004-kcna_07",
+      "name": "Альтаир",
+      "description": "Достигните рейтинга в ТОП-50000 для China Kuramoto в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "China Kuramoto"
+    },
+    {
+      "id": "badge-producerranking_004-kllj_01",
+      "name": "ЗВЕЗДА (TOP100)",
+      "description": "Займите место в TOP 100 рейтинга для Lilja Katsuragi в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Lilja Katsuragi"
+    },
+    {
+      "id": "badge-producerranking_004-kllj_02",
+      "name": "ЗВЕЗДА(TOP1000)",
+      "description": "Достигните рейтинга в ТОП-1000 для Lilja Katsuragi в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Lilja Katsuragi"
+    },
+    {
+      "id": "badge-producerranking_004-kllj_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в ТОП-2000 рейтинга для Lilja Katsuragi в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Lilja Katsuragi"
+    },
+    {
+      "id": "badge-producerranking_004-kllj_04",
+      "name": "Сириус (TOP5000)",
+      "description": "Займите место в TOP 5000 рейтинга для Lilja Katsuragi в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Lilja Katsuragi"
+    },
+    {
+      "id": "badge-producerranking_004-kllj_05",
+      "name": "Сириус",
+      "description": "Займите место в ТОП-10000 рейтинга для Lilja Katsuragi в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Lilja Katsuragi"
+    },
+    {
+      "id": "badge-producerranking_004-kllj_06",
+      "name": "Вега",
+      "description": "Получите рейтинг в TOP 30000 для Lilja Katsuragi в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Lilja Katsuragi"
+    },
+    {
+      "id": "badge-producerranking_004-kllj_07",
+      "name": "Альтаир",
+      "description": "Займите место в ТОП-50000 рейтинга для Lilja Katsuragi в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Lilja Katsuragi"
+    },
+    {
+      "id": "badge-producerranking_004-shro_01",
+      "name": "ЗВЕЗДА(TOP100)",
+      "description": "Займите место в TOP 100 рейтинга для Hiro Shinosawa в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Hiro Shinosawa"
+    },
+    {
+      "id": "badge-producerranking_004-shro_02",
+      "name": "ЗВЕЗДА(TOP1000)",
+      "description": "Займите место в ТОП-1000 рейтинга для Hiro Shinosawa в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Hiro Shinosawa"
+    },
+    {
+      "id": "badge-producerranking_004-shro_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в ТОП-2000 рейтинга для Hiro Shinosawa в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Hiro Shinosawa"
+    },
+    {
+      "id": "badge-producerranking_004-shro_04",
+      "name": "Сириус (TOP5000)",
+      "description": "Займите место в TOP 5000 рейтинга для Hiro Shinosawa в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Hiro Shinosawa"
+    },
+    {
+      "id": "badge-producerranking_004-shro_05",
+      "name": "Сириус",
+      "description": "Займите место в TOP 10000 для Hiro Shinosawa в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Hiro Shinosawa"
+    },
+    {
+      "id": "badge-producerranking_004-shro_06",
+      "name": "Вега",
+      "description": "Займите место в рейтинге TOP 30000 для Hiro Shinosawa в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Hiro Shinosawa"
+    },
+    {
+      "id": "badge-producerranking_004-shro_07",
+      "name": "Альтаир",
+      "description": "Займите место в рейтинге TOP 50000 для Hiro Shinosawa в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Hiro Shinosawa"
+    },
+    {
+      "id": "badge-producerranking_004-ssmk_01",
+      "name": "ЗВЕЗДА (TOP100)",
+      "description": "Займите место в ТОП-100 рейтинга для Sumika Shiun в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sumika Shiun"
+    },
+    {
+      "id": "badge-producerranking_004-ssmk_02",
+      "name": "ЗВЕЗДА(TOP1000)",
+      "description": "Займите место в TOP 1000 рейтинга для Sumika Shiun в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sumika Shiun"
+    },
+    {
+      "id": "badge-producerranking_004-ssmk_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в ТОП-2000 рейтинга для Sumika Shiun в сезоне P-Ранг 4",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sumika Shiun"
+    },
+    {
+      "id": "badge-producerranking_004-ssmk_04",
+      "name": "Сириус (TOP5000)",
+      "description": "Займите место в TOP 5000 рейтинга для Sumika Shiun в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sumika Shiun"
+    },
+    {
+      "id": "badge-producerranking_004-ssmk_05",
+      "name": "Сириус",
+      "description": "Достигните рейтинга в TOP 10000 для Sumika Shiun в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sumika Shiun"
+    },
+    {
+      "id": "badge-producerranking_004-ssmk_06",
+      "name": "Вега",
+      "description": "Займите место в TOP 30000 рейтинга для Sumika Shiun в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sumika Shiun"
+    },
+    {
+      "id": "badge-producerranking_004-ssmk_07",
+      "name": "Альтаир",
+      "description": "Получите рейтинг в TOP 50000 для Sumika Shiun в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Sumika Shiun"
+    },
+    {
+      "id": "badge-producerranking_004-ttmr_01",
+      "name": "ЗВЕЗДА(TOP100)",
+      "description": "Займите место в TOP 100 рейтинга для Temari Tsukimura в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Temari Tsukimura"
+    },
+    {
+      "id": "badge-producerranking_004-ttmr_02",
+      "name": "ЗВЕЗДА (TOP1000)",
+      "description": "Займите место в TOP 1000 рейтинга для Temari Tsukimura в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Temari Tsukimura"
+    },
+    {
+      "id": "badge-producerranking_004-ttmr_03",
+      "name": "ЗВЕЗДА",
+      "description": "Займите место в ТОП-2000 рейтинга для Temari Tsukimura в 4-м сезоне P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Temari Tsukimura"
+    },
+    {
+      "id": "badge-producerranking_004-ttmr_04",
+      "name": "Сириус (TOP5000)",
+      "description": "Займите место в TOP 5000 рейтинга для Temari Tsukimura в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Temari Tsukimura"
+    },
+    {
+      "id": "badge-producerranking_004-ttmr_05",
+      "name": "Сириус",
+      "description": "Достигните рейтинга TOP 10000 для Temari Tsukimura в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Temari Tsukimura"
+    },
+    {
+      "id": "badge-producerranking_004-ttmr_06",
+      "name": "Вега",
+      "description": "Займите место в рейтинге TOP 30000 для Temari Tsukimura в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Temari Tsukimura"
+    },
+    {
+      "id": "badge-producerranking_004-ttmr_07",
+      "name": "Альтаир",
+      "description": "Получите место в ТОП-50000 рейтинга для Temari Tsukimura в сезоне 4 P-Ранга",
+      "targetIdentityName": "Season 4",
+      "targetContentName": "Temari Tsukimura"
     }
   ]
 }

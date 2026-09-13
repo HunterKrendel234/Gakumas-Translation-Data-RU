@@ -2046,6 +2046,36 @@
       "description": "【ENDLESS DANCE】Установите Этап Тренировки Sena Juo на {threshold}"
     },
     {
+      "id": "achieve-i_card-jsna-3-017-01",
+      "name": "Сияющий путеводный свет",
+      "description": "【Garakuta Road】Сдайте Финальный Экзамен, производя Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-02",
+      "name": "Дорога Гаракута",
+      "description": "【Garakuta Road】Повысьте Этап Тренировки Sena Juo до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-03",
+      "name": "Моя фигура движется впереди неё!",
+      "description": "【Garakuta Road】Получите оценку A+ или выше {threshold} раз при производстве Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-04",
+      "name": "Дорога Гаракута +",
+      "description": "【Garakuta Road】Повысьте Тренировочный этап Sena Juo до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-05",
+      "name": "Дорога Гаракута ++",
+      "description": "【Garakuta Road】Повысьте Этап Тренировки Sena Juo до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-06",
+      "name": "Дорога Гаракута +++",
+      "description": "【Garakuta Road】Повысьте Этап Тренировки Sena Juo до {threshold}"
+    },
+    {
       "id": "achieve-i_card-jsna-3-020-01",
       "name": "Захватывающий профиль",
       "description": "【「Nee, icchau yo.」】Сдайте Финальный Экзамен, производя Sena Juo"
@@ -4431,6 +4461,11 @@
       "description": "Достигните True End: N.I.A с Kotone Fujita"
     },
     {
+      "id": "achieve-p_idol-fktn-000-2",
+      "name": "Я сделаю тебя счастливым",
+      "description": "См. True End: H.I.F с Kotone Fujita"
+    },
+    {
       "id": "achieve-p_idol-fktn-001",
       "name": "QOL",
       "description": "Используйте Карты Навыка {threshold} раз во время производства Kotone Fujita"
@@ -4549,6 +4584,16 @@
       "id": "achieve-p_idol-fktn-024",
       "name": "Всё, на что я способна",
       "description": "Сдайте Финальный Экзамен и получите Ранг SSS+ или выше {threshold} раз с Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-025",
+      "name": "Сцена из моих снов",
+      "description": "Сдайте Финальный Экзамен H.I.F с Kotone Fujita и получите рейтинг S4+ или выше"
+    },
+    {
+      "id": "achieve-p_idol-fktn-026",
+      "name": "Плоды наших усилий",
+      "description": "Сдайте Финальный Экзамен H.I.F Kotone Fujita {threshold} раз"
     },
     {
       "id": "achieve-p_idol-fktn-027",
@@ -5156,6 +5201,11 @@
       "description": "Достигните True End: N.I.A вместе с Sena Juo"
     },
     {
+      "id": "achieve-p_idol-jsna-000-2",
+      "name": "Стань моей",
+      "description": "См. True End: H.I.F с Sena Juo"
+    },
+    {
       "id": "achieve-p_idol-jsna-001",
       "name": "Новая грань меня",
       "description": "Используйте Карты Навыка {threshold} раз во время производства Sena Juo"
@@ -5274,6 +5324,16 @@
       "id": "achieve-p_idol-jsna-024",
       "name": "Наши две мечты",
       "description": "Сдайте Финальный Экзамен и получите Ранг SSS+ или выше {threshold} раз с Juo Sena"
+    },
+    {
+      "id": "achieve-p_idol-jsna-025",
+      "name": "Наследие Sena Juo",
+      "description": "Сдайте Финальный Экзамен H.I.F с Sena Juo и получите рейтинг S4+ или выше"
+    },
+    {
+      "id": "achieve-p_idol-jsna-026",
+      "name": "Наш сюжет",
+      "description": "Сдайте Финальный Экзамен H.I.F Sena Juo {threshold} раз"
     },
     {
       "id": "achieve-p_idol-jsna-027",

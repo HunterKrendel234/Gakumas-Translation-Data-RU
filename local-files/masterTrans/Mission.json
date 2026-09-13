@@ -1014,6 +1014,54 @@
       "name": "Задание 14 не выполнено"
     },
     {
+      "id": "hidden_mission-dearness-story-amao-37",
+      "name": "Победите в HIF Основном событии с Mao"
+    },
+    {
+      "id": "hidden_mission-dearness-story-fktn-37",
+      "name": "Победите в HIF Основном событии с Kotone"
+    },
+    {
+      "id": "hidden_mission-dearness-story-hmsz-37",
+      "name": "Победите в Основном событии HIF с Misuzu"
+    },
+    {
+      "id": "hidden_mission-dearness-story-hrnm-37",
+      "name": "Победите в Основном событии HIF с Rinami"
+    },
+    {
+      "id": "hidden_mission-dearness-story-hski-37",
+      "name": "Победите в Основном событии HIF с Saki"
+    },
+    {
+      "id": "hidden_mission-dearness-story-hume-37",
+      "name": "Победите в Основном событии HIF с Ume"
+    },
+    {
+      "id": "hidden_mission-dearness-story-jsna-37",
+      "name": "Победа в Основном событии HIF с Sena"
+    },
+    {
+      "id": "hidden_mission-dearness-story-kcna-37",
+      "name": "Победите в основном событии HIF с China"
+    },
+    {
+      "id": "hidden_mission-dearness-story-kllj-37",
+      "name": "Победите в Основном событии HIF с Lilja"
+    },
+    {
+      "id": "hidden_mission-dearness-story-shro-37",
+      "name": "Выиграйте HIF Основное событие с Hiro"
+    },
+    {
+      "id": "hidden_mission-dearness-story-ssmk-37",
+      "name": "Победите в Основном событии HIF с Sumika"
+    },
+    {
+      "id": "hidden_mission-dearness-story-ttmr-37",
+      "name": "Победите в Основном событии HIF с Temari"
+    },
+    {
       "id": "hidden_mission-normal-amao-piece-pack-remind",
       "name": "Напоминание о наборе кукол Мао"
     },
@@ -1246,6 +1294,10 @@
       "name": "Достигните A-концовки с Mao Arimura"
     },
     {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-fktn",
+      "name": "Достигните A-End с Kotone"
+    },
+    {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-hmsz",
       "name": "Посмотрите финал А с Мисузу"
     },
@@ -1260,6 +1312,10 @@
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-hume",
       "name": "Достигните концовки A с Ume Hanami"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-jsna",
+      "name": "Достигните A-концовку с Sena Juo"
     },
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-kcna",
@@ -2202,6 +2258,10 @@
       "name": "Выполните «H.I.F»: Финал в Продюсировании Mao Arimura {threshold} раз"
     },
     {
+      "id": "mission-daily_mission_HIF_clear-mission_14",
+      "name": "Выполните Основное событие \"H.I.F\" {threshold} раз(а), производя Kotone Fujita"
+    },
+    {
       "id": "mission-daily_mission_HIF_clear-mission_15",
       "name": "Выполните «H.I.F»: Финал в Продюсировании Misuzu Hataya {threshold} раз"
     },
@@ -2216,6 +2276,10 @@
     {
       "id": "mission-daily_mission_HIF_clear-mission_18",
       "name": "Выполните «H.I.F»: Основной турнир {threshold} раз в Продюсировании Ume Hanami"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_19",
+      "name": "Выполните \"H.I.F\" Основное событие {threshold} раз(а), производя Sena Juo"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_20",
@@ -2242,6 +2306,10 @@
       "name": "Повысьте Ур. Отношений с Mao Arimura до {threshold}"
     },
     {
+      "id": "mission-daily_mission_HIF_clear-mission_27",
+      "name": "Повысьте Ур. Отношений Kotone Fujita до {threshold}"
+    },
+    {
       "id": "mission-daily_mission_HIF_clear-mission_28",
       "name": "Повысьте Ур. Отношений Misuzu Hataya до {threshold}"
     },
@@ -2256,6 +2324,10 @@
     {
       "id": "mission-daily_mission_HIF_clear-mission_31",
       "name": "Повысьте Ур. Отношений с Ume Hanami до {threshold}!"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_32",
+      "name": "Повысьте Ур. Отношений Sena Juo до {threshold}"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_33",
@@ -9042,6 +9114,30 @@
       "name": "【ENDLESS DANCE】Установите Этап Тренировки Sena Juo на {threshold}"
     },
     {
+      "id": "achieve-i_card-jsna-3-017-01",
+      "name": "【Garakuta Road】Сдайте Финальный Экзамен, производя Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-02",
+      "name": "【Garakuta Road】Пройдите {threshold} этапов Специальной Тренировки с Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-03",
+      "name": "【Garakuta Road】Достигните ранга A+ или выше {threshold} раз при производстве Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-04",
+      "name": "【Garakuta Road】Пройдите {threshold} этапов Спец. Тренировки с Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-05",
+      "name": "【Garakuta Road】Пройдите {threshold} этапов Специальной Тренировки с Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-017-06",
+      "name": "【Garakuta Road】Пройдите {threshold} этапов Специальной Тренировки с Sena Juo"
+    },
+    {
       "id": "achieve-i_card-jsna-3-020-01",
       "name": "【「Nee, icchau yo.」】Сдайте Финальный Экзамен, производя Sena Juo"
     },
@@ -10950,6 +11046,10 @@
       "name": "Посмотрите True End: N.I.A с Kotone Fujita"
     },
     {
+      "id": "achieve-p_idol-fktn-000-2",
+      "name": "Посмотрите True End: H.I.F с Kotone Fujita"
+    },
+    {
       "id": "achieve-p_idol-fktn-001",
       "name": "Используйте Карты Навыка {threshold} раз в производстве Kotone Fujita"
     },
@@ -11044,6 +11144,14 @@
     {
       "id": "achieve-p_idol-fktn-024",
       "name": "Сдайте Финальный Экзамен и получите SSS+ или выше {threshold} раз с Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-025",
+      "name": "Сдайте Финальный Экзамен H.I.F и получите ранг S4+ или выше с Kotone Fujita"
+    },
+    {
+      "id": "achieve-p_idol-fktn-026",
+      "name": "Сдайте Финальный Экзамен H.I.F {threshold} раз с Kotone Fujita"
     },
     {
       "id": "achieve-p_idol-fktn-027",
@@ -11530,6 +11638,10 @@
       "name": "Просмотреть True End: NIA с Sena Juo"
     },
     {
+      "id": "achieve-p_idol-jsna-000-2",
+      "name": "Посмотреть True End: H.I.F с Sena Juo"
+    },
+    {
       "id": "achieve-p_idol-jsna-001",
       "name": "Используйте карты Навыка {threshold} раз во время производства Sena Juo"
     },
@@ -11624,6 +11736,14 @@
     {
       "id": "achieve-p_idol-jsna-024",
       "name": "Сдайте Финальный Экзамен и получите SSS+ или выше {threshold} раз вместе с Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-025",
+      "name": "Сдайте Финальный Экзамен H.I.F и получите Ранг S4+ или выше с Sena Juo"
+    },
+    {
+      "id": "achieve-p_idol-jsna-026",
+      "name": "Сдайте Финальный Экзамен H.I.F {threshold} раз с Sena Juo"
     },
     {
       "id": "achieve-p_idol-jsna-027",
