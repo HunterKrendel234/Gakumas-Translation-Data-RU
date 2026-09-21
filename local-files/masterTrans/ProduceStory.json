@@ -14478,6 +14478,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-shro-3-022-01",
+      "title": "Я Эп.1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-shro-3-022-02",
+      "title": "Я Эп.2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-shro-3-022-03",
+      "title": "Я Эп. 3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-ssmk-3-000-01",
       "title": "Tame-Lie-One-Step Эп.1",
       "produceEventHintProduceConditionDescriptions": []
@@ -15680,6 +15695,16 @@
     {
       "id": "p_story-s_card-2-0079-02",
       "title": "Добрая и тревожная старшекурсница",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0080-01",
+      "title": "Меню призрачной столовой",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0080-02",
+      "title": "Преемник «Кухни из пасты»?",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -17315,6 +17340,21 @@
     {
       "id": "p_story-s_card-3-0108-03",
       "title": "Вот кто я сейчас",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0109-01",
+      "title": "Ультимативный союз?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0109-02",
+      "title": "Все готовы!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0109-03",
+      "title": "Награда для нас обоих♪",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
