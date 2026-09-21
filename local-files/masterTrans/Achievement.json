@@ -2976,6 +2976,36 @@
       "description": "【Garakuta Road】Пройдите этап Специальной Тренировки {threshold} с Hiro Shinosawa"
     },
     {
+      "id": "achieve-i_card-shro-3-022-01",
+      "name": "Я — ветер!",
+      "description": "【Me】Сдай Финальный Экзамен, производя Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-02",
+      "name": "Я",
+      "description": "【Me】Повысьте Этап тренировки Hiro Shinosawa до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-03",
+      "name": "Возвращение к себе",
+      "description": "【Me】Получите рейтинг A+ или выше {threshold} раз при производстве Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-04",
+      "name": "Добавить меня",
+      "description": "【Я】Повысьте Этап Тренировки Hiro Shinosawa до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-05",
+      "name": "Я ++",
+      "description": "【Me】Повысить Этап Тренировки Hiro Shinosawa до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-06",
+      "name": "Я +++",
+      "description": "【Me】Повысьте Этап Тренировки Hiro Shinosawa до {threshold}"
+    },
+    {
       "id": "achieve-i_card-ssmk-2-000-04",
       "name": "Новый путь к мечте +",
       "description": "【Перезагрузка мечты】Повысьте уровень этапа тренировки SP Сумики Сион до {threshold}"

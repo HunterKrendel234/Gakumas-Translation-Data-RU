@@ -588,6 +588,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-wednesday-260923",
+      "name": "Билет Гача Среды Гакумас",
+      "description": "Билет для Гачи Среды Гакумас",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-wednesday-fainal-26-001-1",
       "name": "Специальный билет Саки",
       "description": "Билет для ежедневной Гачи «Gakuen Wednesday Final Season»",
@@ -859,6 +865,12 @@
     },
     {
       "id": "item-medal-research-event-007",
+      "name": "Семинар Тануки",
+      "description": "Предмет для обмена на различные награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-medal-research-event-008",
       "name": "Семинар Тануки",
       "description": "Предмет для обмена на различные награды в магазине события",
       "acquisitionRouteDescription": "Produce, etc."
@@ -1752,6 +1764,12 @@
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
+      "id": "item-piece-idol_shro-3-022",
+      "name": "[Me] Деталь Hiro Shinosawa",
+      "description": "Предмет для пробуждения и разблокировки Продюсируемых Айдолов",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
       "id": "item-piece-idol_ssmk-1-000",
       "name": "[Студенческая жизнь] Осколок Сумики Сион",
       "description": "Предмет для Пробуждения и разблокировки Продюсируемых Айдолов",
@@ -2079,6 +2097,12 @@
       "id": "item-research-event-007",
       "name": "Asari-Стикер Sensei",
       "description": "Предмет, используемый для перекатки способностей Записи в событии Семинара по Продюсированию Asari-Sensei",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-research-event-008",
+      "name": "Asari-Наклейка Sensei",
+      "description": "Предмет для перекатки способностей Записи в событии Семинара Продюсирования Asari-sensei.",
       "acquisitionRouteDescription": "Produce, etc."
     },
     {

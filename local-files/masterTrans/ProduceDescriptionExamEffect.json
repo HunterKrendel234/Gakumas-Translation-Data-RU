@@ -23,7 +23,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDown",
-      "name": "Снижение расхода Выносливости " 
+      "name": "Снижение расхода Выносливости "
     },
     {
       "type": "ProduceExamEffectType_ExamCardCreateId",
@@ -334,6 +334,10 @@
       "name": "Добавлено Хорошее Впечатление "
     },
     {
+      "type": "ProduceExamEffectType_ExamBuffConsumptionAdd",
+      "name": "Увеличенная стоимость улучшенного состояния"
+    },
+    {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
       "name": "Доп. бонус к Хорошей Форме "
     },
@@ -347,7 +351,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamReviewAdditiveFix",
-      "name": "Доп. прирост Хорошего Впечатления "  
+      "name": "Доп. прирост Хорошего Впечатления "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointAdditiveFix",

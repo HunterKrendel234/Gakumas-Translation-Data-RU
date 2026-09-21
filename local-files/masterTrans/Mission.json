@@ -326,6 +326,214 @@
       "name": "С Lilja Katsuragi пройдите Финальный Экзамен и получите ранг SS или выше {threshold} раз"
     },
     {
+      "id": "dearness_event_permanent_amao-001",
+      "name": "Завершите Продюсирование после повышения Вокала Mao Arimura до 1800 или выше"
+    },
+    {
+      "id": "dearness_event_permanent_amao-002",
+      "name": "Настройте Карты Навыка {threshold} раз во время Продюсирования Mao Arimura"
+    },
+    {
+      "id": "dearness_event_permanent_amao-003",
+      "name": "Завершите Уроки вокала {threshold} раз с Mao Arimura"
+    },
+    {
+      "id": "dearness_event_permanent_amao-004",
+      "name": "С помощью Mao Arimura, сдайте Финальный Экзамен и получите Ранг SS или выше {threshold} раз."
+    },
+    {
+      "id": "dearness_event_permanent_atbm-001",
+      "name": "Завершите Продюсирование с Танцем Tsubame Amaya, повышенным до 1800 или выше"
+    },
+    {
+      "id": "dearness_event_permanent_atbm-002",
+      "name": "Кастомизируйте Карты Навыка {threshold} раз в Продюсировании Tsubame Amaya"
+    },
+    {
+      "id": "dearness_event_permanent_atbm-003",
+      "name": "Завершите Уроки Танца {threshold} раз(а) с Tsubame Amaya"
+    },
+    {
+      "id": "dearness_event_permanent_atbm-004",
+      "name": "Сдайте Финальный Экзамен с Tsubame Amaya и получите оценку SS или выше {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_fktn-001",
+      "name": "Доведите Танец Kotone Fujita до 1800 или выше и завершите Продюсирование"
+    },
+    {
+      "id": "dearness_event_permanent_fktn-002",
+      "name": "Кастомизируйте Карты Навыка {threshold} раз в Продюсировании Kotone Fujita"
+    },
+    {
+      "id": "dearness_event_permanent_fktn-003",
+      "name": "Завершите Урок Танца {threshold} раз с Kotone Fujita"
+    },
+    {
+      "id": "dearness_event_permanent_fktn-004",
+      "name": "Сдайте Финальный Экзамен с Kotone Fujita и получите оценку SS или выше {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_hmsz-001",
+      "name": "Продюсирование с Вокалом Misuzu Hataya на уровне 1800 или выше завершено"
+    },
+    {
+      "id": "dearness_event_permanent_hmsz-002",
+      "name": "Настройте Карты Навыка {threshold} раз в Продюсировании Misuzu Hataya"
+    },
+    {
+      "id": "dearness_event_permanent_hmsz-003",
+      "name": "Завершите вокальные уроки {threshold} раз с Misuzu Hataya"
+    },
+    {
+      "id": "dearness_event_permanent_hmsz-004",
+      "name": "С помощью Misuzu Hataya, пройдите Финальный Экзамен и получите Ранг SS или выше {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_hrnm-001",
+      "name": "Поднимите Визуал до 1800 или выше и завершите Продюсирование"
+    },
+    {
+      "id": "dearness_event_permanent_hrnm-002",
+      "name": "Кастомизируйте Карты Навыка {threshold} раз в Продюсировании"
+    },
+    {
+      "id": "dearness_event_permanent_hrnm-003",
+      "name": "Завершите Визуал Уроки {threshold} раз с Rinami"
+    },
+    {
+      "id": "dearness_event_permanent_hrnm-004",
+      "name": "С помощью Rinami Himesaki пройдите Финальный Экзамен и получите Ранг SS или выше {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_hski-001",
+      "name": "Пройдите Продюсирование после повышения Визуала Saki Hanami до 1800 или выше"
+    },
+    {
+      "id": "dearness_event_permanent_hski-002",
+      "name": "В Продюсировании Saki Hanami настройте Карты Навыка {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_hski-003",
+      "name": "Завершите Уроки Визуала {threshold} раз с Saki Hanami"
+    },
+    {
+      "id": "dearness_event_permanent_hski-004",
+      "name": "С помощью Saki Hanami, пройдите Финальный Экзамен и получите Ранг SS или выше {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_hume-001",
+      "name": "Продюсирование завершено с Танцем Ume Hanami на 1800 или выше"
+    },
+    {
+      "id": "dearness_event_permanent_hume-002",
+      "name": "Настройте Карты Навыка {threshold} раз в Продюсировании Ume Hanami"
+    },
+    {
+      "id": "dearness_event_permanent_hume-003",
+      "name": "Завершите Уроки Танца {threshold} раз с Ume Hanami"
+    },
+    {
+      "id": "dearness_event_permanent_hume-004",
+      "name": "С помощью Ume Hanami пройдите Финальный Экзамен и получите Ранг SS или выше {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_jsna-001",
+      "name": "Завершите Продюсирование после повышения Визуала Sena Juo до 1800 или выше"
+    },
+    {
+      "id": "dearness_event_permanent_jsna-002",
+      "name": "В Продюсировании Sena Juo настройте Карты Навыка {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_jsna-003",
+      "name": "Завершите Уроки Визуала {threshold} раз с Sena Juo"
+    },
+    {
+      "id": "dearness_event_permanent_jsna-004",
+      "name": "С помощью Sena Juo, пройдите Финальный Экзамен и получите Ранг SS или выше {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_kcna-001",
+      "name": "Завершите Продюсирование, повысив Танец China Kuramoto до 1800 или выше"
+    },
+    {
+      "id": "dearness_event_permanent_kcna-002",
+      "name": "Настройте Карты Навыка {threshold} раз во время Продюсирования China Kuramoto"
+    },
+    {
+      "id": "dearness_event_permanent_kcna-003",
+      "name": "Завершите Уроки Танца {threshold} раз с China Kuramoto"
+    },
+    {
+      "id": "dearness_event_permanent_kcna-004",
+      "name": "С помощью China Kuramoto, пройдите Финальный Экзамен и получите Ранг SS или выше {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_kllj-001",
+      "name": "Повысьте Визуал Lilja Katsuragi до 1800+ и завершите Продюсирование"
+    },
+    {
+      "id": "dearness_event_permanent_kllj-002",
+      "name": "Настройте Карты Навыка {threshold} раз в Продюсировании Lilja Katsuragi"
+    },
+    {
+      "id": "dearness_event_permanent_kllj-003",
+      "name": "Завершите Визуал Урок {threshold} раз с Lilja Katsuragi"
+    },
+    {
+      "id": "dearness_event_permanent_kllj-004",
+      "name": "С помощью Lilja Katsuragi пройдите Финальный Экзамен и получите Ранг SS или выше {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_shro-001",
+      "name": "Увеличьте Вокал Hiro Shinosawa до 1800 или более и завершите Продюсирование"
+    },
+    {
+      "id": "dearness_event_permanent_shro-002",
+      "name": "Кастомизируйте Карты Навыка {threshold} раз в Продюсировании Hiro Shinosawa"
+    },
+    {
+      "id": "dearness_event_permanent_shro-003",
+      "name": "Завершите Уроки вокала {threshold} раз с Hiro Shinosawa"
+    },
+    {
+      "id": "dearness_event_permanent_shro-004",
+      "name": "Сдайте Финальный Экзамен и получите ранг SS или выше {threshold} раз вместе с Hiro Shinosawa"
+    },
+    {
+      "id": "dearness_event_permanent_ssmk-001",
+      "name": "Пройти Продюсирование с Танцем Sumika Shiun, поднятым до 1800 или выше"
+    },
+    {
+      "id": "dearness_event_permanent_ssmk-002",
+      "name": "Настройте Карты Навыка {threshold} раз в Продюсировании Sumika Shiun"
+    },
+    {
+      "id": "dearness_event_permanent_ssmk-003",
+      "name": "Урок Танца завершен {threshold} раз(а) с Sumika Shiun"
+    },
+    {
+      "id": "dearness_event_permanent_ssmk-004",
+      "name": "Сдайте Финальный Экзамен и получите SS или выше {threshold} раз с Sumika Shiun"
+    },
+    {
+      "id": "dearness_event_permanent_ttmr-001",
+      "name": "Завершите сессию Продюсирования после того, как прокачаете Вокал Tsukimura Temari до 1800 или выше"
+    },
+    {
+      "id": "dearness_event_permanent_ttmr-002",
+      "name": "В Продюсировании Цукумуры Temari настройте Карты Навыка {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_ttmr-003",
+      "name": "Завершите вокальные уроки с Tsukimura Temari {threshold} раз"
+    },
+    {
+      "id": "dearness_event_permanent_ttmr-004",
+      "name": "С помощью Temari Tsukimura, пройдите Финальный Экзамен и получите Ранг SS или выше {threshold} раз"
+    },
+    {
       "id": "dearness_event_relaunch_amao-001",
       "name": "Завершите Продюсирование после того, как Вокал Mao Arimura достигнет 1800 или выше"
     },
@@ -6438,6 +6646,38 @@
       "name": "Завершите Продюсирование после получения Карты Навыка \"I Am a Star\""
     },
     {
+      "id": "mission-research-event-008-mission_1",
+      "name": "Заходите в игру в течение {threshold} дней!"
+    },
+    {
+      "id": "mission-research-event-008-mission_10",
+      "name": "Завершите Продюсирование после получения Карты Навыка \"Supreme Entertainment\""
+    },
+    {
+      "id": "mission-research-event-008-mission_11",
+      "name": "Завершите Продюсирование после получения Карты Навыка \"A Breath\""
+    },
+    {
+      "id": "mission-research-event-008-mission_12",
+      "name": "Завершено Уроков SP {threshold} раз(а)"
+    },
+    {
+      "id": "mission-research-event-008-mission_2",
+      "name": "План: Сдать финальный экзамен с продюсируемым айдолом из Аномалии за {threshold} раз(а)"
+    },
+    {
+      "id": "mission-research-event-008-mission_3",
+      "name": "Обмен консультациями {threshold} раз(а) в производстве"
+    },
+    {
+      "id": "mission-research-event-008-mission_8",
+      "name": "Пройдите Продюсирование после получения Карты Навыка \"National Idol\""
+    },
+    {
+      "id": "mission-research-event-008-mission_9",
+      "name": "Пройдите Продюсирование после получения Карты Навыка \"Enchanting Gaze\""
+    },
+    {
       "id": "mission-story-event-001-mission_1",
       "name": "Давай зайдем на {threshold} дней!"
     },
@@ -9856,6 +10096,30 @@
     {
       "id": "achieve-i_card-shro-3-018-06",
       "name": "【Garakuta Road】Пройдите специальную Тренировку {threshold} с Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-01",
+      "name": "【Я】Пройди Финальный Экзамен в Продюсировании Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-02",
+      "name": "【Я】Повысить Уровень Тренировки Hiro Shinosawa до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-03",
+      "name": "【Me】Получите оценку A+ или выше {threshold} раз в Продюсировании Hiro Shinosawa"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-04",
+      "name": "【Me】Повысить Уровень Тренировки Hiro Shinosawa до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-05",
+      "name": "【Я】Повысить Уровень Тренировки Hiro Shinosawa до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-06",
+      "name": "【Me】Повысить Уровень Тренировки Hiro Shinosawa до {threshold}"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-04",
