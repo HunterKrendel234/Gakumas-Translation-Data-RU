@@ -4,6 +4,8 @@
 
 Репозиторий основан на английском проекте [Gakumas Translation Data EN](https://github.com/NatsumeLS/Gakumas-Translation-Data-EN).
 
+Сайт проекта с инструкцией: [gakumas-ru](https://hunterkrendel234.github.io/gakumas-ru/)
+
 ---
 
 ## 📌 О проекте
@@ -25,6 +27,7 @@
 Актуальные инструкции по установке мода для разных платформ, а также каналы для отправки баг-репортов и координации перевода доступны на нашем Discord-сервере.
 
 💬 **[Присоединиться к нашему Discord-серверу](https://discord.gg/jgEz8CxKPn)**
+📝 **[Сайт с инструкцией: gakumas-ru](https://hunterkrendel234.github.io/gakumas-ru/)**
 
 ---
 
