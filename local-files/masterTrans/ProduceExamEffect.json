@@ -101910,7 +101910,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Label_EffectTimes",
-          "text": "\\s сек."
+          "text": "s сек."
         }
       ]
     },
