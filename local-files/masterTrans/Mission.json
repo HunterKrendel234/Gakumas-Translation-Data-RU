@@ -2082,6 +2082,26 @@
       "name": "Завершено SP Уроки {threshold} раз(а)"
     },
     {
+      "id": "mission-box-gasha-event-022-mission_1",
+      "name": "Заходите в игру  {threshold} дней!"
+    },
+    {
+      "id": "mission-box-gasha-event-022-mission_2",
+      "name": "Сдать Финальный Экзамен  {threshold} раз(а)"
+    },
+    {
+      "id": "mission-box-gasha-event-022-mission_3",
+      "name": "Выполнить Gacha из Event Box  {threshold} раз(а)"
+    },
+    {
+      "id": "mission-box-gasha-event-022-mission_4",
+      "name": "Набрать суммарный балл производства:{threshold} "
+    },
+    {
+      "id": "mission-box-gasha-event-022-mission_5",
+      "name": "Пройти SP Уроки  {threshold} раз(а)"
+    },
+    {
       "id": "mission-circle-battle-event-001-mission_1",
       "name": "Зайдем в игру в течение {threshold} дней!"
     },
@@ -9162,6 +9182,30 @@
       "name": "【GO MY WAY!!】Пройдите Этап Тренировки {threshold} для Ume Hanami"
     },
     {
+      "id": "achieve-i_card-hume-3-022-01",
+      "name": "【Agitato】Сдать Финальный Экзамен в Продюсировании Ume Hanami-san"
+    },
+    {
+      "id": "achieve-i_card-hume-3-022-02",
+      "name": "【Agitato】Повысить уровень тренировки Ume Hanami-san до{threshold} "
+    },
+    {
+      "id": "achieve-i_card-hume-3-022-03",
+      "name": "【Agitato】Получить рейтинг A+ или выше  {threshold} раз(а) в Продюсировании Ume Hanami-san"
+    },
+    {
+      "id": "achieve-i_card-hume-3-022-04",
+      "name": "【Agitato】Повысить уровень тренировки Ume Hanami-san до{threshold} "
+    },
+    {
+      "id": "achieve-i_card-hume-3-022-05",
+      "name": "【Agitato】Повысить уровень тренировки Ume Hanami-san до{threshold} "
+    },
+    {
+      "id": "achieve-i_card-hume-3-022-06",
+      "name": "【Agitato】Повысить уровень тренировки Ume Hanami-san до{threshold} "
+    },
+    {
       "id": "achieve-i_card-jsna-2-000-01",
       "name": "【The Prima Stella】Пройдите финальный экзамен в производстве Sena Juo"
     },
@@ -9880,6 +9924,30 @@
     {
       "id": "achieve-i_card-kllj-3-018-06",
       "name": "【Garakuta Road】Пройдите этап Специальной Тренировки {threshold} с Lilja Katsuragi"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-022-01",
+      "name": "【Agitato】Сдать Финальный Экзамен в Продюсировании Lilja Katsuragi-san"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-022-02",
+      "name": "【Agitato】Повысить уровень тренировки Lilja Katsuragi-san до{threshold} "
+    },
+    {
+      "id": "achieve-i_card-kllj-3-022-03",
+      "name": "【Agitato】Получить рейтинг A+ или выше  {threshold} раз(а) в Продюсировании Lilja Katsuragi-san"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-022-04",
+      "name": "【Agitato】Повысить уровень тренировки Lilja Katsuragi-san до{threshold} "
+    },
+    {
+      "id": "achieve-i_card-kllj-3-022-05",
+      "name": "【Agitato】Повысить уровень тренировки Lilja Katsuragi-san до{threshold} "
+    },
+    {
+      "id": "achieve-i_card-kllj-3-022-06",
+      "name": "【Agitato】Повысить уровень тренировки Lilja Katsuragi-san до{threshold} "
     },
     {
       "id": "achieve-i_card-shro-2-000-04",
