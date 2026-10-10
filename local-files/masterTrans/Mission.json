@@ -2082,26 +2082,6 @@
       "name": "Завершено SP Уроки {threshold} раз(а)"
     },
     {
-      "id": "mission-box-gasha-event-022-mission_1",
-      "name": "Заходи в игру в течение {threshold}  дней!"
-    },
-    {
-      "id": "mission-box-gasha-event-022-mission_2",
-      "name": "Сдать Финальный Экзамен: {threshold} раз(а)"
-    },
-    {
-      "id": "mission-box-gasha-event-022-mission_3",
-      "name": "Выполнить попытку Gacha Event Box за {threshold} раз(а)"
-    },
-    {
-      "id": "mission-box-gasha-event-022-mission_4",
-      "name": "Набрать суммарный показатель производства: {threshold}"
-    },
-    {
-      "id": "mission-box-gasha-event-022-mission_5",
-      "name": "Пройти SP Уроки: {threshold} раз(а)"
-    },
-    {
       "id": "mission-circle-battle-event-001-mission_1",
       "name": "Зайдем в игру в течение {threshold} дней!"
     },
@@ -6698,38 +6678,6 @@
       "name": "Пройдите Продюсирование после получения Карты Навыка \"Enchanting Gaze\""
     },
     {
-      "id": "mission-research-event-009-mission_1",
-      "name": "Давайте заходить в игру на протяжении {threshold} дней!"
-    },
-    {
-      "id": "mission-research-event-009-mission_10",
-      "name": "Завершите Продюсирование после получения Карты Навыка «Innocence»"
-    },
-    {
-      "id": "mission-research-event-009-mission_11",
-      "name": "Завершите Продюсирование после получения Карты Навыка «Excite»"
-    },
-    {
-      "id": "mission-research-event-009-mission_12",
-      "name": "Завершите Уроки SP {threshold} раз(а)"
-    },
-    {
-      "id": "mission-research-event-009-mission_2",
-      "name": "Пройдите Финальный Экзамен с {threshold} Планом Логика в Продюсировании Айдолов  раз(а)"
-    },
-    {
-      "id": "mission-research-event-009-mission_3",
-      "name": "Проведите консультации {threshold} во время производства  раз(а)"
-    },
-    {
-      "id": "mission-research-event-009-mission_8",
-      "name": "Завершите Продюсирование после получения Карты Навыка «National Idol»"
-    },
-    {
-      "id": "mission-research-event-009-mission_9",
-      "name": "Завершите Продюсирование после получения Карты Навыка «Enchanting Gaze»"
-    },
-    {
       "id": "mission-story-event-001-mission_1",
       "name": "Давай зайдем на {threshold} дней!"
     },
@@ -8998,30 +8946,6 @@
       "name": "【GO MY WAY!!】Повысьте Этап Тренировки Saki Hanami до {threshold}"
     },
     {
-      "id": "achieve-i_card-hski-3-022-01",
-      "name": "【Agitato】Пройдите Финальный Экзамен в Продюсировании Саки Ханами"
-    },
-    {
-      "id": "achieve-i_card-hski-3-022-02",
-      "name": "【Agitato】Повысьте уровень Тренировки Саки Ханами до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-hski-3-022-03",
-      "name": "【Agitato】Получите рейтинг A+ или выше {threshold} раз(а) в Продюсировании Саки Ханами"
-    },
-    {
-      "id": "achieve-i_card-hski-3-022-04",
-      "name": "【Agitato】Повысьте уровень Тренировки Саки Ханами до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-hski-3-022-05",
-      "name": "【Agitato】Повысьте уровень Тренировки Саки Ханами до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-hski-3-022-06",
-      "name": "【Agitato】Повысьте уровень Тренировки Саки Ханами до {threshold}"
-    },
-    {
       "id": "achieve-i_card-hume-2-000-01",
       "name": "【Айдол, старт!】Сдайте финальный экзамен в продюсерском центре Ume Hanami"
     },
@@ -9236,30 +9160,6 @@
     {
       "id": "achieve-i_card-hume-3-018-06",
       "name": "【GO MY WAY!!】Пройдите Этап Тренировки {threshold} для Ume Hanami"
-    },
-    {
-      "id": "achieve-i_card-hume-3-022-01",
-      "name": "【Agitato】Сдать Финальный Экзамен в Продюсировании Ume Hanami"
-    },
-    {
-      "id": "achieve-i_card-hume-3-022-02",
-      "name": "【Agitato】Повысить уровень тренировки Ume Hanami до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-hume-3-022-03",
-      "name": "【Agitato】Получить рейтинг A+ или выше {threshold} раз(а) в Продюсировании Ume Hanami"
-    },
-    {
-      "id": "achieve-i_card-hume-3-022-04",
-      "name": "【Agitato】Повысить уровень тренировки Ume Hanami до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-hume-3-022-05",
-      "name": "【Agitato】Повысить уровень тренировки Ume Hanami до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-hume-3-022-06",
-      "name": "【Agitato】Повысить уровень тренировки Ume Hanami до {threshold}"
     },
     {
       "id": "achieve-i_card-jsna-2-000-01",
@@ -9980,30 +9880,6 @@
     {
       "id": "achieve-i_card-kllj-3-018-06",
       "name": "【Garakuta Road】Пройдите этап Специальной Тренировки {threshold} с Lilja Katsuragi"
-    },
-    {
-      "id": "achieve-i_card-kllj-3-022-01",
-      "name": "【Agitato】Сдать Финальный Экзамен в Продюсировании Lilja Katsuragi"
-    },
-    {
-      "id": "achieve-i_card-kllj-3-022-02",
-      "name": "【Agitato】Повысить уровень тренировки Lilja Katsuragi до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-kllj-3-022-03",
-      "name": "【Agitato】Получить рейтинг A+ или выше {threshold} раз(а) в Продюсировании Lilja Katsuragi"
-    },
-    {
-      "id": "achieve-i_card-kllj-3-022-04",
-      "name": "【Agitato】Повысить уровень тренировки Lilja Katsuragi до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-kllj-3-022-05",
-      "name": "【Agitato】Повысить уровень тренировки Lilja Katsuragi до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-kllj-3-022-06",
-      "name": "【Agitato】Повысить уровень тренировки Lilja Katsuragi до {threshold}"
     },
     {
       "id": "achieve-i_card-shro-2-000-04",

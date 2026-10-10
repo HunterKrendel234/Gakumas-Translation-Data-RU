@@ -1198,21 +1198,6 @@
       ]
     },
     {
-      "id": "p_card_search-deck_all-p_card-03-ido-3_245",
-      "produceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "p_card-03-ido-3_245",
-          "text": "I Am the Wind!"
-        }
-      ]
-    },
-    {
       "id": "p_card_search-deck_all-starter",
       "produceDescriptions": [
         {
@@ -1524,31 +1509,6 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "3 Карты Навыка в Руке"
-        }
-      ]
-    },
-    {
-      "id": "p_card_search-hand-p_card-00-acc-0_002",
-      "produceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "",
-          "text": "In Hand "
-        },
-        {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "p_card-00-acc-0_002",
-          "text": "Trouble "
         }
       ]
     },
@@ -3284,31 +3244,6 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "карты"
-        }
-      ]
-    },
-    {
-      "id": "p_card_search-target-effect_group-visible-exam_full_power-000",
-      "produceDescriptions": [
-        {
-          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_ExamFullPower",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "Label_ExamFullPower",
-          "text": "Full Power "
-        },
-        {
-          "produceDescriptionType": "ProduceDescriptionType_PlainText",
-          "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": "ProduceExamEffectType_Unknown",
-          "produceCardCategory": "ProduceCardCategory_Unknown",
-          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-          "produceStepType": "ProduceStepType_Unknown",
-          "targetId": "",
-          "text": "cards "
         }
       ]
     },

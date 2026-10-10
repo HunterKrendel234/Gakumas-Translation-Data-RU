@@ -1536,36 +1536,6 @@
       "description": "【GO MY WAY!!】Повысьте Этап Тренировки Saki Hanami до {threshold}"
     },
     {
-      "id": "achieve-i_card-hski-3-022-01",
-      "name": "Сладкая ловушка♡",
-      "description": "【Agitato】Сдать финальный экзамен в рамках продюсирования Саки Ханами"
-    },
-    {
-      "id": "achieve-i_card-hski-3-022-02",
-      "name": "Agitato",
-      "description": "【Agitato】Доведите уровень тренировки Саки Ханами до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-hski-3-022-03",
-      "name": "Давайте создадим сосуд побольше",
-      "description": "Получите оценку не ниже A+ [число] раз {threshold} в рамках продюсирования Саки Ханами"
-    },
-    {
-      "id": "achieve-i_card-hski-3-022-04",
-      "name": "Agitato +",
-      "description": "【Agitato】Доведите уровень тренировки Саки Ханами до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-hski-3-022-05",
-      "name": "Agitato ++",
-      "description": "【Agitato】Доведите уровень тренировки Саки Ханами до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-hski-3-022-06",
-      "name": "Agitato +++",
-      "description": "【Agitato】Доведите уровень тренировки Саки Ханами до {threshold}"
-    },
-    {
       "id": "achieve-i_card-hume-2-000-01",
       "name": "Победите Старшую сестру",
       "description": "【Idol, Start!】Сдайте финальный экзамен в продюсерской компании Ume Hanami"
@@ -1834,36 +1804,6 @@
       "id": "achieve-i_card-hume-3-018-06",
       "name": "GO MY WAY!! +++",
       "description": "【GO MY WAY!!】Пройдите Этап Тренировки {threshold} для Ume Hanami"
-    },
-    {
-      "id": "achieve-i_card-hume-3-022-01",
-      "name": "Озорное сердце Джека",
-      "description": "【Agitato】Сдать финальный экзамен в рамках Продюсирования Умэ Ханами"
-    },
-    {
-      "id": "achieve-i_card-hume-3-022-02",
-      "name": "Agitato",
-      "description": "【Agitato】Довести уровень тренировки Умэ Ханами до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-hume-3-022-03",
-      "name": "Я заставлю тебя это сказать!!",
-      "description": "【Agitato】Получить рейтинг A+ или выше  раз{threshold} в рамках Продюсирования Умэ Ханами"
-    },
-    {
-      "id": "achieve-i_card-hume-3-022-04",
-      "name": "Agitato +",
-      "description": "【Agitato】Довести уровень тренировки Умэ Ханами до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-hume-3-022-05",
-      "name": "Agitato ++",
-      "description": "【Agitato】Довести уровень тренировки Умэ Ханами до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-hume-3-022-06",
-      "name": "Agitato +++",
-      "description": "【Agitato】Довести уровень тренировки Умэ Ханами до {threshold}"
     },
     {
       "id": "achieve-i_card-jsna-2-000-01",
@@ -2764,36 +2704,6 @@
       "id": "achieve-i_card-kllj-3-018-06",
       "name": "Дорога Гаракута +++",
       "description": "【Garakuta Road】Пройдите этап Специальной Тренировки {threshold} вместе с Lilja Katsuragi"
-    },
-    {
-      "id": "achieve-i_card-kllj-3-022-01",
-      "name": "Непреднамеренное очарование",
-      "description": "【Agitato】Сдать финальный экзамен в рамках Продюсирования Лильи Кацураги"
-    },
-    {
-      "id": "achieve-i_card-kllj-3-022-02",
-      "name": "Agitato",
-      "description": "【Agitato】Довести уровень тренировки Лильи Кацураги до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-kllj-3-022-03",
-      "name": "Результаты моей работы",
-      "description": "【Agitato】Получить рейтинг A+ или выше  раз {threshold} в рамках Продюсирования Лильи Кацураги"
-    },
-    {
-      "id": "achieve-i_card-kllj-3-022-04",
-      "name": "Agitato +",
-      "description": "【Agitato】Довести уровень тренировки Лильи Кацураги до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-kllj-3-022-05",
-      "name": "Agitato ++",
-      "description": "【Agitato】Довести уровень тренировки Лильи Кацураги до {threshold}"
-    },
-    {
-      "id": "achieve-i_card-kllj-3-022-06",
-      "name": "Agitato +++",
-      "description": "【Agitato】Довести уровень тренировки Лильи Кацураги до {threshold}"
     },
     {
       "id": "achieve-i_card-shro-2-000-04",
