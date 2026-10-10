@@ -66,10 +66,6 @@
       "name": "Очки «Слеза» (Mao Arimura)"
     },
     {
-      "id": "shop_costume_costume_head_amao-hair-0008",
-      "name": "Ушки (Мао Аримура)"
-    },
-    {
       "id": "shop_costume_costume_head_atbm-hair-0001",
       "name": "Украшение для волос «Гортензия» (Tsubame Amaya)"
     },
@@ -160,10 +156,6 @@
     {
       "id": "shop_costume_costume_head_hrnm-hair-0007",
       "name": "Очки «Слеза» (Rinami Himesaki)"
-    },
-    {
-      "id": "shop_costume_costume_head_hrnm-hair-0008",
-      "name": "Ушки (Ринами Химесаки)"
     },
     {
       "id": "shop_costume_costume_head_hski-hair-0001",
@@ -282,10 +274,6 @@
       "name": "Очки с каплевидными линзами (Lilja Katsuragi)"
     },
     {
-      "id": "shop_costume_costume_head_kllj-hair-0008",
-      "name": "Ушки (Лилья Кацураги)"
-    },
-    {
       "id": "shop_costume_costume_head_nasr-hair-0004",
       "name": "Кошачьи ушки (Asari Neo)"
     },
@@ -340,10 +328,6 @@
     {
       "id": "shop_costume_costume_head_ssmk-hair-0007",
       "name": "Очки «Слеза» (Сумика Сиун)"
-    },
-    {
-      "id": "shop_costume_costume_head_ssmk-hair-0008",
-      "name": "Ушки (Сумика Сиун)"
     },
     {
       "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -1140,10 +1124,6 @@
     {
       "id": "shop_pass_item-0029",
       "name": "Премиум Пропуск Миссий сентябрь 2026"
-    },
-    {
-      "id": "shop_pass_item-0030",
-      "name": "Премиум-пропуск миссий на октябрь 2026"
     }
   ]
 }

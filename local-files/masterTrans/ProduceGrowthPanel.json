@@ -19,6 +19,8 @@
     {
       "id": "produce_growth_panel_sheet-hif-01",
       "level": 1,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -86,11 +88,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "2% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-01",
       "level": 2,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -158,11 +163,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "4% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-01",
       "level": 3,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -230,11 +238,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "6% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-01",
       "level": 4,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -302,11 +313,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "8% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-01",
       "level": 5,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -374,11 +388,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "10% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-02",
       "level": 1,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -446,11 +463,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "2% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-02",
       "level": 2,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -518,11 +538,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "4% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-02",
       "level": 3,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -590,11 +613,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "6% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-02",
       "level": 4,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -662,11 +688,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "8% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-02",
       "level": 5,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -734,11 +763,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "10% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-03",
       "level": 1,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -806,11 +838,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "2% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-03",
       "level": 2,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -878,11 +913,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "4% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-03",
       "level": 3,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -950,11 +988,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "6% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-03",
       "level": 4,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1022,11 +1063,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "8% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-03",
       "level": 5,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1094,11 +1138,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "10% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-04",
       "level": 1,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1122,11 +1169,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "1% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-04",
       "level": 2,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1150,11 +1200,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "2% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-04",
       "level": 3,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1178,11 +1231,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "3% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-04",
       "level": 4,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1206,11 +1262,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "4% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-04",
       "level": 5,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1234,11 +1293,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "5% "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-05",
       "level": 1,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1273,11 +1335,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "Получите"
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-05",
       "level": 2,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1312,11 +1377,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "Получите"
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-05",
       "level": 3,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1351,11 +1419,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "Получите"
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-05",
       "level": 4,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1390,11 +1461,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "Получите"
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-05",
       "level": 5,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1429,11 +1503,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "Получите"
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-05",
       "level": 6,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1468,11 +1545,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "Получить"
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-06",
       "level": 1,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1496,11 +1576,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "50 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-06",
       "level": 2,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1524,11 +1607,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "80 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-06",
       "level": 3,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1552,11 +1638,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "110 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-06",
       "level": 4,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1580,11 +1669,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "140 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-06",
       "level": 5,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1608,11 +1700,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "170 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-06",
       "level": 6,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1636,11 +1731,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "200 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-07",
       "level": 1,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Selection",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1664,11 +1762,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "50 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-07",
       "level": 2,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Selection",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1692,11 +1793,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "80 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-07",
       "level": 3,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Selection",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1720,11 +1824,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "110 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-07",
       "level": 4,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Selection",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1748,11 +1855,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "140 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-07",
       "level": 5,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Selection",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1776,11 +1886,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "170 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-07",
       "level": 6,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Selection",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1804,11 +1917,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "200 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-08",
       "level": 1,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1832,11 +1948,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "50 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-08",
       "level": 2,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1860,11 +1979,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "80 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-08",
       "level": 3,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1888,11 +2010,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "110 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-08",
       "level": 4,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1916,11 +2041,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "140 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-08",
       "level": 5,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1944,11 +2072,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "170 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-08",
       "level": 6,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Final",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1972,11 +2103,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "200 "
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-09",
       "level": 1,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2011,11 +2145,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "Скидка"
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-09",
       "level": 2,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2050,11 +2187,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "Скидка"
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-09",
       "level": 3,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2089,11 +2229,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "Скидка"
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-09",
       "level": 4,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2128,11 +2271,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "Скидка"
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-09",
       "level": 5,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2167,11 +2313,14 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "Скидка"
         }
-      ]
+      ],
+      "name": ""
     },
     {
       "id": "produce_growth_panel_sheet-hif-09",
       "level": 6,
+      "produceGrowthPanelSheetId": "produce_growth_panel_sheet-hif",
+      "produceSplitType": "ProduceSplitType_Unknown",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2206,7 +2355,8 @@
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "text": "Скидка"
         }
-      ]
+      ],
+      "name": ""
     }
   ]
 }

@@ -84,12 +84,6 @@
       "acquisitionRouteDescription": "Produce, etc."
     },
     {
-      "id": "item-coin-box-gasha-event-022",
-      "name": "Сияющая Hatsuboshi",
-      "description": "Предмет для использования в событийном гача-барабане",
-      "acquisitionRouteDescription": "Produce, etc."
-    },
-    {
       "id": "item-coin-highscorerush-event-001",
       "name": "Звёздный свет",
       "description": "Предмет для Гачи события",
@@ -597,12 +591,6 @@
       "id": "item-gashaticket-wednesday-260923",
       "name": "Билет Гача Среды Гакумас",
       "description": "Билет для Гачи Среды Гакумас",
-      "acquisitionRouteDescription": ""
-    },
-    {
-      "id": "item-gashaticket-wednesday-261007",
-      "name": "Билет на среду Gakumas Gacha",
-      "description": "Билет, используемый в среде Gakumas Gacha",
       "acquisitionRouteDescription": ""
     },
     {
@@ -1476,12 +1464,6 @@
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
-      "id": "item-piece-idol_hume-3-022",
-      "name": "[Agitato] Осколок Умэ Ханами",
-      "description": "Предмет, используемый для пробуждения и разблокировки Продюсирования айдолов",
-      "acquisitionRouteDescription": "Event Gacha, etc."
-    },
-    {
       "id": "item-piece-idol_jsna-1-000",
       "name": "[Жизнь в кампусе] Осколок Сены Джуо",
       "description": "Предмет для Пробуждения и разблокировки Продюсируемых Айдолов",
@@ -1707,12 +1689,6 @@
       "id": "item-piece-idol_kllj-3-018",
       "name": "[Дорога Гякута] Осколок Lilja Katsuragi",
       "description": "Предмет, используемый для Пробуждения и разблокировки Продюсируемых Айдолов",
-      "acquisitionRouteDescription": "Gacha, etc."
-    },
-    {
-      "id": "item-piece-idol_kllj-3-022",
-      "name": "[Agitato] Осколок Лильи Кацураги",
-      "description": "Предмет, используемый для пробуждения и разблокировки Продюсирования айдолов",
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {

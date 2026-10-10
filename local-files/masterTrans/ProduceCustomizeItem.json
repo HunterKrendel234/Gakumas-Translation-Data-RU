@@ -16,6 +16,8 @@
   "data": [
     {
       "id": "customize_pitem-01-04-3-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -212,6 +214,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-001_01-01-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -428,6 +432,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-001_01-01-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -644,6 +650,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-001_01-01-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -890,6 +898,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-001_01-01-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1106,6 +1116,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-002_01-01-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1342,6 +1354,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-002_01-01-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1578,6 +1592,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-002_01-01-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1874,6 +1890,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-002_01-01-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2170,6 +2188,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-002_01-01-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2446,6 +2466,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-003_01-01-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2692,6 +2714,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-003_01-01-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2938,6 +2962,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-003_01-01-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3154,6 +3180,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-003_01-01-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3390,6 +3418,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-003_01-01-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3606,6 +3636,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-004_01-01-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3842,6 +3874,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-004_01-01-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4128,6 +4162,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-004_01-01-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4414,6 +4450,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-004_01-01-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4700,6 +4738,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-004_01-01-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4986,6 +5026,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5182,6 +5224,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-001_01-01-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5428,6 +5472,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-001_01-01-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5674,6 +5720,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-001_01-01-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5890,6 +5938,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-001_01-01-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6126,6 +6176,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-001_01-01-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6342,6 +6394,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-002_01-01-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6578,6 +6632,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-002_01-01-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6814,6 +6870,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-002_01-01-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7050,6 +7108,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-002_01-01-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7286,6 +7346,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-002_01-01-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7522,6 +7584,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-005_01-01-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7738,6 +7802,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-005_01-01-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7954,6 +8020,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-005_01-01-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8200,6 +8268,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-005_01-01-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8416,6 +8486,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-006_01-01-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8612,6 +8684,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-006_01-01-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8848,6 +8922,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-006_01-01-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9104,6 +9180,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-006_01-01-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9360,6 +9438,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-006_01-01-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9596,6 +9676,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9772,6 +9854,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-003_01-01-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9968,6 +10052,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-003_01-01-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10164,6 +10250,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-003_01-01-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10390,6 +10478,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-003_01-01-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10586,6 +10676,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-004_01-01-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10802,6 +10894,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-004_01-01-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11018,6 +11112,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-004_01-01-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11294,6 +11390,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-004_01-01-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11570,6 +11668,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-004_01-01-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11826,6 +11926,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-005_01-01-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12052,6 +12154,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-005_01-01-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12278,6 +12382,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-005_01-01-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12474,6 +12580,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-005_01-01-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12690,6 +12798,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-005_01-01-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12886,6 +12996,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-006_01-01-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13102,6 +13214,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-006_01-01-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13318,6 +13432,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-006_01-01-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13534,6 +13650,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-006_01-01-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13750,6 +13868,8 @@
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-006_01-01-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan1",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13966,6 +14086,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14162,6 +14284,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-001_02-02-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14378,6 +14502,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-001_02-02-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14594,6 +14720,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-001_02-02-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14840,6 +14968,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-001_02-02-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15056,6 +15186,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-002_02-02-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15292,6 +15424,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-002_02-02-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15528,6 +15662,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-002_02-02-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15824,6 +15960,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-002_02-02-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16120,6 +16258,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-002_02-02-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16396,6 +16536,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-003_02-02-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16642,6 +16784,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-003_02-02-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16888,6 +17032,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-003_02-02-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17104,6 +17250,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-003_02-02-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17340,6 +17488,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-003_02-02-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17556,6 +17706,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-004_02-02-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17792,6 +17944,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-004_02-02-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18078,6 +18232,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-004_02-02-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18364,6 +18520,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-004_02-02-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18650,6 +18808,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-004_02-02-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18936,6 +19096,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19132,6 +19294,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-001_02-02-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19378,6 +19542,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-001_02-02-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19624,6 +19790,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-001_02-02-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19840,6 +20008,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-001_02-02-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20076,6 +20246,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-001_02-02-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20292,6 +20464,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-002_02-02-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20528,6 +20702,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-002_02-02-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20764,6 +20940,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-002_02-02-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21000,6 +21178,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-002_02-02-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21236,6 +21416,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-002_02-02-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21472,6 +21654,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-005_02-02-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21688,6 +21872,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-005_02-02-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21904,6 +22090,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-005_02-02-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22150,6 +22338,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-005_02-02-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22366,6 +22556,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-006_02-02-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22562,6 +22754,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-006_02-02-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22798,6 +22992,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-006_02-02-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23054,6 +23250,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-006_02-02-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23310,6 +23508,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-006_02-02-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23546,6 +23746,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23722,6 +23924,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-003_02-02-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23918,6 +24122,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-003_02-02-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24114,6 +24320,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-003_02-02-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24340,6 +24548,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-003_02-02-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24536,6 +24746,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-004_02-02-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24752,6 +24964,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-004_02-02-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24968,6 +25182,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-004_02-02-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -25244,6 +25460,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-004_02-02-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -25520,6 +25738,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-004_02-02-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -25776,6 +25996,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-005_02-02-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26002,6 +26224,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-005_02-02-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26228,6 +26452,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-005_02-02-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26424,6 +26650,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-005_02-02-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26640,6 +26868,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-005_02-02-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26836,6 +27066,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-006_02-02-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27052,6 +27284,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-006_02-02-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27268,6 +27502,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-006_02-02-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27484,6 +27720,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-006_02-02-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27700,6 +27938,8 @@
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-006_02-02-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan2",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27916,6 +28156,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28052,6 +28294,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-001_03-03-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28208,6 +28452,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-001_03-03-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28364,6 +28610,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-001_03-03-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28550,6 +28798,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-001_03-03-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28706,6 +28956,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-002_03-03-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28882,6 +29134,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-002_03-03-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -29058,6 +29312,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-002_03-03-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -29294,6 +29550,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-002_03-03-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -29530,6 +29788,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-002_03-03-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -29746,6 +30006,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-003_03-03-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -29932,6 +30194,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-003_03-03-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30118,6 +30382,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-003_03-03-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30274,6 +30540,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-003_03-03-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30450,6 +30718,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-003_03-03-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30606,6 +30876,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-004_03-03-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30782,6 +31054,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-004_03-03-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31008,6 +31282,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-004_03-03-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31234,6 +31510,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-004_03-03-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31460,6 +31738,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-004_03-03-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31686,6 +31966,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -31822,6 +32104,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-001_03-03-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32008,6 +32292,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-001_03-03-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32194,6 +32480,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-001_03-03-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32350,6 +32638,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-001_03-03-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32526,6 +32816,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-001_03-03-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32682,6 +32974,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-002_03-03-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32858,6 +33152,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-002_03-03-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33034,6 +33330,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-002_03-03-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33210,6 +33508,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-002_03-03-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33386,6 +33686,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-002_03-03-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33562,6 +33864,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-005_03-03-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33718,6 +34022,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-005_03-03-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33874,6 +34180,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-005_03-03-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34060,6 +34368,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-005_03-03-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34216,6 +34526,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-006_03-03-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34352,6 +34664,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-006_03-03-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34528,6 +34842,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-006_03-03-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34724,6 +35040,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-006_03-03-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -34920,6 +35238,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-006_03-03-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -35096,6 +35416,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -35212,6 +35534,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-003_03-03-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -35348,6 +35672,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-003_03-03-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -35484,6 +35810,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-003_03-03-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -35650,6 +35978,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-003_03-03-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -35786,6 +36116,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-004_03-03-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -35942,6 +36274,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-004_03-03-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36098,6 +36432,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-004_03-03-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36314,6 +36650,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-004_03-03-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36530,6 +36868,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-004_03-03-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36726,6 +37066,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-005_03-03-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36892,6 +37234,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-005_03-03-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37058,6 +37402,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-005_03-03-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37194,6 +37540,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-005_03-03-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37350,6 +37698,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-005_03-03-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37486,6 +37836,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-006_03-03-1-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37642,6 +37994,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-006_03-03-1-001_00-04-4-001",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37798,6 +38152,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-006_03-03-1-001_00-04-4-002",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37954,6 +38310,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-006_03-03-1-001_00-04-4-003",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -38110,6 +38468,8 @@
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-006_03-03-1-001_00-04-4-004",
+      "effectType": "ProduceItemEffectType_ProduceEffect",
+      "planType": "ProducePlanType_Plan3",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
