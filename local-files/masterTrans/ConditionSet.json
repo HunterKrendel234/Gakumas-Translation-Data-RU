@@ -627,6 +627,56 @@
       "description": ""
     },
     {
+      "id": "cd_box-gasha-event-022-exchange_item-piece-idol_hume-3-022_01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_box-gasha-event-022-exchange_item-piece-idol_hume-3-022_01",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_box-gasha-event-022-exchange_item-piece-idol_hume-3-022_02",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_box-gasha-event-022-exchange_item-piece-idol_hume-3-022_02",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_box-gasha-event-022-exchange_item-piece-idol_hume-3-022_03",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_box-gasha-event-022-exchange_item-piece-idol_hume-3-022_03",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_box-gasha-event-022-exchange_item-piece-idol_hume-3-022_04",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_box-gasha-event-022-exchange_item-piece-idol_hume-3-022_04",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_box-gasha-event-022-exchange_item-piece-idol_hume-3-022_05",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_box-gasha-event-022-exchange_item-piece-idol_hume-3-022_05",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd_close",
       "number": 1,
       "description": ""
@@ -1122,6 +1172,21 @@
       "description": ""
     },
     {
+      "id": "cd_draw_gasha-01030-ssr-anotheridol-fktn-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01030-ssr-anotheridol-hski-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01030-ssr-anotheridol-ttmr-001",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_event_release_mission",
       "number": 1,
       "description": ""
@@ -1248,6 +1313,11 @@
     },
     {
       "id": "cd_gasha_have_ticket_item-gashaticket-new-wednesday-26-0923-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_item-gashaticket-new-wednesday-26-1007-1",
       "number": 1,
       "description": ""
     },
@@ -2473,6 +2543,16 @@
     },
     {
       "id": "cd_login_bonus_wednesday-26-0930",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-1007",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-1014",
       "number": 1,
       "description": ""
     },
@@ -4778,6 +4858,101 @@
     },
     {
       "id": "cd_research-event-008-exchange_item-support_card_enhance_point",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-limitovermaterial-2",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-limitovermaterial-2-a-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-limitovermaterial-2-a-2",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-limitovermaterial-2-a-3",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-limitovermaterial-2-b-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-limitovermaterial-2-b-2",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-limitovermaterial-2-b-3",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-limitovermaterial-2-c-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-limitovermaterial-2-c-2",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-limitovermaterial-2-c-3",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-limitovermaterial-3",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-medal-event-all-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-memory_exchange-class1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-memory_exchange-class2",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-memory_exchange-class3",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-money",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-produce_continue-1",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-research-event-009",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_research-event-009-exchange_item-support_card_enhance_point",
       "number": 1,
       "description": ""
     },
@@ -7262,12 +7437,67 @@
       "description": ""
     },
     {
+      "id": "cd_time_26_0930-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_time_26_1001-1100",
       "number": 1,
       "description": ""
     },
     {
+      "id": "cd_time_26_1009-1015-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1009-1015-01",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1009-1015-02",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1015-1020-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1015-1020-01",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1015-1020-02",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1020",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1020",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1020",
+      "number": 3,
+      "description": ""
+    },
+    {
       "id": "cd_time_26_1031",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1101_27_0501",
       "number": 1,
       "description": ""
     },
@@ -7283,6 +7513,11 @@
     },
     {
       "id": "cd_time_27_0301-1100",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_27_0501-1100",
       "number": 1,
       "description": ""
     },
@@ -7567,6 +7802,11 @@
       "description": ""
     },
     {
+      "id": "cd_time-view_open-i_card-hski-3-022",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_time-view_open-i_card-hume-1-001",
       "number": 1,
       "description": ""
@@ -7603,6 +7843,11 @@
     },
     {
       "id": "cd_time-view_open-i_card-hume-3-018",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time-view_open-i_card-hume-3-022",
       "number": 1,
       "description": ""
     },
@@ -7763,6 +8008,11 @@
     },
     {
       "id": "cd_time-view_open-i_card-kllj-3-018",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time-view_open-i_card-kllj-3-022",
       "number": 1,
       "description": ""
     },
@@ -13417,6 +13667,11 @@
       "description": ""
     },
     {
+      "id": "cd-have_costume_head_amao-hair-0008",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-have_costume_head_fktn-hair-0001",
       "number": 1,
       "description": ""
@@ -13478,6 +13733,11 @@
     },
     {
       "id": "cd-have_costume_head_hrnm-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_head_hrnm-hair-0008",
       "number": 1,
       "description": ""
     },
@@ -13612,6 +13872,11 @@
       "description": ""
     },
     {
+      "id": "cd-have_costume_head_kllj-hair-0008",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-have_costume_head_nasr-hair-0004",
       "number": 1,
       "description": ""
@@ -13678,6 +13943,11 @@
     },
     {
       "id": "cd-have_costume_head_ssmk-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_head_ssmk-hair-0008",
       "number": 1,
       "description": ""
     },
@@ -17647,6 +17917,11 @@
       "description": ""
     },
     {
+      "id": "cd-purchase_costume_head_amao-hair-0008",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-purchase_costume_head_fktn-hair-0004",
       "number": 1,
       "description": ""
@@ -17688,6 +17963,11 @@
     },
     {
       "id": "cd-purchase_costume_head_hrnm-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_costume_head_hrnm-hair-0008",
       "number": 1,
       "description": ""
     },
@@ -17787,6 +18067,11 @@
       "description": ""
     },
     {
+      "id": "cd-purchase_costume_head_kllj-hair-0008",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-purchase_costume_head_nasr-hair-0004",
       "number": 1,
       "description": ""
@@ -17848,6 +18133,11 @@
     },
     {
       "id": "cd-purchase_costume_head_ssmk-hair-0007",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-purchase_costume_head_ssmk-hair-0008",
       "number": 1,
       "description": ""
     },
@@ -20562,6 +20852,71 @@
       "description": ""
     },
     {
+      "id": "cd-release-music-inst-all-019",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-019",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-019",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-019",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-019",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-019",
+      "number": 6,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-019",
+      "number": 7,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-019",
+      "number": 8,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-019",
+      "number": 9,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-019",
+      "number": 10,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-019",
+      "number": 11,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-019",
+      "number": 12,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-019",
+      "number": 13,
+      "description": ""
+    },
+    {
       "id": "cd-release-music-inst-amao-005",
       "number": 1,
       "description": ""
@@ -22177,6 +22532,11 @@
       "description": ""
     },
     {
+      "id": "cd-story_view_story_box_event_group-22-01",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-story_view_story_event_group-01-01",
       "number": 1,
       "description": ""
@@ -23042,6 +23402,36 @@
       "description": ""
     },
     {
+      "id": "cd-view_home-banner-gasha-01030-ssr-anotheridol-fktn-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01030-ssr-anotheridol-fktn-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01030-ssr-anotheridol-hski-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01030-ssr-anotheridol-hski-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01030-ssr-anotheridol-ttmr-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01030-ssr-anotheridol-ttmr-001",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd-view_home-banner-shop_costume_0066",
       "number": 1,
       "description": ""
@@ -23423,6 +23813,21 @@
     },
     {
       "id": "cd-view-comic_0025",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view-comic_0026",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view-comic_0027",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view-comic_0028",
       "number": 1,
       "description": ""
     },
@@ -24289,6 +24694,16 @@
     {
       "id": "cd-view-story-atbm-dearness-2025-1113",
       "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-view-story-hski-01",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view-story-hski-02",
+      "number": 1,
       "description": ""
     },
     {

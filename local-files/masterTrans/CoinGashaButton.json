@@ -61,6 +61,11 @@
       "description": "Жребий"
     },
     {
+      "id": "box-gasha-event-022_box_01_button",
+      "name": "Вытянуть",
+      "description": "Вытянуть"
+    },
+    {
       "id": "coin_gasha_button-1-001",
       "name": "Вытянуть 1",
       "description": "Вытянуть 1"
