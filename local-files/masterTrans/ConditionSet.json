@@ -1187,6 +1187,21 @@
       "description": ""
     },
     {
+      "id": "cd_draw_gasha-01035-ssr-anotheridol-amao-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01035-ssr-anotheridol-kcna-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_draw_gasha-01035-ssr-anotheridol-kllj-001",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_event_release_mission",
       "number": 1,
       "description": ""
@@ -4522,6 +4537,56 @@
       "description": "Разблокируйте на PLv 80 или выше"
     },
     {
+      "id": "cd_producer_level-081",
+      "number": 1,
+      "description": "Разблокировано на уровне Продюсера 81 и выше"
+    },
+    {
+      "id": "cd_producer_level-082",
+      "number": 1,
+      "description": "Разблокировано на уровне Продюсера 82 и выше"
+    },
+    {
+      "id": "cd_producer_level-083",
+      "number": 1,
+      "description": "Разблокировано на уровне Продюсера 83 и выше"
+    },
+    {
+      "id": "cd_producer_level-084",
+      "number": 1,
+      "description": "Разблокировано на уровне Продюсера 84 и выше"
+    },
+    {
+      "id": "cd_producer_level-085",
+      "number": 1,
+      "description": "Разблокивано на уровне Продюсера 85 и выше"
+    },
+    {
+      "id": "cd_producer_level-086",
+      "number": 1,
+      "description": "Разблокировано на уровне Продюсера 86 и выше"
+    },
+    {
+      "id": "cd_producer_level-087",
+      "number": 1,
+      "description": "Разблокировано на уровне Продюсера 87 и выше"
+    },
+    {
+      "id": "cd_producer_level-088",
+      "number": 1,
+      "description": "Разблокировано на уровне Продюсера 88 и выше"
+    },
+    {
+      "id": "cd_producer_level-089",
+      "number": 1,
+      "description": "Разблокировано на уровне Продюсера 89 и выше"
+    },
+    {
+      "id": "cd_producer_level-090",
+      "number": 1,
+      "description": "Разблокировано на уровне Продюсера 90 и выше"
+    },
+    {
       "id": "cd_producerlevel-10",
       "number": 1,
       "description": "Достигните PLv10"
@@ -7473,6 +7538,11 @@
     },
     {
       "id": "cd_time_26_1015-1020-02",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1015-1100",
       "number": 1,
       "description": ""
     },
@@ -23428,6 +23498,36 @@
     },
     {
       "id": "cd-view_home-banner-gasha-01030-ssr-anotheridol-ttmr-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01035-ssr-anotheridol-amao-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01035-ssr-anotheridol-amao-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01035-ssr-anotheridol-kcna-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01035-ssr-anotheridol-kcna-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01035-ssr-anotheridol-kllj-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-view_home-banner-gasha-01035-ssr-anotheridol-kllj-001",
       "number": 2,
       "description": ""
     },
