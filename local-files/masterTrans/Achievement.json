@@ -2166,6 +2166,36 @@
       "description": "【「Nee, icchau yo.」】Повысьте Этап Тренировки Sena Juo до {threshold}"
     },
     {
+      "id": "achieve-i_card-jsna-3-021-01",
+      "name": "Ты — моя добыча",
+      "description": "【Рев】Сдай финальный экзамен при производстве Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-02",
+      "name": "Рев",
+      "description": "【Рев】Повысь уровень тренировки Sena Juo до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-03",
+      "name": "Регалия Sena Juo",
+      "description": "【Рев】Получи оценку А+ или выше {threshold} раз при производстве Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-04",
+      "name": "Рев +",
+      "description": "【Рев】Повысь уровень тренировки Sena Juo до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-05",
+      "name": "Рев ++",
+      "description": "【Рев】Повысь уровень тренировки Sena Juo до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-06",
+      "name": "Рев +++",
+      "description": "【Рев】Повысь уровень тренировки Sena Juo до {threshold}"
+    },
+    {
       "id": "achieve-i_card-kcna-2-000-04",
       "name": "С гордостью +",
       "description": "【С гордостью】Повысьте уровень тренировки China Kuramoto до {threshold}"

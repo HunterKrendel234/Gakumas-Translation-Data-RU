@@ -197,6 +197,11 @@
       "title": "Увеличение параметров при получении Карты Навыка, если у вас есть 8 или более Карт Навыка с эффектами Полной Силы."
     },
     {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_lesson_buff-000-0008_0000",
+      "order": 45,
+      "title": "Увеличение параметров при получении Карты Навыка, если у вас есть 8 или более Карт Навыка с эффектами Концентрации"
+    },
+    {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-produce_card_search_count-p_card_search-deck_all-effect_group-visible-exam_parameter_buff-000-0008_0000",
       "order": 43,
       "title": "Увеличение параметров при получении Карты Навыка, если у вас есть 8 или более Карт Навыка с эффектами Хорошего настроя"

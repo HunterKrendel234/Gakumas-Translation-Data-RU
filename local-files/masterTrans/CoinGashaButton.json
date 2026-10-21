@@ -194,6 +194,11 @@
       "id": "highscorerush-event-015_box_01_button",
       "name": "Переиграть",
       "description": "Перерисовать"
+    },
+    {
+      "id": "highscorerush-event-016_box_01_button",
+      "name": "Тяни",
+      "description": "Тяни"
     }
   ]
 }

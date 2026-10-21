@@ -156,6 +156,11 @@
       "description": "【Mirakuru na Nau(ﾟ∀ﾟ)!】Получите Mao Arimura на 4-м Этапе Talent Bloom"
     },
     {
+      "id": "amao-cstm-0122",
+      "name": "Юбка «Ультимейт Смайл»",
+      "description": "Купить юбку «Ультимейт Смайл» (Mao Arimura)"
+    },
+    {
       "id": "amao-cstm-0125",
       "name": "Gamushara ni Ikou!",
       "description": "【Fluorite】«'25 Gamushara ni Ikou!» Получите Mao Arimura"
@@ -324,6 +329,11 @@
       "id": "atbm-cstm-0119",
       "name": "Kokon Touzai Chochoi no Choi",
       "description": "【Rironbusou Shite】Получите '26 Animate Tsubame Amaya"
+    },
+    {
+      "id": "atbm-cstm-0122",
+      "name": "Mirakuru na Nau(ﾟ∀ﾟ)!",
+      "description": "【Riron Busou Shite】Получить Miracle Na Now (ﾟ∀ﾟ)! '26 для Tsubame Amaya"
     },
     {
       "id": "atbm-cstm-0128",
@@ -1636,6 +1646,16 @@
       "description": "【Chiisana Yabou】Получи GO MY WAY '26 Sena Juo"
     },
     {
+      "id": "jsna-cstm-0169",
+      "name": "Рёв",
+      "description": "【Рёв】Получить для Sena Juo"
+    },
+    {
+      "id": "jsna-cstm-0170",
+      "name": "Рёв",
+      "description": "【Рёв】Получить на этапе 4 «Цветение таланта» для Sena Juo"
+    },
+    {
       "id": "jsna-cstm-0175",
       "name": "«Nee, icchau yo.» (One-Piece)",
       "description": "【Nee, icchau yo.」】Получить Sena Juo"
@@ -2309,6 +2329,11 @@
       "id": "shro-cstm-0121",
       "name": "Mirakuru na Nau(ﾟ∀ﾟ)!",
       "description": "【Mirakuru na Nau(ﾟ∀ﾟ)!】Получите Hiro Shinosawa на 4-м Этапе Talent Bloom"
+    },
+    {
+      "id": "shro-cstm-0122",
+      "name": "Юбка «Ультимейт Смайл»",
+      "description": "Купить юбку «Ультимейт Смайл» (Hiro Shinosawa)"
     },
     {
       "id": "shro-cstm-0125",

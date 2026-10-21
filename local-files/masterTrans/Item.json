@@ -180,6 +180,12 @@
       "acquisitionRouteDescription": "Producing event mode, etc."
     },
     {
+      "id": "item-coin-highscorerush-event-016",
+      "name": "Звёздный свет",
+      "description": "Предмет для использования в Месяце улучшения айдолов — «Сияние звёзд» (Sena Juo/Temari Tsukimura)",
+      "acquisitionRouteDescription": "Producing event mode, etc."
+    },
+    {
       "id": "item-common-idol_card-piece-r",
       "name": "Осколок R Айдола",
       "description": "Предмет для Пробуждения R Продюсируемых Айдолов",
@@ -603,6 +609,12 @@
       "id": "item-gashaticket-wednesday-261007",
       "name": "Билет на среду Гакумас",
       "description": "Билет используется в гаче «Среда Гакумас»",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-261021",
+      "name": "Билет на гачу «Среда Гакумас»",
+      "description": "Билет для использования в гаче «Среда Гакумас»",
       "acquisitionRouteDescription": ""
     },
     {
@@ -1564,6 +1576,12 @@
       "name": "[「Nee, icchau yo.」] Sena Juo Деталь",
       "description": "Предмет для пробуждения и разблокировки Продюсируемых Айдолов",
       "acquisitionRouteDescription": "Event Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_jsna-3-021",
+      "name": "[Рёв] Осколок Sena Juo",
+      "description": "Предмет для пробуждения и разблокировки продюсируемых айдолов",
+      "acquisitionRouteDescription": "Gacha, etc."
     },
     {
       "id": "item-piece-idol_kcna-1-000",

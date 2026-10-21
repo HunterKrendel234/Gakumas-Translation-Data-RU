@@ -115,6 +115,15 @@
       "bottomAppealText": "{0}x More"
     },
     {
+      "id": "gasha_button_merge-ssr-01040",
+      "order": 1,
+      "name": "Платный призыв x10",
+      "description": "Платный призыв x10",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": "{0}x More"
+    },
+    {
       "id": "gasha_button-001-01",
       "order": 2,
       "name": "Одноразовая Гача",
@@ -494,6 +503,15 @@
     },
     {
       "id": "gasha_button-01020-wednesday-001-ticket-01",
+      "order": 1,
+      "name": "Призыв билетом",
+      "description": "Призыв билетом",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01040-wednesday-001-ticket-01",
       "order": 1,
       "name": "Призыв билетом",
       "description": "Призыв билетом",

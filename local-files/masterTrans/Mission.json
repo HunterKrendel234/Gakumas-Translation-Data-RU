@@ -4646,6 +4646,106 @@
       "name": "Выполните все миссии 5-го дня"
     },
     {
+      "id": "mission-highscorerush-event-016-mission_11",
+      "name": "Сдайте финальный экзамен {threshold} раз(а)"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_12",
+      "name": "Завершите продакшн с Sena Juo, подняв Визуал выше 1000"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_13",
+      "name": "Получите всего {threshold} оценок продакшна с Sena Juo"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_14",
+      "name": "Получите в общей сложности {threshold} очков оценки продакшна с Temari Tsukimura"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_16",
+      "name": "Выполните все задания Дня 1"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_21",
+      "name": "Сдайте финальный экзамен {threshold} раз(а)"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_22",
+      "name": "Завершите продакшн, подняв Вокал Temari Tsukimura до 1000 или выше"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_23",
+      "name": "Получите всего {threshold} оценок продакшна с Sena Juo"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_24",
+      "name": "Получите в общей сложности {threshold} очков оценки продакшна с Temari Tsukimura"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_26",
+      "name": "Выполните все задания Дня 2"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_31",
+      "name": "Сдайте финальный экзамен {threshold} раз(а)"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_32",
+      "name": "Сдайте финальный экзамен {threshold} раз(а) в Продюсировании Sena Juo"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_33",
+      "name": "Получите всего {threshold} оценок продакшна с Sena Juo"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_34",
+      "name": "Получите в общей сложности {threshold} очков оценки продакшна с Temari Tsukimura"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_36",
+      "name": "Выполните все задания Дня 3"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_41",
+      "name": "Сдайте финальный экзамен {threshold} раз(а)"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_42",
+      "name": "Сдайте финальный экзамен {threshold} раз(а) в Продюсировании Sena Juo"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_43",
+      "name": "Получите всего {threshold} оценок продакшна с Sena Juo"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_44",
+      "name": "Получите в общей сложности {threshold} очков оценки продакшна с Temari Tsukimura"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_46",
+      "name": "Выполните все задания Дня 4"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_51",
+      "name": "Сдайте финальный экзамен {threshold} раз(а)"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_52",
+      "name": "Сдайте финальный экзамен {threshold} раз(а) в Продюсировании Sena Juo"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_53",
+      "name": "Получите всего {threshold} оценок продакшна с Sena Juo"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_54",
+      "name": "Получите в общей сложности {threshold} очков оценки продакшна с Temari Tsukimura"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_56",
+      "name": "Выполните все задания Дня 5"
+    },
+    {
       "id": "mission-main-story-event-001-mission_11",
       "name": "Потратьте {threshold} AP"
     },
@@ -9500,6 +9600,30 @@
     {
       "id": "achieve-i_card-jsna-3-020-06",
       "name": "【「Nee, icchau yo.」】Повысьте Этап Тренировки Sena Juo до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-01",
+      "name": "【Roar】 Сдайте финальный экзамен в Продюсировании Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-02",
+      "name": "【Roar】 Поднимите уровень Тренировки Sena Juo до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-03",
+      "name": "【Roar】 Получите рейтинг А+ или выше {threshold} раз(а) в Продюсировании Sena Juo"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-04",
+      "name": "【Roar】 Поднимите уровень Тренировки Sena Juo до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-05",
+      "name": "【Roar】 Поднимите уровень Тренировки Sena Juo до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-06",
+      "name": "【Roar】 Поднимите уровень Тренировки Sena Juo до {threshold}"
     },
     {
       "id": "achieve-i_card-kcna-2-000-04",
