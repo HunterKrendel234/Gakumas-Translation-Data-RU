@@ -330,6 +330,14 @@
       "name": "Улучшение Хорошего Впечатления "
     },
     {
+      "type": "ProduceExamEffectType_ExamEnthusiasticTurnAdd",
+      "name": "Продление энтузиазма"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamEffectTimerEndTurn",
+      "name": "Резерв активации"
+    },
+    {
       "type": "ProduceExamEffectType_ExamReviewCountAdd",
       "name": "Добавлено Хорошее Впечатление "
     },

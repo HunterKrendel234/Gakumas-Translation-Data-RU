@@ -618,6 +618,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-wednesday-261104",
+      "name": "Билет Гакумас Среды",
+      "description": "Билет, используемый в гаче Гакумас Среды",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-wednesday-fainal-26-001-1",
       "name": "Специальный билет Саки",
       "description": "Билет для ежедневной Гачи «Gakuen Wednesday Final Season»",
@@ -906,6 +912,12 @@
       "acquisitionRouteDescription": "Produce, etc."
     },
     {
+      "id": "item-medal-research-event-010",
+      "name": "Тануки Семинара",
+      "description": "Предмет, который можно обменять на различные награды в магазине события",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
       "id": "item-medal-story-event-001",
       "name": "Дружелюбный «Пупчик»",
       "description": "Различные награды, доступные для обмена в магазине события",
@@ -1125,6 +1137,12 @@
       "id": "item-piece-idol_atbm-3-012",
       "name": "[Campus mode!!] Осколок Tsubame Amaya",
       "description": "Предмет для Пробуждения и разблокировки Продюсируемых Айдолов",
+      "acquisitionRouteDescription": "Gacha, etc."
+    },
+    {
+      "id": "item-piece-idol_atbm-3-015",
+      "name": "[Garakuta Road] Осколок Tsubame Amaya",
+      "description": "Предмет для пробуждения и разблокировки айдолов Продюсирования",
       "acquisitionRouteDescription": "Gacha, etc."
     },
     {
@@ -1579,7 +1597,7 @@
     },
     {
       "id": "item-piece-idol_jsna-3-021",
-      "name": "[Рёв] Осколок Sena Juo",
+      "name": "[Roar] Осколок Sena Juo",
       "description": "Предмет для пробуждения и разблокировки продюсируемых айдолов",
       "acquisitionRouteDescription": "Gacha, etc."
     },
@@ -2010,6 +2028,12 @@
       "acquisitionRouteDescription": "Achievements, etc."
     },
     {
+      "id": "item-primastellamaterial-idol_atbm-001",
+      "name": "Прима Стелла Tsubame",
+      "description": "Предмет для разблокировки «Прима Стелла» Tsubame Amaya",
+      "acquisitionRouteDescription": "Achievements, etc."
+    },
+    {
       "id": "item-primastellamaterial-idol_fktn-001",
       "name": "Prima Stella Kotone",
       "description": "Предмет для разблокировки Kotone Fujita \"Prima Stella\"",
@@ -2163,6 +2187,12 @@
       "id": "item-research-event-009",
       "name": "Наклейка Асари-сенсей",
       "description": "Предмет для перекатки способностей Записи в событии «Семинар Продюсирования Асари-сенсей»",
+      "acquisitionRouteDescription": "Produce, etc."
+    },
+    {
+      "id": "item-research-event-010",
+      "name": "Наклейка Asari-Sensei",
+      "description": "Предмет для перекатки способностей памяти в событии «Семинар Продюсирования» Asari-Sensei",
       "acquisitionRouteDescription": "Produce, etc."
     },
     {

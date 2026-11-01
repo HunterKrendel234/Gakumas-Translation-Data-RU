@@ -366,6 +366,36 @@
       "description": "【Campus mode!!】Повысьте уровень Специальной тренировки Tsubame Amaya до {threshold}"
     },
     {
+      "id": "achieve-i_card-atbm-3-015-01",
+      "name": "Итог настоящего",
+      "description": "【Garakuta Road】Пройдите Финальный Экзамен, продюсируя Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-02",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Повысьте уровень Тренировки Tsubame Amaya до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-03",
+      "name": "Давай повеселимся, Продюсер!",
+      "description": "【Garakuta Road】Получите рейтинг A+ или выше {threshold} раз, продюсируя Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-04",
+      "name": "Garakuta Road +",
+      "description": "【Garakuta Road】Повысьте уровень Тренировки Tsubame Amaya до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-05",
+      "name": "Garakuta Road ++",
+      "description": "【Garakuta Road】Повысьте уровень Тренировки Tsubame Amaya до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-06",
+      "name": "ДGarakuta Road +++",
+      "description": "【Garakuta Road】Повысьте уровень Тренировки Tsubame Amaya до {threshold}"
+    },
+    {
       "id": "achieve-i_card-atbm-3-018-01",
       "name": "Рассей звезды",
       "description": "【Kuraiai】Сдайте Финальный Экзамен в Продюсировании Tsubame Amaya"
@@ -1162,7 +1192,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-017-04",
-      "name": "Дорога мусора +",
+      "name": "Garakuta Road +",
       "description": "【Garakuta Road】Повысьте Этап Тренировки Rinami Himesaki до {threshold}"
     },
     {
@@ -1497,12 +1527,12 @@
     },
     {
       "id": "achieve-i_card-hski-3-018-05",
-      "name": "Дорога мусора ++",
+      "name": "Garakuta Road ++",
       "description": "【Garakuta Road】Пройдите Этап Тренировки {threshold} для Saki Hanami"
     },
     {
       "id": "achieve-i_card-hski-3-018-06",
-      "name": "Дорога мусора +++",
+      "name": "Garakuta Road +++",
       "description": "【Garakuta Road】Пройдите Этап Тренировки {threshold} для Saki Hanami"
     },
     {
@@ -2168,32 +2198,32 @@
     {
       "id": "achieve-i_card-jsna-3-021-01",
       "name": "Ты — моя добыча",
-      "description": "【Рев】Сдай финальный экзамен при производстве Sena Juo"
+      "description": "【Roar】Сдай финальный экзамен при производстве Sena Juo"
     },
     {
       "id": "achieve-i_card-jsna-3-021-02",
-      "name": "Рев",
-      "description": "【Рев】Повысь уровень тренировки Sena Juo до {threshold}"
+      "name": "Roar",
+      "description": "【Roar】Повысь уровень тренировки Sena Juo до {threshold}"
     },
     {
       "id": "achieve-i_card-jsna-3-021-03",
       "name": "Регалия Sena Juo",
-      "description": "【Рев】Получи оценку А+ или выше {threshold} раз при производстве Sena Juo"
+      "description": "【Roar】Получи оценку А+ или выше {threshold} раз при производстве Sena Juo"
     },
     {
       "id": "achieve-i_card-jsna-3-021-04",
-      "name": "Рев +",
-      "description": "【Рев】Повысь уровень тренировки Sena Juo до {threshold}"
+      "name": "Roar +",
+      "description": "【Roar】Повысь уровень тренировки Sena Juo до {threshold}"
     },
     {
       "id": "achieve-i_card-jsna-3-021-05",
-      "name": "Рев ++",
-      "description": "【Рев】Повысь уровень тренировки Sena Juo до {threshold}"
+      "name": "Roar ++",
+      "description": "【Roar】Повысь уровень тренировки Sena Juo до {threshold}"
     },
     {
       "id": "achieve-i_card-jsna-3-021-06",
-      "name": "Рев +++",
-      "description": "【Рев】Повысь уровень тренировки Sena Juo до {threshold}"
+      "name": "Roar +++",
+      "description": "【Roar】Повысь уровень тренировки Sena Juo до {threshold}"
     },
     {
       "id": "achieve-i_card-kcna-2-000-04",
@@ -2782,12 +2812,12 @@
     },
     {
       "id": "achieve-i_card-kllj-3-018-04",
-      "name": "Дорога мусора +",
+      "name": "Garakuta Road +",
       "description": "【Garakuta Road】Пройдите этап Специальной Тренировки {threshold} с Lilja Katsuragi"
     },
     {
       "id": "achieve-i_card-kllj-3-018-05",
-      "name": "Дорога мусора ++",
+      "name": "Garakuta Road ++",
       "description": "【Garakuta Road】Пройдите этап Специальной тренировки {threshold} с Lilja Katsuragi"
     },
     {
@@ -3072,7 +3102,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-018-02",
-      "name": "Дорога мусора",
+      "name": "Garakuta Road",
       "description": "【Garakuta Road】Пройдите этап Специальной Тренировки {threshold} с Hiro Shinosawa"
     },
     {
@@ -3082,17 +3112,17 @@
     },
     {
       "id": "achieve-i_card-shro-3-018-04",
-      "name": "Дорога мусора +",
+      "name": "Garakuta Road +",
       "description": "【Garakuta Road】Пройдите этап Специальной Тренировки {threshold} с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-shro-3-018-05",
-      "name": "Дорога мусора ++",
+      "name": "Garakuta Road ++",
       "description": "【Garakuta Road】Пройдите этап Специальной Тренировки {threshold} с Hiro Shinosawa"
     },
     {
       "id": "achieve-i_card-shro-3-018-06",
-      "name": "Дорога мусора +++",
+      "name": "Garakuta Road +++",
       "description": "【Garakuta Road】Пройдите этап Специальной Тренировки {threshold} с Hiro Shinosawa"
     },
     {
@@ -3642,7 +3672,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-018-02",
-      "name": "Дорога мусора",
+      "name": "Garakuta Road",
       "description": "【Garakuta Road】Повысьте уровень Тренировки Temari Tsukimura до {threshold}"
     },
     {
@@ -3652,12 +3682,12 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-018-04",
-      "name": "Дорога мусора +",
+      "name": "Garakuta Road +",
       "description": "【Garakuta Road】Повысьте уровень Тренировки Temari Tsukimura до {threshold}"
     },
     {
       "id": "achieve-i_card-ttmr-3-018-05",
-      "name": "Дорога мусора ++",
+      "name": "Garakuta Road ++",
       "description": "【Garakuta Road】Повысьте уровень Тренировки Temari Tsukimura до {threshold}"
     },
     {
@@ -4211,6 +4241,11 @@
       "description": "Просмотрите True End: N.I.A с Tsubame Amaya"
     },
     {
+      "id": "achieve-p_idol-atbm-000-2",
+      "name": "Моё навечно",
+      "description": "Увидьте True End: H.I.F. с Tsubame Amaya"
+    },
+    {
       "id": "achieve-p_idol-atbm-001",
       "name": "Контроль ситуации",
       "description": "Используйте Карты Навыка {threshold} раз во время создания Tsubame Amaya"
@@ -4324,6 +4359,16 @@
       "id": "achieve-p_idol-atbm-024",
       "name": "Зажги огонь в своем сердце",
       "description": "Сдайте Финальный Экзамен и получите Ранг SSS+ или выше {threshold} раз с Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-025",
+      "name": "Титул, которого я всегда желала",
+      "description": "Пройдите Финальный Экзамен H.I.F. с Tsubame Amaya и получите рейтинг S4+ или выше"
+    },
+    {
+      "id": "achieve-p_idol-atbm-026",
+      "name": "Расстояние до звёзд",
+      "description": "Пройдите Финальный Экзамен H.I.F. с Tsubame Amaya {threshold} раз"
     },
     {
       "id": "achieve-p_idol-atbm-027",

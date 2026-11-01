@@ -1226,6 +1226,10 @@
       "name": "Победите в HIF Основном событии с Mao"
     },
     {
+      "id": "hidden_mission-dearness-story-atbm-37",
+      "name": "Победите в главном событии H.I.F. с Tsubame"
+    },
+    {
       "id": "hidden_mission-dearness-story-fktn-37",
       "name": "Победите в HIF Основном событии с Kotone"
     },
@@ -1500,6 +1504,10 @@
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-amao",
       "name": "Достигните A-концовки с Mao Arimura"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-atbm",
+      "name": "Достигните A-концовки с Tsubame"
     },
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-fktn",
@@ -2486,6 +2494,10 @@
       "name": "Выполните «H.I.F»: Финал в Продюсировании Mao Arimura {threshold} раз"
     },
     {
+      "id": "mission-daily_mission_HIF_clear-mission_13",
+      "name": "Пройдите главное событие H.I.F. {threshold} раз(а) во время Продюсирования Tsubame Amaya"
+    },
+    {
       "id": "mission-daily_mission_HIF_clear-mission_14",
       "name": "Выполните Основное событие \"H.I.F\" {threshold} раз(а), производя Kotone Fujita"
     },
@@ -2532,6 +2544,10 @@
     {
       "id": "mission-daily_mission_HIF_clear-mission_25",
       "name": "Повысьте Ур. Отношений с Mao Arimura до {threshold}"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_26",
+      "name": "Поднимите уровень симпатии Tsubame Amaya до {threshold}"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_27",
@@ -6830,6 +6846,38 @@
       "name": "Завершите Продюсирование после получения Карты Навыка «Очаровательный взгляд»"
     },
     {
+      "id": "mission-research-event-010-mission_1",
+      "name": "Заходите в игру {threshold} дней подряд!"
+    },
+    {
+      "id": "mission-research-event-010-mission_10",
+      "name": "Пройдите Продюсирование после получения Карты Навыка «Пробуждение»"
+    },
+    {
+      "id": "mission-research-event-010-mission_11",
+      "name": "Пройдите Продюсирование после получения Карты Навыка «Дыхание»"
+    },
+    {
+      "id": "mission-research-event-010-mission_12",
+      "name": "Пройдите Уроки SP {threshold} раз(а)"
+    },
+    {
+      "id": "mission-research-event-010-mission_2",
+      "name": "План: сдайте финальный экзамен с айдолом Продюсирования из Плана Аномалии {threshold} раз(а)"
+    },
+    {
+      "id": "mission-research-event-010-mission_3",
+      "name": "Обменяйте консультации в производстве {threshold} раз(а)"
+    },
+    {
+      "id": "mission-research-event-010-mission_8",
+      "name": "Пройдите Продюсирование после получения Карты Навыка «Невинность»"
+    },
+    {
+      "id": "mission-research-event-010-mission_9",
+      "name": "Пройдите Продюсирование после получения Карты Навыка «Очаровательное выступление»"
+    },
+    {
       "id": "mission-story-event-001-mission_1",
       "name": "Давай зайдем на {threshold} дней!"
     },
@@ -8160,6 +8208,30 @@
     {
       "id": "achieve-i_card-atbm-3-012-06",
       "name": "【Campus mode!!】Установите {threshold} для Этапа Тренировки Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-01",
+      "name": "【Garakuta Road】Сдайте финальный экзамен во время Продюсирования Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-02",
+      "name": "【Garakuta Road】Поднимите уровень Тренировки Tsubame Amaya до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-03",
+      "name": "【Garakuta Road】Получите рейтинг A+ или выше {threshold} раз(а) во время Продюсирования Tsubame Amaya"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-04",
+      "name": "【Garakuta Road】Поднимите уровень Тренировки Tsubame Amaya до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-05",
+      "name": "【Garakuta Road】Поднимите уровень Тренировки Tsubame Amaya до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-015-06",
+      "name": "【Garakuta Road】Поднимите уровень Тренировки Tsubame Amaya до {threshold}"
     },
     {
       "id": "achieve-i_card-atbm-3-018-01",
@@ -11238,6 +11310,10 @@
       "name": "Прохождение True End: N.I.A с Tsubame Amaya"
     },
     {
+      "id": "achieve-p_idol-atbm-000-2",
+      "name": "Увидьте True End: H.I.F. с Tsubame Amaya"
+    },
+    {
       "id": "achieve-p_idol-atbm-001",
       "name": "Используйте Карты Навыка {threshold} раз при производстве Tsubame Amaya"
     },
@@ -11328,6 +11404,14 @@
     {
       "id": "achieve-p_idol-atbm-024",
       "name": "Сдайте Финальный Экзамен и получите SSS+ или выше {threshold} раз вместе с Tsubame Amaya"
+    },
+    {
+      "id": "achieve-p_idol-atbm-025",
+      "name": "Сдайте финальный экзамен H.I.F. с Tsubame Amaya и получите рейтинг S4+ или выше"
+    },
+    {
+      "id": "achieve-p_idol-atbm-026",
+      "name": "Сдайте финальный экзамен H.I.F. с Tsubame Amaya {threshold} раз(а)"
     },
     {
       "id": "achieve-p_idol-atbm-027",
