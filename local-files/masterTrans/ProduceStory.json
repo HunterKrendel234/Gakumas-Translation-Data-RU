@@ -3898,6 +3898,76 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-003-atbm-after_step_before_audition_mid1-1",
+      "title": "Наконец-то тот самый день",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-before-selection-01-01",
+      "title": "К 1-му квалификационному туру",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-before-selection-02-01",
+      "title": "К 2-му квалификационному туру",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-before-selection-03-01",
+      "title": "К 3-му квалификационному туру",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-final-failure-01",
+      "title": "Я не хочу, чтобы это заканчивалось",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-main_match-opening-01",
+      "title": "Теперь — к финалу H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-007-after-selection-01-01",
+      "title": "Прорвись через 1-й квалификационный тур H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-007-after-selection-02-01",
+      "title": "Прорвись через 2-й квалификационный тур H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-007-after-selection-03-01",
+      "title": "Прорвись через 3-й квалификационный тур H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-007-selection-ending-a-01",
+      "title": "Прорвись через квалификационный тур H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-008-after-final-01-01",
+      "title": "1-й раунд финала H.I.F завершен!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-produce-008-final-ending-a-01",
+      "title": "Победа в финале H.I.F!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-selection-failure-01",
+      "title": "Это еще не может закончиться",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-atbm-selection-opening-02",
+      "title": "Стремись пройти квалификационный тур!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-003-fktn-after_step_before_audition_mid1-1",
       "title": "Наконец-то этот день",
       "produceEventHintProduceConditionDescriptions": []
@@ -11623,6 +11693,136 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-event-003_atbm_activity_021",
+      "title": "Что в меню ограниченного времени?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_activity_022",
+      "title": "Спокойный аквариум",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_012",
+      "title": "Песни с высокой оценкой",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_013",
+      "title": "Песни, к которым нужно быть внимательнее",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_014",
+      "title": "Сегодняшний урок вокала",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_015",
+      "title": "Сила, необходимая для H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_016",
+      "title": "О Продюсере",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_017",
+      "title": "Prima Stella Sena Juo",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_018",
+      "title": "Танцы с высокой оценкой",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_019",
+      "title": "Танцы, к которым нужно быть внимательнее",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_020",
+      "title": "Сегодняшний урок танца",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_021",
+      "title": "Кто-то достойный звания Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_022",
+      "title": "О сольных и юнит-выступлениях",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_023",
+      "title": "Об H.I.F",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_024",
+      "title": "Визуалы с высокой оценкой",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_025",
+      "title": "Визуалы, к которым нужно быть внимательнее",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_026",
+      "title": "Сегодняшний урок визуала",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_027",
+      "title": "О Продюсировании",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_028",
+      "title": "Если я стану Prima Stella",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_029",
+      "title": "О 100PRO",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_030",
+      "title": "Проверка состояния ~",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_031",
+      "title": "Как ты себя сейчас чувствуешь ~?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_032",
+      "title": "Проверка состояния!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_033",
+      "title": "Как ты себя сейчас чувствуешь?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_034",
+      "title": "Проверка состояния ♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_atbm_school_035",
+      "title": "Как ты себя сейчас чувствуешь?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-event-003_fktn_activity_021",
       "title": "Напитки на ваш вкус",
       "produceEventHintProduceConditionDescriptions": []
@@ -13218,6 +13418,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-atbm-3-015-01",
+      "title": "【Garakuta Road】Эп. 1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-015-02",
+      "title": "【Garakuta Road】Эп. 2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-atbm-3-015-03",
+      "title": "【Garakuta Road】Эп. 3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-atbm-3-018-01",
       "title": "Kuraiai Эп.1",
       "produceEventHintProduceConditionDescriptions": []
@@ -14074,17 +14289,17 @@
     },
     {
       "id": "p_story-i_card-jsna-3-021-01",
-      "title": "Рык Гл. 1",
+      "title": "Roar Гл. 1",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-021-02",
-      "title": "Рык Гл. 2",
+      "title": "Roar Гл. 2",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-jsna-3-021-03",
-      "title": "Рык Гл. 3",
+      "title": "Roar Гл. 3",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

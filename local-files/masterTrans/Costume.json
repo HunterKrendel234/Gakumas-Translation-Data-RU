@@ -336,9 +336,24 @@
       "description": "【Riron Busou Shite】Получить Miracle Na Now (ﾟ∀ﾟ)! '26 для Tsubame Amaya"
     },
     {
+      "id": "atbm-cstm-0125",
+      "name": "Gamushara ni Ikou!",
+      "description": "【Riron Busou Shite】Получите Gamushara ni Ikou '26Цубамэ Амая!"
+    },
+    {
       "id": "atbm-cstm-0128",
       "name": "ENDLESS DANCE",
       "description": "【Rironbusou Shite】ENDLESS DANCE '26 Получите Tsubame Amaya"
+    },
+    {
+      "id": "atbm-cstm-0136",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Получите Tsubame Amaya"
+    },
+    {
+      "id": "atbm-cstm-0137",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Получите при достижении 4-й стадии Talent Bloom с Tsubame Amaya"
     },
     {
       "id": "atbm-cstm-0140",
@@ -554,6 +569,11 @@
       "id": "fktn-cstm-0124",
       "name": "Gamushara ni Ikou!",
       "description": "【Gamushara ni Ikou!】Получите на 4-м этапе Расцвета Таланта Kotone Fujita"
+    },
+    {
+      "id": "fktn-cstm-0125",
+      "name": "Поддержка на полную",
+      "description": "Поддержка на полную (Kotone)"
     },
     {
       "id": "fktn-cstm-0128",
@@ -1647,12 +1667,12 @@
     },
     {
       "id": "jsna-cstm-0169",
-      "name": "Рёв",
+      "name": "Roar",
       "description": "【Рёв】Получить для Sena Juo"
     },
     {
       "id": "jsna-cstm-0170",
-      "name": "Рёв",
+      "name": "Roar",
       "description": "【Рёв】Получить на этапе 4 «Цветение таланта» для Sena Juo"
     },
     {
@@ -2794,6 +2814,11 @@
       "id": "ttmr-cstm-0124",
       "name": "Gamushara ni Ikou!",
       "description": "【Gamushara ni Ikou!】Получите на 4-м Этапе Расцвета Таланта Темари Цукимиры"
+    },
+    {
+      "id": "ttmr-cstm-0125",
+      "name": "Поддержка на полную",
+      "description": "Поддержка на полную (Temari)"
     },
     {
       "id": "ttmr-cstm-0128",

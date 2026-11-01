@@ -122,6 +122,10 @@
       "name": "Собачьи ушки (Kotone Fujita)"
     },
     {
+      "id": "shop_costume_costume_head_fktn-hair-0009",
+      "name": "Большая лента (Kotone Fujita)"
+    },
+    {
       "id": "shop_costume_costume_head_hmsz-hair-0001",
       "name": "Украшение для волос «Гортензия» (Misuzu Hataya)"
     },
@@ -192,6 +196,10 @@
     {
       "id": "shop_costume_costume_head_hski-hair-0008",
       "name": "Собачьи ушки (Saki Hanami)"
+    },
+    {
+      "id": "shop_costume_costume_head_hski-hair-0009",
+      "name": "Большая лента (Saki Hanami)"
     },
     {
       "id": "shop_costume_costume_head_hume-hair-0001",
@@ -374,6 +382,10 @@
       "name": "Собачьи ушки (Temari Tsukimura)"
     },
     {
+      "id": "shop_costume_costume_head_ttmr-hair-0009",
+      "name": "Большая лента (Temari Tsukimura)"
+    },
+    {
       "id": "shop_costume_fktn-cstm-0063",
       "name": "Фестивальный хаппи (Kotone Fujita)"
     },
@@ -384,6 +396,10 @@
     {
       "id": "shop_costume_fktn-cstm-0111",
       "name": "Пляжный костюм морячки (Kotone Fujita)"
+    },
+    {
+      "id": "shop_costume_fktn-cstm-0125",
+      "name": "Ярая поддержка (Kotone)"
     },
     {
       "id": "shop_costume_fktn-othr-0002-resale",
@@ -674,6 +690,10 @@
       "name": "Пляжный костюм матроски (Temari Tsukimura)"
     },
     {
+      "id": "shop_costume_ttmr-cstm-0125",
+      "name": "Ярая поддержка (Temari)"
+    },
+    {
       "id": "shop_costume_ttmr-othr-0002-resale",
       "name": "Купальник для горячих источников (Temari Tsukimura)"
     },
@@ -796,6 +816,10 @@
     {
       "id": "shop_jewel_item-0039",
       "name": "[Разовое специальное предложение в честь добавления 360° Live!] 6 000 Самоцветов"
+    },
+    {
+      "id": "shop_jewel_item-0045",
+      "name": "[Разовая сделка!] 12 300 Джевелов"
     },
     {
       "id": "shop_pack_atbm-0001",
@@ -1152,6 +1176,10 @@
     {
       "id": "shop_pass_item-0030",
       "name": "Премиум-пасс для миссий за октябрь 2026"
+    },
+    {
+      "id": "shop_pass_item-0031",
+      "name": "Премиум-пропуск миссий на ноябрь 2026"
     }
   ]
 }

@@ -211,6 +211,16 @@
       "description": "Пройдите Этап 25 пути Tsubame Amaya к Айдолу"
     },
     {
+      "id": "costume_head_atbm-cstm-0136",
+      "name": "Дорога Гаракута",
+      "description": "【Путь мусора】Получите Tsubame Amaya"
+    },
+    {
+      "id": "costume_head_atbm-cstm-0137",
+      "name": "Дорога Гаракута",
+      "description": "【Путь мусора】Получите, достигнув 4-го этапа Талантового цветения с Tsubame Amaya"
+    },
+    {
       "id": "costume_head_atbm-cstm-0145",
       "name": "Кураиай",
       "description": "【Kuraiai】Получите Tsubame Amaya"
@@ -469,6 +479,11 @@
       "id": "costume_head_fktn-hair-0038",
       "name": "Маскировочные очки",
       "description": "Получено в Пропуске Миссий Premium (июль 2026 г.)"
+    },
+    {
+      "id": "costume_head_fktn-hair-0039",
+      "name": "Поппин Риббон",
+      "description": "Получите в премиум-пропуске миссий за ноябрь 2026 года"
     },
     {
       "id": "costume_head_hmsz-cstm-0011",
@@ -941,6 +956,11 @@
       "description": "Получено в Пропуске Миссий Premium (июль 2026)"
     },
     {
+      "id": "costume_head_hski-hair-0039",
+      "name": "Поппин Риббон",
+      "description": "Получите в премиум-пропуске миссий за ноябрь 2026 года"
+    },
+    {
       "id": "costume_head_hski-schl-0000",
       "name": "Повседневная прическа",
       "description": "В наличии с самого начала"
@@ -1212,13 +1232,13 @@
     },
     {
       "id": "costume_head_jsna-cstm-0169",
-      "name": "Рык",
-      "description": "Получите 【Рык】 для Sena Juo"
+      "name": "Roar",
+      "description": "Получите 【Roar】 для Sena Juo"
     },
     {
       "id": "costume_head_jsna-cstm-0170",
-      "name": "Рык",
-      "description": "Получите 【Рык】 на этапе Talent Bloom 4 для Sena Juo"
+      "name": "Roar",
+      "description": "Получите 【Roar】 на этапе Talent Bloom 4 для Sena Juo"
     },
     {
       "id": "costume_head_jsna-cstm-0181",
@@ -1712,12 +1732,12 @@
     },
     {
       "id": "costume_head_shro-cstm-0136",
-      "name": "Дорога мусора",
+      "name": "Garakuta Road",
       "description": "【Garakuta Road】Получите Hiro Shinosawa"
     },
     {
       "id": "costume_head_shro-cstm-0137",
-      "name": "Дорога мусора",
+      "name": "Garakuta Road",
       "description": "【Garakuta Road】Получите на 4-м этапе «Цветение таланта» Хиро Синосавы"
     },
     {
@@ -2094,6 +2114,11 @@
       "id": "costume_head_ttmr-hair-0038",
       "name": "Маскировочные очки",
       "description": "Получено в Пропуске Миссий Premium (июль 2026 г.)"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0039",
+      "name": "Поппин Риббон",
+      "description": "Получите в премиум-пропуске миссий за ноябрь 2026 года"
     }
   ]
 }
