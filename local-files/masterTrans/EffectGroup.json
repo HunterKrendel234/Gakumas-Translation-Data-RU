@@ -7,111 +7,111 @@
   "data": [
     {
       "id": "effect_group-hidden-stamina_reduce_fix-000",
-      "name": "Stamina -"
+      "name": "Выносливость -"
     },
     {
       "id": "effect_group-visible-audition_npc_enhance-000",
-      "name": "Rival's score "
+      "name": "Очки соперника "
     },
     {
       "id": "effect_group-visible-before_audition_refresh_stamina_down-000",
-      "name": "Reduced Stamina Recovery Before Exam "
+      "name": "Сниженное восстановление выносливости перед экзаменом "
     },
     {
       "id": "effect_group-visible-before_audition_refresh_stamina_up-000",
-      "name": "Increased Stamina Recovery Before Exam "
+      "name": "Увеличенное восстановление выносливости перед экзаменом "
     },
     {
       "id": "effect_group-visible-dance_addition-000",
-      "name": "Dance +"
+      "name": "Танец +"
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_down-000",
-      "name": "P-Point usage for Outings -"
+      "name": "Использование P-Очк. для прогулок -"
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_up-000",
-      "name": "P-Point usage for Outings +"
+      "name": "Использование P-Очк. для прогулок +"
     },
     {
       "id": "effect_group-visible-event_school_stamina_down-000",
-      "name": "Stamina usage in Classes -"
+      "name": "Использование выносливости на занятиях -"
     },
     {
       "id": "effect_group-visible-event_school_stamina_up-000",
-      "name": "Stamina usage in Classes +"
+      "name": "Использование выносливости на занятиях +"
     },
     {
       "id": "effect_group-visible-exam_add_grow_effect-000",
-      "name": "Growth"
+      "name": "Рост"
     },
     {
       "id": "effect_group-visible-exam_aggressive_reduce-000",
-      "name": "Motivation -"
+      "name": "Мотивация -"
     },
     {
       "id": "effect_group-visible-exam_anti_debuff-000",
-      "name": "Status Reduction Immunity "
+      "name": "Иммунитет к снижению статуса "
     },
     {
       "id": "effect_group-visible-exam_block_restriction-000",
-      "name": "Energy Increase Disabled "
+      "name": "Увеличение энергии отключено "
     },
     {
       "id": "effect_group-visible-exam_block-000",
-      "name": "Energy "
+      "name": "Энергия "
     },
     {
       "id": "effect_group-visible-exam_card_draw-000",
-      "name": "Draw Skill Card "
+      "name": "Взять Карту навыка "
     },
     {
       "id": "effect_group-visible-exam_card_play_aggressive-000",
-      "name": "Motivation "
+      "name": "Мотивация "
     },
     {
       "id": "effect_group-visible-exam_card_search_effect_play_count_buff-000",
-      "name": "Additional Skill Card Activation "
+      "name": "Дополнительная активация Карты Навыка "
     },
     {
       "id": "effect_group-visible-exam_card_upgrade-000",
-      "name": "Upgraded During Lessons "
+      "name": "Улучшено во время уроков "
     },
     {
       "id": "effect_group-visible-exam_concentration-000",
-      "name": "Confident "
+      "name": "Уверенность "
     },
     {
       "id": "effect_group-visible-exam_effect_timer-000",
-      "name": "Activation Reserved "
+      "name": "Активация зарезервирована "
     },
     {
       "id": "effect_group-visible-exam_extra_turn-000",
-      "name": "Additional Turn "
+      "name": "Дополнительный ход "
     },
     {
       "id": "effect_group-visible-exam_full_power_point_reduce-000",
-      "name": "Full Power Point Decrease "
+      "name": "Уменьшение очков полной силы "
     },
     {
       "id": "effect_group-visible-exam_full_power-000",
-      "name": "Full Power "
+      "name": "Полная Сила "
     },
     {
       "id": "effect_group-visible-exam_gimmick_slump-000",
-      "name": "Slump "
+      "name": "Спад "
     },
     {
       "id": "effect_group-visible-exam_hand_grave_count_card_draw-000",
-      "name": "Replace Hand "
+      "name": "Замена руки "
     },
     {
       "id": "effect_group-visible-exam_lesson_buff_reduce-000",
-      "name": "Focus -"
+      "name": "Концентрация -"
     },
     {
       "id": "effect_group-visible-exam_lesson_buff-000",
-      "name": "Focus "
+      "name": "Концентрация "
     },
     {
       "id": "effect_group-visible-exam_lesson_depend_block-000",
@@ -123,155 +123,155 @@
     },
     {
       "id": "effect_group-visible-exam_lesson_value_multiple_down-000",
-      "name": "Parameter Increase Amount -"
+      "name": "Сумма увеличения параметра -"
     },
     {
       "id": "effect_group-visible-exam_lesson_value_multiple-000",
-      "name": "Parameter Increase Amount +"
+      "name": "Сумма увеличения параметра +"
     },
     {
       "id": "effect_group-visible-exam_lesson-000",
-      "name": "Parameter "
+      "name": "Параметр "
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn_reduce-000",
-      "name": "Great decrease"
+      "name": "Большое снижение"
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
-      "name": "Excellent shape "
+      "name": "Отличный настрой "
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_reduce-000",
-      "name": "Good Shape -"
+      "name": "Хороший настрой -"
     },
     {
       "id": "effect_group-visible-exam_parameter_buff-000",
-      "name": "Good Shape "
+      "name": "Хороший настрой "
     },
     {
       "id": "effect_group-visible-exam_playable_value_add-000",
-      "name": "Skill Card Usage "
+      "name": "Использование Карты Навыка "
     },
     {
       "id": "effect_group-visible-exam_preservation-000",
-      "name": "Preservation "
+      "name": "Сбережение "
     },
     {
       "id": "effect_group-visible-exam_review_reduce-000",
-      "name": "Good Impression -"
+      "name": "Впечатление -"
     },
     {
       "id": "effect_group-visible-exam_review-000",
-      "name": "Good Impression "
+      "name": "Впечатление "
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_add_fix-000",
-      "name": "Additional Stamina usage "
+      "name": "Дополнительный расход выносливости "
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_add-000",
-      "name": "Increased Stamina usage "
+      "name": "Увеличенный расход выносливости "
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_down_fix-000",
-      "name": "Reduced Stamina usage "
+      "name": "Уменьшенный расход выносливости "
     },
     {
       "id": "effect_group-visible-exam_stamina_consumption_down-000",
-      "name": "Stamina Decrease "
+      "name": "Уменьшение выносливости "
     },
     {
       "id": "effect_group-visible-exam_stance_reset-000",
-      "name": "Guideline Release "
+      "name": "Снятие ориентира "
     },
     {
       "id": "effect_group-visible-exam_status_enchant_encore-000",
-      "name": "Replay "
+      "name": "Повтор "
     },
     {
       "id": "effect_group-visible-exam_status_enchant-000",
-      "name": "Sustained Effect "
+      "name": "Длительный эффект "
     },
     {
       "id": "effect_group-visible-exam_turn_down-000",
-      "name": "Reduced Turn Count "
+      "name": "Уменьшение количества ходов "
     },
     {
       "id": "effect_group-visible-produce_card_delete-000",
-      "name": "Delete "
+      "name": "Удалить "
     },
     {
       "id": "effect_group-visible-produce_card_upgrade-000",
-      "name": "Upgrade "
+      "name": "Улучшение "
     },
     {
       "id": "effect_group-visible-produce_point_addition-000",
-      "name": "P-Points +"
+      "name": "P-Очки +"
     },
     {
       "id": "effect_group-visible-produce_point_reduce_fix-000",
-      "name": "P-Points -"
+      "name": "P-Очки -"
     },
     {
       "id": "effect_group-visible-shop_price_discount_multiple-000",
-      "name": "Discount on All Consultation Options "
+      "name": "Скидка на все варианты консультаций "
     },
     {
       "id": "effect_group-visible-shop_price_up_multiple-000",
-      "name": "Increase on All Consultation Options "
+      "name": "Повышение цен на все варианты консультаций "
     },
     {
       "id": "effect_group-visible-shop_produce_card_delete_price_discount_multiple-000",
-      "name": "Discount on Skill Card Deletion in Consultation "
+      "name": "Скидка на удаление Карты Навыка во время консультации "
     },
     {
       "id": "effect_group-visible-shop_produce_card_delete_price_up_multiple-000",
-      "name": "Increase on Skill Card Deletion in Consultation "
+      "name": "Повышение цен на удаление Карты Навыка во время консультации "
     },
     {
       "id": "effect_group-visible-shop_produce_card_price_discount_multiple-000",
-      "name": "Discount on Skill Cards in Consultation "
+      "name": "Скидка на Карты Навыка во время консультации "
     },
     {
       "id": "effect_group-visible-shop_produce_card_price_up_multiple-000",
-      "name": "Increase on Skill Cards in Consultation "
+      "name": "Повышение цен на Карты Навыка во время консультации "
     },
     {
       "id": "effect_group-visible-shop_produce_card_upgrade_price_discount_multiple-000",
-      "name": "Discount on Skill Card Upgrade in Consultation "
+      "name": "Скидка на улучшение Карты Навыка во время консультации "
     },
     {
       "id": "effect_group-visible-shop_produce_card_upgrade_price_up_multiple-000",
-      "name": "Increase on Skill Card Upgrade in Consultation "
+      "name": "Повышение цен на улучшение Карты Навыка во время консультации "
     },
     {
       "id": "effect_group-visible-shop_produce_drink_price_discount_multiple-000",
-      "name": "Discount on P Drinks in Consultation "
+      "name": "Скидка на P-напитки во время консультации "
     },
     {
       "id": "effect_group-visible-shop_produce_drink_price_up_multiple-000",
-      "name": "Increase on P Drinks in Consultation "
+      "name": "Повышение цен на P-напитки во время консультации "
     },
     {
       "id": "effect_group-visible-stamina_recover_fix-000",
-      "name": "Stamina +"
+      "name": "Выносливость +"
     },
     {
       "id": "effect_group-visible-stamina_reduce_fix-000",
-      "name": "Stamina -"
+      "name": "Выносливость -"
     },
     {
       "id": "effect_group-visible-stance_lock-000",
-      "name": "Guideline Fixation "
+      "name": "Фиксация ориентира "
     },
     {
       "id": "effect_group-visible-visual_addition-000",
-      "name": "Visual +"
+      "name": "Визуал +"
     },
     {
       "id": "effect_group-visible-vocal_addition-000",
-      "name": "Vocal +"
+      "name": "Вокал +"
     }
   ]
 }

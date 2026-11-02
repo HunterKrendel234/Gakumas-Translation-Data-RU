@@ -7,11 +7,11 @@
   "data": [
     {
       "page": "StoryEventTop",
-      "name": "Home"
+      "name": "Главная"
     },
     {
       "page": "TowerTop",
-      "name": "Tower"
+      "name": "Башня"
     }
   ]
 }

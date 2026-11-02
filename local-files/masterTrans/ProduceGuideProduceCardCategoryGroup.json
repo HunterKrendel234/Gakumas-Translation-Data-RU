@@ -7,67 +7,67 @@
   "data": [
     {
       "id": "CardPlayAggressive_group_20",
-      "description": "I recommend using \"Motivation\" skill cards"
+      "description": "Рекомендую использовать карты навыка «Мотивация»"
     },
     {
       "id": "CardPlayAggressive_group_35",
-      "description": "I recommend using \"Motivation\" skill cards"
+      "description": "Рекомендую использовать карты навыка «Мотивация»"
     },
     {
       "id": "CardPlayAggressive_Review_group_20",
-      "description": "It’s good to balance both \"Motivation\" together with \"Good Impression\" skill cards"
+      "description": "Хорошо сбалансировать карты навыка «Мотивация» и «Впечатление»"
     },
     {
       "id": "CardPlayAggressive_Review_group_35",
-      "description": "It’s good to balance both \"Motivation\" together with \"Good Impression\" skill cards"
+      "description": "Хорошо сбалансировать карты навыка «Мотивация» и «Впечатление»"
     },
     {
       "id": "Concentration_group_20",
-      "description": "It’s good to balance both \"Confident\" together with \"Preservation\" skill cards"
+      "description": "Хорошо сбалансировать карты навыка «Уверенность» и «Сбережение»"
     },
     {
       "id": "Concentration_group_35",
-      "description": "It’s good to balance both \"Confident\" together with \"Preservation\" skill cards"
+      "description": "Хорошо сбалансировать карты навыка «Уверенность» и «Сбережение»"
     },
     {
       "id": "FullPower_group_20",
-      "description": "It’s good to balance both \"Full Power Point\" together with \"Preservation\" skill cards"
+      "description": "Хорошо сбалансировать карты навыка «Полная Сила» и «Сбережение»"
     },
     {
       "id": "FullPower_group_35",
-      "description": "It’s good to balance both \"Full Power Point\" together with \"Preservation\" skill cards"
+      "description": "Хорошо сбалансировать карты навыка «Полная Сила» и «Сбережение»"
     },
     {
       "id": "LessonBuff_group_20",
-      "description": "It’s good to balance both \"Focus\" together with \"Good Shape\" skill cards"
+      "description": "Хорошо сбалансировать карты навыка «Концентрация» и «Хороший настрой»"
     },
     {
       "id": "LessonBuff_group_35",
-      "description": "It’s good to balance both \"Focus\" together with \"Good Shape\" skill cards"
+      "description": "Хорошо сбалансировать карты навыка «Концентрация» и «Хороший настрой»"
     },
     {
       "id": "ParameterBuff_group_20",
-      "description": "It’s good to balance both \"Good Shape\" together with \"Focus\" skill cards"
+      "description": "Хорошо сбалансировать карты навыка «Хороший настрой» и «Концентрация»"
     },
     {
       "id": "ParameterBuff_group_35",
-      "description": "It’s good to balance both \"Good Shape\" together with \"Focus\" skill cards"
+      "description": "Хорошо сбалансировать карты навыка «Хороший настрой» и «Концентрация»"
     },
     {
       "id": "Review_CardPlayAggressive_group_20",
-      "description": "It’s good to balance both \"Good Impression\" together with \"Motivation\" skill cards"
+      "description": "Хорошо сбалансировать карты навыка «Впечатление» и «Мотивация»"
     },
     {
       "id": "Review_CardPlayAggressive_group_35",
-      "description": "It’s good to balance both \"Good Impression\" together with \"Motivation\" skill cards"
+      "description": "Хорошо сбалансировать карты навыка «Впечатление» и «Мотивация»"
     },
     {
       "id": "Review_group_20",
-      "description": "I recommend using \"Good Impression\" skill cards"
+      "description": "Рекомендую использовать карты навыка «Впечатление»"
     },
     {
       "id": "Review_group_35",
-      "description": "I recommend using \"Good Impression\" skill cards"
+      "description": "Рекомендую использовать карты навыка «Впечатление»"
     }
   ]
 }
