@@ -9,8 +9,8 @@
     {
       "id": "gasha_000410-ssr-idol-support-3",
       "order": 1,
-      "name": "10-кратная Гача",
-      "description": "Гача на 10 попыток",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -18,8 +18,8 @@
     {
       "id": "gasha_200limit_button_001-10",
       "order": 3,
-      "name": "10-кратная Гача",
-      "description": "10-кратная Гача",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "1 Guaranteed SR or Higher "
@@ -27,8 +27,8 @@
     {
       "id": "gasha_button_00980-ssr-idol-001",
       "order": 1,
-      "name": "Платная 10-кратная Гача",
-      "description": "Платная 10-кратная Гача",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -36,8 +36,8 @@
     {
       "id": "gasha_button_01000-ssr-idol-001",
       "order": 1,
-      "name": "Платная 10-кратная Гача",
-      "description": "Платная 10-кратная Гача",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -45,8 +45,8 @@
     {
       "id": "gasha_button_01018-ssr-idol-001",
       "order": 1,
-      "name": "Платная 10-кратная Гача",
-      "description": "Платная 10-кратная гача",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -54,8 +54,8 @@
     {
       "id": "gasha_button_animate-ssr-00630",
       "order": 1,
-      "name": "Платная Гача на 10 круток",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -63,8 +63,8 @@
     {
       "id": "gasha_button_merge-ssr-00530",
       "order": 1,
-      "name": "Платная Гача на 100тяжений",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -72,8 +72,8 @@
     {
       "id": "gasha_button_merge-ssr-00560",
       "order": 1,
-      "name": "Платная Гача на 10 попыток",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -81,8 +81,8 @@
     {
       "id": "gasha_button_merge-ssr-00770",
       "order": 1,
-      "name": "Платная Гача на 10000",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -90,8 +90,8 @@
     {
       "id": "gasha_button_merge-ssr-00930",
       "order": 1,
-      "name": "Платная Гача на 100 раз",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -99,8 +99,8 @@
     {
       "id": "gasha_button_merge-ssr-00980",
       "order": 1,
-      "name": "Платная 10-кратная Гача",
-      "description": "Платная 10-кратная Гача",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -108,8 +108,8 @@
     {
       "id": "gasha_button_merge-ssr-01020",
       "order": 1,
-      "name": "Платная гача х10",
-      "description": "Платная гача х10",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -117,8 +117,8 @@
     {
       "id": "gasha_button_merge-ssr-01040",
       "order": 1,
-      "name": "Платный призыв x10",
-      "description": "Платный призыв x10",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -126,8 +126,8 @@
     {
       "id": "gasha_button_merge-ssr-01050",
       "order": 1,
-      "name": "Платная гача (10 раз)",
-      "description": "Платная гача (10 раз)",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -135,8 +135,8 @@
     {
       "id": "gasha_button-001-01",
       "order": 2,
-      "name": "Одноразовая Гача",
-      "description": "Одноразовая Гача",
+      "name": "1-Time Gacha",
+      "description": "1-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -144,8 +144,8 @@
     {
       "id": "gasha_button-001-01-discount",
       "order": 1,
-      "name": "Ежедневная Гача (1 раз)",
-      "description": "Ежедневная Гача (1 раз)",
+      "name": "1-Time Daily Gacha",
+      "description": "1-Time Daily Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -153,8 +153,8 @@
     {
       "id": "gasha_button-001-10",
       "order": 3,
-      "name": "10-кратная Гача",
-      "description": "10-кратная Гача",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -162,8 +162,8 @@
     {
       "id": "gasha_button-001-10-ssr",
       "order": 1,
-      "name": "10-кратная Гача",
-      "description": "10-кратная Гача",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -171,8 +171,8 @@
     {
       "id": "gasha_button-001-10-ssr-anniversary",
       "order": 2,
-      "name": "Подтверждено 10 раундов Гачи SSR (только 2 раза)",
-      "description": "Подтверждено 10 раундов Гачи SSR (только 2 раза)",
+      "name": "SSR confirmed 10 rounds of gacha (2 times only)",
+      "description": "SSR confirmed 10 rounds of gacha (2 times only)",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -180,8 +180,8 @@
     {
       "id": "gasha_button-001-ticket",
       "order": 2,
-      "name": "Жребий за билет",
-      "description": "Жеребьевка билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -189,8 +189,8 @@
     {
       "id": "gasha_button-00800-free-10-06",
       "order": 3,
-      "name": "Бесплатная Гача на 10 кругов, до 100 кругов бесплатной Гачи",
-      "description": "Гача 10 раз",
+      "name": "Free 10-round gacha, up to 100-round free gacha",
+      "description": "10-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -198,8 +198,8 @@
     {
       "id": "gasha_button-00810-ticket-001",
       "order": 3,
-      "name": "Крутить 10 раз билетом",
-      "description": "Гача на 100 вызовов",
+      "name": "Pull 10 times with a ticket",
+      "description": "10-Time Gacha",
       "appealText": "Guaranteed SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -207,8 +207,8 @@
     {
       "id": "gasha_button-00822-wednesday-001-ticket-01",
       "order": 2,
-      "name": "Жребий за билет",
-      "description": "Жребий билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -216,8 +216,8 @@
     {
       "id": "gasha_button-00822-wednesday-001-ticket-10",
       "order": 3,
-      "name": "Гача «Билет на 10 раз»",
-      "description": "Гача: 10 билетов",
+      "name": "10-Time Ticket Gacha",
+      "description": "10-Time Ticket Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -225,8 +225,8 @@
     {
       "id": "gasha_button-00822-wednesday-002-ticket-01",
       "order": 2,
-      "name": "Жребий билетом",
-      "description": "Жеребьевка за билет",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -234,8 +234,8 @@
     {
       "id": "gasha_button-00822-wednesday-002-ticket-10",
       "order": 3,
-      "name": "Гача «Билет на 10 раз»",
-      "description": "Гача: 10 билетов",
+      "name": "10-Time Ticket Gacha",
+      "description": "10-Time Ticket Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -243,8 +243,8 @@
     {
       "id": "gasha_button-00822-wednesday-003-ticket-01",
       "order": 2,
-      "name": "Жребий за билет",
-      "description": "Вытянуть билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -252,8 +252,8 @@
     {
       "id": "gasha_button-00822-wednesday-003-ticket-10",
       "order": 3,
-      "name": "Гача «Билет на 10 раз»",
-      "description": "Гача: 10 билетов",
+      "name": "10-Time Ticket Gacha",
+      "description": "10-Time Ticket Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -261,8 +261,8 @@
     {
       "id": "gasha_button-00822-wednesday-004-ticket-01",
       "order": 2,
-      "name": "Вытянуть билетом",
-      "description": "Жребий с билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -270,8 +270,8 @@
     {
       "id": "gasha_button-00822-wednesday-005-ticket-01",
       "order": 2,
-      "name": "Жеребьевка билетом",
-      "description": "Жеребьевка билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -279,8 +279,8 @@
     {
       "id": "gasha_button-00822-wednesday-006-ticket-01",
       "order": 2,
-      "name": "Вытянуть с билетом",
-      "description": "Жеребьевка с билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -288,8 +288,8 @@
     {
       "id": "gasha_button-00822-wednesday-007-ticket-01",
       "order": 2,
-      "name": "Жеребьевка с билетом",
-      "description": "Жеребьевка билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -297,8 +297,8 @@
     {
       "id": "gasha_button-00822-wednesday-008-ticket-01",
       "order": 2,
-      "name": "Жребий с билетом",
-      "description": "Вытянуть с билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -306,8 +306,8 @@
     {
       "id": "gasha_button-00822-wednesday-009-ticket-01",
       "order": 2,
-      "name": "Жребий за билет",
-      "description": "Жребий за билет",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -315,8 +315,8 @@
     {
       "id": "gasha_button-00822-wednesday-010-ticket-01",
       "order": 2,
-      "name": "Жеребьевка с билетом",
-      "description": "Жребий с билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -324,8 +324,8 @@
     {
       "id": "gasha_button-00822-wednesday-010-ticket-10",
       "order": 3,
-      "name": "Гача: Билет на 10 раз",
-      "description": "Гача: 10 билетов",
+      "name": "10-Time Ticket Gacha",
+      "description": "10-Time Ticket Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -333,8 +333,8 @@
     {
       "id": "gasha_button-00822-wednesday-011-ticket-01",
       "order": 2,
-      "name": "Жребий с билетом",
-      "description": "Жребий с билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -342,8 +342,8 @@
     {
       "id": "gasha_button-00822-wednesday-012-ticket-01",
       "order": 2,
-      "name": "Жребий билетом",
-      "description": "Вытянуть с билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -351,8 +351,8 @@
     {
       "id": "gasha_button-00822-wednesday-013-ticket-01",
       "order": 2,
-      "name": "Жребий за билет",
-      "description": "Жребий с билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -360,8 +360,8 @@
     {
       "id": "gasha_button-00870-free-10-07",
       "order": 3,
-      "name": "Бесплатная Гача на 10 кругов, до 100 кругов бесплатной Гачи",
-      "description": "Гача на 10 раз",
+      "name": "Free 10-round gacha, up to 100-round free gacha",
+      "description": "10-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -369,8 +369,8 @@
     {
       "id": "gasha_button-00890-wednesday-001-ticket-01",
       "order": 2,
-      "name": "Жеребьевка билетом",
-      "description": "Жребий с билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -378,8 +378,8 @@
     {
       "id": "gasha_button-00900-wednesday-001",
       "order": 1,
-      "name": "Вытянуть с билетом на среду Гакума-гачи",
-      "description": "Призыв билетом",
+      "name": "Pull with Gakumas wednesday gacha ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -387,8 +387,8 @@
     {
       "id": "gasha_button-00920-wednesday-001",
       "order": 1,
-      "name": "Вытянуть с билетом Гачи Гакумы на среду",
-      "description": "Призыв билетом",
+      "name": "Pull with Gakumas wednesday gacha ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -396,8 +396,8 @@
     {
       "id": "gasha_button-00920-wednesday-002",
       "order": 1,
-      "name": "Вытянуть с билетом на среду Гакума-гачи",
-      "description": "Призыв билетом",
+      "name": "Pull with Gakumas wednesday gacha ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -405,8 +405,8 @@
     {
       "id": "gasha_button-00930-wednesday-001",
       "order": 1,
-      "name": "Вытянуть с билетом на среду Гакуму",
-      "description": "Призыв билетом",
+      "name": "Pull with Gakumas wednesday gacha ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -414,8 +414,8 @@
     {
       "id": "gasha_button-00940-wednesday-001-ticket-01",
       "order": 1,
-      "name": "Жреб с билетом",
-      "description": "Жребий билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -423,8 +423,8 @@
     {
       "id": "gasha_button-00950-free-10-08",
       "order": 1,
-      "name": "Гача 10 раз",
-      "description": "Гача на 10 попыток",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -432,8 +432,8 @@
     {
       "id": "gasha_button-00950-wednesday-001",
       "order": 1,
-      "name": "Вытянуть с билетом на Гачу Гакум в среду",
-      "description": "Призыв за билет",
+      "name": "Pull with Gakumas wednesday gacha ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -441,8 +441,8 @@
     {
       "id": "gasha_button-00960-ticket-001",
       "order": 1,
-      "name": "ШАГ 3 Билет на гарантированный SSR P-Айдол в честь появления всех Айдолов",
-      "description": "ШАГ 3 Билет на гарантированный SSR P-Айдол в честь появления всех Айдолов",
+      "name": "STEP 3 All Idols Appearance Commemorative SSR P-Idol Guaranteed Ticket",
+      "description": "STEP 3 All Idols Appearance Commemorative SSR P-Idol Guaranteed Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -450,8 +450,8 @@
     {
       "id": "gasha_button-00970-wednesday-001-ticket-01",
       "order": 1,
-      "name": "Вытянуть билетом",
-      "description": "Вытянуть билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -459,8 +459,8 @@
     {
       "id": "gasha_button-00980-free-10-009",
       "order": 3,
-      "name": "Празднование добавления 360° Live! До 100 бесплатных круток! Бесплатная Гача на 10 круток",
-      "description": "Гача на 10 раз",
+      "name": "360° Live Addition Celebration! Up to 100 Free Pulls! 10-Pull Free Gacha",
+      "description": "10-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -468,8 +468,8 @@
     {
       "id": "gasha_button-00988-wednesday-001-ticket-01",
       "order": 2,
-      "name": "Призыв билетом",
-      "description": "Притянуть билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -477,8 +477,8 @@
     {
       "id": "gasha_button-010-item_01",
       "order": 3,
-      "name": "Гача предметов (10 раз)",
-      "description": "Гача предметов (10 раз)",
+      "name": "10-Time Item Gacha",
+      "description": "10-Time Item Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -486,8 +486,8 @@
     {
       "id": "gasha_button-010-ticket",
       "order": 3,
-      "name": "Гача на 10 попыток",
-      "description": "Гача-билет на 10 круток",
+      "name": "10-Time Ticket Gacha",
+      "description": "10-Time Ticket Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -495,8 +495,8 @@
     {
       "id": "gasha_button-01000-wednesday-001",
       "order": 1,
-      "name": "Вытяните с билетом Гача Gakumas wednesday",
-      "description": "Притянуть билетом",
+      "name": "Pull with Gakumas wednesday gacha ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -504,8 +504,8 @@
     {
       "id": "gasha_button-01018-wednesday-001-ticket-01",
       "order": 1,
-      "name": "Призыв билетом",
-      "description": "Использовать билет",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -513,8 +513,8 @@
     {
       "id": "gasha_button-01020-wednesday-001-ticket-01",
       "order": 1,
-      "name": "Призыв билетом",
-      "description": "Призыв билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -522,8 +522,8 @@
     {
       "id": "gasha_button-01040-wednesday-001-ticket-01",
       "order": 1,
-      "name": "Призыв билетом",
-      "description": "Призыв билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -531,8 +531,8 @@
     {
       "id": "gasha_button-01050-wednesday-001-ticket-01",
       "order": 1,
-      "name": "Призыв билетом",
-      "description": "Призыв билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -540,8 +540,8 @@
     {
       "id": "gasha_button-640-fes",
       "order": 1,
-      "name": "Гача в 5 раз чаще",
-      "description": "Гача в 5 раз чаще",
+      "name": "5-Times Gacha",
+      "description": "5-Times Gacha",
       "appealText": "15% SSR Rate ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -549,8 +549,8 @@
     {
       "id": "gasha_button-continuous-001",
       "order": 2,
-      "name": "Использовать Предметы",
-      "description": "Бесконечная Гача",
+      "name": "Pull using Items",
+      "description": "Unlimited Pull Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -558,8 +558,8 @@
     {
       "id": "gasha_button-continuous-002",
       "order": 2,
-      "name": "Использовать Предметы",
-      "description": "Бесконечная Гача",
+      "name": "Pull using Items",
+      "description": "Unlimited Pull Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -567,8 +567,8 @@
     {
       "id": "gasha_button-free-1-01",
       "order": 1,
-      "name": "Бесплатная гача",
-      "description": "Одно бесплатное вытягивание",
+      "name": "Free Single Gacha",
+      "description": "Free Single Pull",
       "appealText": "Guaranteed SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -576,8 +576,8 @@
     {
       "id": "gasha_button-free-10-01",
       "order": 1,
-      "name": "10-кратная Гача",
-      "description": "10-кратная Гача",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -585,8 +585,8 @@
     {
       "id": "gasha_button-free-10-04",
       "order": 3,
-      "name": "Бесплатная Гача на 10 раундов, до 100 раундов бесплатной Гачи",
-      "description": "Гача 10 раз",
+      "name": "Free 10-round gacha, up to 100-round free gacha",
+      "description": "10-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -594,8 +594,8 @@
     {
       "id": "gasha_button-free-10-05",
       "order": 3,
-      "name": "Бесплатная Гача на 10 кругов, до 100 кругов бесплатной Гачи",
-      "description": "Гача на 10 раз",
+      "name": "Free 10-round gacha, up to 100-round free gacha",
+      "description": "10-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -603,8 +603,8 @@
     {
       "id": "gasha_button-free-ssr-anotheridol-01",
       "order": 1,
-      "name": "Гача х1",
-      "description": "Гача х1",
+      "name": "1-Time Gacha",
+      "description": "1-Time Gacha",
       "appealText": "Guaranteed SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -612,8 +612,8 @@
     {
       "id": "gasha_button-gasha-00970-stepup-001-01-003",
       "order": 1,
-      "name": "Шаг 1: 3 призыва",
-      "description": "Гача на 3 попытки",
+      "name": "Step 1: 3 Pulls",
+      "description": "3-Pull Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -621,8 +621,8 @@
     {
       "id": "gasha_button-gasha-00970-stepup-001-2-010",
       "order": 1,
-      "name": "Шаг 2: 10 призывов",
-      "description": "10-кратная Гача",
+      "name": "Step 2: 10 Pulls",
+      "description": "10-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -630,8 +630,8 @@
     {
       "id": "gasha_button-gasha-00970-stepup-001-3-010",
       "order": 1,
-      "name": "Шаг 3: 10 призывов",
-      "description": "10-кратная Гача",
+      "name": "Step 3: 10 Pulls",
+      "description": "10-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -639,8 +639,8 @@
     {
       "id": "gasha_button-gasha-00970-ticket-001",
       "order": 1,
-      "name": "Призыв билетом",
-      "description": "Вытянуть с билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -648,8 +648,8 @@
     {
       "id": "gasha_button-gasha-00970-ticket-002",
       "order": 1,
-      "name": "Вытянуть с билетом",
-      "description": "Вытянуть билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -657,8 +657,8 @@
     {
       "id": "gasha_button-gasha-00970-ticket-003",
       "order": 1,
-      "name": "Вытянуть билетом",
-      "description": "Вытянуть с билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -666,8 +666,8 @@
     {
       "id": "gasha_button-gasha-00970-ticket-004",
       "order": 1,
-      "name": "Призыв билетом",
-      "description": "Вытянуть с билетом",
+      "name": "Pull with Ticket",
+      "description": "Pull with Ticket",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -675,8 +675,8 @@
     {
       "id": "gasha_button-pickup-001-01",
       "order": 2,
-      "name": "Разовая Гача",
-      "description": "Одноразовая Гача",
+      "name": "1-Time Gacha",
+      "description": "1-Time Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -684,8 +684,8 @@
     {
       "id": "gasha_button-pickup-001-01-discount",
       "order": 1,
-      "name": "Ежедневная Гача (1 раз)",
-      "description": "Ежедневная Гача (1 раз)",
+      "name": "1-Time Daily Gacha",
+      "description": "1-Time Daily Gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -693,8 +693,8 @@
     {
       "id": "gasha_button-pickup-001-10",
       "order": 3,
-      "name": "Гача на 10 раз",
-      "description": "Гача в 10 раз больше",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -702,8 +702,8 @@
     {
       "id": "gasha_button-pickup-001-10-animate",
       "order": 1,
-      "name": "10-кратная Гача",
-      "description": "10-кратная Гача",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "Guaranteed Animate SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -711,8 +711,8 @@
     {
       "id": "gasha_button-pickup-001-10-another25summer",
       "order": 1,
-      "name": "Гача «10 раз»",
-      "description": "Гача на 10 раз",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "Guaranteed SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -720,8 +720,8 @@
     {
       "id": "gasha_button-pickup-001-10-HowlingovertheWorld",
       "order": 1,
-      "name": "Гача 10 раз",
-      "description": "10-кратная Гача",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "Guaranteed SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -729,8 +729,8 @@
     {
       "id": "gasha_button-pickup-001-10-iwsf2026",
       "order": 1,
-      "name": "Гача 10 раз",
-      "description": "10-кратная Гача",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "Guaranteed SSR ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -738,8 +738,8 @@
     {
       "id": "gasha_button-pickup-01-discount",
       "order": 3,
-      "name": "Гача x10",
-      "description": "10-кратная Гача",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -747,8 +747,8 @@
     {
       "id": "gasha_button-select-pickup-01",
       "order": 1,
-      "name": "Гача 10 раз",
-      "description": "Гача x10",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -756,8 +756,8 @@
     {
       "id": "gasha_button-select-pickup-01-discount",
       "order": 3,
-      "name": "Гача на 100 раз",
-      "description": "Гача на 100 раз",
+      "name": "10-Time Gacha",
+      "description": "10-Time Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -765,8 +765,8 @@
     {
       "id": "gasha_marge_button-ssr-00520",
       "order": 1,
-      "name": "Платная Гача на 10 попыток",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -774,8 +774,8 @@
     {
       "id": "gasha_marge_button-ssr-00620",
       "order": 1,
-      "name": "Платная Гача на 10 попыток",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -783,8 +783,8 @@
     {
       "id": "gasha_marge_button-ssr-00670",
       "order": 1,
-      "name": "Платная Гача на 10 попыток",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -792,8 +792,8 @@
     {
       "id": "gasha_marge_button-ssr-00750",
       "order": 1,
-      "name": "Платная Гача на 100тяги",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -801,8 +801,8 @@
     {
       "id": "gasha_marge_button-ssr-00860",
       "order": 1,
-      "name": "Платная Гача (10 раз)",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -810,8 +810,8 @@
     {
       "id": "gasha_marge_button-ssr-00875",
       "order": 1,
-      "name": "Платная Гача на 10 попыток",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -819,8 +819,8 @@
     {
       "id": "gasha_marge_button-ssr-00940",
       "order": 1,
-      "name": "Платная Гача на 10 попыток",
-      "description": "Платная Гача на 100 вызовов",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -828,8 +828,8 @@
     {
       "id": "gasha_marge_button-ssr-00975",
       "order": 1,
-      "name": "Платная 10-кратная Гача",
-      "description": "Платная 10-кратная Гача",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -837,8 +837,8 @@
     {
       "id": "gasha_marge_button-ssr-hif-day1-00912",
       "order": 1,
-      "name": "Платная Гача на 10 попыток",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -846,8 +846,8 @@
     {
       "id": "gasha_marge_button-ssr-hif-day2-00914",
       "order": 1,
-      "name": "Платная Гача на 1000 единиц",
-      "description": "Платная Гача на 10 попыток",
+      "name": "Paid 10-Time gacha",
+      "description": "Paid 10-Time gacha",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": "{0}x More"
@@ -855,8 +855,8 @@
     {
       "id": "gasha_ticket_aniv-001",
       "order": 3,
-      "name": "Гача на 1-ю годовщину за 10 билетов",
-      "description": "Гача на 10 вызовов",
+      "name": "Pull with 10 tickets for the 1st anniversary gacha",
+      "description": "10-Time Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "1 Guaranteed SR or Higher ",
       "bottomAppealText": ""
@@ -864,8 +864,8 @@
     {
       "id": "gasha_ticket_anniversary-001",
       "order": 1,
-      "name": "Гача с билетом на 10 вызовов к 2-й годовщине",
-      "description": "Гача на 10 попыток",
+      "name": "Pull with a 2nd Anniversary 10-Pull Gacha Ticket",
+      "description": "10-Time Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "1 Guaranteed SR or Higher ",
       "bottomAppealText": ""
@@ -873,8 +873,8 @@
     {
       "id": "gasha_ticket_anniversary-002",
       "order": 1,
-      "name": "Билет на 10 гач с гарантированным SSR Айдолом Лимитированного Live-тура ко 2-й годовщине",
-      "description": "Лимитированный Live-тур SSR Айдол: Гарантированный 10-тяг",
+      "name": "Pull with a 2nd Anniversary Live Tour Limited SSR P Idol Guaranteed 10-Pull Gacha Ticket",
+      "description": "Live Tour Limited SSR P Idol Guaranteed 10-Pull ",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -882,8 +882,8 @@
     {
       "id": "gasha_ticket_christmas-001",
       "order": 3,
-      "name": "Используйте гача-билет за Бонус за Вход в Рождество",
-      "description": "Гача на 10 попыток",
+      "name": "Use the Christmas login bonus gacha ticket",
+      "description": "10-Time Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "1 Guaranteed SR or Higher ",
       "bottomAppealText": ""
@@ -891,8 +891,8 @@
     {
       "id": "gasha_ticket_ssr_10_button-001",
       "order": 1,
-      "name": "Жеребьевка с гарантированным билетом SSR",
-      "description": "Гарантированный SSR 10-тяг",
+      "name": "Pull with Guaranteed SSR Ticket",
+      "description": "Guaranteed SSR 10-Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -900,8 +900,8 @@
     {
       "id": "gasha_ticket_ssr_button",
       "order": 1,
-      "name": "Вытянуть с гарантированным билетом SSR",
-      "description": "Гарантированный SSR 1-й шанс",
+      "name": "Pull with Guaranteed SSR Ticket",
+      "description": "Guaranteed SSR 1-Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -909,8 +909,8 @@
     {
       "id": "gasha_ticket_ssr_button_1st-anniv",
       "order": 1,
-      "name": "Призыв с памятным SSR-билетом 1-й годовщины",
-      "description": "Гарантированный SSR 1-й шанс",
+      "name": "Pull with 1st Anniversary Commemorative SSR Ticket",
+      "description": "Guaranteed SSR 1-Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -918,8 +918,8 @@
     {
       "id": "gasha_ticket_ssr_button_idol",
       "order": 1,
-      "name": "Вытянуть с гарантированным билетом SSR",
-      "description": "Гарантированный SSR Айдол (100% шанс)",
+      "name": "Pull with Guaranteed SSR Ticket",
+      "description": "Guaranteed SSR Idol 1-Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -927,8 +927,8 @@
     {
       "id": "gasha_ticket_ssr_button_idol_2",
       "order": 1,
-      "name": "Фикс. билет на SSR-Айдола в честь выступления 1-го периода",
-      "description": "Гарантированный SSR (1 розыгрыш)",
+      "name": "The 1st Period Performance Commemorative SSR P idol fixed ticket to Pull",
+      "description": "Guaranteed SSR 1-Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -936,8 +936,8 @@
     {
       "id": "gasha_ticket_ssr_button_seasons-2511-001",
       "order": 1,
-      "name": "Вытяни с билетом на гарантированный SSR сезона 1.5-й годовщины",
-      "description": "Гарантированный SSR 1-й шанс",
+      "name": "Pull with the 1.5th Anniversary Season Limited SSR Guaranteed Ticket",
+      "description": "Guaranteed SSR 1-Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -945,8 +945,8 @@
     {
       "id": "gasha_ticket_ssr_button_support",
       "order": 1,
-      "name": "Сделать призыв с гарантированным билетом SSR",
-      "description": "Гарантированный SSR-поддержки (1 розыгрыш)",
+      "name": "Pull with Guaranteed SSR Ticket",
+      "description": "Guaranteed SSR Support 1-Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -954,8 +954,8 @@
     {
       "id": "gasha_ticket_ssr_button_support-2",
       "order": 1,
-      "name": "Вытянуть с гарантированным билетом SSR",
-      "description": "Гарантированная SSR-поддержка (1 вытяг)",
+      "name": "Pull with Guaranteed SSR Ticket",
+      "description": "Guaranteed SSR Support 1-Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -963,8 +963,8 @@
     {
       "id": "gasha_ticket_ssr_button-5",
       "order": 1,
-      "name": "Билет на гарантированную SSR-гачу к 1,5-летней годовщине",
-      "description": "Гарантированный SSR (1 розыгрыш)",
+      "name": "1.5th Anniversary SSR Guaranteed Gacha Ticket",
+      "description": "Guaranteed SSR 1-Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -972,8 +972,8 @@
     {
       "id": "gasha_ticket_ssr_button-6",
       "order": 1,
-      "name": "Гача-билет на гарантированного SSR-Айдола в честь MOIW2025",
-      "description": "Гарантированный SSR Айдол (1 вытяг)",
+      "name": "MOIW2025 Commemorative SSR P Idol Guaranteed Gacha Ticket",
+      "description": "Guaranteed SSR Idol 1-Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -981,8 +981,8 @@
     {
       "id": "gasha_ticket_ssr_button-7",
       "order": 1,
-      "name": "Призыв с гарантированным билетом SSR в честь 2-й годовщины",
-      "description": "Гарантированный SSR 1-й шанс",
+      "name": "Pull with a 2nd Anniversary Commemorative SSR Guaranteed Ticket",
+      "description": "Guaranteed SSR 1-Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -990,8 +990,8 @@
     {
       "id": "gasha_ticket_ssr_button-8",
       "order": 1,
-      "name": "Гача-билет на 10 круток с гарантированным SSR-Айдолом из лимитированного сезона «The 2nd Period»",
-      "description": "Гарантированный SSR Айдол (1 розыгрыш)",
+      "name": "Pull with a The 2nd Period Season Limited SSR P Idol Guaranteed 10-Pull Gacha Ticket",
+      "description": "Guaranteed SSR Idol 1-Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -999,8 +999,8 @@
     {
       "id": "gasha_ticket_valentine-001",
       "order": 3,
-      "name": "Использовать билеты Гачи Бонуса за Вход на День святого Валентина",
-      "description": "Гача на 10 попыток",
+      "name": "Use Valentine's Login Bonus Gacha Tickets",
+      "description": "10-Time Gacha",
       "appealText": "1 Guaranteed SR or Higher ",
       "highAppealText": "1 Guaranteed SR or Higher ",
       "bottomAppealText": ""
@@ -1008,8 +1008,8 @@
     {
       "id": "gasha-ticket-ssr-idol-seasons_button-01",
       "order": 1,
-      "name": "Гача с гарантированным SSR P-Айдолом сезона",
-      "description": "Гарантированный SSR-вызов Айдола сезонного лимита",
+      "name": "Pull using Season-Limited SSR P-Idol Guaranteed Gacha Ticket",
+      "description": "Season-Limited SSR Idol Guaranteed Single Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""
@@ -1017,8 +1017,8 @@
     {
       "id": "gasha-ticket-ssr-support-seasons_button-01",
       "order": 1,
-      "name": "Гача с гарантированной сезонной SSR Картой Поддержки",
-      "description": "Гарантированный одиночный вытяг SSR Карты Поддержки ограниченного сезона",
+      "name": "Pull using Season-Limited SSR Support Card Guaranteed Gacha Ticket",
+      "description": "Season-Limited SSR Support Card Guaranteed Single Pull",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""

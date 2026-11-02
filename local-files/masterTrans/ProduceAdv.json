@@ -9,122 +9,122 @@
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeFinalLessonHard",
-      "title": "Начало урока финального экзамена!"
+      "title": "Start of the final exam lesson!"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid1LessonHard",
-      "title": "Начало урока финального экзамена!"
+      "title": "Start of the final exam lesson!"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid2LessonHard",
-      "title": "Начало урока финального экзамена!"
+      "title": "Start of the final exam lesson!"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
-      "title": "День перед финальным экзаменом"
+      "title": "The day before the final exam"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
-      "title": "Накануне промежуточного экзамена"
+      "title": "The day before the mid-term exam"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
-      "title": "День перед промежуточным Экзаменом"
+      "title": "The day before the mid-term exam"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_Opening",
-      "title": "Обычное выступление «Hajime»"
+      "title": "Regular performance \"Hajime\""
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultA",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultB",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultC",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedFinal",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedMid1",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedMid2",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalLessonHard",
-      "title": "Начало урока перед финальным экзаменом!"
+      "title": "Start of the final exam lesson!"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1LessonHard",
-      "title": "Начало урока финального экзамена!"
+      "title": "Start of the final exam lesson!"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2LessonHard",
-      "title": "Начало урока финального экзамена!"
+      "title": "Start of the final exam lesson!"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
-      "title": "День перед финальным прослушиванием"
+      "title": "The day before the final audition"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
-      "title": "День перед 1-м Прослушиванием"
+      "title": "The day before the 1st audition"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
-      "title": "День перед вторым прослушиванием"
+      "title": "The day before the 2nd audition"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalAuditionSelect",
-      "title": "Финальный отбор на прослушивании"
+      "title": "Final audition selection"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1AuditionSelect",
-      "title": "Выбор на 1-м прослушивании"
+      "title": "1st audition selection"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2AuditionSelect",
-      "title": "Отбор на 2-е прослушивание"
+      "title": "2nd audition selection"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_StepSkip",
-      "title": "Давай сегодня отдохнём"
+      "title": "Let's take a rest today"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
@@ -134,37 +134,37 @@
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultA",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultB",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultC",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedFinal",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedMid1",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedMid2",
-      "title": "Финальные результаты..."
+      "title": "The final results are..."
     }
   ]
 }

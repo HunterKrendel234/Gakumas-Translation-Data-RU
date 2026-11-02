@@ -7,39 +7,39 @@
   "data": [
     {
       "id": "photo_background-danceroom-01",
-      "name": "Зал для уроков танца"
+      "name": "Dance Lesson Room"
     },
     {
       "id": "photo_background-demon",
-      "name": "Студия (неоновый район)"
+      "name": "Studio (Neon-lit district)"
     },
     {
       "id": "photo_background-hotspring-01",
-      "name": "Онсен Хацубоси"
+      "name": "Hatsuboshi Onsen"
     },
     {
       "id": "photo_background-riverbed",
-      "name": "Берег реки"
+      "name": "Riverbank"
     },
     {
       "id": "photo_background-rooftop-01",
-      "name": "Крыша здания"
+      "name": "Building Rooftop"
     },
     {
       "id": "photo_background-seaside",
-      "name": "Студия (Побережье)"
+      "name": "Studio (Seaside)"
     },
     {
       "id": "photo_background-visualroom-01",
-      "name": "Визуальный класс"
+      "name": "Visual Lesson Room"
     },
     {
       "id": "photo_background-vocalroom-01",
-      "name": "Комната для уроков вокала"
+      "name": "Voice Lesson Room"
     },
     {
       "id": "photo_photobooth-01",
-      "name": "Анимировать"
+      "name": "Animate"
     }
   ]
 }
