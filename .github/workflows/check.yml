@@ -109,6 +109,9 @@ jobs:
         echo "$datetime.$branch.$hash" > version.txt
         echo "VERSION=$datetime.$branch.$hash" >> $GITHUB_ENV
         echo "RELEASE_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+        echo "COMMIT_MESSAGE<<EOF" >> $GITHUB_ENV
+        git log -1 --pretty=%B >> $GITHUB_ENV
+        echo "EOF" >> $GITHUB_ENV
 
     - name: Create ZIP Archive
       run: |
@@ -118,10 +121,8 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         tag_name: ${{ env.VERSION }}
-        name: Translation Update ${{ env.RELEASE_DATE }}
-        body: |      
-          This is an automated release of the latest translation data.
-
+        name: Перевод обновлен ${{ env.RELEASE_DATE }}
+        body: ${{ env.COMMIT_MESSAGE }}
         files: |
           ${{ github.event.repository.name }}-${{ env.VERSION }}.zip
         draft: false
@@ -164,4 +165,3 @@ jobs:
         description: |
           **Что изменилось:**
           ${{ steps.commit_info.outputs.message }}
-
