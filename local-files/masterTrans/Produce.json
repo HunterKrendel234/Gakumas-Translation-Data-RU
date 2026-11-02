@@ -7,35 +7,35 @@
   "data": [
     {
       "id": "produce-001",
-      "name": "Обычный"
+      "name": "Regular"
     },
     {
       "id": "produce-002",
-      "name": "Про"
+      "name": "Pro"
     },
     {
       "id": "produce-003",
-      "name": "Мастер"
+      "name": "Master"
     },
     {
       "id": "produce-004",
-      "name": "Про"
+      "name": "Pro"
     },
     {
       "id": "produce-005",
-      "name": "Мастер"
+      "name": "Master"
     },
     {
       "id": "produce-006",
-      "name": "Легенда"
+      "name": "Legend"
     },
     {
       "id": "produce-007",
-      "name": "Квалификация"
+      "name": "Qualifier"
     },
     {
       "id": "produce-008",
-      "name": "Финал"
+      "name": "Finals"
     }
   ]
 }

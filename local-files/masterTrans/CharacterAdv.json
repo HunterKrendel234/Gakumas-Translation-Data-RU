@@ -112,17 +112,17 @@
     },
     {
       "characterId": "trda",
-      "name": "Тренер по танцам",
+      "name": "Dance Trainer",
       "regexp": "Dance Trainer"
     },
     {
       "characterId": "trvi",
-      "name": "Тренер по визуалу",
+      "name": "Visual Trainer",
       "regexp": "Visual Trainer"
     },
     {
       "characterId": "trvo",
-      "name": "Тренер по вокалу",
+      "name": "Vocal Trainer",
       "regexp": "Vocal Trainer"
     },
     {

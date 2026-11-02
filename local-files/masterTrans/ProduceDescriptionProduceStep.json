@@ -7,11 +7,11 @@
   "data": [
     {
       "type": "ProduceStepType_EventSchool",
-      "name": "Мероприятия"
+      "name": "Activities "
     },
     {
       "type": "ProduceStepType_Present",
-      "name": "Подарок"
+      "name": "Gift "
     }
   ]
 }

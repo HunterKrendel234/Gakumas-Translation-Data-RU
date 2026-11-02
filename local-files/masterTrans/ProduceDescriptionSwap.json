@@ -9,17 +9,17 @@
     {
       "id": "Swap_Convert_001",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Урок"
+      "text": "Lesson "
     },
     {
       "id": "Swap_Convert_001",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Очередь"
+      "text": "Turn "
     },
     {
       "id": "Swap_Convert_002",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Урок"
+      "text": "Lesson "
     },
     {
       "id": "Swap_Convert_002",
@@ -29,22 +29,22 @@
     {
       "id": "Swap_Convert_ConditionThreshold",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Урок ЗАВЕРШЕНО"
+      "text": "Lesson CLEAR "
     },
     {
       "id": "Swap_Convert_ConditionThreshold",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Оценка равна"
+      "text": "Score is "
     },
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Урок не ЗАВЕРШЕН"
+      "text": "Lesson not CLEAR "
     },
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Оценка 999 или меньше"
+      "text": "Score is 999 or less "
     },
     {
       "id": "Swap_Convert_ConditionThreshold_Value_100",
@@ -89,42 +89,42 @@
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "«Только Урок танца/Танцевальный поворот»"
+      "text": "【Dance Lesson/Dance Turn only】"
     },
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Если это Танец,"
+      "text": "If it's a Dance Turn, "
     },
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "«Только для SP-урока»"
+      "text": "【SP Lesson only】"
     },
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "«Только для SP-урока»"
+      "text": "【SP Lesson only】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "«【Визуал/Только Визуал】»"
+      "text": "【Visual Lesson/Visual Turn only】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Если это Визуальный ход,"
+      "text": "If it's a Visual Turn, "
     },
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "«Урок вокала / Только вокал»"
+      "text": "【Vocal Lesson/Vocal Turn only】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Если это вокальный тур,"
+      "text": "If it's a Vocal Turn, "
     },
     {
       "id": "Swap_Label_Audition",
@@ -139,262 +139,262 @@
     {
       "id": "Swap_Label_ExamCardUpgrade",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Улучшение во время Урока"
+      "text": "Upgrade during Lesson "
     },
     {
       "id": "Swap_Label_ExamCardUpgrade",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Улучшение во время Экзамена/Этапа"
+      "text": "Upgrade during Exam/Stage "
     },
     {
       "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Прирост Пара +"
+      "text": "Param gain +"
     },
     {
       "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Прирост Оценки +"
+      "text": "Score gain +"
     },
     {
       "id": "Swap_Label_ExamLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Параметры"
+      "text": "Params"
     },
     {
       "id": "Swap_Label_ExamLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Оценка"
+      "text": "Score "
     },
     {
       "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Изменение + к увел. парам"
+      "text": "Param increase change +"
     },
     {
       "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Оценка +"
+      "text": "Score change +"
     },
     {
       "id": "Swap_Label_ExamLessonFix",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Фикс. параметров"
+      "text": "Fixed Params "
     },
     {
       "id": "Swap_Label_ExamLessonFix",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Исправленная оценка"
+      "text": "Fixed score "
     },
     {
       "id": "Swap_Label_ExamLessonValueMultiple",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "+ к усилению пара"
+      "text": "Param boost +"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultiple",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "+ к Оценке"
+      "text": "Score increase +"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultipleDown",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Повыш. парам. -"
+      "text": "Param boost -"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultipleDown",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Оценка увеличится на -"
+      "text": "Score increase -"
     },
     {
       "id": "Swap_Label_ExamStaminaDamage",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Выносливость —"
+      "text": "Stamina -"
     },
     {
       "id": "Swap_Label_ExamStaminaDamage",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Выносливость -"
+      "text": "Stamina -"
     },
     {
       "id": "Swap_Label_ExamStaminaRecoverFix",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Выносливость +"
+      "text": "Stamina +"
     },
     {
       "id": "Swap_Label_ExamStaminaRecoverFix",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Выносливость +"
+      "text": "Stamina +"
     },
     {
       "id": "Swap_Label_LessonAdd",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Значение пара +"
+      "text": "Param value +"
     },
     {
       "id": "Swap_Label_LessonAdd",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Оценка +"
+      "text": "Score value +"
     },
     {
       "id": "Swap_Label_LessonCountAdd",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "+ к кол-ву бустов парам."
+      "text": "Param boost count +"
     },
     {
       "id": "Swap_Label_LessonCountAdd",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "+ к количеству баллов"
+      "text": "Score increase count +"
     },
     {
       "id": "Swap_Label_LessonCountReduce",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Кол-во усил. парам. -"
+      "text": "Param boost count -"
     },
     {
       "id": "Swap_Label_LessonCountReduce",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Кол-во увеличения Оценки -"
+      "text": "Score increase count -"
     },
     {
       "id": "Swap_Label_LessonReduce",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Значение параметра  -"
+      "text": "Param value -"
     },
     {
       "id": "Swap_Label_LessonReduce",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Оценка -"
+      "text": "Score value -"
     },
     {
       "id": "Swap_Label_MemoryAbilityIsUniqueActivation",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Нельзя активировать несколько раз"
+      "text": "Can't Activate Multiple Times "
     },
     {
       "id": "Swap_Label_MemoryAbilityIsUniqueActivation",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Нельзя активировать несколько раз"
+      "text": "Can't Activate Multiple Times "
     },
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": " Один раз за Урок "
+      "text": "Once during Lesson "
     },
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": " Один раз во время Экзамена/Этапа "
+      "text": "Once during Exam/Stage "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "В начало колоды"
+      "text": "Top of the deck "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "В начало колоды"
+      "text": "Top of the deck "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckLast",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "В конец колоды"
+      "text": "Bottom of the deck "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckLast",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Вниз колоды"
+      "text": "Bottom of the deck "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Случайное место в Колоде"
+      "text": "Random position in the deck "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Случайное положение в Колоде"
+      "text": "Random position in the deck "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Grave",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Сброс"
+      "text": "Discard pile "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Grave",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Сброс"
+      "text": "Discard pile "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Hand",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Рука"
+      "text": "Hand "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Hand",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Рука"
+      "text": "Hand "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Исключение"
+      "text": "Exclusion "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Исключение"
+      "text": "Exclusion "
     },
     {
       "id": "Swap_Label_ProduceType_FirstStar",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Только Hajime"
+      "text": "Hajime Only "
     },
     {
       "id": "Swap_Label_ProduceType_FirstStar",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Только Hajime"
+      "text": "Hajime Only "
     },
     {
       "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Только для H.I.F"
+      "text": "H.I.F Only "
     },
     {
       "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Только для H.I.F"
+      "text": "H.I.F Only "
     },
     {
       "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Final",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Только для Ф.И.Ф."
+      "text": "H.I.F Finals Only "
     },
     {
       "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Final",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Только для финалов H.I.F."
+      "text": "H.I.F Finals Only "
     },
     {
       "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Selection",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Только для Квалификации H.I.F"
+      "text": "H.I.F Qualifier Only "
     },
     {
       "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Selection",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Только для Квалификации H.I.F."
+      "text": "H.I.F Qualifier Only "
     },
     {
       "id": "Swap_Label_ProduceType_NextIdolAudition",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "Только N.I.A"
+      "text": "N.I.A Only "
     },
     {
       "id": "Swap_Label_ProduceType_NextIdolAudition",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "Только N.I.A"
+      "text": "N.I.A Only "
     }
   ]
 }

@@ -7,19 +7,19 @@
   "data": [
     {
       "id": "main_task_group-01-01",
-      "title": "H-задание"
+      "title": "H-Task"
     },
     {
       "id": "main_task_group-02-01",
-      "title": "П-задание"
+      "title": "P-Task"
     },
     {
       "id": "main_task_group-03-01",
-      "title": "П-Задача 2"
+      "title": "P-Task 2"
     },
     {
       "id": "main_task_group-04-01",
-      "title": "P-задача 3"
+      "title": "P-Task 3"
     }
   ]
 }

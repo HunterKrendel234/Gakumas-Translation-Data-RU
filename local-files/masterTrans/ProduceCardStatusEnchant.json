@@ -37,7 +37,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -57,7 +57,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После использования,"
+          "text": "After using it, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -67,7 +67,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -77,7 +77,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "В случае, если"
+          "text": "In case of, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -87,7 +87,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -97,7 +97,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -117,7 +117,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostFullPowerPointAdd",
-          "text": "Стоимость очков Полной Силы"
+          "text": "Full Power Point Cost "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -127,7 +127,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 4x)"
+          "text": "+1 (up to 4x) "
         }
       ]
     },
@@ -154,7 +154,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -174,7 +174,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После использования,"
+          "text": "After using it, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -184,7 +184,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -194,7 +194,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "В случае, если"
+          "text": "In case of, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -204,7 +204,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -214,7 +214,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -234,7 +234,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostFullPowerPointAdd",
-          "text": "Стоимость очков Полной Силы"
+          "text": "Full Power Point Cost "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -244,7 +244,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 4 раз)"
+          "text": "+1 (up to 4x) "
         }
       ]
     },
@@ -271,7 +271,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -291,7 +291,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После использования "
+          "text": "After using it, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -301,7 +301,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -311,7 +311,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "В случае, если"
+          "text": "In case of, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -321,7 +321,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -331,7 +331,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -368,7 +368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -388,7 +388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После использования,"
+          "text": "After using it, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -398,7 +398,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -408,7 +408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "В случае, если"
+          "text": "In case of, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -418,7 +418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -428,7 +428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -465,7 +465,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -485,7 +485,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "Активная карта навыка "
+          "text": "Active Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -495,7 +495,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После использования,"
+          "text": "After Use, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -505,7 +505,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -515,7 +515,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -552,7 +552,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -572,7 +572,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "Карта Ментал-Навыка"
+          "text": "Mental Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -582,7 +582,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После использования,"
+          "text": "After Use, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -592,7 +592,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -602,7 +602,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_BlockAdd",
-          "text": "Энергия"
+          "text": "Energy "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -639,7 +639,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -659,7 +659,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -669,7 +669,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После эффектов Карт Навыка,"
+          "text": "After Skill Cards Effects, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -679,7 +679,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -689,7 +689,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -709,7 +709,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -719,7 +719,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 2x)"
+          "text": "+1 (up to 2x) "
         }
       ]
     },
@@ -746,7 +746,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -766,7 +766,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -776,7 +776,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После эффектов Карт Навыка,"
+          "text": "After Skill Cards Effects, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -786,7 +786,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -796,7 +796,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -816,7 +816,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -826,7 +826,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 2 раз)"
+          "text": "+1 (up to 2x) "
         }
       ]
     },
@@ -853,7 +853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -873,7 +873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После использования "
+          "text": "After using it, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -883,7 +883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -893,7 +893,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostPenetrateAdd",
-          "text": "Увеличение стоимости Выносливости"
+          "text": "Stamina cost increase "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -913,7 +913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_FullPowerPointAdd",
-          "text": "Полная Сила"
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -950,7 +950,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -970,7 +970,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После использования,"
+          "text": "After using it, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -980,7 +980,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -990,7 +990,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostPenetrateAdd",
-          "text": "Увеличение стоимости Выносливости"
+          "text": "Stamina cost increase "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1010,7 +1010,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_FullPowerPointAdd",
-          "text": "Полная Сила"
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1047,7 +1047,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1067,7 +1067,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1077,7 +1077,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После эффектов Карт Навыка,"
+          "text": "After Skill Cards Effects, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1087,7 +1087,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1097,7 +1097,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1117,7 +1117,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1127,7 +1127,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 2 раз)"
+          "text": "+1 (up to 2x) "
         }
       ]
     },
@@ -1154,7 +1154,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1174,7 +1174,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1184,7 +1184,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После эффектов Карт Навыка,"
+          "text": "After Skill Cards Effects, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1194,7 +1194,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1204,7 +1204,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1224,7 +1224,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1234,7 +1234,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 2 раз)"
+          "text": "+1 (up to 2x) "
         }
       ]
     },
@@ -1261,7 +1261,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1281,7 +1281,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1291,7 +1291,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После эффектов Карт Навыка,"
+          "text": "After Skill Cards Effects, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1301,7 +1301,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1311,7 +1311,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1331,7 +1331,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "Усиление параметров"
+          "text": "Param Boost "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1341,7 +1341,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 2 раз)"
+          "text": "+1 (up to 2x) "
         }
       ]
     },
@@ -1542,7 +1542,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1562,7 +1562,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1582,7 +1582,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1592,7 +1592,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1602,7 +1602,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1612,7 +1612,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1622,7 +1622,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10 (до 1x)"
+          "text": "+10 (up to 1x) "
         }
       ]
     },
@@ -1649,7 +1649,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1669,7 +1669,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1689,7 +1689,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1699,7 +1699,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1709,7 +1709,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1719,7 +1719,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1729,7 +1729,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+8 (до 1x)"
+          "text": "+8 (up to 1x) "
         }
       ]
     },
@@ -1756,7 +1756,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1776,7 +1776,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1796,7 +1796,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1806,7 +1806,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1816,7 +1816,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1826,7 +1826,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "Усиление Пара"
+          "text": "Param Boost "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1836,7 +1836,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 1 раза)"
+          "text": "+1 (up to 1x) "
         }
       ]
     },
@@ -1863,7 +1863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1883,7 +1883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1903,7 +1903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1913,7 +1913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1923,7 +1923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1933,7 +1933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostReduce",
-          "text": "Стоимость"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1953,7 +1953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1963,7 +1963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+16 (до 2 раз)"
+          "text": "+16 (up to 2x) "
         }
       ]
     },
@@ -1990,7 +1990,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2010,7 +2010,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2030,7 +2030,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2040,7 +2040,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2050,7 +2050,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2060,7 +2060,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostReduce",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2080,7 +2080,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2090,7 +2090,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+21 (до 2 раз)"
+          "text": "+21 (up to 2x) "
         }
       ]
     },
@@ -2117,7 +2117,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2137,7 +2137,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2157,7 +2157,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2167,7 +2167,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2177,7 +2177,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2187,7 +2187,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2197,7 +2197,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10 (до 2 раз)"
+          "text": "+10 (up to 2x) "
         }
       ]
     },
@@ -2224,7 +2224,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2244,7 +2244,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2264,7 +2264,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2274,7 +2274,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2284,7 +2284,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2294,7 +2294,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2304,7 +2304,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+15 (до 2x)"
+          "text": "+15 (up to 2x) "
         }
       ]
     },
@@ -2331,7 +2331,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2351,7 +2351,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2371,7 +2371,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2381,7 +2381,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2391,7 +2391,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2401,7 +2401,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2421,7 +2421,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2431,7 +2431,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 2x)"
+          "text": "+1 (up to 2x) "
         }
       ]
     },
@@ -2458,7 +2458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2478,7 +2478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2498,7 +2498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2508,7 +2508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2518,7 +2518,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2528,7 +2528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2538,7 +2538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+20 (до 2 раз)"
+          "text": "+20 (up to 2x) "
         }
       ]
     },
@@ -2565,7 +2565,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2585,7 +2585,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2605,7 +2605,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2615,7 +2615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2625,7 +2625,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2635,7 +2635,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2655,7 +2655,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2665,7 +2665,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 2x)"
+          "text": "+1 (up to 2x) "
         }
       ]
     },
@@ -2692,7 +2692,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2712,7 +2712,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2732,7 +2732,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2742,7 +2742,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2752,7 +2752,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2762,7 +2762,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2772,7 +2772,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+6 (до 2 раз)"
+          "text": "+6 (up to 2x) "
         }
       ]
     },
@@ -2799,7 +2799,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2819,7 +2819,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2839,7 +2839,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2849,7 +2849,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2859,7 +2859,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2869,7 +2869,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2879,7 +2879,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+4 (до 4 раз)"
+          "text": "+4 (up to 4x) "
         }
       ]
     },
@@ -2906,7 +2906,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2926,7 +2926,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2946,7 +2946,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2956,7 +2956,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2966,7 +2966,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2976,7 +2976,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3013,7 +3013,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3033,7 +3033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3053,7 +3053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3063,7 +3063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3073,7 +3073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Собственный"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3083,7 +3083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3103,7 +3103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3140,7 +3140,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3160,7 +3160,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3180,7 +3180,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3190,7 +3190,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3200,7 +3200,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Владеть "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3210,7 +3210,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3247,7 +3247,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3267,7 +3267,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3287,7 +3287,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3297,7 +3297,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3307,7 +3307,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3317,7 +3317,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3337,7 +3337,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_BlockAdd",
-          "text": "Энергия"
+          "text": "Energy "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3374,7 +3374,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3394,7 +3394,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3414,7 +3414,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3424,7 +3424,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3434,7 +3434,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Владеть "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3444,7 +3444,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3481,7 +3481,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3501,7 +3501,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3521,7 +3521,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3531,7 +3531,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3541,7 +3541,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3551,7 +3551,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3571,7 +3571,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_BlockAdd",
-          "text": "Энергия"
+          "text": "Energy "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3608,7 +3608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3628,7 +3628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3648,7 +3648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3658,7 +3658,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3668,7 +3668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3678,7 +3678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3715,7 +3715,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3735,7 +3735,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3755,7 +3755,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3765,7 +3765,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3775,7 +3775,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3785,7 +3785,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3822,7 +3822,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3842,7 +3842,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3862,7 +3862,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Уверенность"
+          "text": "Confidence "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3872,7 +3872,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3882,7 +3882,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Своё"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3892,7 +3892,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3912,7 +3912,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3949,7 +3949,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3969,7 +3969,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3989,7 +3989,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3999,7 +3999,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "При каждой смене,"
+          "text": "Every Change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4009,7 +4009,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4019,7 +4019,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4029,7 +4029,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+4 (до 2 раз)"
+          "text": "+4 (up to 2x) "
         }
       ]
     },
@@ -4056,7 +4056,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4076,7 +4076,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4096,7 +4096,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4106,7 +4106,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "При каждом изменении,"
+          "text": "Every Change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4116,7 +4116,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4126,7 +4126,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4136,7 +4136,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+6 (до 2 раз)"
+          "text": "+6 (up to 2x) "
         }
       ]
     },
@@ -4163,7 +4163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4183,7 +4183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4203,7 +4203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4213,7 +4213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "При каждой смене,"
+          "text": "Every Change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4223,7 +4223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4233,7 +4233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4243,7 +4243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10 (до 3 раз)"
+          "text": "+10 (up to 3x) "
         }
       ]
     },
@@ -4270,7 +4270,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4290,7 +4290,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4310,7 +4310,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4320,7 +4320,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "При каждой смене,"
+          "text": "Every Change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4330,7 +4330,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4340,7 +4340,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4350,7 +4350,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+5 (до 3 раз)"
+          "text": "+5 (up to 3x) "
         }
       ]
     },
@@ -4377,7 +4377,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4397,7 +4397,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4417,7 +4417,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4427,7 +4427,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "При каждой смене,"
+          "text": "Every Change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4437,7 +4437,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4447,7 +4447,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4457,7 +4457,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+15 (до 4 раз)"
+          "text": "+15 (up to 4x) "
         }
       ]
     },
@@ -4484,7 +4484,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4504,7 +4504,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4524,7 +4524,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4534,7 +4534,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "При каждой смене,"
+          "text": "Every Change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4544,7 +4544,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4554,7 +4554,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4564,7 +4564,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+20 (до 4 раз)"
+          "text": "+20 (up to 4x) "
         }
       ]
     },
@@ -4591,7 +4591,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4611,7 +4611,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4631,7 +4631,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4641,7 +4641,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "При каждом изменении,"
+          "text": "Every Change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4651,7 +4651,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4661,7 +4661,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4698,7 +4698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4718,7 +4718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4738,7 +4738,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4748,7 +4748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "При каждом изменении,"
+          "text": "Every Change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4758,7 +4758,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4768,7 +4768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4788,7 +4788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4825,7 +4825,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4845,7 +4845,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4865,7 +4865,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4875,7 +4875,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "При каждой смене,"
+          "text": "Every Change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4885,7 +4885,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4895,7 +4895,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4932,7 +4932,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4952,7 +4952,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4972,7 +4972,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4982,7 +4982,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "При каждой смене,"
+          "text": "Every Change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4992,7 +4992,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5002,7 +5002,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5039,7 +5039,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5059,7 +5059,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5079,7 +5079,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Рекомендация"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5089,7 +5089,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "При каждом изменении,"
+          "text": "Every Change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5099,7 +5099,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5109,7 +5109,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5146,7 +5146,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5166,7 +5166,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5186,7 +5186,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Рекомендация"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5196,7 +5196,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "При каждой смене,"
+          "text": "Every Change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5206,7 +5206,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5216,7 +5216,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5253,7 +5253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5273,7 +5273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5293,7 +5293,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5303,7 +5303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Каждые 2 Изменения,"
+          "text": "Every 2 Changes, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5313,7 +5313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5323,7 +5323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5343,7 +5343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "Буст Пара"
+          "text": "Param Boost "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5363,7 +5363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5373,7 +5373,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 12 раз)"
+          "text": "+1 (up to 12x) "
         }
       ]
     },
@@ -5400,7 +5400,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5420,7 +5420,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5440,7 +5440,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5450,7 +5450,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Каждые 2 изменения,"
+          "text": "Every 2 Changes, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5460,7 +5460,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Собственный"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5470,7 +5470,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5480,7 +5480,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+4 (до 3 раз)"
+          "text": "+4 (up to 3x) "
         }
       ]
     },
@@ -5507,7 +5507,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5527,7 +5527,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5547,7 +5547,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Рекомендация"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5557,7 +5557,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Каждые 2 изменения,"
+          "text": "Every 2 Changes, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5567,7 +5567,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5577,7 +5577,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5587,7 +5587,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+7 (до 3 раз)"
+          "text": "+7 (up to 3x) "
         }
       ]
     },
@@ -5614,7 +5614,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5634,7 +5634,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5654,7 +5654,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Рекомендация"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5664,7 +5664,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Каждые 2 изменения,"
+          "text": "Every 2 Changes, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5674,7 +5674,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5684,7 +5684,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5721,7 +5721,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5741,7 +5741,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5761,7 +5761,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5771,7 +5771,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Каждые 2 изменения,"
+          "text": "Every 2 Changes, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5781,7 +5781,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5791,7 +5791,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5828,7 +5828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5848,7 +5848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5868,7 +5868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5878,7 +5878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Каждые 3 изменения,"
+          "text": "Every 3 changes, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5888,7 +5888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5898,7 +5898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "Усиление Пара"
+          "text": "Param Boost "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5918,7 +5918,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostPenetrateReduce",
-          "text": "Снижение стоимости Выносл."
+          "text": "ST cost reduction "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5928,7 +5928,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "-1 (до 2 раз)"
+          "text": "-1 (up to 2x) "
         }
       ]
     },
@@ -5955,7 +5955,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5975,7 +5975,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5995,7 +5995,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6005,7 +6005,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Каждые 3 изменения,"
+          "text": "Every 3 changes, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6015,7 +6015,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -6025,7 +6025,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6035,7 +6035,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10 (до 3 раз)"
+          "text": "+10 (up to 3x) "
         }
       ]
     },
@@ -6062,7 +6062,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6082,7 +6082,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6102,7 +6102,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "Руководство"
+          "text": "Guideline "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6112,7 +6112,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Каждые 3 смены,"
+          "text": "Every 3 changes, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6122,7 +6122,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -6132,7 +6132,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "Усиление Пара"
+          "text": "Param Boost "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6152,7 +6152,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostPenetrateReduce",
-          "text": "Снижение стоимости Выносл."
+          "text": "ST cost reduction "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6162,7 +6162,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "-1 (до 3 раз)"
+          "text": "-1 (up to 3x) "
         }
       ]
     },
@@ -6189,7 +6189,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6209,7 +6209,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6219,7 +6219,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6229,7 +6229,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -6239,7 +6239,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_FullPowerPointAdd",
-          "text": "Очки Полной Силы"
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6259,7 +6259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6269,7 +6269,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 1 раза)"
+          "text": "+1 (up to 1x) "
         }
       ]
     },
@@ -6296,7 +6296,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6316,7 +6316,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6326,7 +6326,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6336,7 +6336,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -6346,7 +6346,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6356,7 +6356,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+20 (до 1 раза)"
+          "text": "+20 (up to 1x) "
         }
       ]
     },
@@ -6383,7 +6383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6403,7 +6403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6413,7 +6413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6423,7 +6423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -6433,7 +6433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6443,7 +6443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+30 (до 1 раза)"
+          "text": "+30 (up to 1x) "
         }
       ]
     },
@@ -6470,7 +6470,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6490,7 +6490,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6500,7 +6500,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6510,7 +6510,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -6520,7 +6520,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "Усиление Пара"
+          "text": "Param Boost "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6530,7 +6530,211 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 4 раз)"
+          "text": "+1 (up to 4x) "
+        }
+      ]
+    },
+    {
+      "id": "card_enchant-e_trigger-exam_stance_change_full_power-full_power_point_up-10-g_effect-lesson_add-9",
+      "produceExamTriggerId": "e_trigger-exam_stance_change_full_power-full_power_point_up-10",
+      "triggerCount": 0,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_StyleDot",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamAddGrowEffect",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamAddGrowEffect",
+          "text": "Growth "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ": "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamFullPower",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamFullPower",
+          "text": "Full Power "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "After change, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamFullPowerPoint",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamFullPowerPoint",
+          "text": "Full Power Point "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "If 10 or more, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Own "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_LessonAdd",
+          "text": "Param Value "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "+9 "
+        }
+      ]
+    },
+    {
+      "id": "card_enchant-e_trigger-exam_stance_change_full_power-full_power_point_up-10-p_card_search-active_skill-deck_all-effect_group-visible-exam_full_power-000-g_effect-lesson_add-9",
+      "produceExamTriggerId": "e_trigger-exam_stance_change_full_power-full_power_point_up-10-p_card_search-active_skill-deck_all-effect_group-visible-exam_full_power-000",
+      "triggerCount": 0,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_StyleDot",
+          "text": ""
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamAddGrowEffect",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamAddGrowEffect",
+          "text": "Growth "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ": "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "未定義のパターン(Type: ExamStanceChangeFullPower, PhaseValue: 0, ProduceCardSearchID: p_card_search-active_skill-deck_all-effect_group-visible-exam_full_power-000, UpperCount: 0, LowerCount: 0)"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamFullPowerPoint",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamFullPowerPoint",
+          "text": "Full Power Point "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "If 10 or more, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Own "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_LessonAdd",
+          "text": "Param Value "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "+9 "
         }
       ]
     },
@@ -6557,7 +6761,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6577,7 +6781,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6587,7 +6791,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6597,7 +6801,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -6607,7 +6811,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6644,7 +6848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6664,7 +6868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6674,7 +6878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6684,7 +6888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -6694,7 +6898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6731,7 +6935,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6751,7 +6955,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6761,7 +6965,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6771,7 +6975,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -6781,7 +6985,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6818,7 +7022,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6838,7 +7042,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6848,7 +7052,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6858,7 +7062,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -6868,7 +7072,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6905,7 +7109,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6925,7 +7129,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6935,7 +7139,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6945,7 +7149,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -6955,7 +7159,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6992,7 +7196,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7012,7 +7216,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7022,7 +7226,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7032,7 +7236,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -7042,7 +7246,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7079,7 +7283,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7099,7 +7303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7109,7 +7313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7119,7 +7323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -7129,7 +7333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7166,7 +7370,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7186,7 +7390,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7196,7 +7400,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7206,7 +7410,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -7216,7 +7420,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7253,7 +7457,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7273,7 +7477,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7283,7 +7487,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7293,7 +7497,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -7303,7 +7507,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7340,7 +7544,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7360,7 +7564,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Полная Сила"
+          "text": "Full Power "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7370,7 +7574,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7380,7 +7584,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -7390,7 +7594,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "Усиление Пара"
+          "text": "Param Boost "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7427,7 +7631,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7447,7 +7651,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7467,7 +7671,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Сбережение"
+          "text": "Preservation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7477,7 +7681,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7487,7 +7691,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -7497,7 +7701,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_BlockAdd",
-          "text": "Энергия"
+          "text": "Energy "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7507,7 +7711,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10 (до 1x)"
+          "text": "+10 (up to 1x) "
         }
       ]
     },
@@ -7534,7 +7738,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7554,7 +7758,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7574,7 +7778,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Сбережение"
+          "text": "Preservation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7584,7 +7788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7594,7 +7798,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -7604,7 +7808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_BlockAdd",
-          "text": "Энергия"
+          "text": "Energy "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7614,7 +7818,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+5 (до 1 раза)"
+          "text": "+5 (up to 1x) "
         }
       ]
     },
@@ -7641,7 +7845,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7661,7 +7865,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7681,7 +7885,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Сбережение"
+          "text": "Preservation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7691,7 +7895,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7701,7 +7905,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -7711,7 +7915,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7721,7 +7925,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+7 (до 2x)"
+          "text": "+7 (up to 2x) "
         }
       ]
     },
@@ -7748,7 +7952,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7768,7 +7972,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7788,7 +7992,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Сбережение"
+          "text": "Preservation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7798,7 +8002,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7808,7 +8012,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -7818,7 +8022,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7855,7 +8059,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7875,7 +8079,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7895,7 +8099,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Сбережение"
+          "text": "Preservation "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7905,7 +8109,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После изменения,"
+          "text": "After change, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7915,7 +8119,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свой "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -7925,7 +8129,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7962,7 +8166,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7982,7 +8186,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "В начале хода эта"
+          "text": "At the start of the turn, this "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7992,7 +8196,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "Урок"
+          "text": "Lesson "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8002,7 +8206,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Итого в"
+          "text": "Total within "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8012,7 +8216,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Полная Сила"
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8022,7 +8226,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Если значение 13 или выше,"
+          "text": "If it is 13 or more, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8032,7 +8236,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -8042,7 +8246,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "Усиление Пара"
+          "text": "Param Boost "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8052,7 +8256,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1 (до 1 раз)"
+          "text": "+1 (up to 1x) "
         }
       ]
     },
@@ -8079,7 +8283,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8099,7 +8303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "В начале хода"
+          "text": "At the start of the turn, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8109,7 +8313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Свои"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -8119,7 +8323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8139,7 +8343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "Усиление параметров"
+          "text": "Param Boost "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8159,7 +8363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "Значение стоимости"
+          "text": "Cost Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8196,7 +8400,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8216,7 +8420,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8236,7 +8440,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Точка Полной Силы"
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8246,7 +8450,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После увеличения,"
+          "text": "After Increasing, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8256,7 +8460,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Собственный"
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -8266,7 +8470,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8276,7 +8480,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+11 (до 3 раз)"
+          "text": "+11 (up to 3x) "
         }
       ]
     },
@@ -8303,7 +8507,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "Рост"
+          "text": "Growth "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8323,7 +8527,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_OnHitEffect",
-          "text": "Прямой эффект"
+          "text": "Direct Effect "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8343,7 +8547,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "Точка Полной Силы"
+          "text": "Full Power Point "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8353,7 +8557,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "После увеличения,"
+          "text": "After Increasing, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8363,7 +8567,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Владеть "
+          "text": "Own "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -8373,7 +8577,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonAdd",
-          "text": "Значение параметра "
+          "text": "Param Value "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8383,7 +8587,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+6 (до 3 раз)"
+          "text": "+6 (up to 3x) "
         }
       ]
     },

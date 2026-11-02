@@ -3,8 +3,6 @@
     "primaryKeys": [
       "id",
       "level",
-      "produceGrowthPanelSheetId",
-      "produceSplitType",
       "produceDescriptions.produceDescriptionType",
       "produceDescriptions.examDescriptionType",
       "produceDescriptions.examEffectType",
@@ -12,7 +10,8 @@
       "produceDescriptions.produceCardCategory",
       "produceDescriptions.produceCardMovePositionType",
       "produceDescriptions.produceStepType",
-      "produceDescriptions.produceStepBusinessType"
+      "produceDescriptions.produceStepBusinessType",
+      "produceDescriptions.targetId"
     ]
   },
   "data": [
@@ -29,7 +28,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+Вокал"
+          "targetId": "",
+          "text": "Vocal Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -40,6 +40,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "20 "
         },
         {
@@ -51,7 +52,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nВокал"
+          "targetId": "",
+          "text": "\nVocal "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -62,7 +64,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус Пара"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -73,6 +76,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -84,6 +88,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "2% "
         }
       ]
@@ -101,7 +106,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+Вокал"
+          "targetId": "",
+          "text": "Vocal Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -112,6 +118,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "40 "
         },
         {
@@ -123,7 +130,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nВокал"
+          "targetId": "",
+          "text": "\nVocal "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -134,7 +142,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус параметров"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -145,6 +154,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -156,6 +166,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "4% "
         }
       ]
@@ -173,7 +184,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+К Вокалу"
+          "targetId": "",
+          "text": "Vocal Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -184,6 +196,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "60 "
         },
         {
@@ -195,7 +208,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nВокал"
+          "targetId": "",
+          "text": "\nVocal "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -206,7 +220,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус парам."
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -217,6 +232,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -228,6 +244,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "6% "
         }
       ]
@@ -245,7 +262,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+Вокал"
+          "targetId": "",
+          "text": "Vocal Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -256,6 +274,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "80 "
         },
         {
@@ -267,7 +286,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nВокал"
+          "targetId": "",
+          "text": "\nVocal "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -278,7 +298,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус пара"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -289,6 +310,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -300,6 +322,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "8% "
         }
       ]
@@ -317,7 +340,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+Вокал"
+          "targetId": "",
+          "text": "Vocal Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -328,6 +352,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "100 "
         },
         {
@@ -339,7 +364,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nВокал"
+          "targetId": "",
+          "text": "\nVocal "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -350,7 +376,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус параметров"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -361,6 +388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -372,6 +400,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "10% "
         }
       ]
@@ -389,7 +418,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+К Танец"
+          "targetId": "",
+          "text": "Dance Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -400,6 +430,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "20 "
         },
         {
@@ -411,7 +442,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nТанец"
+          "targetId": "",
+          "text": "\nDance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -422,7 +454,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус параметров"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -433,6 +466,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -444,6 +478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "2% "
         }
       ]
@@ -461,7 +496,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+Танец"
+          "targetId": "",
+          "text": "Dance Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -472,6 +508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "40 "
         },
         {
@@ -483,7 +520,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nТанец"
+          "targetId": "",
+          "text": "\nDance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -494,7 +532,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус параметров"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -505,6 +544,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -516,6 +556,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "4% "
         }
       ]
@@ -533,7 +574,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+ к Тацу"
+          "targetId": "",
+          "text": "Dance Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -544,6 +586,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "60 "
         },
         {
@@ -555,7 +598,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nТанец"
+          "targetId": "",
+          "text": "\nDance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -566,7 +610,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус парам."
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -577,6 +622,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -588,6 +634,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "6% "
         }
       ]
@@ -605,7 +652,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+ к Тацу"
+          "targetId": "",
+          "text": "Dance Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -616,6 +664,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "80 "
         },
         {
@@ -627,7 +676,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nТанец"
+          "targetId": "",
+          "text": "\nDance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -638,7 +688,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус параметров"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -649,6 +700,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -660,6 +712,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "8% "
         }
       ]
@@ -677,7 +730,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+Танец"
+          "targetId": "",
+          "text": "Dance Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -688,6 +742,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "100 "
         },
         {
@@ -699,7 +754,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nТанец"
+          "targetId": "",
+          "text": "\nDance "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -710,7 +766,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус параметров"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -721,6 +778,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -732,6 +790,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "10% "
         }
       ]
@@ -749,7 +808,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+ к Визуалу"
+          "targetId": "",
+          "text": "Visual Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -760,6 +820,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "20 "
         },
         {
@@ -771,7 +832,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nВизуал"
+          "targetId": "",
+          "text": "\nVisual "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -782,7 +844,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус параметров"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -793,6 +856,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -804,6 +868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "2% "
         }
       ]
@@ -821,7 +886,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+Визуал"
+          "targetId": "",
+          "text": "Visual Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -832,6 +898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "40 "
         },
         {
@@ -843,7 +910,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nВизуал"
+          "targetId": "",
+          "text": "\nVisual "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -854,7 +922,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус параметров"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -865,6 +934,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -876,6 +946,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "4% "
         }
       ]
@@ -893,7 +964,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+ к Визуалу"
+          "targetId": "",
+          "text": "Visual Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -904,6 +976,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "60 "
         },
         {
@@ -915,7 +988,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nВизуал"
+          "targetId": "",
+          "text": "\nVisual "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -926,7 +1000,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус параметров"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -937,6 +1012,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -948,6 +1024,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "6% "
         }
       ]
@@ -965,7 +1042,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+ к Визуалу"
+          "targetId": "",
+          "text": "Visual Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -976,6 +1054,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "80 "
         },
         {
@@ -987,7 +1066,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nВизуал"
+          "targetId": "",
+          "text": "\nVisual "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -998,7 +1078,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус параметров"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1009,6 +1090,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -1020,6 +1102,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "8% "
         }
       ]
@@ -1037,7 +1120,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Визуал +"
+          "targetId": "",
+          "text": "Visual Increase +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1048,6 +1132,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "100 "
         },
         {
@@ -1059,7 +1144,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "\nВизуал"
+          "targetId": "",
+          "text": "\nVisual "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1070,7 +1156,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Бонус Пара"
+          "targetId": "Label_LessonBonus",
+          "text": "Param Bonus "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1081,6 +1168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "+"
         },
         {
@@ -1092,6 +1180,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "10% "
         }
       ]
@@ -1109,7 +1198,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Увеличивает шанс Урока Вокала, Танца и Визуала +"
+          "targetId": "",
+          "text": "Increase SP Lesson Rate for Vocal, Dance, and Visual +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1120,6 +1210,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "1% "
         }
       ]
@@ -1137,7 +1228,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Увеличивает шанс Урока для Вокал, Танец и Визуал +"
+          "targetId": "",
+          "text": "Increase SP Lesson Rate for Vocal, Dance, and Visual +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1148,6 +1240,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "2% "
         }
       ]
@@ -1165,7 +1258,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Увеличивает шанс Урока Вокала, Танца и Визуала +"
+          "targetId": "",
+          "text": "Increase SP Lesson Rate for Vocal, Dance, and Visual +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1176,6 +1270,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "3% "
         }
       ]
@@ -1193,7 +1288,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Увеличивает шанс Урока Вокала, Танца и Визуала +"
+          "targetId": "",
+          "text": "Increase SP Lesson Rate for Vocal, Dance, and Visual +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1204,6 +1300,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "4% "
         }
       ]
@@ -1221,7 +1318,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Увеличивает шанс Урока для Вокал, Танец и Визуал +"
+          "targetId": "",
+          "text": "Increase SP Lesson Rate for Vocal, Dance, and Visual +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1232,6 +1330,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "5% "
         }
       ]
@@ -1249,7 +1348,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Количество восстановления Выносливости перед Экзаменом"
+          "targetId": "",
+          "text": "Pre-Exam Stamina Recovery Amount "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1260,6 +1360,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "5% "
         },
         {
@@ -1271,7 +1372,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Получите"
+          "targetId": "",
+          "text": "Gain "
         }
       ]
     },
@@ -1288,7 +1390,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Количество восстановления Выносливости до Экзамена"
+          "targetId": "",
+          "text": "Pre-Exam Stamina Recovery Amount "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1299,6 +1402,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "7% "
         },
         {
@@ -1310,7 +1414,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Получите"
+          "targetId": "",
+          "text": "Gain "
         }
       ]
     },
@@ -1327,7 +1432,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Количество восстановления Выносливости перед Экзаменом"
+          "targetId": "",
+          "text": "Pre-Exam Stamina Recovery Amount "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1338,6 +1444,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "9% "
         },
         {
@@ -1349,7 +1456,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Получите"
+          "targetId": "",
+          "text": "Gain "
         }
       ]
     },
@@ -1366,7 +1474,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Количество восстановления Выносливости перед Экзаменом"
+          "targetId": "",
+          "text": "Pre-Exam Stamina Recovery Amount "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1377,6 +1486,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "11% "
         },
         {
@@ -1388,7 +1498,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Получите"
+          "targetId": "",
+          "text": "Gain "
         }
       ]
     },
@@ -1405,7 +1516,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Количество восстановления Выносливости перед Экзаменом"
+          "targetId": "",
+          "text": "Pre-Exam Stamina Recovery Amount "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1416,6 +1528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "13% "
         },
         {
@@ -1427,7 +1540,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Получите"
+          "targetId": "",
+          "text": "Gain "
         }
       ]
     },
@@ -1444,7 +1558,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Количество восстановления Выносливости перед Экзаменом"
+          "targetId": "",
+          "text": "Pre-Exam Stamina Recovery Amount "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1455,6 +1570,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "15% "
         },
         {
@@ -1466,7 +1582,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Получить"
+          "targetId": "",
+          "text": "Gain "
         }
       ]
     },
@@ -1483,7 +1600,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Увеличивает лимит Вокал, Танец и Визуал +"
+          "targetId": "",
+          "text": "Increase the cap of Vocal, Dance, and Visual +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1494,6 +1612,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "50 "
         }
       ]
@@ -1511,7 +1630,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Увеличивает лимит Вокал, Танец и Визуал +"
+          "targetId": "",
+          "text": "Increase the cap of Vocal, Dance, and Visual +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1522,6 +1642,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "80 "
         }
       ]
@@ -1539,7 +1660,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Увеличивает лимит Вокал, Танец и Визуал +"
+          "targetId": "",
+          "text": "Increase the cap of Vocal, Dance, and Visual +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1550,6 +1672,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "110 "
         }
       ]
@@ -1567,7 +1690,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Увеличивает лимит Вокал, Танец и Визуал +"
+          "targetId": "",
+          "text": "Increase the cap of Vocal, Dance, and Visual +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1578,6 +1702,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "140 "
         }
       ]
@@ -1595,7 +1720,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Увеличивает лимит Вокал, Танец и Визуал +"
+          "targetId": "",
+          "text": "Increase the cap of Vocal, Dance, and Visual +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1606,6 +1732,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "170 "
         }
       ]
@@ -1623,7 +1750,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Увеличивает лимит Вокал, Танец и Визуал +"
+          "targetId": "",
+          "text": "Increase the cap of Vocal, Dance, and Visual +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1634,6 +1762,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "200 "
         }
       ]
@@ -1651,7 +1780,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+P-Очков"
+          "targetId": "",
+          "text": "P-Points +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1662,6 +1792,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "50 "
         }
       ]
@@ -1679,7 +1810,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "P-Очки +"
+          "targetId": "",
+          "text": "P-Points +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1690,6 +1822,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "80 "
         }
       ]
@@ -1707,7 +1840,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "P-Очки +"
+          "targetId": "",
+          "text": "P-Points +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1718,6 +1852,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "110 "
         }
       ]
@@ -1735,7 +1870,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "P-Очки +"
+          "targetId": "",
+          "text": "P-Points +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1746,6 +1882,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "140 "
         }
       ]
@@ -1763,7 +1900,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "P-Очки +"
+          "targetId": "",
+          "text": "P-Points +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1774,6 +1912,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "170 "
         }
       ]
@@ -1791,7 +1930,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "П-Очки +"
+          "targetId": "",
+          "text": "P-Points +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1802,6 +1942,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "200 "
         }
       ]
@@ -1819,7 +1960,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "P-Очки +"
+          "targetId": "",
+          "text": "P-Points +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1830,6 +1972,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "50 "
         }
       ]
@@ -1847,7 +1990,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "P-Очки +"
+          "targetId": "",
+          "text": "P-Points +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1858,6 +2002,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "80 "
         }
       ]
@@ -1875,7 +2020,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "+P-Очков"
+          "targetId": "",
+          "text": "P-Points +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1886,6 +2032,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "110 "
         }
       ]
@@ -1903,7 +2050,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "P-Очки +"
+          "targetId": "",
+          "text": "P-Points +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1914,6 +2062,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "140 "
         }
       ]
@@ -1931,7 +2080,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "P-Очки +"
+          "targetId": "",
+          "text": "P-Points +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1942,6 +2092,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "170 "
         }
       ]
@@ -1959,7 +2110,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "P-Очки +"
+          "targetId": "",
+          "text": "P-Points +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1970,6 +2122,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "200 "
         }
       ]
@@ -1987,7 +2140,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Карта Навыка Консультации"
+          "targetId": "",
+          "text": "Consultation Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1998,6 +2152,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "5% "
         },
         {
@@ -2009,7 +2164,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Скидка"
+          "targetId": "",
+          "text": "Discount "
         }
       ]
     },
@@ -2026,7 +2182,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Карта Навыка Консультации"
+          "targetId": "",
+          "text": "Consultation Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2037,6 +2194,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "10% "
         },
         {
@@ -2048,7 +2206,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Скидка"
+          "targetId": "",
+          "text": "Discount "
         }
       ]
     },
@@ -2065,7 +2224,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Карта Навыка Консультации"
+          "targetId": "",
+          "text": "Consultation Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2076,6 +2236,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "15% "
         },
         {
@@ -2087,7 +2248,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Скидка"
+          "targetId": "",
+          "text": "Discount "
         }
       ]
     },
@@ -2104,7 +2266,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Карта Навыка Консультации"
+          "targetId": "",
+          "text": "Consultation Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2115,6 +2278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "20% "
         },
         {
@@ -2126,7 +2290,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Скидка"
+          "targetId": "",
+          "text": "Discount "
         }
       ]
     },
@@ -2143,7 +2308,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Карта Навыка Консультации"
+          "targetId": "",
+          "text": "Consultation Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2154,6 +2320,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "25% "
         },
         {
@@ -2165,7 +2332,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Скидка"
+          "targetId": "",
+          "text": "Discount "
         }
       ]
     },
@@ -2182,7 +2350,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Карта Навыка Консультации"
+          "targetId": "",
+          "text": "Consultation Skill Card "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2193,6 +2362,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
           "text": "30% "
         },
         {
@@ -2204,7 +2374,8 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
-          "text": "Скидка"
+          "targetId": "",
+          "text": "Discount "
         }
       ]
     }
