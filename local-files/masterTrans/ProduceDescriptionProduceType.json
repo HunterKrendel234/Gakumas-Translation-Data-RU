@@ -9,27 +9,27 @@
     {
       "produceType": "ProduceType_FirstStar",
       "produceSplitType": "ProduceSplitType_Unknown",
-      "name": "Hajime Only"
+      "name": "Только Хадзимэ"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "produceSplitType": "ProduceSplitType_Unknown",
-      "name": "N.I.A Only"
+      "name": "Только N.I.A"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "produceSplitType": "ProduceSplitType_Unknown",
-      "name": "H.I.F Only"
+      "name": "Только H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "produceSplitType": "ProduceSplitType_Selection",
-      "name": "H.I.F Qualifier Only"
+      "name": "Только отборочные H.I.F"
     },
     {
       "produceType": "ProduceType_HatsuboshiIdolFestival",
       "produceSplitType": "ProduceSplitType_Final",
-      "name": "H.I.F Finals Only"
+      "name": "Только финал H.I.F"
     }
   ]
 }
