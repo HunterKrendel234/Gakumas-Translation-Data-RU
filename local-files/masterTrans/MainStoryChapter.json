@@ -9,26 +9,26 @@
     {
       "mainStoryPartId": "story-main-01",
       "id": "story-main-01-01",
-      "title": "Глава 1",
-      "description": "Добро пожаловать в академию Hatsuboshi"
+      "title": "Ch.1",
+      "description": "Welcome to Hatsuboshi Academy"
     },
     {
       "mainStoryPartId": "story-main-01",
       "id": "story-main-01-02",
-      "title": "Глава 2",
-      "description": "Айдолы, живущие вместе"
+      "title": "Ch.2",
+      "description": "Idols living together"
     },
     {
       "mainStoryPartId": "story-main-01",
       "id": "story-main-01-03",
-      "title": "Глава 3",
-      "description": "Мы — Re:IRIS"
+      "title": "Ch.3",
+      "description": "We are Re:IRIS"
     },
     {
       "mainStoryPartId": "story-main-01",
       "id": "story-main-01-04",
-      "title": "Глава 4",
-      "description": "Hatsuboshi Айдол Фестиваль"
+      "title": "Ch.4",
+      "description": "Hatsuboshi IDOL FESTIVAL"
     }
   ]
 }

@@ -7,99 +7,99 @@
   "data": [
     {
       "id": "memory_tag_01",
-      "defaultName": "Вокал"
+      "defaultName": "Vocal"
     },
     {
       "id": "memory_tag_02",
-      "defaultName": "Танец"
+      "defaultName": "Dance"
     },
     {
       "id": "memory_tag_03",
-      "defaultName": "Визуал"
+      "defaultName": "Visual"
     },
     {
       "id": "memory_tag_04",
-      "defaultName": "Тег 1"
+      "defaultName": "Tag 1"
     },
     {
       "id": "memory_tag_05",
-      "defaultName": "Тег 2"
+      "defaultName": "Tag 2"
     },
     {
       "id": "memory_tag_06",
-      "defaultName": "Тег 3"
+      "defaultName": "Tag 3"
     },
     {
       "id": "memory_tag_07",
-      "defaultName": "Тег 4"
+      "defaultName": "Tag 4"
     },
     {
       "id": "memory_tag_08",
-      "defaultName": "План Чутьё"
+      "defaultName": "Sense"
     },
     {
       "id": "memory_tag_09",
-      "defaultName": "План Логика"
+      "defaultName": "Logic"
     },
     {
       "id": "memory_tag_10",
-      "defaultName": "Выносливость"
+      "defaultName": "Stamina"
     },
     {
       "id": "memory_tag_11",
-      "defaultName": "P-Очки"
+      "defaultName": "P-Points"
     },
     {
       "id": "memory_tag_12",
-      "defaultName": "Турнир"
+      "defaultName": "Contest"
     },
     {
       "id": "memory_tag_13",
-      "defaultName": "Продюсирование"
+      "defaultName": "Produce"
     },
     {
       "id": "memory_tag_14",
-      "defaultName": "Хороший настрой"
+      "defaultName": "Good Shape"
     },
     {
       "id": "memory_tag_15",
-      "defaultName": "Концентрация"
+      "defaultName": "Focus"
     },
     {
       "id": "memory_tag_16",
-      "defaultName": "Впечатление"
+      "defaultName": "Good Impression"
     },
     {
       "id": "memory_tag_17",
-      "defaultName": "Мотивация"
+      "defaultName": "Motivation"
     },
     {
       "id": "memory_tag_18",
-      "defaultName": "Энергия"
+      "defaultName": "Energy"
     },
     {
       "id": "memory_tag_19",
-      "defaultName": "Снижено использование Выносл. "
+      "defaultName": "Reduced ST usage "
     },
     {
       "id": "memory_tag_20",
-      "defaultName": "План Аномалия"
+      "defaultName": "Anomaly"
     },
     {
       "id": "memory_tag_21",
-      "defaultName": "Полная Сила"
+      "defaultName": "Full Power"
     },
     {
       "id": "memory_tag_22",
-      "defaultName": "Уверенность"
+      "defaultName": "Confident"
     },
     {
       "id": "memory_tag_23",
-      "defaultName": "Сбережение"
+      "defaultName": "Preservation"
     },
     {
       "id": "memory_tag_24",
-      "defaultName": "Эффект роста"
+      "defaultName": "Growth Effect"
     }
   ]
 }

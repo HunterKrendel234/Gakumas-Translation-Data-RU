@@ -11,1184 +11,1184 @@
       "characterId": "amao",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Мао Аримура",
-      "message": "Итак, время Продюсирования!"
+      "title": "Mao Arimura",
+      "message": "Now then, it’s Produce time!"
     },
     {
       "characterId": "amao",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Мао Аримура",
-      "message": "Хорошо отдохнул(а)? Я тоже, так что я полностью заряжен(а)!"
+      "title": "Mao Arimura",
+      "message": "Did you get some good rest? I did too, so I’m fully recharged!"
     },
     {
       "characterId": "amao",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Мао Аримура",
-      "message": "Продюсер, пойдем заберем наши Деньги."
+      "title": "Mao Arimura",
+      "message": "Producer, let’s go claim our Money."
     },
     {
       "characterId": "amao",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Мао Аримура",
-      "message": "Пойдем вместе соберем Деньги? Я пойду с тобой."
+      "title": "Mao Arimura",
+      "message": "Shall we go collect the Money together? I’ll come with you."
     },
     {
       "characterId": "amao",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Мао Аримура",
-      "message": "Ты не забыл(а) про Ежедневные Миссии? Я тоже сделаю все возможное, так что давай займемся ими вместе?"
+      "title": "Mao Arimura",
+      "message": "Did you remember your Daily Missions? I’ll do my best too, so how about we tackle them together?"
     },
     {
       "characterId": "amao",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Мао Аримура",
-      "message": "Я хочу, чтобы ты продюсировал(а) меня. Так что... ты вернешься?"
+      "title": "Mao Arimura",
+      "message": "I want you to Produce me. So... won’t you come back?"
     },
     {
       "characterId": "amao",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Мао Аримура",
-      "message": "Ты еще не участвовал(а) в сегодняшнем Турнире, верно? Мне бы очень хотелось, чтобы ты увидел(а), на что я способна."
+      "title": "Mao Arimura",
+      "message": "You haven’t entered the contest yet today, right? I’d really love for you to see what I can do."
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Мао Аримура",
-      "message": "Мини-концерт закончился! Было так весело, ты смотрел(а) на меня, Продюсер?"
+      "title": "Mao Arimura",
+      "message": "The Mini Live is over! It was so much fun, did you watch me, Producer?"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Мао Аримура",
-      "message": "Похоже, награды за Мини-концерт готовы к получению. Я рада, что мои усилия отразились в результатах."
+      "title": "Mao Arimura",
+      "message": "Looks like the Mini Live rewards are ready to claim. I’m glad my hard work can be seen in the results."
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Мао Аримура",
-      "message": "Думаю, у меня получился Мини-концерт, который очень «я». Продюсер, пожалуйста, иди и получи награды."
+      "title": "Mao Arimura",
+      "message": "I think I managed a Mini Live that’s very ‘me’. Producer, please go claim the rewards."
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Мао Аримура",
-      "message": "Хорошая работа на стриме! После того как получишь награды, расскажи мне, что ты думаешь."
+      "title": "Mao Arimura",
+      "message": "Good work on the stream! After you claim the rewards, tell me what you thought."
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Мао Аримура",
-      "message": "Похоже, награды готовы к получению. Чувствую, что смогла показать свое обаяние через стрим!"
+      "title": "Mao Arimura",
+      "message": "Looks like the rewards are ready to claim. I feel like I was able to show my charm through the stream!"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Мао Аримура",
-      "message": "Работа на стриме закончена. Мне пришлось попробовать многое, но думаю, мне было весело."
+      "title": "Mao Arimura",
+      "message": "The streaming job is finished. I had to try out a lot of things, but I think I had fun."
     },
     {
       "characterId": "atbm",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Цубамэ Амая",
-      "message": "Я в идеальном состоянии. Независимо от Урока, я справлюсь безупречно."
+      "title": "Tsubame Amaya",
+      "message": "I’m in perfect condition. No matter the lesson, I’ll handle it flawlessly."
     },
     {
       "characterId": "atbm",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Цубамэ Амая",
-      "message": "Похоже, ты хорошо отдохнул(а). Теперь, поторопись — приступим к Уроку."
+      "title": "Tsubame Amaya",
+      "message": "Looks like you got plenty of rest. Now, hurry—let’s get to the lesson."
     },
     {
       "characterId": "atbm",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Цубамэ Амая",
-      "message": "Ты забыл(а) получить свои Деньги. Я пойду с тобой, чтобы получить их, так что поторопись."
+      "title": "Tsubame Amaya",
+      "message": "You forgot to collect your Money. I’ll go with you to get it, so come quickly."
     },
     {
       "characterId": "atbm",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Цубамэ Амая",
-      "message": "Ты накопил(а) Деньги. Приходи и получи их скорее."
+      "title": "Tsubame Amaya",
+      "message": "You’ve accumulated Money. Come collect it soon."
     },
     {
       "characterId": "atbm",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Цубамэ Амая",
-      "message": "У тебя еще остались сегодняшние миссии. Я помогу тебе, так что давай быстро закончим их."
+      "title": "Tsubame Amaya",
+      "message": "You still have today’s missions left. I’ll help you, so let’s finish them quickly."
     },
     {
       "characterId": "atbm",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Цубамэ Амая",
-      "message": "......Вернись скорее."
+      "title": "Tsubame Amaya",
+      "message": "......Come back soon."
     },
     {
       "characterId": "atbm",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Цубамэ Амая",
-      "message": "Ты еще не участвовал(а) в сегодняшнем Турнире! Нет времени расслабляться. Пойдем!"
+      "title": "Tsubame Amaya",
+      "message": "You haven’t entered today’s contest! There’s no time to relax. Let’s go!"
     },
     {
       "characterId": "atbm",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Цубамэ Амая",
-      "message": "Работа на мини-концерте закончена. Проверь награды."
+      "title": "Tsubame Amaya",
+      "message": "The mini-live job is done. Check the rewards."
     },
     {
       "characterId": "atbm",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Цубамэ Амая",
-      "message": "Этот мини-концерт был познавательным. Я хочу пересмотреть его, пока не забыла. Ты присоединишься ко мне, не так ли?"
+      "title": "Tsubame Amaya",
+      "message": "That mini-live was educational. I want to review it before I forget. You’ll join me, won’t you?"
     },
     {
       "characterId": "atbm",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Цубамэ Амая",
-      "message": "На этом мини-концерте была довольно сложная задача. Позже я хочу услышать твои мысли."
+      "title": "Tsubame Amaya",
+      "message": "This mini-live had quite the challenge. Later, I want to hear your thoughts."
     },
     {
       "characterId": "atbm",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Цубамэ Амая",
-      "message": "Работа на стриме закончена. Получи награды."
+      "title": "Tsubame Amaya",
+      "message": "The streaming job is done. Collect the rewards."
     },
     {
       "characterId": "atbm",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Цубамэ Амая",
-      "message": "Через стрим я по-настоящему почувствовала голоса фанатов....Хех, меня действительно поддерживают."
+      "title": "Tsubame Amaya",
+      "message": "Through the stream, I could truly feel the fans’ voices. ...Heh, I really am supported."
     },
     {
       "characterId": "atbm",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Цубамэ Амая",
-      "message": "Ты смотрел(а) сегодняшний стрим? Я хочу услышать твои мысли о содержании, так что приходи на собрание для обсуждения."
+      "title": "Tsubame Amaya",
+      "message": "Did you watch today’s stream? I want your thoughts on the content, so come to the review meeting."
     },
     {
       "characterId": "fktn",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Котонэ Фудзита",
-      "message": "Продюсер! Я, типа, полна энергии, так что хочу провести Урок!"
+      "title": "Kotone Fujita",
+      "message": "Producer! I’m, like, totally full of energy now, so I wanna do a lesson～!"
     },
     {
       "characterId": "fktn",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Котонэ Фудзита",
-      "message": "Похоже, ты наконец-то снова чувствуешь Энергию для Продюсирования, да? Давай просто приступим к Уроку~♪"
+      "title": "Kotone Fujita",
+      "message": "Looks like you're finally feelin' the energy to produce again, huh? Let’s just dive into a lesson already～♪"
     },
     {
       "characterId": "fktn",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Котонэ Фудзита",
-      "message": "Если ты не собираешься брать эти Деньги, Продюсер... Я, возможно, возьму их себе~♪"
+      "title": "Kotone Fujita",
+      "message": "If you’re not gonna take that money, Producer... I miiight just take it for myself～♪"
     },
     {
       "characterId": "fktn",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Котонэ Фудзита",
-      "message": "Столько денег просто лежит... фуфуфу~♪ Давай, Продюсер, пойдем заберем их~♡"
+      "title": "Kotone Fujita",
+      "message": "Sooo much money just sittin’ there... fufufu～♪ C’mon Producer, let’s go grab it～♡"
     },
     {
       "characterId": "fktn",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Котонэ Фудзита",
-      "message": "Не выполнять ежедневную миссию — это, типа, такая пустая трата! Давай сделаем это вместе и закончим!"
+      "title": "Kotone Fujita",
+      "message": "Not finishing your daily mission is, like, such a waste! Let’s do it together and knock it out!"
     },
     {
       "characterId": "fktn",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Котонэ Фудзита",
-      "message": "Я искренне верю, что смогу осуществить свои мечты, пока я с тобой, Продюсер! Так что... пожалуйста, вернись!"
+      "title": "Kotone Fujita",
+      "message": "I really believe I can make my dreams come true as long as I’m with you, Producer! So... please come back!"
     },
     {
       "characterId": "fktn",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Котонэ Фудзита",
-      "message": "Продюсер, ты еще не участвовал(а) в сегодняшнем Турнире, верно~? Я абсолютно готова в любое время~♪"
+      "title": "Kotone Fujita",
+      "message": "Producer, you haven’t joined today’s contest, riiight～? I'm totally is ready anytime～♪"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Котонэ Фудзита",
-      "message": "Этот мини-концерт был таким веселым! Получать награды просто за то, что ты Айдол, это, типа, мечта♪"
+      "title": "Kotone Fujita",
+      "message": "That mini live was sooo much fun! Getting rewarded just for doing idol stuff is, like, the dream♪"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Котонэ Фудзита",
-      "message": "Этот концерт был полностью демонстрацией супер-милой Котонэ-тян~♪ А награды вдобавок? Я серьезно на седьмом небе от счастья~♡"
+      "title": "Kotone Fujita",
+      "message": "That live was totally a showcase of super cute Kotone-chan～♪ And getting rewards on top of that? I’m seriously in bliss～♡"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Котонэ Фудзита",
-      "message": "Мини-концерт, полный успех~♡ Похвали меня, Продюсер~ пожалуйста!"
+      "title": "Kotone Fujita",
+      "message": "Mini live, total success～♡ Praise me, Producer～ pleaaase!"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Котонэ Фудзита",
-      "message": "И на этом трансляция закончена! Я только что транслировала ультра-милую Котонэ-тян всему миру~♡"
+      "title": "Kotone Fujita",
+      "message": "Aaaand that’s a wrap on the stream! I just broadcasted ultra cute Kotone-chan to the whole world～♡"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Котонэ Фудзита",
-      "message": "Стрим прошел довольно хорошо, да? Чувствовалось, что работа выполнена хорошо~♪ Интересно, сколько наград я получу~"
+      "title": "Kotone Fujita",
+      "message": "The stream went pretty well, huh? Felt like a job well done～♪ Wonder how much reward I’ll be getting～"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Котонэ Фудзита",
-      "message": "Только что закончила стрим, счастливая и всякое такое! Это действительно ощущалось как настоящая работа Айдола~ и я чувствую себя такой благословенной♡"
+      "title": "Kotone Fujita",
+      "message": "Just wrapped up the stream all happy and stuff! It really felt like proper idol work～ and I’m feelin’ sooo blessed♡"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Мисудзу Хатая",
-      "message": "Я хорошо спала. Сейчас... чувствую, что могла бы провести Урок."
+      "title": "Misuzu Hataya",
+      "message": "I slept well. Right now... I feel like I could do a lesson."
     },
     {
       "characterId": "hmsz",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Мисудзу Хатая",
-      "message": "Ты хорошо отдохнул(а)? Я тоже много спала, так что подумала, что проведу небольшой Урок."
+      "title": "Misuzu Hataya",
+      "message": "Did you get some good rest? I slept a lot too, so I thought I’d do a little lesson."
     },
     {
       "characterId": "hmsz",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Мисудзу Хатая",
-      "message": "Похоже, ты накопил(а) немного Денег. Пойдем заберем их?"
+      "title": "Misuzu Hataya",
+      "message": "Looks like you’ve saved up some Money. Shall we go collect it?"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Мисудзу Хатая",
-      "message": "Ты дремлешь? У тебя накопились Деньги."
+      "title": "Misuzu Hataya",
+      "message": "Are you taking a nap? You’ve got some Money saved up."
     },
     {
       "characterId": "hmsz",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Мисудзу Хатая",
-      "message": "Похоже, сегодняшние миссии еще не выполнены. Давай закончим их все и будем спать с чистой совестью, хорошо?"
+      "title": "Misuzu Hataya",
+      "message": "It looks like today’s missions are still left. Let’s finish them all and sleep with a clear mind, okay?"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Мисудзу Хатая",
-      "message": "Это был довольно долгий сон. Как только проснешься, пожалуйста, приходи ко мне. Я буду ждать... всегда."
+      "title": "Misuzu Hataya",
+      "message": "That was quite the long nap. Once you’re awake, please come see me. I’ll be waiting... always."
     },
     {
       "characterId": "hmsz",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Мисудзу Хатая",
-      "message": "Ты еще не участвовал(а) в сегодняшнем Турнире. Итак, что будем делать?"
+      "title": "Misuzu Hataya",
+      "message": "You haven’t entered the contest yet today. So, what shall we do?"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Мисудзу Хатая",
-      "message": "Мини-концерт закончился. Похоже, я буду крепко спать сегодня ночью."
+      "title": "Misuzu Hataya",
+      "message": "The mini-live is over. Looks like I’ll sleep soundly tonight."
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Мисудзу Хатая",
-      "message": "Мини-концерт только что закончился. Расскажи мне, что ты думал(а) позже, хорошо?"
+      "title": "Misuzu Hataya",
+      "message": "The mini-live just ended. Tell me what you thought later, okay?"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Мисудзу Хатая",
-      "message": "Это был хороший мини-концерт. С твоей точки зрения, Продюсер, как это было?"
+      "title": "Misuzu Hataya",
+      "message": "That was a good mini-live. From your perspective, Producer, how was it?"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Мисудзу Хатая",
-      "message": "Ты смотрел(а) стрим? Расслабляющая беседа — это не так уж плохо, правда?"
+      "title": "Misuzu Hataya",
+      "message": "Did you watch the stream? Having a relaxing chat isn’t so bad, is it?"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Мисудзу Хатая",
-      "message": "Стрим закончился. Ты не бездельничал(а), верно?"
+      "title": "Misuzu Hataya",
+      "message": "The stream’s over. You weren’t slacking off, were you?"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Мисудзу Хатая",
-      "message": "Стрим только что закончился. Ну что ж, спокойной ночи."
+      "title": "Misuzu Hataya",
+      "message": "The stream just ended. Well then, good night."
     },
     {
       "characterId": "hrnm",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Ринами Химесаки",
-      "message": "Похоже, ты восстановился(ась). Теперь давай начнем Продюсирование, Продюсер."
+      "title": "Rinami Himesaki",
+      "message": "Looks like you've recovered. Now, let's start producing, Producer."
     },
     {
       "characterId": "hrnm",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Ринами Химесаки",
-      "message": "Ты отдохнул(а)? Если ты чувствуешь себя лучше, не мог(ла) бы ты присоединиться ко мне на Урок?"
+      "title": "Rinami Himesaki",
+      "message": "Did you rest up? If you're feeling better, could you join me for a lesson?"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Ринами Химесаки",
-      "message": "Пойдем вместе заберем деньги?"
+      "title": "Rinami Himesaki",
+      "message": "Shall we go collect the money together?"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Ринами Химесаки",
-      "message": "Не забудь получить деньги, хорошо? Убедись, что ты пошел(а)!"
+      "title": "Rinami Himesaki",
+      "message": "Don't forget to collect the money, okay? Make sure you go!"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Ринами Химесаки",
-      "message": "Кажется, сегодняшняя миссия еще не выполнена. Давай быстро разберемся с ней."
+      "title": "Rinami Himesaki",
+      "message": "It seems today's mission isn't done yet. Let's quickly take care of it."
     },
     {
       "characterId": "hrnm",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Ринами Химесаки",
-      "message": "Я очень хочу скоро увидеть тебя, Продюсер. Я буду ждать."
+      "title": "Rinami Himesaki",
+      "message": "I really want to see you soon, Producer. I'll be waiting."
     },
     {
       "characterId": "hrnm",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Ринами Химесаки",
-      "message": "Ты не участвуешь в сегодняшнем Турнире? Давай попробуем. Хорошо? Я сделаю все возможное."
+      "title": "Rinami Himesaki",
+      "message": "You’re not entering the contest today? Let’s give it a try. Okay? I’ll do my best."
     },
     {
       "characterId": "hrnm",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Ринами Химесаки",
-      "message": "Мини-концерт закончился. Смогла ли я вести себя как настоящая старшая сестра?"
+      "title": "Rinami Himesaki",
+      "message": "The mini-live is over. Did I manage to act like a proper big sister?"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Ринами Химесаки",
-      "message": "Теперь, когда работа закончена, не мог(ла) бы ты получить награды для меня? Спасибо, Продюсер."
+      "title": "Rinami Himesaki",
+      "message": "Now that the work is done, could you collect the rewards for me? Thanks, Producer."
     },
     {
       "characterId": "hrnm",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Ринами Химесаки",
-      "message": "Мини-концерты — это так волнительно,...но они так веселы!"
+      "title": "Rinami Himesaki",
+      "message": "Mini-lives are so nerve-wracking, ...but they are so much fun!"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Ринами Химесаки",
-      "message": "Стрим закончился. Как это было? Я хотела бы услышать твои мысли."
+      "title": "Rinami Himesaki",
+      "message": "The stream is over. How was it? I'd love to hear your thoughts."
     },
     {
       "characterId": "hrnm",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Ринами Химесаки",
-      "message": "Хорошая работа, Продюсер. Стрим закончен, так что, пожалуйста, займись наградами."
+      "title": "Rinami Himesaki",
+      "message": "Good work, Producer. The stream is done, so please handle the rewards."
     },
     {
       "characterId": "hrnm",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Ринами Химесаки",
-      "message": "Вы наслаждались трансляцией? Продюсер, что ты думаешь?"
+      "title": "Rinami Himesaki",
+      "message": "Did you enjoy the stream? Producer, what did you think?"
     },
     {
       "characterId": "hski",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Саки Ханами",
-      "message": "Ты уже восстановил силы? Я, конечно, полностью готова! Приходи скорее!"
+      "title": "Saki Hanami",
+      "message": "Are you feeling recharged yet? I'm all set and ready, of course! Come see me already!"
     },
     {
       "characterId": "hski",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Саки Ханами",
-      "message": "Продюсер, ты закончил с перерывом? Давай скорее начнем уроки — я больше не могу ждать!"
+      "title": "Saki Hanami",
+      "message": "Producer, are you done with your break? Let's hurry up and start the lessons—I can't wait any longer!"
     },
     {
       "characterId": "hski",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Саки Ханами",
-      "message": "Не забывай про деньги! Убедись, что собрал их как следует."
+      "title": "Saki Hanami",
+      "message": "Don't forget about the money! Make sure you collect it properly."
     },
     {
       "characterId": "hski",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Саки Ханами",
-      "message": "Эй, продюсер? Иди уже собери деньги!"
+      "title": "Saki Hanami",
+      "message": "Hey, Producer? Go collect the money already!"
     },
     {
       "characterId": "hski",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Саки Ханами",
-      "message": "Сегодняшняя миссия еще не выполнена. Давай быстро закончим."
+      "title": "Saki Hanami",
+      "message": "Today's mission isn't done yet. Let's finish it quickly."
     },
     {
       "characterId": "hski",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Саки Ханами",
-      "message": "Продюсер, я хочу вместе с тобой стремиться к вершине славы айдола. Возвращайся скорее."
+      "title": "Saki Hanami",
+      "message": "Producer, I want to aim for the top idol spot with you. Come back soon"
     },
     {
       "characterId": "hski",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Саки Ханами",
-      "message": "Ты сегодня не будешь участвовать в соревновании? Я знаю, как добиться лучших результатов!"
+      "title": "Saki Hanami",
+      "message": "You’re not joining the contest today? I’ll give you the best results, you know!"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Саки Ханами",
-      "message": "Мини-лайв прошел хорошо, не так ли? Ха-ха, мы отлично поработали!"
+      "title": "Saki Hanami",
+      "message": "The mini-live went well, didn't it? Haha, we did a great job!"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Саки Ханами",
-      "message": "Мини-лайв закончен! Выступать на сцене в роли айдола — это невероятное чувство, мне было так весело!"
+      "title": "Saki Hanami",
+      "message": "The mini-live is done! Being on stage as an idol is such an incredible feeling—I had so much fun!"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Саки Ханами",
-      "message": "Сегодняшний лайв снова был отличным выступлением! Давай, продюсер, похвали меня!"
+      "title": "Saki Hanami",
+      "message": "Today's live was another great performance! Go ahead, Producer, praise me!"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Саки Ханами",
-      "message": "Стриминг сильно отличается от лайвов, но это так весело. Давай сразу проведем собрание для обсуждения!"
+      "title": "Saki Hanami",
+      "message": "Streaming is so different from lives, but it's so much fun. Let's have a reflection meeting right away!"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Саки Ханами",
-      "message": "Работа со стримом закончена. Я уверена, всем понравилось, так что можешь расслабиться."
+      "title": "Saki Hanami",
+      "message": "The streaming job is done. I'm sure everyone enjoyed it, so rest easy."
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Саки Ханами",
-      "message": "Работа закончена! Хи-хи~, разве это не был отличный стрим?"
+      "title": "Saki Hanami",
+      "message": "Work is finished! Hehe～, wasn't it a great stream?"
     },
     {
       "characterId": "hume",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Умэ Ханами",
-      "message": "Я полна энергии! Продюсер, пожалуйста, займись мной как можно скорее!"
+      "title": "Ume Hanami",
+      "message": "I'm super full of energy! Producer, please produce me ASAP!"
     },
     {
       "characterId": "hume",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Умэ Ханами",
-      "message": "Ты чувствуешь себя лучше? Благодаря специальному SSD моей сестры я полностью восстановила силы! Давай проведем урок!"
+      "title": "Ume Hanami",
+      "message": "Are you feeling better? My sister's special SSD has me all recharged! Let's do a lesson!"
     },
     {
       "characterId": "hume",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Умэ Ханами",
-      "message": "Похоже, деньги накопились. Нужно быстро их собрать!"
+      "title": "Ume Hanami",
+      "message": "Looks like the money has piled up. We need to collect it quickly!"
     },
     {
       "characterId": "hume",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Умэ Ханами",
-      "message": "Пора собирать деньги, ты не находишь?"
+      "title": "Ume Hanami",
+      "message": "It's about time to collect the money, don't you think?"
     },
     {
       "characterId": "hume",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Умэ Ханами",
-      "message": "Сегодняшняя миссия еще не выполнена! Давай закончим ее вместе!"
+      "title": "Ume Hanami",
+      "message": "Today's mission isn't done yet! Let's finish it together!"
     },
     {
       "characterId": "hume",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Умэ Ханами",
-      "message": "Мне нужна твоя помощь, чтобы победить мою сестру! Пожалуйста, возвращайся!"
+      "title": "Ume Hanami",
+      "message": "I need your strength to beat my sister! Please come back!"
     },
     {
       "characterId": "hume",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Умэ Ханами",
-      "message": "Я хочу участвовать в соревновании! Я выложусь по полной и пройду его!"
+      "title": "Ume Hanami",
+      "message": "I want to enter the contest! I’m gonna go all out and smash through it!"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Умэ Ханами",
-      "message": "Мини-лайв закончен! С нетерпением жду следующей работы!"
+      "title": "Ume Hanami",
+      "message": "The mini-live is done! I can't wait for the next job!"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Умэ Ханами",
-      "message": "Этот мини-лайв был таким оживленным благодаря зрителям! Было так весело!"
+      "title": "Ume Hanami",
+      "message": "This mini-live was so lively with the audience! It was so much fun!"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Умэ Ханами",
-      "message": "Мини-лайв прошел отлично! Давай потом вместе его обсудим, хорошо?"
+      "title": "Ume Hanami",
+      "message": "The mini-live was great! Let's review it together later, okay?"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Умэ Ханами",
-      "message": "Работа со стримом была нервной, но я рада, что она закончена! Надеюсь, им понравилось."
+      "title": "Ume Hanami",
+      "message": "The streaming job was nerve wracking, but I'm glad it's done! I hope they enjoyed it."
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Умэ Ханами",
-      "message": "Работа закончена! Сестра дала мне советы по стримингу, как я справилась?!"
+      "title": "Ume Hanami",
+      "message": "The job is done! My sister gave me tips for streaming, how did I do?!"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Умэ Ханами",
-      "message": "Стрим закончился! Продюсер, ты смотрел? Дай мне знать, что нужно улучшить!"
+      "title": "Ume Hanami",
+      "message": "The stream is over! Producer, were you watching? Let me know what to improve!"
     },
     {
       "characterId": "jsna",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Сэна Дзюо",
-      "message": "Ты восстановился? Я готова. Давай начнем урок."
+      "title": "Sena Juo",
+      "message": "Have you recovered? I'm ready. Let's start the lesson."
     },
     {
       "characterId": "jsna",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Сэна Дзюо",
-      "message": "Время перерыва закончилось. Не покажешь мне, как это делается, сэмпай?"
+      "title": "Sena Juo",
+      "message": "Break time is over. Would you show me how it's done, senpai?"
     },
     {
       "characterId": "jsna",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Сэна Дзюо",
-      "message": "Пора собирать деньги. Пойдем вместе."
+      "title": "Sena Juo",
+      "message": "It's time to collect the money. Let's go together."
     },
     {
       "characterId": "jsna",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Сэна Дзюо",
-      "message": "Ты забыл собрать деньги? Убедись, что сделал это."
+      "title": "Sena Juo",
+      "message": "Did you forget to collect the money? Make sure to do it."
     },
     {
       "characterId": "jsna",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Сэна Дзюо",
-      "message": "Сегодняшняя миссия не выполнена. Сделаем это вместе?"
+      "title": "Sena Juo",
+      "message": "Today's mission isn't complete. Shall we do it together?"
     },
     {
       "characterId": "jsna",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Сэна Дзюо",
-      "message": "Я еще так многому хочу у тебя научиться. Пожалуйста, возвращайся."
+      "title": "Sena Juo",
+      "message": "There’s still so much I want to learn from you. Come back, please."
     },
     {
       "characterId": "jsna",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Сэна Дзюо",
-      "message": "Ты еще не присоединился к сегодняшнему соревнованию. Давай, пойдем."
+      "title": "Sena Juo",
+      "message": "You haven’t joined today’s contest yet. Come on, let’s go."
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Сэна Дзюо",
-      "message": "Мини-лайв закончен. Думаю, я выступила так, чтобы все гордились."
+      "title": "Sena Juo",
+      "message": "The mini-live is over. I think I delivered a performance to make everyone proud."
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Сэна Дзюо",
-      "message": "Это был хороший мини-лайв. С нетерпением жду твоих мыслей."
+      "title": "Sena Juo",
+      "message": "It was a good mini-live. I'm looking forward to hearing your thoughts."
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Сэна Дзюо",
-      "message": "Мини-лайв только что закончился. Не могли бы мы обсудить его вместе?"
+      "title": "Sena Juo",
+      "message": "The mini-live just ended. Could we review it together?"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Сэна Дзюо",
-      "message": "Стрим закончился. Это драгоценная возможность пообщаться с фанатами."
+      "title": "Sena Juo",
+      "message": "The stream is over. It's a precious opportunity to connect with fans."
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Сэна Дзюо",
-      "message": "Стрим закончен. Если ты смотрел, я бы хотела услышать твое мнение."
+      "title": "Sena Juo",
+      "message": "The stream is done. If you watched, I'd like to hear your opinion."
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Сэна Дзюо",
-      "message": "Можешь присоединиться к обсуждению после стрима? Мне нужно многое обсудить."
+      "title": "Sena Juo",
+      "message": "Can you join the post-stream review? I have so much to discuss."
     },
     {
       "characterId": "kcna",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Тина Курамото",
-      "message": "Сэнсэй, ты чувствуешь себя лучше? Я полна энергии!"
+      "title": "China Kuramoto",
+      "message": "Sensei, are you feeling better? I'm all full of energy!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Тина Курамото",
-      "message": "Сэнсэй, я вернулась в полной форме! Я сделаю все возможное, чтобы стать замечательным айдолом!"
+      "title": "China Kuramoto",
+      "message": "Sensei, I'm back in full form! I'll do my best to become a wonderful idol!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Тина Курамото",
-      "message": "Сэнсэй, пойдем собирать деньги!"
+      "title": "China Kuramoto",
+      "message": "Sensei, let's go collect the money!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Тина Курамото",
-      "message": "Что замечательного мы можем сделать с деньгами? Соберем их прямо сейчас!"
+      "title": "China Kuramoto",
+      "message": "What wonderful things can we do with money? Let's collect it right away!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Тина Курамото",
-      "message": "Еще осталась ежедневная миссия! Сэнсэй, ты забыл?"
+      "title": "China Kuramoto",
+      "message": "There's still a daily mission left! Sensei, did you forget?"
     },
     {
       "characterId": "kcna",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Тина Курамото",
-      "message": "Сэнсэй, пожалуйста! пожалуйста, вернись!!"
+      "title": "China Kuramoto",
+      "message": "Sensei, please! please come baaaaaaaaack!!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Тина Курамото",
-      "message": "Сэнсэй, ты еще не присоединился к сегодняшнему соревнованию. Я абсолютно полна мотивации. Давайте участвовать!"
+      "title": "China Kuramoto",
+      "message": "Sensei, you haven’t joined today’s contest yet. I am absolutely full of motivation. Let us participate!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Тина Курамото",
-      "message": "Сэнсэй! Мини-лайв закончен. Это было так весело!"
+      "title": "China Kuramoto",
+      "message": "Sensei! The mini-live is done. It was such a fun time!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Тина Курамото",
-      "message": "Мини-лайв был таким веселым! И я получила награду!"
+      "title": "China Kuramoto",
+      "message": "The mini-live was so fun! And I got a reward too!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Тина Курамото",
-      "message": "Мини-лайв закончен. Давай соберем награду!"
+      "title": "China Kuramoto",
+      "message": "The mini-live is over. Let's collect the reward!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Тина Курамото",
-      "message": "Стрим закончен! Думаю, я справилась хорошо, что ты думаешь?"
+      "title": "China Kuramoto",
+      "message": "The stream is done! I think I did well, what do you think?"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Тина Курамото",
-      "message": "Сэнсэй, стрим закончен. Быть айдолом так весело!"
+      "title": "China Kuramoto",
+      "message": "Sensei, the stream is done. Being an idol is so fun!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Тина Курамото",
-      "message": "Работа закончена! Ты смотрел, сэнсэй?"
+      "title": "China Kuramoto",
+      "message": "The job is done! Did you watch, Sensei?"
     },
     {
       "characterId": "kllj",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Лилья Кацураги",
-      "message": "...Сэмпай, не мог бы ты помочь мне с уроком? Я чувствую себя полностью восстановленной..."
+      "title": "Lilja Katsuragi",
+      "message": "...Senpai, could you help me with a lesson? I feel recharged now..."
     },
     {
       "characterId": "kllj",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Лилья Кацураги",
-      "message": "Сэмпай, ты чувствуешь себя лучше? Пожалуйста, помоги мне с уроком..."
+      "title": "Lilja Katsuragi",
+      "message": "Senpai, are you feeling better? Please help me with a lesson..."
     },
     {
       "characterId": "kllj",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Лилья Кацураги",
-      "message": "...Пойдем собирать деньги?"
+      "title": "Lilja Katsuragi",
+      "message": "...Shall we go collect the money?"
     },
     {
       "characterId": "kllj",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Лилья Кацураги",
-      "message": "Я бы хотела провести урок, но... может, сначала соберем деньги..."
+      "title": "Lilja Katsuragi",
+      "message": "I'd like to do a lesson, but... maybe collect the money first..."
     },
     {
       "characterId": "kllj",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Лилья Кацураги",
-      "message": "Похоже, сегодняшняя миссия еще не выполнена..."
+      "title": "Lilja Katsuragi",
+      "message": "It seems today's mission isn't done yet..."
     },
     {
       "characterId": "kllj",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Лилья Кацураги",
-      "message": "...Сэмпай, я сделаю все возможное. Так что, пожалуйста, возвращайся."
+      "title": "Lilja Katsuragi",
+      "message": "...Senpai, I'll do my best. So, please come back."
     },
     {
       "characterId": "kllj",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Лилья Кацураги",
-      "message": "Эм... мы сегодня не будем участвовать в соревновании...? Я еще могу продолжать!"
+      "title": "Lilja Katsuragi",
+      "message": "Um... are we not entering the contest today...? I can still keep going!"
     },
     {
       "characterId": "kllj",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Лилья Кацураги",
-      "message": "Мини-лайв закончен... Думаю, я справилась по-своему."
+      "title": "Lilja Katsuragi",
+      "message": "The mini-live is over... I think I did well, in my own way."
     },
     {
       "characterId": "kllj",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Лилья Кацураги",
-      "message": "...Сэмпай, мини-лайв закончен. Не мог бы ты собрать награды для меня?"
+      "title": "Lilja Katsuragi",
+      "message": "...Senpai, the mini-live is done. Could you collect the rewards for me?"
     },
     {
       "characterId": "kllj",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Лилья Кацураги",
-      "message": "Мини-лайв... был нервным. Пожалуйста, присоединяйся к обсуждению."
+      "title": "Lilja Katsuragi",
+      "message": "The mini-live... was nerve-wracking. Please join the review."
     },
     {
       "characterId": "kllj",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Лилья Кацураги",
-      "message": "Т-трансляция закончена... Не мог бы ты собрать награды для меня?"
+      "title": "Lilja Katsuragi",
+      "message": "T-The stream is done... Could you collect the rewards for me?"
     },
     {
       "characterId": "kllj",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Лилья Кацураги",
-      "message": "Уф... Стрим закончен, но... всё ли прошло хорошо?"
+      "title": "Lilja Katsuragi",
+      "message": "Ugh... The stream is done, but... was it okay?"
     },
     {
       "characterId": "kllj",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Лилья Кацураги",
-      "message": "Работа со стримом закончена. Похоже, я смогу получить награды."
+      "title": "Lilja Katsuragi",
+      "message": "The stream job is done. Looks like I can get rewards too."
     },
     {
       "characterId": "shro",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Хиро Синосава",
-      "message": "И я, и Продюсер восстановили силы. Давай начнём Урок."
+      "title": "Hiro Shinosawa",
+      "message": "Both Producer and I are recharged. Let's do the lesson."
     },
     {
       "characterId": "shro",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Хиро Синосава",
-      "message": "Я снова в строю. Так что я ожидаю трудный Урок."
+      "title": "Hiro Shinosawa",
+      "message": "I'm back on my feet. So, I’m expecting a tough lesson."
     },
     {
       "characterId": "shro",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Хиро Синосава",
-      "message": "Пойдём соберём деньги."
+      "title": "Hiro Shinosawa",
+      "message": "Let's go collect the money."
     },
     {
       "characterId": "shro",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Хиро Синосава",
-      "message": "Сбор денег тоже считается Тренировкой, верно?"
+      "title": "Hiro Shinosawa",
+      "message": "Collecting money counts as training too, right?"
     },
     {
       "characterId": "shro",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Хиро Синосава",
-      "message": "Продюсер, ты забыл про ежедневную миссию. Хочешь выполнить её вместе?"
+      "title": "Hiro Shinosawa",
+      "message": "Producer, you forgot the daily mission. Want to do it together?"
     },
     {
       "characterId": "shro",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Хиро Синосава",
-      "message": "Продюсер... ты бросил меня? Так... одиноко."
+      "title": "Hiro Shinosawa",
+      "message": "Producer... did you abandon me? So... lonely."
     },
     {
       "characterId": "shro",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Хиро Синосава",
-      "message": "Мы ещё не участвовали в Турнире сегодня. С моей Выносливостью... думаю, я справлюсь. Я могу это сделать."
+      "title": "Hiro Shinosawa",
+      "message": "We haven’t entered the contest today. With my stamina... I think I’m okay. I can do it."
     },
     {
       "characterId": "shro",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Хиро Синосава",
-      "message": "Продюсер, мини-лайв закончен. Пожалуйста, собери награды."
+      "title": "Hiro Shinosawa",
+      "message": "Producer, the mini-live is done. Please collect the rewards."
     },
     {
       "characterId": "shro",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Хиро Синосава",
-      "message": "Мини-лайв... закончен... Я больше не могу двигаться..."
+      "title": "Hiro Shinosawa",
+      "message": "The mini-live... is over... I can't move anymore..."
     },
     {
       "characterId": "shro",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Хиро Синосава",
-      "message": "Думаю, я хорошо двигалась... для себя. Продюсер, что ты думаешь?"
+      "title": "Hiro Shinosawa",
+      "message": "I think I moved well... for me. Producer, what do you think?"
     },
     {
       "characterId": "shro",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Хиро Синосава",
-      "message": "Стрим закончен. Похоже, я смогу собрать награды."
+      "title": "Hiro Shinosawa",
+      "message": "The stream is done. Looks like I can collect rewards."
     },
     {
       "characterId": "shro",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Хиро Синосава",
-      "message": "Работа со стримом завершена. Продюсер, похвали меня."
+      "title": "Hiro Shinosawa",
+      "message": "Streaming job complete. Producer, praise me."
     },
     {
       "characterId": "shro",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Хиро Синосава",
-      "message": "Стрим... как-то... закончился. Пожалуйста, собери награды..."
+      "title": "Hiro Shinosawa",
+      "message": "The stream... somehow... ended. Please collect the rewards..."
     },
     {
       "characterId": "ssmk",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Сумика Сиун",
-      "message": "Хочешь пойти на Урок?? Ну, мне всё равно... но может, сначала сходим куда-нибудь?"
+      "title": "Sumika Shiun",
+      "message": "Ya wanna do a lesson?? I mean, whatever... but like, how about we go hang out first?"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Сумика Сиун",
-      "message": "П-чи, чувствуешь себя полностью заряженной или как? Даа, обожаю эту Энергию!"
+      "title": "Sumika Shiun",
+      "message": "P-chi, feelin’ totally recharged or what? Yaaas, love that energy!"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Сумика Сиун",
-      "message": "Ты ведь не забыл про деньги, да? Как только заберёшь их, пойдём на свидание～♪"
+      "title": "Sumika Shiun",
+      "message": "You didn’t forget about the money, right? Once you grab it, let’s go on a date～♪"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Сумика Сиун",
-      "message": "Пришло время забрать твои деньги! Давай-давай, поторопись!"
+      "title": "Sumika Shiun",
+      "message": "It's like, totally time to pick up your money! C’mon c’mon, hurry uuuup!"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Сумика Сиун",
-      "message": "Похоже, ты не закончил сегодняшнюю миссию～ Вау, П-чи, лодырничаешь? Серьёзно?"
+      "title": "Sumika Shiun",
+      "message": "Looks like you didn’t finish today’s mission～ Wow, P-chi, slacking off? For real?"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Сумика Сиун",
-      "message": "Я думала... может, я попробую стать Айдолом, ну, совсем чуть-чуть. Так что возвращайся уже, П-чи."
+      "title": "Sumika Shiun",
+      "message": "I was thinkin’... maybe I’ll try being an idol, like, just a little. So come back already, P-chi."
     },
     {
       "characterId": "ssmk",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Сумика Сиун",
-      "message": "П-чи, мы ещё не участвовали в Турнире сегодня, верно? Раз уж мы здесь, давай просто сделаем это!"
+      "title": "Sumika Shiun",
+      "message": "P-chi, we haven’t entered the contest today yet, right? Since we’re here, let’s just do it!"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Сумика Сиун",
-      "message": "Мини-лайв весь закончен! П-чи, иди забери награду～♪"
+      "title": "Sumika Shiun",
+      "message": "Mini live’s all dooone! P-chi, come snag that reward～♪"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Сумика Сиун",
-      "message": "П-чи, мини-лайв закончен～ Уф, я тааак устала... Эй, ты меня немного побалуешь?"
+      "title": "Sumika Shiun",
+      "message": "P-chi, the mini live’s over～ Ugh, I’m soooo tired... Hey, you gonna spoil me a little?"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Сумика Сиун",
-      "message": "Мини-лайв был супер весёлым～♪ Сказали, что нам заплатят, так что давай поиграем с этим, а?"
+      "title": "Sumika Shiun",
+      "message": "The mini live was super fun～♪ They said we get paid too, so let’s go play with that, yeah?"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Сумика Сиун",
-      "message": "Стрим закончен, так что можешь подойти сюда на секунду? Пожалуйста-пожалуйста, П-чи～?"
+      "title": "Sumika Shiun",
+      "message": "Stream’s over, sooo can you come here for a sec? Pretty please, P-chi～?"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Сумика Сиун",
-      "message": "П-чи, я закончила стрим～! Хоть это и стрим, это всё равно настоящая работа, и я вымотана..."
+      "title": "Sumika Shiun",
+      "message": "P-chi, I'm done with the stream～! Even though it’s a stream, it’s still like, actual work, and I’m beat..."
     },
     {
       "characterId": "ssmk",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Сумика Сиун",
-      "message": "Стриминг, типа, такой расслабленный и весёлый, такая лёгкая работа～ К тому же нам платят, обожаю это♪"
+      "title": "Sumika Shiun",
+      "message": "Streaming’s, like, so chill and fun, such an easy job～ Plus we get paid, love iiit♪"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "Темари Цукимура",
-      "message": "Время перерыва закончилось, Продюсер. Давай быстро начнём Урок."
+      "title": "Temari Tsukimura",
+      "message": "Break time is over, Producer. Let's start the lesson quickly."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "Темари Цукимура",
-      "message": "Я дала тебе достаточно отдыха, не так ли? С этого момента всё моё время."
+      "title": "Temari Tsukimura",
+      "message": "I gave you enough rest, didn’t I? From here on, it's all my time."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "Темари Цукимура",
-      "message": "Иди уже собери деньги."
+      "title": "Temari Tsukimura",
+      "message": "Go collect the money already."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "Темари Цукимура",
-      "message": "Продюсер, ты забыл собрать деньги. Поторопись и сделай это."
+      "title": "Temari Tsukimura",
+      "message": "Producer, you forgot to collect the money. Hurry up and do it."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "Темари Цукимура",
-      "message": "Ещё остались ежедневные миссии. Я тоже хочу Урок, так что давай закончим их."
+      "title": "Temari Tsukimura",
+      "message": "There are still daily missions left. I want a lesson too, so let’s finish them."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_Login",
       "number": 1,
-      "title": "Темари Цукимура",
-      "message": "Ты обещал Продюсировать кого-то вроде меня... Продюсер, вернись."
+      "title": "Temari Tsukimura",
+      "message": "You promised to produce someone like me... Producer, come back."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "Темари Цукимура",
-      "message": "Ты ещё не участвовал в Турнире сегодня, верно? Ты не собираешься? А я уже готова."
+      "title": "Temari Tsukimura",
+      "message": "You haven’t entered the contest today, right? You’re not going? I’m already prepared, though."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "Темари Цукимура",
-      "message": "Мини-лайв был для меня удовлетворительным. Что ты думаешь, Продюсер?"
+      "title": "Temari Tsukimura",
+      "message": "The mini-live was satisfying for me. What do you think, Producer?"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "Темари Цукимура",
-      "message": "Чувствовать волнение от лайва так весело. Я хочу сделать это снова."
+      "title": "Temari Tsukimura",
+      "message": "Feeling the excitement from the live is so much fun. I want to do it again."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "Темари Цукимура",
-      "message": "Мини-лайв закончен. Я сделала его лучшим своим пением."
+      "title": "Temari Tsukimura",
+      "message": "The mini-live is over. I made it the best with my singing."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "Темари Цукимура",
-      "message": "Стрим закончен. Всем понравилось?"
+      "title": "Temari Tsukimura",
+      "message": "The stream is done. Did everyone enjoy it?"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "Темари Цукимура",
-      "message": "Работа сделана. Стриминг — это тяжело, но полезно."
+      "title": "Temari Tsukimura",
+      "message": "The job’s done. Streaming is hard but rewarding."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "Темари Цукимура",
-      "message": "Продюсер, ты смотрел? Стрим прошёл хорошо. Я ожидаю хороших наград!"
+      "title": "Temari Tsukimura",
+      "message": "Producer, did you watch? The stream went well. I’m expecting good rewards!"
     }
   ]
 }

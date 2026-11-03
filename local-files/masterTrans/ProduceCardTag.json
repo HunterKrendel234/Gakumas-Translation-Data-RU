@@ -7,15 +7,15 @@
   "data": [
     {
       "id": "idol-unique",
-      "name": "Карты Навыка Айдола"
+      "name": "Idol-Specific Skill Cards"
     },
     {
       "id": "starter",
-      "name": "Стартовая Карта Навыка"
+      "name": "Starter Skill Card"
     },
     {
       "id": "strike",
-      "name": "Меню Урока"
+      "name": "Lesson Menu"
     }
   ]
 }

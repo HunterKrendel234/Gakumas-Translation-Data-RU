@@ -246,7 +246,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Мешочек (Красный) "
+      "name": "Pouch (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-001_01-01-1-001",
@@ -504,7 +504,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Медведь (Красный) "
+      "name": "Bear (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-001_01-01-1-001_00-04-4-001",
@@ -762,7 +762,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Цветочный медведь (Красный) "
+      "name": "Flower Bear (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-001_01-01-1-001_00-04-4-002",
@@ -1056,7 +1056,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Медведь с лентой (Красный) "
+      "name": "Ribbon Bear (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-001_01-01-1-001_00-04-4-004",
@@ -1314,7 +1314,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь с пером (Красный) "
+      "name": "Feather Bear (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-002_01-01-1-001",
@@ -1596,7 +1596,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла (Красный) "
+      "name": "Doll (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-002_01-01-1-001_00-04-4-001",
@@ -1878,7 +1878,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочная кукла (Красный) "
+      "name": "Flower Doll (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-002_01-01-1-001_00-04-4-002",
@@ -2232,7 +2232,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с лентой (Красный) "
+      "name": "Ribbon Doll (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-002_01-01-1-001_00-04-4-003",
@@ -2586,7 +2586,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с медалью (Красный) "
+      "name": "Medal Doll (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-002_01-01-1-001_00-04-4-004",
@@ -2916,7 +2916,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с пером (Красный) "
+      "name": "Feather Doll (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-003_01-01-1-001",
@@ -3210,7 +3210,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот (Красный) "
+      "name": "Robot (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-003_01-01-1-001_00-04-4-001",
@@ -3504,7 +3504,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный робот (Красный) "
+      "name": "Flower Robot (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-003_01-01-1-001_00-04-4-002",
@@ -3762,7 +3762,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот с лентой (Красный) "
+      "name": "Ribbon Robot (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-003_01-01-1-001_00-04-4-003",
@@ -4044,7 +4044,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот с медалью (Красный) "
+      "name": "Medal Robot (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-003_01-01-1-001_00-04-4-004",
@@ -4302,7 +4302,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот с пером (Красный) "
+      "name": "Feather Robot (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-004_01-01-1-001",
@@ -4584,7 +4584,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик (Красный) "
+      "name": "Fluff (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-004_01-01-1-001_00-04-4-001",
@@ -4926,7 +4926,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный пушистик (Красный) "
+      "name": "Flower Fluff (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-004_01-01-1-001_00-04-4-002",
@@ -5268,7 +5268,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с лентой (Красный) "
+      "name": "Ribbon Fluff (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-004_01-01-1-001_00-04-4-003",
@@ -5610,7 +5610,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с медалью (Красный) "
+      "name": "Medal Fluff (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-001_00-04-2-004_01-01-1-001_00-04-4-004",
@@ -5952,7 +5952,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с пером (Красный) "
+      "name": "Feather Fluff (Red) "
     },
     {
       "id": "customize_pitem-01-04-3-002",
@@ -6186,7 +6186,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Мешочек (Зеленый) "
+      "name": "Pouch (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-001_01-01-1-001",
@@ -6480,7 +6480,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь (Зеленый) "
+      "name": "Bear (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-001_01-01-1-001_00-04-4-001",
@@ -6774,7 +6774,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный медведь (Зеленый) "
+      "name": "Flower Bear (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-001_01-01-1-001_00-04-4-002",
@@ -7032,7 +7032,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь с лентой (Зеленый) "
+      "name": "Ribbon Bear (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-001_01-01-1-001_00-04-4-003",
@@ -7314,7 +7314,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь с медалью (Зеленый) "
+      "name": "Medal Bear (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-001_01-01-1-001_00-04-4-004",
@@ -7572,7 +7572,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь с пером (Зеленый) "
+      "name": "Feather Bear (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-002_01-01-1-001",
@@ -7854,7 +7854,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла (Зеленый) "
+      "name": "Doll (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-002_01-01-1-001_00-04-4-001",
@@ -8136,7 +8136,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочная кукла (Зеленый) "
+      "name": "Flower Doll (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-002_01-01-1-001_00-04-4-002",
@@ -8418,7 +8418,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с лентой (Зеленый) "
+      "name": "Ribbon Doll (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-002_01-01-1-001_00-04-4-003",
@@ -8700,7 +8700,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с медалью (Зеленый) "
+      "name": "Medal Doll (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-002_01-01-1-001_00-04-4-004",
@@ -8982,7 +8982,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с пером (Зеленый) "
+      "name": "Feather Doll (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-005_01-01-1-001",
@@ -9240,7 +9240,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Попугай (Зеленый) "
+      "name": "Parakeet (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-005_01-01-1-001_00-04-4-001",
@@ -9498,7 +9498,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Цветочный попугай (Зеленый) "
+      "name": "Flower Parakeet (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-005_01-01-1-001_00-04-4-002",
@@ -9792,7 +9792,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Попугай с лентой (Зеленый) "
+      "name": "Ribbon Parakeet (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-005_01-01-1-001_00-04-4-004",
@@ -10050,7 +10050,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай с пером (Зеленый) "
+      "name": "Feather Parakeet (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-006_01-01-1-001",
@@ -10284,7 +10284,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик (Зеленый) "
+      "name": "Rabbit (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-006_01-01-1-001_00-04-4-001",
@@ -10566,7 +10566,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный кролик (Зеленый) "
+      "name": "Flower Rabbit (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-006_01-01-1-001_00-04-4-002",
@@ -10872,7 +10872,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с лентой (Зеленый) "
+      "name": "Ribbon Rabbit (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-006_01-01-1-001_00-04-4-003",
@@ -11178,7 +11178,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с медалью (Зеленый) "
+      "name": "Medal Rabbit (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-002_00-04-2-006_01-01-1-001_00-04-4-004",
@@ -11460,7 +11460,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с пером (Зеленый) "
+      "name": "Feather Rabbit (Green) "
     },
     {
       "id": "customize_pitem-01-04-3-003",
@@ -11670,7 +11670,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Мешочек (Желтый) "
+      "name": "Pouch (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-003_01-01-1-001",
@@ -11904,7 +11904,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Робот (Желтый) "
+      "name": "Robot (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-003_01-01-1-001_00-04-4-001",
@@ -12138,7 +12138,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Цветочный робот (Желтый) "
+      "name": "Flower Robot (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-003_01-01-1-001_00-04-4-002",
@@ -12408,7 +12408,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Робот с лентой (Желтый) "
+      "name": "Ribbon Robot (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-003_01-01-1-001_00-04-4-004",
@@ -12642,7 +12642,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот с пером (Желтый) "
+      "name": "Feather Robot (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-004_01-01-1-001",
@@ -12900,7 +12900,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик (Желтый) "
+      "name": "Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-004_01-01-1-001_00-04-4-001",
@@ -13158,7 +13158,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный пушистик (Желтый) "
+      "name": "Flower Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-004_01-01-1-001_00-04-4-002",
@@ -13488,7 +13488,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с лентой (Желтый) "
+      "name": "Ribbon Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-004_01-01-1-001_00-04-4-003",
@@ -13818,7 +13818,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с медалью (Желтый) "
+      "name": "Medal Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-004_01-01-1-001_00-04-4-004",
@@ -14124,7 +14124,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с пером (Желтый) "
+      "name": "Feather Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-005_01-01-1-001",
@@ -14394,7 +14394,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай (Желтый) "
+      "name": "Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-005_01-01-1-001_00-04-4-001",
@@ -14664,7 +14664,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный попугай (Желтый) "
+      "name": "Flower Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-005_01-01-1-001_00-04-4-002",
@@ -14898,7 +14898,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай с лентой (Желтый) "
+      "name": "Ribbon Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-005_01-01-1-001_00-04-4-003",
@@ -15156,7 +15156,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай с медалью (Желтый) "
+      "name": "Medal Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-005_01-01-1-001_00-04-4-004",
@@ -15390,7 +15390,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай с пером (Желтый) "
+      "name": "Feather Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-006_01-01-1-001",
@@ -15648,7 +15648,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик (Желтый) "
+      "name": "Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-006_01-01-1-001_00-04-4-001",
@@ -15906,7 +15906,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный кролик (Желтый) "
+      "name": "Flower Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-006_01-01-1-001_00-04-4-002",
@@ -16164,7 +16164,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с лентой (Желтый) "
+      "name": "Ribbon Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-006_01-01-1-001_00-04-4-003",
@@ -16422,7 +16422,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с медалью (Желтый) "
+      "name": "Medal Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-01-04-3-003_00-04-2-006_01-01-1-001_00-04-4-004",
@@ -16680,7 +16680,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с пером (Желтый) "
+      "name": "Feather Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-001",
@@ -16914,7 +16914,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Мешочек (Красный) "
+      "name": "Pouch (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-001_02-02-1-001",
@@ -17172,7 +17172,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Медведь (Красный) "
+      "name": "Bear (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-001_02-02-1-001_00-04-4-001",
@@ -17430,7 +17430,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Цветочный медведь (Красный) "
+      "name": "Flower Bear (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-001_02-02-1-001_00-04-4-002",
@@ -17724,7 +17724,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Медведь с лентой (Красный) "
+      "name": "Ribbon Bear (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-001_02-02-1-001_00-04-4-004",
@@ -17982,7 +17982,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь с пером (Красный) "
+      "name": "Feather Bear (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-002_02-02-1-001",
@@ -18264,7 +18264,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла (Красный) "
+      "name": "Doll (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-002_02-02-1-001_00-04-4-001",
@@ -18546,7 +18546,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочная кукла (Красный) "
+      "name": "Flower Doll (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-002_02-02-1-001_00-04-4-002",
@@ -18900,7 +18900,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с лентой (Красный) "
+      "name": "Ribbon Doll (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-002_02-02-1-001_00-04-4-003",
@@ -19254,7 +19254,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с медалью (Красный) "
+      "name": "Medal Doll (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-002_02-02-1-001_00-04-4-004",
@@ -19584,7 +19584,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с пером (Красный) "
+      "name": "Feather Doll (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-003_02-02-1-001",
@@ -19878,7 +19878,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот (Красный) "
+      "name": "Robot (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-003_02-02-1-001_00-04-4-001",
@@ -20172,7 +20172,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный робот (Красный) "
+      "name": "Flower Robot (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-003_02-02-1-001_00-04-4-002",
@@ -20430,7 +20430,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот с лентой (Красный) "
+      "name": "Ribbon Robot (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-003_02-02-1-001_00-04-4-003",
@@ -20712,7 +20712,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот с медалью (Красный) "
+      "name": "Medal Robot (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-003_02-02-1-001_00-04-4-004",
@@ -20970,7 +20970,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот с пером (Красный) "
+      "name": "Feather Robot (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-004_02-02-1-001",
@@ -21252,7 +21252,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик (Красный) "
+      "name": "Fluff (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-004_02-02-1-001_00-04-4-001",
@@ -21594,7 +21594,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный пушистик (Красный) "
+      "name": "Flower Fluff (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-004_02-02-1-001_00-04-4-002",
@@ -21936,7 +21936,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с лентой (Красный) "
+      "name": "Ribbon Fluff (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-004_02-02-1-001_00-04-4-003",
@@ -22278,7 +22278,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с медалью (Красный) "
+      "name": "Medal Fluff (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-001_00-04-2-004_02-02-1-001_00-04-4-004",
@@ -22620,7 +22620,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с пером (Красный) "
+      "name": "Feather Fluff (Red) "
     },
     {
       "id": "customize_pitem-02-04-3-002",
@@ -22854,7 +22854,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Мешочек (Зеленый) "
+      "name": "Pouch (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-001_02-02-1-001",
@@ -23148,7 +23148,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь (Зеленый) "
+      "name": "Bear (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-001_02-02-1-001_00-04-4-001",
@@ -23442,7 +23442,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный медведь (Зеленый) "
+      "name": "Flower Bear (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-001_02-02-1-001_00-04-4-002",
@@ -23700,7 +23700,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь с лентой (Зеленый) "
+      "name": "Ribbon Bear (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-001_02-02-1-001_00-04-4-003",
@@ -23982,7 +23982,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь с медалью (Зеленый) "
+      "name": "Medal Bear (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-001_02-02-1-001_00-04-4-004",
@@ -24240,7 +24240,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь с пером (Зеленый) "
+      "name": "Feather Bear (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-002_02-02-1-001",
@@ -24522,7 +24522,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла (Зеленый) "
+      "name": "Doll (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-002_02-02-1-001_00-04-4-001",
@@ -24804,7 +24804,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочная кукла (Зеленый) "
+      "name": "Flower Doll (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-002_02-02-1-001_00-04-4-002",
@@ -25086,7 +25086,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с лентой (Зеленый) "
+      "name": "Ribbon Doll (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-002_02-02-1-001_00-04-4-003",
@@ -25368,7 +25368,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с медалью (Зеленый) "
+      "name": "Medal Doll (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-002_02-02-1-001_00-04-4-004",
@@ -25650,7 +25650,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с пером (Зеленый) "
+      "name": "Feather Doll (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-005_02-02-1-001",
@@ -25908,7 +25908,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Попугай (Зеленый) "
+      "name": "Parakeet (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-005_02-02-1-001_00-04-4-001",
@@ -26166,7 +26166,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Цветочный попугай (Зеленый) "
+      "name": "Flower Parakeet (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-005_02-02-1-001_00-04-4-002",
@@ -26460,7 +26460,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Попугай с лентой (Зеленый) "
+      "name": "Ribbon Parakeet (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-005_02-02-1-001_00-04-4-004",
@@ -26718,7 +26718,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай с пером (Зеленый) "
+      "name": "Feather Parakeet (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-006_02-02-1-001",
@@ -26952,7 +26952,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик (Зеленый) "
+      "name": "Rabbit (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-006_02-02-1-001_00-04-4-001",
@@ -27234,7 +27234,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный кролик (Зеленый) "
+      "name": "Flower Rabbit (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-006_02-02-1-001_00-04-4-002",
@@ -27540,7 +27540,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с лентой (Зеленый) "
+      "name": "Ribbon Rabbit (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-006_02-02-1-001_00-04-4-003",
@@ -27846,7 +27846,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с медалью (Зеленый) "
+      "name": "Medal Rabbit (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-002_00-04-2-006_02-02-1-001_00-04-4-004",
@@ -28128,7 +28128,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с пером (Зеленый) "
+      "name": "Feather Rabbit (Green) "
     },
     {
       "id": "customize_pitem-02-04-3-003",
@@ -28338,7 +28338,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Мешочек (Желтый) "
+      "name": "Pouch (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-003_02-02-1-001",
@@ -28572,7 +28572,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Робот (Желтый) "
+      "name": "Robot (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-003_02-02-1-001_00-04-4-001",
@@ -28806,7 +28806,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Цветочный робот (Желтый) "
+      "name": "Flower Robot (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-003_02-02-1-001_00-04-4-002",
@@ -29076,7 +29076,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Робот с лентой (Желтый) "
+      "name": "Ribbon Robot (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-003_02-02-1-001_00-04-4-004",
@@ -29310,7 +29310,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот с пером (Желтый) "
+      "name": "Feather Robot (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-004_02-02-1-001",
@@ -29568,7 +29568,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик (Желтый) "
+      "name": "Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-004_02-02-1-001_00-04-4-001",
@@ -29826,7 +29826,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный пушистик (Желтый) "
+      "name": "Flower Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-004_02-02-1-001_00-04-4-002",
@@ -30156,7 +30156,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с лентой (Желтый) "
+      "name": "Ribbon Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-004_02-02-1-001_00-04-4-003",
@@ -30486,7 +30486,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с медалью (Желтый) "
+      "name": "Medal Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-004_02-02-1-001_00-04-4-004",
@@ -30792,7 +30792,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с пером (Желтый) "
+      "name": "Feather Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-005_02-02-1-001",
@@ -31062,7 +31062,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай (Желтый) "
+      "name": "Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-005_02-02-1-001_00-04-4-001",
@@ -31332,7 +31332,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный попугай (Желтый) "
+      "name": "Flower Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-005_02-02-1-001_00-04-4-002",
@@ -31566,7 +31566,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай с лентой (Желтый) "
+      "name": "Ribbon Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-005_02-02-1-001_00-04-4-003",
@@ -31824,7 +31824,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай с медалью (Желтый) "
+      "name": "Medal Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-005_02-02-1-001_00-04-4-004",
@@ -32058,7 +32058,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай с пером (Желтый) "
+      "name": "Feather Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-006_02-02-1-001",
@@ -32316,7 +32316,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик (Желтый) "
+      "name": "Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-006_02-02-1-001_00-04-4-001",
@@ -32574,7 +32574,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный кролик (Желтый) "
+      "name": "Flower Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-006_02-02-1-001_00-04-4-002",
@@ -32832,7 +32832,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с лентой (Желтый) "
+      "name": "Ribbon Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-006_02-02-1-001_00-04-4-003",
@@ -33090,7 +33090,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с медалью (Желтый) "
+      "name": "Medal Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-02-04-3-003_00-04-2-006_02-02-1-001_00-04-4-004",
@@ -33348,7 +33348,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с пером (Желтый) "
+      "name": "Feather Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-001",
@@ -33510,7 +33510,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Мешочек (Красный) "
+      "name": "Pouch (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-001_03-03-1-001",
@@ -33696,7 +33696,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Медведь (Красный) "
+      "name": "Bear (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-001_03-03-1-001_00-04-4-001",
@@ -33882,7 +33882,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Цветочный медведь (Красный) "
+      "name": "Flower Bear (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-001_03-03-1-001_00-04-4-002",
@@ -34104,7 +34104,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Медведь с лентой (Красный) "
+      "name": "Ribbon Bear (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-001_03-03-1-001_00-04-4-004",
@@ -34290,7 +34290,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь с пером (Красный) "
+      "name": "Feather Bear (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-002_03-03-1-001",
@@ -34500,7 +34500,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла (Красный) "
+      "name": "Doll (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-002_03-03-1-001_00-04-4-001",
@@ -34710,7 +34710,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочная кукла (Красный) "
+      "name": "Flower Doll (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-002_03-03-1-001_00-04-4-002",
@@ -34992,7 +34992,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с лентой (Красный) "
+      "name": "Ribbon Doll (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-002_03-03-1-001_00-04-4-003",
@@ -35274,7 +35274,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с медалью (Красный) "
+      "name": "Medal Doll (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-002_03-03-1-001_00-04-4-004",
@@ -35532,7 +35532,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с пером (Красный) "
+      "name": "Feather Doll (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-003_03-03-1-001",
@@ -35754,7 +35754,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот (Красный) "
+      "name": "Robot (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-003_03-03-1-001_00-04-4-001",
@@ -35976,7 +35976,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный робот (Красный) "
+      "name": "Flower Robot (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-003_03-03-1-001_00-04-4-002",
@@ -36162,7 +36162,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот с лентой (Красный) "
+      "name": "Ribbon Robot (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-003_03-03-1-001_00-04-4-003",
@@ -36372,7 +36372,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот с медалью (Красный) "
+      "name": "Medal Robot (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-003_03-03-1-001_00-04-4-004",
@@ -36558,7 +36558,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот с пером (Красный) "
+      "name": "Feather Robot (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-004_03-03-1-001",
@@ -36768,7 +36768,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик (Красный) "
+      "name": "Fluff (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-004_03-03-1-001_00-04-4-001",
@@ -37038,7 +37038,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный пушистик (Красный) "
+      "name": "Flower Fluff (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-004_03-03-1-001_00-04-4-002",
@@ -37308,7 +37308,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с лентой (Красный) "
+      "name": "Ribbon Fluff (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-004_03-03-1-001_00-04-4-003",
@@ -37578,7 +37578,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с медалью (Красный) "
+      "name": "Medal Fluff (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-001_00-04-2-004_03-03-1-001_00-04-4-004",
@@ -37848,7 +37848,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с пером (Красный) "
+      "name": "Feather Fluff (Red) "
     },
     {
       "id": "customize_pitem-03-04-3-002",
@@ -38010,7 +38010,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Мешочек (Зеленый) "
+      "name": "Pouch (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-001_03-03-1-001",
@@ -38232,7 +38232,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь (Зеленый) "
+      "name": "Bear (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-001_03-03-1-001_00-04-4-001",
@@ -38454,7 +38454,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный медведь (Зеленый) "
+      "name": "Flower Bear (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-001_03-03-1-001_00-04-4-002",
@@ -38640,7 +38640,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь с лентой (Зеленый) "
+      "name": "Ribbon Bear (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-001_03-03-1-001_00-04-4-003",
@@ -38850,7 +38850,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь с медалью (Зеленый) "
+      "name": "Medal Bear (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-001_03-03-1-001_00-04-4-004",
@@ -39036,7 +39036,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Медведь с пером (Зеленый) "
+      "name": "Feather Bear (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-002_03-03-1-001",
@@ -39246,7 +39246,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла (Зеленый) "
+      "name": "Doll (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-002_03-03-1-001_00-04-4-001",
@@ -39456,7 +39456,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочная кукла (Зеленый) "
+      "name": "Flower Doll (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-002_03-03-1-001_00-04-4-002",
@@ -39666,7 +39666,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с лентой (Зеленый) "
+      "name": "Ribbon Doll (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-002_03-03-1-001_00-04-4-003",
@@ -39876,7 +39876,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с медалью (Зеленый) "
+      "name": "Medal Doll (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-002_03-03-1-001_00-04-4-004",
@@ -40086,7 +40086,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кукла с пером (Зеленый) "
+      "name": "Feather Doll (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-005_03-03-1-001",
@@ -40272,7 +40272,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Попугай (Зеленый) "
+      "name": "Parakeet (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-005_03-03-1-001_00-04-4-001",
@@ -40458,7 +40458,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Цветочный попугай (Зеленый) "
+      "name": "Flower Parakeet (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-005_03-03-1-001_00-04-4-002",
@@ -40680,7 +40680,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Попугай с лентой (Зеленый) "
+      "name": "Ribbon Parakeet (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-005_03-03-1-001_00-04-4-004",
@@ -40866,7 +40866,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай с пером (Зеленый) "
+      "name": "Feather Parakeet (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-006_03-03-1-001",
@@ -41028,7 +41028,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик (Зеленый) "
+      "name": "Rabbit (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-006_03-03-1-001_00-04-4-001",
@@ -41238,7 +41238,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный кролик (Зеленый) "
+      "name": "Flower Rabbit (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-006_03-03-1-001_00-04-4-002",
@@ -41472,7 +41472,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с лентой (Зеленый) "
+      "name": "Ribbon Rabbit (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-006_03-03-1-001_00-04-4-003",
@@ -41706,7 +41706,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с медалью (Зеленый) "
+      "name": "Medal Rabbit (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-002_00-04-2-006_03-03-1-001_00-04-4-004",
@@ -41916,7 +41916,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с пером (Зеленый) "
+      "name": "Feather Rabbit (Green) "
     },
     {
       "id": "customize_pitem-03-04-3-003",
@@ -42054,7 +42054,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Мешочек (Желтый) "
+      "name": "Pouch (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-003_03-03-1-001",
@@ -42216,7 +42216,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Робот (Желтый) "
+      "name": "Robot (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-003_03-03-1-001_00-04-4-001",
@@ -42378,7 +42378,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Цветочный робот (Желтый) "
+      "name": "Flower Robot (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-003_03-03-1-001_00-04-4-002",
@@ -42576,7 +42576,7 @@
           "text": "(2x during Produce) "
         }
       ],
-      "name": "Робот с лентой (Желтый) "
+      "name": "Ribbon Robot (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-003_03-03-1-001_00-04-4-004",
@@ -42738,7 +42738,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Робот с пером (Желтый) "
+      "name": "Feather Robot (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-004_03-03-1-001",
@@ -42924,7 +42924,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик (Желтый) "
+      "name": "Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-004_03-03-1-001_00-04-4-001",
@@ -43110,7 +43110,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный пушистик (Желтый) "
+      "name": "Flower Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-004_03-03-1-001_00-04-4-002",
@@ -43368,7 +43368,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с лентой (Желтый) "
+      "name": "Ribbon Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-004_03-03-1-001_00-04-4-003",
@@ -43626,7 +43626,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с медалью (Желтый) "
+      "name": "Medal Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-004_03-03-1-001_00-04-4-004",
@@ -43860,7 +43860,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Пушистик с пером (Желтый) "
+      "name": "Feather Fluff (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-005_03-03-1-001",
@@ -44058,7 +44058,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай (Желтый) "
+      "name": "Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-005_03-03-1-001_00-04-4-001",
@@ -44256,7 +44256,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный попугай (Желтый) "
+      "name": "Flower Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-005_03-03-1-001_00-04-4-002",
@@ -44418,7 +44418,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай с лентой (Желтый) "
+      "name": "Ribbon Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-005_03-03-1-001_00-04-4-003",
@@ -44604,7 +44604,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай с медалью (Желтый) "
+      "name": "Medal Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-005_03-03-1-001_00-04-4-004",
@@ -44766,7 +44766,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Попугай с пером (Желтый) "
+      "name": "Feather Parakeet (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-006_03-03-1-001",
@@ -44952,7 +44952,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик (Желтый) "
+      "name": "Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-006_03-03-1-001_00-04-4-001",
@@ -45138,7 +45138,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Цветочный кролик (Желтый) "
+      "name": "Flower Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-006_03-03-1-001_00-04-4-002",
@@ -45324,7 +45324,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с лентой (Желтый) "
+      "name": "Ribbon Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-006_03-03-1-001_00-04-4-003",
@@ -45510,7 +45510,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с медалью (Желтый) "
+      "name": "Medal Rabbit (Yellow) "
     },
     {
       "id": "customize_pitem-03-04-3-003_00-04-2-006_03-03-1-001_00-04-4-004",
@@ -45696,7 +45696,7 @@
           "text": "(1x during Produce) "
         }
       ],
-      "name": "Кролик с пером (Желтый) "
+      "name": "Feather Rabbit (Yellow) "
     }
   ]
 }

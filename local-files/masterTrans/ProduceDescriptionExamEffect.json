@@ -7,367 +7,367 @@
   "data": [
     {
       "type": "ProduceExamEffectType_ExamLesson",
-      "name": "Парам. "
+      "name": "Param "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuff",
-      "name": "Хороший настрой "
+      "name": "Good Shape "
     },
     {
       "type": "ProduceExamEffectType_ExamBlock",
-      "name": "Энергия "
+      "name": "Energy "
     },
     {
       "type": "ProduceExamEffectType_ExamCardDraw",
-      "name": "Взять карту навыка "
+      "name": "Draw a Skill Card "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDown",
-      "name": "Уменьшенный расход выносливости "
+      "name": "Reduced Stamina usage "
     },
     {
       "type": "ProduceExamEffectType_ExamCardCreateId",
-      "name": "Генерация "
+      "name": "Generation "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceFix",
-      "name": "Использование выносливости "
+      "name": "Stamina Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuff",
-      "name": "Концентрация "
+      "name": "Focus "
     },
     {
       "type": "ProduceExamEffectType_ExamCardUpgrade",
-      "name": "Улучшено во время урока "
+      "name": "Upgraded During Lesson "
     },
     {
       "type": "ProduceExamEffectType_ExamPlayableValueAdd",
-      "name": "Использование Карты Навыка "
+      "name": "Skill Card Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffMultiple",
-      "name": "Усиление концентрации "
+      "name": "Focus Enhance "
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionChange",
-      "name": "Изменение расхода выносливости "
+      "name": "Stamina Usage Change "
     },
     {
       "type": "ProduceExamEffectType_ExamBlockRestriction",
-      "name": "Увеличение энергии отключено "
+      "name": "Energy Increase Disabled "
     },
     {
       "type": "ProduceExamEffectType_ExamStatusEnchant",
-      "name": "Текущий эффект "
+      "name": "Ongoing Effect "
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionDownSpecify",
-      "name": "Уменьшенный расход выносливости "
+      "name": "Reduced Stamina usage "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaDamage",
-      "name": "Уменьшение выносливости "
+      "name": "Stamina Decrease "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverFix",
-      "name": "Восстановление выносливости "
+      "name": "Stamina Recovery "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonFix",
-      "name": "Фикс параметра урока "
+      "name": "Fixed Param "
     },
     {
       "type": "ProduceExamEffectType_ExamCardDuplicate",
-      "name": "Дубль "
+      "name": "Dupe "
     },
     {
       "type": "ProduceExamEffectType_ExamReview",
-      "name": "Впечатление "
+      "name": "Good Impression "
     },
     {
       "type": "ProduceExamEffectType_ExamCardSearchEffectPlayCountBuff",
-      "name": "Дополнительная активация Карты Навыка "
+      "name": "Additional Skill Card Activation "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultiple",
-      "name": "Увеличение значения параметра урока "
+      "name": "Param Increase Amount Boost "
     },
     {
       "type": "ProduceExamEffectType_ExamCardPlayAggressive",
-      "name": "Мотивация "
+      "name": "Motivation "
     },
     {
       "type": "ProduceExamEffectType_ExamConcentration",
-      "name": "Уверенность "
+      "name": "Confidence "
     },
     {
       "type": "ProduceExamEffectType_ExamPreservation",
-      "name": "Сбережение "
+      "name": "Preservation "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPower",
-      "name": "Полная Сила "
+      "name": "Full Power "
     },
     {
       "type": "ProduceExamEffectType_ExamStanceReset",
-      "name": "Удаление руководства "
+      "name": "Guideline Removal "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPoint",
-      "name": "Очки полной силы "
+      "name": "Full Power Point "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointReduce",
-      "name": "Уменьшение очков полной силы "
+      "name": "Full Power Point Decrease "
     },
     {
       "type": "ProduceExamEffectType_ExamSearchPlayCardStaminaConsumptionChange",
-      "name": "Изменение расхода выносливости "
+      "name": "Stamina Usage Change "
     },
     {
       "type": "ProduceExamEffectType_ExamUplifting",
-      "name": "Волнение "
+      "name": "Excitement "
     },
     {
       "type": "ProduceExamEffectType_ExamExtraTurn",
-      "name": "Дополнительный ход "
+      "name": "Extra Turn "
     },
     {
       "type": "ProduceExamEffectType_ExamAntiDebuff",
-      "name": "Иммунитет к дебаффам "
+      "name": "Debuff Immunity "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAdd",
-      "name": "Увеличенный расход выносливости "
+      "name": "Increased Stamina Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamBlockAddDown",
-      "name": "Тревога "
+      "name": "Anxiety "
     },
     {
       "type": "ProduceExamEffectType_ExamBlockAddDownRestriction",
-      "name": "Иммунитет к тревоге "
+      "name": "Anxiety Immunity "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverAdd",
-      "name": "Увеличенное восстановление выносливости "
+      "name": "Increased Stamina Recovery Effect "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceChange",
-      "name": "Сниженный расход выносливости"
+      "name": "Reduced Stamina Usage"
     },
     {
       "type": "ProduceExamEffectType_ExamPanic",
-      "name": "Прихоть "
+      "name": "Whimsy "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonChangeSpecifyLessThan",
-      "name": "Изменение значения параметра урока "
+      "name": "Param Increase Value Change "
     },
     {
       "type": "ProduceExamEffectType_ExamHandHold",
-      "name": "Перенос карт в руке "
+      "name": "Carry Over Hand "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAddFix",
-      "name": "Дополнительный расход выносливости "
+      "name": "Additional Stamina Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAddDown",
-      "name": "Снижение эффекта увеличенного расхода выносливости "
+      "name": "Reduced Effect of Increased Stamina Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverRestriction",
-      "name": "Восстановление выносливости отключено "
+      "name": "Stamina Recovery Disabled "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd",
-      "name": "Усиление эффекта сниженного расхода выносливости "
+      "name": "Increased Effect of Reduced Stamina Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamGetCardUpgrade",
-      "name": "Улучшенная генерация "
+      "name": "Upgraded Generation "
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownFix",
-      "name": "Снижение расхода выносливости "
+      "name": "Reduce Stamina Usage "
     },
     {
       "type": "ProduceExamEffectType_ExamHandGraveCountCardDraw",
-      "name": "Замена руки "
+      "name": "Replace Hand "
     },
     {
       "type": "ProduceExamEffectType_ExamEffectTimer",
-      "name": "Резерв активации "
+      "name": "Activation Reservation "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickLessonDebuff",
-      "name": "Настроение "
+      "name": "Tension "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickParameterDebuff",
-      "name": "Плохая форма "
+      "name": "Bad Shape "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickSleepy",
-      "name": "Робкий "
+      "name": "Timid "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickEnthusiastic",
-      "name": "Энтузиазм "
+      "name": "Enthusiasm "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickPlayCardLimit",
-      "name": "Карты навыков использовать нельзя "
+      "name": "Skill cards cannot be used "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickSlump",
-      "name": "Спад "
+      "name": "Slump "
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickStartTurnCardDrawDown",
-      "name": "Уменьшение карт в руке "
+      "name": "Hand Decrease "
     },
     {
       "type": "ProduceExamEffectType_ExamBlockFix",
-      "name": "Фикс энергии "
+      "name": "Fixed Energy "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonChangeSpecifyMoreThan",
-      "name": "Отвлечен "
+      "name": "Distracted "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
-      "name": "Отличный настрой "
+      "name": "Excellent Shape "
     },
     {
       "type": "ProduceExamEffectType_StanceLock",
-      "name": "Фиксированное руководство "
+      "name": "Fixed Guideline "
     },
     {
       "type": "ProduceExamEffectType_ExamDebuffRecover",
-      "name": "Восстановление дебаффа "
+      "name": "Debuff Recovery "
     },
     {
       "type": "ProduceExamEffectType_ExamReviewReduce",
-      "name": "Снижение впечатления "
+      "name": "Good Impression Reduction "
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveReduce",
-      "name": "Снижение мотивации "
+      "name": "Motivation Decrease "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffReduce",
-      "name": "Снижение концентрации "
+      "name": "Focus Decrease "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffReduce",
-      "name": "Снижение хорошего настроя "
+      "name": "Good Shape Decrease "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
-      "name": "Снижение значения параметра урока "
+      "name": "Param Increase Amount Reduction "
     },
     {
       "type": "ProduceExamEffectType_ExamAddGrowEffect",
-      "name": "Рост "
+      "name": "Growth "
     },
     {
       "type": "ProduceExamEffectType_ExamOverPreservation",
-      "name": "Расслабленно "
+      "name": "Relaxed "
     },
     {
       "type": "ProduceExamEffectType_ExamEnthusiasticAdditive",
-      "name": "Дополнительный энтузиазм "
+      "name": "Additional Enthusiasm "
     },
     {
       "type": "ProduceExamEffectType_ExamEnthusiasticMultiple",
-      "name": "Увеличение энтузиазма "
+      "name": "Enthusiasm Increase "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerLessonMultipleAdditive",
-      "name": "Усиление полной силы "
+      "name": "Full Power Enhancement "
     },
     {
       "type": "ProduceExamEffectType_ExamConcentrationLessonMultipleAdditive",
-      "name": "Усиление уверенности "
+      "name": "Confidence Enhancement "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffAdditive",
-      "name": "Увеличение получения концентрации "
+      "name": "Increased Focus Gain "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditive",
-      "name": "Увеличение получения хорошего настроя "
+      "name": "Increased Good shape Gain "
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveAdditive",
-      "name": "Увеличение получения мотивации "
+      "name": "Increased Motivation Gain "
     },
     {
       "type": "ProduceExamEffectType_ExamReviewAdditive",
-      "name": "Увеличение получения впечатления "
+      "name": "Increased Good Impression Gain "
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointAdditive",
-      "name": "Увеличение получения очков полной силы "
+      "name": "Increased Full Power Point Gain "
     },
     {
       "type": "ProduceExamEffectType_ExamGrowEffectLessonAddAdditive",
-      "name": "Увеличение получения параметра урока "
+      "name": "Increased Param Gain Increase "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce",
-      "name": "Большое снижение "
+      "name": "Great decrease "
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",
-      "name": "Гордость "
+      "name": "Pride "
     },
     {
       "type": "ProduceExamEffectType_ExamReviewMultiple",
-      "name": "Усиление впечатления "
+      "name": "Good Impression Enhancement "
     },
     {
       "type": "ProduceExamEffectType_ExamEnthusiasticTurnAdd",
-      "name": "Продление энтузиазма "
+      "name": "Enthusiasm Extend "
     },
     {
       "type": "ProduceExamEffectType_ExamEffectTimerEndTurn",
-      "name": "Резерв активации "
+      "name": "Activation Reservation "
     },
     {
       "type": "ProduceExamEffectType_ExamReviewCountAdd",
-      "name": "Добавлено впечатление "
+      "name": "Good impression added "
     },
     {
       "type": "ProduceExamEffectType_ExamBuffConsumptionAdd",
-      "name": "Увеличенная стоимость усиленного состояния "
+      "name": "Increased Enhanced State Cost "
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
-      "name": "Дополнительное увеличение хорошего настроя"
+      "name": "Additional Good Shape Increase"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffAdditiveFix",
-      "name": "Дополнительное увеличение концентрации"
+      "name": "Additional Focus Increase"
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveAdditiveFix",
-      "name": "Дополнительное увеличение мотивации"
+      "name": "Additional Motivation Increase"
     },
     {
       "type": "ProduceExamEffectType_ExamReviewAdditiveFix",
-      "name": "Дополнительное увеличение впечатления"
+      "name": "Additional Good Impression Increase"
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointAdditiveFix",
-      "name": "Дополнительное увеличение очков полной силы"
+      "name": "Additional Full Power Point Increase"
     },
     {
       "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
-      "name": "Повтор"
+      "name": "Replay"
     }
   ]
 }
