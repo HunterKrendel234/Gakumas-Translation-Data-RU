@@ -51,22 +51,22 @@
     {
       "id": "Convert_001",
       "produceDescriptions": [],
-      "name": "Lesson "
+      "name": "Урок "
     },
     {
       "id": "Convert_002",
       "produceDescriptions": [],
-      "name": "Lesson "
+      "name": "Урок "
     },
     {
       "id": "Convert_ConditionThreshold",
       "produceDescriptions": [],
-      "name": "Lesson CLEAR "
+      "name": "Урок пройден"
     },
     {
       "id": "Convert_ConditionThreshold_NotClear",
       "produceDescriptions": [],
-      "name": "Lesson NOT CLEAR "
+      "name": "Урок не пройден"
     },
     {
       "id": "Convert_ConditionThreshold_Value_100",
@@ -91,22 +91,22 @@
     {
       "id": "Convert_StepLessonType_DanceLesson",
       "produceDescriptions": [],
-      "name": "【Dance Lesson/Dance Turn Only】"
+      "name": "【Урок танцев / Только ход танца】"
     },
     {
       "id": "Convert_StepLessonType_SpLesson",
       "produceDescriptions": [],
-      "name": "【SP Lesson Only】"
+      "name": "【Только SP-урок】"
     },
     {
       "id": "Convert_StepLessonType_VisualLesson",
       "produceDescriptions": [],
-      "name": "【Visual Lesson/Visual Turn Only】"
+      "name": "【Урок визуализации / Только ход визуала】"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
       "produceDescriptions": [],
-      "name": "【Vocal Lesson/Vocal Turn Only】"
+      "name": "【Урок вокала / Только ход вокала】"
     },
     {
       "id": "Description_ProduceCardIsInitial",
@@ -158,7 +158,7 @@
           "text": "gain-focused skill cards "
         }
       ],
-      "name": "Active skill card "
+      "name": "Карта активного навыка"
     },
     {
       "id": "Label_AggressiveAdd",
@@ -174,7 +174,7 @@
           "text": "Increases Motivation gain "
         }
       ],
-      "name": "Motivation Value Increase "
+      "name": "Повышение мотивации"
     },
     {
       "id": "Label_AggressiveReduce",
@@ -190,12 +190,12 @@
           "text": "Decreases Motivation gain "
         }
       ],
-      "name": "Motivation Value Decrease "
+      "name": "Снижение мотивации"
     },
     {
       "id": "Label_Audition",
       "produceDescriptions": [],
-      "name": "in Exams & Auditions, "
+      "name": "на экзаменах и прослушиваниях,"
     },
     {
       "id": "Label_AuditionNpcEnhance",
@@ -231,7 +231,7 @@
           "text": "Rival's score is increased "
         }
       ],
-      "name": "Rival's score "
+      "name": "Очки соперника"
     },
     {
       "id": "Label_AuditionNpcWeaken",
@@ -267,7 +267,7 @@
           "text": "Rival's score decreased "
         }
       ],
-      "name": "Rival's score "
+      "name": "Очки соперника"
     },
     {
       "id": "Label_BlockAdd",
@@ -353,7 +353,7 @@
           "text": "are not affected "
         }
       ],
-      "name": "Energy Gain Increase "
+      "name": "Увеличение прироста энергии"
     },
     {
       "id": "Label_BlockReduce",
@@ -439,7 +439,7 @@
           "text": "are not affected "
         }
       ],
-      "name": "Energy Gain Decrease "
+      "name": "Снижение прироста энергии"
     },
     {
       "id": "Label_BusinessProduceCard",
@@ -455,7 +455,7 @@
           "text": "Jobs where you can obtain upgraded Skill Cards "
         }
       ],
-      "name": "Commercial Facility "
+      "name": "Коммерческий объект"
     },
     {
       "id": "Label_BusinessProduceDrink",
@@ -471,7 +471,7 @@
           "text": "Jobs where you can obtain P-Drinks "
         }
       ],
-      "name": "Corporate Event Venue "
+      "name": "Площадка корпоративных мероприятий"
     },
     {
       "id": "Label_BusinessProducePoint",
@@ -487,7 +487,7 @@
           "text": "Jobs where you can obtain P-Points "
         }
       ],
-      "name": "Municipal Event Venue "
+      "name": "Площадка городских мероприятий"
     },
     {
       "id": "Label_BusinessStamina",
@@ -503,7 +503,7 @@
           "text": "Jobs that recover Stamina "
         }
       ],
-      "name": "Resort Facility "
+      "name": "Курортный объект "
     },
     {
       "id": "Label_CardDrawAdd",
@@ -519,7 +519,7 @@
           "text": "Draw count is increased "
         }
       ],
-      "name": "Draw Count Increase "
+      "name": "Увеличение количества взятых карт"
     },
     {
       "id": "Label_CardDrawReduce",
@@ -535,7 +535,7 @@
           "text": "Draw count is decreased "
         }
       ],
-      "name": "Draw Count Decrease "
+      "name": "Снижение количества взятых карт"
     },
     {
       "id": "Label_CardStatusEnchantChange",
@@ -551,7 +551,7 @@
           "text": "Change Growth "
         }
       ],
-      "name": "Change Growth "
+      "name": "Изменение роста"
     },
     {
       "id": "Label_CostAdd",
@@ -587,7 +587,7 @@
           "text": "costs are not affected "
         }
       ],
-      "name": "Cost up "
+      "name": "Увеличение стоимости"
     },
     {
       "id": "Label_CostAggressiveAdd",
@@ -623,7 +623,7 @@
           "text": "is increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Motivation Cost Increase "
+      "name": "Увеличение стоимости мотивации"
     },
     {
       "id": "Label_CostAggressiveReduce",
@@ -659,7 +659,7 @@
           "text": "is decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Motivation Cost Decrease "
+      "name": "Снижение стоимости мотивации"
     },
     {
       "id": "Label_CostBuffAdd",
@@ -675,7 +675,7 @@
           "text": "Enhancement costs required to use skill cards are increased\nDoes not affect costs for other enhancements "
         }
       ],
-      "name": "Upgraded State Cost Increase "
+      "name": "Увеличение стоимости улучшенного состояния"
     },
     {
       "id": "Label_CostBuffReduce",
@@ -691,7 +691,7 @@
           "text": "Enhancement cost required to use skill cards are decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Upgraded State Cost Decrease "
+      "name": "Снижение стоимости улучшенного состояния"
     },
     {
       "id": "Label_CostFullPowerPointAdd",
@@ -727,7 +727,7 @@
           "text": "is increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Full Power Point Cost Increase "
+      "name": "Увеличение стоимости очков полной силы"
     },
     {
       "id": "Label_CostFullPowerPointReduce",
@@ -763,7 +763,7 @@
           "text": "is decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Full Power Point Cost Decrease "
+      "name": "Снижение стоимости очков полной силы"
     },
     {
       "id": "Label_CostLessonBuffAdd",
@@ -799,7 +799,7 @@
           "text": "is increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Focus Cost Increase "
+      "name": "Увеличение стоимости концентрации"
     },
     {
       "id": "Label_CostLessonBuffReduce",
@@ -835,7 +835,7 @@
           "text": "is decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Focus Cost Decrease "
+      "name": "Снижение стоимости концентрации"
     },
     {
       "id": "Label_CostParameterBuffAdd",
@@ -871,7 +871,7 @@
           "text": "is increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Good Shape Cost Increase "
+      "name": "Увеличение стоимости хорошего настроя"
     },
     {
       "id": "Label_CostParameterBuffMultiplePerTurnAdd",
@@ -907,7 +907,7 @@
           "text": "is increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Excellent Shape Cost Increase "
+      "name": "Увеличение стоимости отличного настроя"
     },
     {
       "id": "Label_CostParameterBuffMultiplePerTurnReduce",
@@ -943,7 +943,7 @@
           "text": "is decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Excellent Shape Cost Decrease "
+      "name": "Снижение стоимости отличного настроя"
     },
     {
       "id": "Label_CostParameterBuffReduce",
@@ -979,7 +979,7 @@
           "text": "is decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Good Shape Cost Decrease "
+      "name": "Снижение стоимости хорошего настроя"
     },
     {
       "id": "Label_CostPenetrateAdd",
@@ -1015,7 +1015,7 @@
           "text": "is increased "
         }
       ],
-      "name": "Stamina usage cost increase "
+      "name": "Увеличение стоимости выносливости"
     },
     {
       "id": "Label_CostPenetrateReduce",
@@ -1051,7 +1051,7 @@
           "text": "is decreased "
         }
       ],
-      "name": "Stamina usage cost decrease "
+      "name": "Снижение стоимости выносливости"
     },
     {
       "id": "Label_CostReduce",
@@ -1087,7 +1087,7 @@
           "text": "costs are not affected "
         }
       ],
-      "name": "Cost down "
+      "name": "Снижение стоимости"
     },
     {
       "id": "Label_CostReviewAdd",
@@ -1123,7 +1123,7 @@
           "text": "is increased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Good Impression Cost "
+      "name": "Стоимость впечатления"
     },
     {
       "id": "Label_CostReviewReduce",
@@ -1159,7 +1159,7 @@
           "text": "is decreased\nDoes not affect costs from different enhanced states "
         }
       ],
-      "name": "Good Impression Cost Decrease "
+      "name": "Снижение стоимости впечатления"
     },
     {
       "id": "Label_EffectAdd",
@@ -1175,7 +1175,7 @@
           "text": "Effect Addition "
         }
       ],
-      "name": "Effect Addition "
+      "name": "Добавление эффекта"
     },
     {
       "id": "Label_EffectChange",
@@ -1191,7 +1191,7 @@
           "text": "Effect Replacement "
         }
       ],
-      "name": "Effect Replacement "
+      "name": "Замена эффекта"
     },
     {
       "id": "Label_EffectDelete",
@@ -1207,7 +1207,7 @@
           "text": "Effect Deletion "
         }
       ],
-      "name": "Effect Deletion "
+      "name": "Удаление эффекта"
     },
     {
       "id": "Label_EffectTimes",
@@ -1223,7 +1223,7 @@
           "text": "Without taking into account enhancements or debuffs, increases the target effect "
         }
       ],
-      "name": "Multiply "
+      "name": "Множитель"
     },
     {
       "id": "Label_ExamAddGrowEffect",
@@ -1259,7 +1259,7 @@
           "text": "Until the end, the performance of this skill card itself will change "
         }
       ],
-      "name": "Growth "
+      "name": "Рост "
     },
     {
       "id": "Label_ExamAggressiveAdditive",
@@ -1315,7 +1315,7 @@
           "text": ""
         }
       ],
-      "name": "Motivation Gain Increase "
+      "name": "Увеличение прироста мотивации"
     },
     {
       "id": "Label_ExamAggressiveAdditiveFix",
@@ -1371,7 +1371,7 @@
           "text": ""
         }
       ],
-      "name": "Additional Motivation Increase "
+      "name": "Дополнительное увеличение Мотивации "
     },
     {
       "id": "Label_ExamAggressiveReduce",
@@ -1397,7 +1397,7 @@
           "text": "is decreased by this "
         }
       ],
-      "name": "Motivation Decrease "
+      "name": "Снижение Мотивации"
     },
     {
       "id": "Label_ExamAntiDebuff",
@@ -1423,7 +1423,7 @@
           "text": ""
         }
       ],
-      "name": "Debuff Immunity "
+      "name": "Иммунитет к дебаффам"
     },
     {
       "id": "Label_ExamBlock",
@@ -1439,7 +1439,7 @@
           "text": "When skill cards or Trouble would decrease Stamina, this is decreased instead "
         }
       ],
-      "name": "Energy "
+      "name": "Энергия "
     },
     {
       "id": "Label_ExamBlockAddDown",
@@ -1475,7 +1475,7 @@
           "text": ""
         }
       ],
-      "name": "Anxiety "
+      "name": "Тревога"
     },
     {
       "id": "Label_ExamBlockAddDownRestriction",
@@ -1501,7 +1501,7 @@
           "text": ""
         }
       ],
-      "name": "Anxiety Immunity "
+      "name": "Иммунитет к беспокойству"
     },
     {
       "id": "Label_ExamBlockFix",
@@ -1537,7 +1537,7 @@
           "text": "is increased by this "
         }
       ],
-      "name": "Fixed Energy "
+      "name": "Фиксированная Энергия"
     },
     {
       "id": "Label_ExamBlockRestriction",
@@ -1573,7 +1573,7 @@
           "text": ""
         }
       ],
-      "name": "Energy Increase Disabled "
+      "name": "Повышение энергии отключено"
     },
     {
       "id": "Label_ExamBuffConsumptionAdd_Exam",
@@ -1599,7 +1599,7 @@
           "text": ""
         }
       ],
-      "name": "Increased Enhanced State Cost "
+      "name": "Увеличенная стоимость усиленного состояния"
     },
     {
       "id": "Label_ExamBuffConsumptionAdd_Produce",
@@ -1615,7 +1615,7 @@
           "text": "Enhanced State consumption as Skill Card cost is increased by 100% "
         }
       ],
-      "name": "Increased Enhanced State Cost "
+      "name": "Увеличенная стоимость усиленного состояния"
     },
     {
       "id": "Label_ExamCardCreateId",
@@ -1651,7 +1651,7 @@
           "text": "are removed at the end "
         }
       ],
-      "name": "Generation "
+      "name": "Генерация"
     },
     {
       "id": "Label_ExamCardDraw",
@@ -1667,7 +1667,7 @@
           "text": "Draw a skill card "
         }
       ],
-      "name": "Draw a skill card "
+      "name": "Взять карту навыка"
     },
     {
       "id": "Label_ExamCardDuplicate",
@@ -1703,7 +1703,7 @@
           "text": "are removed at the end "
         }
       ],
-      "name": "Duplicate "
+      "name": "Дубликат "
     },
     {
       "id": "Label_ExamCardPlayAggressive_Exam",
@@ -1749,7 +1749,7 @@
           "text": "increased "
         }
       ],
-      "name": "Motivation "
+      "name": "Мотивация "
     },
     {
       "id": "Label_ExamCardPlayAggressive_Produce",
@@ -1785,7 +1785,7 @@
           "text": "gain is increased by 1"
         }
       ],
-      "name": "Motivation "
+      "name": "Мотивация "
     },
     {
       "id": "Label_ExamCardSearchEffectPlayCountBuff",
@@ -1861,7 +1861,7 @@
           "text": ""
         }
       ],
-      "name": "Additional skill card activation "
+      "name": "Дополнительная активация карты навыка"
     },
     {
       "id": "Label_ExamCardSearchEffectPlayCountBuff_Produce",
@@ -1877,7 +1877,7 @@
           "text": "Activates the effect of the next skill card multiple times "
         }
       ],
-      "name": "Additional skill card activation "
+      "name": "Дополнительная активация карты навыка"
     },
     {
       "id": "Label_ExamCardStaminaConsumptionChange",
@@ -1893,7 +1893,7 @@
           "text": "exam_template利用"
         }
       ],
-      "name": "Stamina cost change "
+      "name": "Изменение стоимости выносливости"
     },
     {
       "id": "Label_ExamCardStaminaConsumptionDownSpecify",
@@ -1909,7 +1909,7 @@
           "text": "exam_template利用"
         }
       ],
-      "name": "Stamina cost decrease "
+      "name": "Снижение стоимости выносливости"
     },
     {
       "id": "Label_ExamCardUpgrade",
@@ -1935,7 +1935,7 @@
           "text": "has not yet ended: Skill card is upgraded "
         }
       ],
-      "name": "Upgraded During Lesson "
+      "name": "Улучшено во время Урока"
     },
     {
       "id": "Label_ExamConcentrationLessonMultipleAdditive",
@@ -2001,7 +2001,7 @@
           "text": "increased "
         }
       ],
-      "name": "Confidence Upgrade "
+      "name": "Повышение уверенности"
     },
     {
       "id": "Label_ExamConcentration_Exam",
@@ -2077,7 +2077,7 @@
           "text": "1 "
         }
       ],
-      "name": "Confidence "
+      "name": "Уверенность "
     },
     {
       "id": "Label_ExamConcentration_Produce",
@@ -2193,7 +2193,7 @@
           "text": "1 "
         }
       ],
-      "name": "Confidence "
+      "name": "Уверенность "
     },
     {
       "id": "Label_ExamDebuffRecover",
@@ -2209,7 +2209,7 @@
           "text": "Recover from debuff  "
         }
       ],
-      "name": "Debuff Recovery "
+      "name": "Снятие дебаффа"
     },
     {
       "id": "Label_ExamEffectTimer",
@@ -2245,7 +2245,7 @@
           "text": ""
         }
       ],
-      "name": "Delayed Activation "
+      "name": "Отложенная активация"
     },
     {
       "id": "Label_ExamEffectTimerEndTurn",
@@ -2281,7 +2281,7 @@
           "text": ""
         }
       ],
-      "name": "Delayed Activation "
+      "name": "Отложенная активация"
     },
     {
       "id": "Label_ExamEnthusiasticAdditive",
@@ -2337,7 +2337,7 @@
           "text": ""
         }
       ],
-      "name": "Enthusiasm Addition "
+      "name": "Добавление энтузиазма"
     },
     {
       "id": "Label_ExamEnthusiasticMultiple",
@@ -2393,7 +2393,7 @@
           "text": ""
         }
       ],
-      "name": "Enthusiasm Increase "
+      "name": "Увеличение Энтузиазма"
     },
     {
       "id": "Label_ExamEnthusiasticTurnAdd",
@@ -2429,7 +2429,7 @@
           "text": "Increases the remaining number of turns "
         }
       ],
-      "name": "Enthusiasm Extend "
+      "name": "Продление Энтузиазма"
     },
     {
       "id": "Label_ExamExtraTurn",
@@ -2455,7 +2455,7 @@
           "text": "number of remaining turns is increased"
         }
       ],
-      "name": "Extra Turn "
+      "name": "Дополнительный ход"
     },
     {
       "id": "Label_ExamFullPower",
@@ -2621,7 +2621,7 @@
           "text": "cannot be changed "
         }
       ],
-      "name": "Full Power "
+      "name": "Полная Сила "
     },
     {
       "id": "Label_ExamFullPowerLessonMultipleAdditive",
@@ -2687,7 +2687,7 @@
           "text": "increased "
         }
       ],
-      "name": "Full Power Upgrade "
+      "name": "Улучшение полной силы"
     },
     {
       "id": "Label_ExamFullPowerPoint",
@@ -2763,7 +2763,7 @@
           "text": "Change "
         }
       ],
-      "name": "Full Power points "
+      "name": "Очки полной силы"
     },
     {
       "id": "Label_ExamFullPowerPointAdditive",
@@ -2819,7 +2819,7 @@
           "text": ""
         }
       ],
-      "name": "Full Power Point Gain Increase "
+      "name": "Увеличение прироста очков полной силы"
     },
     {
       "id": "Label_ExamFullPowerPointAdditiveFix",
@@ -2875,7 +2875,7 @@
           "text": ""
         }
       ],
-      "name": "Additional Full Power Point Increase "
+      "name": "Дополнительное увеличение очков Полной Силы "
     },
     {
       "id": "Label_ExamFullPowerPointReduce",
@@ -2901,7 +2901,7 @@
           "text": "is decreased by this "
         }
       ],
-      "name": "Full Power Point Decrease "
+      "name": "Снижение очков Полной Силы"
     },
     {
       "id": "Label_ExamGetCardUpgrade",
@@ -2987,7 +2987,7 @@
           "text": ""
         }
       ],
-      "name": "Upgraded Generation "
+      "name": "Улучшенная генерация"
     },
     {
       "id": "Label_ExamGimmickEnthusiastic_Exam",
@@ -3073,7 +3073,7 @@
           "text": "is reset to 0 "
         }
       ],
-      "name": "Enthusiasm "
+      "name": "Энтузиазм"
     },
     {
       "id": "Label_ExamGimmickEnthusiastic_Produce",
@@ -3129,7 +3129,7 @@
           "text": "is reset to 0 "
         }
       ],
-      "name": "Enthusiasm "
+      "name": "Энтузиазм"
     },
     {
       "id": "Label_ExamGimmickLessonDebuff_Exam",
@@ -3185,7 +3185,7 @@
           "text": ""
         }
       ],
-      "name": "Stress "
+      "name": "Стресс "
     },
     {
       "id": "Label_ExamGimmickLessonDebuff_Produce",
@@ -3221,7 +3221,7 @@
           "text": "gain is decreased by 1 "
         }
       ],
-      "name": "Stress "
+      "name": "Стресс "
     },
     {
       "id": "Label_ExamGimmickParameterDebuff",
@@ -3257,7 +3257,7 @@
           "text": ""
         }
       ],
-      "name": "Bad Shape "
+      "name": "Плохая форма"
     },
     {
       "id": "Label_ExamGimmickPlayCardLimit",
@@ -3293,7 +3293,7 @@
           "text": ""
         }
       ],
-      "name": "Unavailable "
+      "name": "Недоступно "
     },
     {
       "id": "Label_ExamGimmickPlayCardLimit_Exam",
@@ -3329,7 +3329,7 @@
           "text": ""
         }
       ],
-      "name": "Skill Cards Unusable "
+      "name": "Карты навыков недоступны"
     },
     {
       "id": "Label_ExamGimmickPlayCardLimit_Produce",
@@ -3355,7 +3355,7 @@
           "text": ""
         }
       ],
-      "name": "Skill Cards Unusable "
+      "name": "Карты навыков недоступны"
     },
     {
       "id": "Label_ExamGimmickSleepy_Exam",
@@ -3401,7 +3401,7 @@
           "text": "decreased "
         }
       ],
-      "name": "Timid "
+      "name": "Робкий"
     },
     {
       "id": "Label_ExamGimmickSleepy_Produce",
@@ -3437,7 +3437,7 @@
           "text": "gain is decreased by 1"
         }
       ],
-      "name": "Timid "
+      "name": "Робкий"
     },
     {
       "id": "Label_ExamGimmickSlump",
@@ -3473,7 +3473,7 @@
           "text": ""
         }
       ],
-      "name": "Slump "
+      "name": "Спад "
     },
     {
       "id": "Label_ExamGimmickStartTurnCardDrawDown_Exam",
@@ -3519,7 +3519,7 @@
           "text": ""
         }
       ],
-      "name": "Hand Decrease "
+      "name": "Уменьшение руки "
     },
     {
       "id": "Label_ExamGimmickStartTurnCardDrawDown_Produce",
@@ -3535,7 +3535,7 @@
           "text": "For each Hand Decrease, draw 1 less skill card at the start of your turn "
         }
       ],
-      "name": "Hand Decrease "
+      "name": "Уменьшение руки "
     },
     {
       "id": "Label_ExamGimmickTiredFix_Exam",
@@ -3581,7 +3581,7 @@
           "text": ""
         }
       ],
-      "name": "Fatigue "
+      "name": "Усталость"
     },
     {
       "id": "Label_ExamGimmickTiredFix_Produce",
@@ -3597,7 +3597,7 @@
           "text": "For every 1 Muscle Pain, your stamina is reduced by 1 at the start of your turn "
         }
       ],
-      "name": "Fatigue "
+      "name": "Усталость"
     },
     {
       "id": "Label_ExamGrowEffectLessonAddAdditive",
@@ -3653,7 +3653,7 @@
           "text": ""
         }
       ],
-      "name": "Param Gain Increase Boost"
+      "name": "Усиление прироста параметров"
     },
     {
       "id": "Label_ExamHandGraveCountCardDraw",
@@ -3669,7 +3669,7 @@
           "text": "Replace Hand "
         }
       ],
-      "name": "Replace Hand "
+      "name": "Замена руки"
     },
     {
       "id": "Label_ExamHandHold",
@@ -3685,12 +3685,12 @@
           "text": "When the turn ends: cards are not discarded "
         }
       ],
-      "name": "Carry Over Hand "
+      "name": "Перенос руки"
     },
     {
       "id": "Label_ExamLesson",
       "produceDescriptions": [],
-      "name": "Param "
+      "name": "Парам. "
     },
     {
       "id": "Label_ExamLessonBuffAdditive",
@@ -3746,7 +3746,7 @@
           "text": ""
         }
       ],
-      "name": "Focus Gain Increase "
+      "name": "Увеличение прироста концентрации"
     },
     {
       "id": "Label_ExamLessonBuffAdditiveFix",
@@ -3802,7 +3802,7 @@
           "text": ""
         }
       ],
-      "name": "Additional Focus Increase "
+      "name": "Дополнительное увеличение Концентрации "
     },
     {
       "id": "Label_ExamLessonBuffMultiple",
@@ -3878,7 +3878,7 @@
           "text": ""
         }
       ],
-      "name": "Focus Enhance "
+      "name": "Усиление Концентрации"
     },
     {
       "id": "Label_ExamLessonBuffReduce",
@@ -3904,7 +3904,7 @@
           "text": "is decreased by this "
         }
       ],
-      "name": "Focus Decrease "
+      "name": "Снижение Концентрации"
     },
     {
       "id": "Label_ExamLessonBuff_Exam",
@@ -3950,7 +3950,7 @@
           "text": "increased "
         }
       ],
-      "name": "Focus "
+      "name": "Концентрация "
     },
     {
       "id": "Label_ExamLessonBuff_Produce",
@@ -3986,7 +3986,7 @@
           "text": "gain is increased by 1 "
         }
       ],
-      "name": "Focus "
+      "name": "Концентрация "
     },
     {
       "id": "Label_ExamLessonChangeSpecifyLessThan",
@@ -4072,7 +4072,7 @@
           "text": ""
         }
       ],
-      "name": "Param Increase Value Change "
+      "name": "Изменение значения увеличения параметра"
     },
     {
       "id": "Label_ExamLessonChangeSpecifyMoreThan",
@@ -4158,7 +4158,7 @@
           "text": ""
         }
       ],
-      "name": "Distracted "
+      "name": "Рассеянность"
     },
     {
       "id": "Label_ExamLessonFix",
@@ -4194,7 +4194,7 @@
           "text": "is increased by this "
         }
       ],
-      "name": "Fixed Param "
+      "name": "Фиксированный параметр"
     },
     {
       "id": "Label_ExamLessonValueMultiple",
@@ -4260,7 +4260,7 @@
           "text": ") "
         }
       ],
-      "name": "Param Increase Amount "
+      "name": "Величина увеличения параметров"
     },
     {
       "id": "Label_ExamLessonValueMultipleDependReviewOrAggressive",
@@ -4336,7 +4336,7 @@
           "text": ""
         }
       ],
-      "name": "Pride "
+      "name": "Гордость "
     },
     {
       "id": "Label_ExamLessonValueMultipleDown",
@@ -4402,7 +4402,7 @@
           "text": ") "
         }
       ],
-      "name": "Param Increase Amount "
+      "name": "Величина увеличения параметров"
     },
     {
       "id": "Label_ExamOverPreservation_Exam",
@@ -4688,7 +4688,7 @@
           "text": "removal effects do not activate "
         }
       ],
-      "name": "Relaxed "
+      "name": "Расслабление "
     },
     {
       "id": "Label_ExamOverPreservation_Produce",
@@ -5004,7 +5004,7 @@
           "text": "removal effects do not activate "
         }
       ],
-      "name": "Relaxed "
+      "name": "Расслабление "
     },
     {
       "id": "Label_ExamPanic",
@@ -5030,7 +5030,7 @@
           "text": ""
         }
       ],
-      "name": "Whimsy "
+      "name": "Каприз"
     },
     {
       "id": "Label_ExamParameterBuff",
@@ -5066,7 +5066,7 @@
           "text": ""
         }
       ],
-      "name": "Good Shape "
+      "name": "Хороший настрой "
     },
     {
       "id": "Label_ExamParameterBuffAdditive",
@@ -5122,7 +5122,7 @@
           "text": ""
         }
       ],
-      "name": "Good Shape Gain Increase "
+      "name": "Увеличение прироста хорошего настроя"
     },
     {
       "id": "Label_ExamParameterBuffAdditiveFix",
@@ -5178,7 +5178,7 @@
           "text": ""
         }
       ],
-      "name": "Additional Good Shape Increase "
+      "name": "Дополнительное увеличение Хорошего настроя "
     },
     {
       "id": "Label_ExamParameterBuffMultiplePerTurn",
@@ -5254,7 +5254,7 @@
           "text": ""
         }
       ],
-      "name": "Excellent Shape "
+      "name": "Отличный настрой "
     },
     {
       "id": "Label_ExamParameterBuffMultiplePerTurnReduce",
@@ -5280,7 +5280,7 @@
           "text": "is decreased by this "
         }
       ],
-      "name": "Great decrease "
+      "name": "Сильное снижение "
     },
     {
       "id": "Label_ExamParameterBuffReduce",
@@ -5306,7 +5306,7 @@
           "text": "is decreased by this "
         }
       ],
-      "name": "Good Shape Decrease "
+      "name": "Снижение Хорошего настроя"
     },
     {
       "id": "Label_ExamPlayableValueAdd_Exam",
@@ -5332,7 +5332,7 @@
           "text": ""
         }
       ],
-      "name": "Skill card uses increase "
+      "name": "Увеличение использования карт навыков"
     },
     {
       "id": "Label_ExamPlayableValueAdd_Produce",
@@ -5348,7 +5348,7 @@
           "text": "Can use an additional skill card this turn "
         }
       ],
-      "name": "Skill card uses increase "
+      "name": "Увеличение использования карт навыков"
     },
     {
       "id": "Label_ExamPlayableValueHold",
@@ -5374,7 +5374,7 @@
           "text": ""
         }
       ],
-      "name": "Use Count Carryover "
+      "name": "Перенос количества использований"
     },
     {
       "id": "Label_ExamPreservation_Exam",
@@ -5530,7 +5530,7 @@
           "text": "+1 "
         }
       ],
-      "name": "Preservation "
+      "name": "Сбережение "
     },
     {
       "id": "Label_ExamPreservation_Produce",
@@ -5726,7 +5726,7 @@
           "text": "+1 "
         }
       ],
-      "name": "Preservation "
+      "name": "Сбережение "
     },
     {
       "id": "Label_ExamReviewAdditive",
@@ -5782,7 +5782,7 @@
           "text": ""
         }
       ],
-      "name": "Good Impression Gain Increase "
+      "name": "Увеличение прироста впечатления"
     },
     {
       "id": "Label_ExamReviewAdditiveFix",
@@ -5838,7 +5838,7 @@
           "text": ""
         }
       ],
-      "name": "Additional Good Impression Increase "
+      "name": "Дополнительное увеличение Впечатления "
     },
     {
       "id": "Label_ExamReviewCountAdd_Exam",
@@ -5924,7 +5924,7 @@
           "text": ""
         }
       ],
-      "name": "Additional Good Impression activation "
+      "name": "Дополнительная активация впечатления"
     },
     {
       "id": "Label_ExamReviewCountAdd_Produce",
@@ -5980,7 +5980,7 @@
           "text": "gain count is increased\n"
         }
       ],
-      "name": "Additional Good Impression activation "
+      "name": "Дополнительная активация впечатления"
     },
     {
       "id": "Label_ExamReviewMultiple",
@@ -6056,7 +6056,7 @@
           "text": ""
         }
       ],
-      "name": "Good Impression Enhancement "
+      "name": "Усиление Впечатления"
     },
     {
       "id": "Label_ExamReviewReduce",
@@ -6082,7 +6082,7 @@
           "text": "is decreased by this "
         }
       ],
-      "name": "Good Impression Decrease "
+      "name": "Снижение впечатления"
     },
     {
       "id": "Label_ExamReview_Exam",
@@ -6138,7 +6138,7 @@
           "text": " is increased. When the turn starts: Good Impression is decreased by 1 "
         }
       ],
-      "name": "Good Impression "
+      "name": "Впечатление "
     },
     {
       "id": "Label_ExamReview_Produce",
@@ -6174,7 +6174,7 @@
           "text": "is increased by 1. When the turn starts: Good Impression is decreased by 1 "
         }
       ],
-      "name": "Good Impression "
+      "name": "Впечатление "
     },
     {
       "id": "Label_ExamSearchPlayCardStaminaConsumptionChange",
@@ -6190,7 +6190,7 @@
           "text": "exam_template利用"
         }
       ],
-      "name": "Stamina cost change "
+      "name": "Изменение стоимости выносливости"
     },
     {
       "id": "Label_ExamSearchPlayCardValueBuff",
@@ -6206,7 +6206,7 @@
           "text": "exam_template利用"
         }
       ],
-      "name": "Card Effect Increase "
+      "name": "Усиление эффекта карты"
     },
     {
       "id": "Label_ExamStaminaConsumptionAdd",
@@ -6232,7 +6232,7 @@
           "text": ""
         }
       ],
-      "name": "Stamina cost increase "
+      "name": "Увеличение стоимости выносливости"
     },
     {
       "id": "Label_ExamStaminaConsumptionAddDown",
@@ -6258,7 +6258,7 @@
           "text": ""
         }
       ],
-      "name": "Stamina cost increase effect decrease "
+      "name": "Снижение эффекта увеличения стоимости выносливости"
     },
     {
       "id": "Label_ExamStaminaConsumptionAddFix",
@@ -6304,7 +6304,7 @@
           "text": ""
         }
       ],
-      "name": "Stamina cost addition "
+      "name": "Увеличение стоимости выносливости"
     },
     {
       "id": "Label_ExamStaminaConsumptionDown",
@@ -6330,7 +6330,7 @@
           "text": ""
         }
       ],
-      "name": "Stamina cost decrease "
+      "name": "Снижение стоимости выносливости"
     },
     {
       "id": "Label_ExamStaminaConsumptionDownAdd",
@@ -6356,7 +6356,7 @@
           "text": ""
         }
       ],
-      "name": "Stamina cost decrease effect increase "
+      "name": "Усиление эффекта снижения стоимости выносливости"
     },
     {
       "id": "Label_ExamStaminaConsumptionDownFix",
@@ -6402,12 +6402,12 @@
           "text": ""
         }
       ],
-      "name": "Stamina cost reduction "
+      "name": "Снижение стоимости выносливости"
     },
     {
       "id": "Label_ExamStaminaDamage",
       "produceDescriptions": [],
-      "name": "Stamina Decrease "
+      "name": "Снижение выносливости "
     },
     {
       "id": "Label_ExamStaminaRecoverAdd",
@@ -6443,12 +6443,12 @@
           "text": "increased "
         }
       ],
-      "name": "Increased Stamina Recovery Effect "
+      "name": "Увеличенный эффект восстановления Выносливости"
     },
     {
       "id": "Label_ExamStaminaRecoverFix",
       "produceDescriptions": [],
-      "name": "Stamina Recovery "
+      "name": "Восстановление выносливости "
     },
     {
       "id": "Label_ExamStaminaRecoverRestriction",
@@ -6464,7 +6464,7 @@
           "text": "Stamina will not be recovered "
         }
       ],
-      "name": "Stamina Recovery Disabled "
+      "name": "Восстановление Выносливости отключено"
     },
     {
       "id": "Label_ExamStaminaReduceChange",
@@ -6500,7 +6500,7 @@
           "text": ""
         }
       ],
-      "name": "Reduced Stamina usage "
+      "name": "Сниженный расход выносливости"
     },
     {
       "id": "Label_ExamStaminaReduceFix",
@@ -6526,7 +6526,7 @@
           "text": "is ignored, consumes Stamina directly "
         }
       ],
-      "name": "Stamina usage "
+      "name": "Расход выносливости"
     },
     {
       "id": "Label_ExamStaminaThresholdAddRestriction",
@@ -6552,7 +6552,7 @@
           "text": ""
         }
       ],
-      "name": "Stamina cost increase immunity"
+      "name": "Иммунитет к увеличению стоимости выносливости"
     },
     {
       "id": "Label_ExamStanceReset",
@@ -6608,7 +6608,7 @@
           "text": "] are reset "
         }
       ],
-      "name": "Stance Removal "
+      "name": "Снятие стойки"
     },
     {
       "id": "Label_ExamStatusEnchant",
@@ -6624,7 +6624,7 @@
           "text": "exam_template利用"
         }
       ],
-      "name": "Ongoing Effect "
+      "name": "Длительный эффект"
     },
     {
       "id": "Label_ExamStatusEnchantEncore",
@@ -6690,7 +6690,7 @@
           "text": "While active, when the specified condition is met, reuse this card once per turn (does not consume Skill Card cost) "
         }
       ],
-      "name": "Replay "
+      "name": "Повтор "
     },
     {
       "id": "Label_ExamUplifting_Exam",
@@ -6746,7 +6746,7 @@
           "text": "increased. When stamina is decreased: Excitement is decreased by 1 "
         }
       ],
-      "name": "Excitement "
+      "name": "Воодушевление "
     },
     {
       "id": "Label_ExamUplifting_Produce",
@@ -6782,7 +6782,7 @@
           "text": "is increased by 1. When Stamina is decreased: Excitement is decreased by 1 "
         }
       ],
-      "name": "Excitement "
+      "name": "Воодушевление "
     },
     {
       "id": "Label_FullPowerPointAdd",
@@ -6868,7 +6868,7 @@
           "text": "are not affected "
         }
       ],
-      "name": "Full Power Point Increase "
+      "name": "Увеличение очков Полной Силы"
     },
     {
       "id": "Label_FullPowerPointReduce",
@@ -6954,7 +6954,7 @@
           "text": "are not affected "
         }
       ],
-      "name": "Full Power Point Decrease "
+      "name": "Снижение очков Полной Силы"
     },
     {
       "id": "Label_HighScoreRushGold",
@@ -6970,7 +6970,7 @@
           "text": "An item obtainable in Kunio Juo's Idol enhancement Month〜Twinkling of the Stars〜 Can be used in the event gacha."
         }
       ],
-      "name": "Starlight "
+      "name": "Звездный свет "
     },
     {
       "id": "Label_InitialAdd",
@@ -6986,7 +6986,7 @@
           "text": "Start Hand Effect Get "
         }
       ],
-      "name": "Start Hand Effect Get "
+      "name": "Получение эффекта начальной руки"
     },
     {
       "id": "Label_LessonAdd",
@@ -7072,7 +7072,7 @@
           "text": "are not affected "
         }
       ],
-      "name": "Param Value "
+      "name": "Значение параметра"
     },
     {
       "id": "Label_LessonBonus",
@@ -7088,7 +7088,7 @@
           "text": "Increase parameter gains from Lessons, Self-Lessons, Public Lessons, Exams, and Auditions "
         }
       ],
-      "name": "Param Bonus "
+      "name": "Бонус параметра"
     },
     {
       "id": "Label_LessonBuffAdd",
@@ -7104,7 +7104,7 @@
           "text": "Focus gain is increased "
         }
       ],
-      "name": "Focus Value Increase "
+      "name": "Увеличение значения Концентрации"
     },
     {
       "id": "Label_LessonBuffReduce",
@@ -7120,7 +7120,7 @@
           "text": "Focus gain is decreased "
         }
       ],
-      "name": "Focus Value Decrease "
+      "name": "Снижение значения Концентрации"
     },
     {
       "id": "Label_LessonCountAdd",
@@ -7206,7 +7206,7 @@
           "text": "are not affected "
         }
       ],
-      "name": "Param Increase Count "
+      "name": "Кол-во улучшений пар-ра"
     },
     {
       "id": "Label_LessonCountReduce",
@@ -7292,7 +7292,7 @@
           "text": "are not affected "
         }
       ],
-      "name": "Param Increase Count "
+      "name": "Кол-во улучшений пар-ра"
     },
     {
       "id": "Label_LessonDependBlockAdd",
@@ -7308,7 +7308,7 @@
           "text": "Energy-based Param Multiplier Increase "
         }
       ],
-      "name": "Energy-based Param Multiplier Increase "
+      "name": "Увеличение множителя параметров на основе Энергии"
     },
     {
       "id": "Label_LessonDependExamCardPlayAggressiveAdd",
@@ -7324,7 +7324,7 @@
           "text": "Motivation-based Param Multiplier Increase "
         }
       ],
-      "name": "Motivation-based Param Multiplier Increase "
+      "name": "Увеличение множителя параметров на основе Мотивации"
     },
     {
       "id": "Label_LessonDependExamReviewAdd",
@@ -7340,7 +7340,7 @@
           "text": "Good Impression-based Param Multiplier Increase "
         }
       ],
-      "name": "Good Impression-based Param Multiplier Increase "
+      "name": "Увеличение множителя параметров на основе Впечатления"
     },
     {
       "id": "Label_LessonReduce",
@@ -7426,7 +7426,7 @@
           "text": "are not affected "
         }
       ],
-      "name": "Param Value "
+      "name": "Значение параметра"
     },
     {
       "id": "Label_LessonSupport",
@@ -7442,12 +7442,12 @@
           "text": "Upgraded until the end of the turn "
         }
       ],
-      "name": "Temporary Upgrade "
+      "name": "Временное улучшение"
     },
     {
       "id": "Label_MemoryAbilityIsUniqueActivation",
       "produceDescriptions": [],
-      "name": "Can't Activate Multiple Times "
+      "name": "Нельзя активировать несколько раз"
     },
     {
       "id": "Label_MentalSkillCard",
@@ -7473,7 +7473,7 @@
           "text": "Skill cards that primarily provide support effects "
         }
       ],
-      "name": "Mental Skill Card "
+      "name": "Карта ментального навыка "
     },
     {
       "id": "Label_MoveEffectTrigger",
@@ -7489,7 +7489,7 @@
           "text": "Activates when this Skill Card is moved to the specified location\n(activates up to once per turn) "
         }
       ],
-      "name": "On Move Effect "
+      "name": "Эффект при перемещении"
     },
     {
       "id": "Label_NoDeckDuplication",
@@ -7505,7 +7505,7 @@
           "text": "Cannot have more than one, and cannot be additionally obtained or copied "
         }
       ],
-      "name": "No dupe "
+      "name": "Без дублей "
     },
     {
       "id": "Label_OnHitEffect",
@@ -7541,7 +7541,7 @@
           "text": "excluding) "
         }
       ],
-      "name": "Direct Effect "
+      "name": "Прямой эффект"
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnAdd",
@@ -7557,7 +7557,7 @@
           "text": "Excellent Shape gain is increased "
         }
       ],
-      "name": "Excellent Shape Value Increase "
+      "name": "Увеличение значения Отличного настроя"
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnReduce",
@@ -7573,7 +7573,7 @@
           "text": "Excellent Shape gain is decreased "
         }
       ],
-      "name": "Excellent Shape Value Decrease "
+      "name": "Снижение значения Отличного настроя"
     },
     {
       "id": "Label_ParameterBuffTurnAdd",
@@ -7589,7 +7589,7 @@
           "text": "Good Shape gain is increased"
         }
       ],
-      "name": "Good Shape Value Increase "
+      "name": "Увеличение значения Хорошего настроя"
     },
     {
       "id": "Label_ParameterBuffTurnReduce",
@@ -7605,7 +7605,7 @@
           "text": "Good Shape gain is decreased"
         }
       ],
-      "name": "Good Shape Value Decrease "
+      "name": "Снижение значения Хорошего настроя"
     },
     {
       "id": "Label_PlayEffectTriggerChange",
@@ -7621,7 +7621,7 @@
           "text": "Effect Activation Condition Replacement "
         }
       ],
-      "name": "Effect Activation Condition Replacement "
+      "name": "Замена условия активации эффекта"
     },
     {
       "id": "Label_PlayMovePositionTypeChange",
@@ -7637,7 +7637,7 @@
           "text": "Post-use Destination Change "
         }
       ],
-      "name": "Post-use Destination Change "
+      "name": "Изменение места назначения после использования"
     },
     {
       "id": "Label_PlayTriggerChange",
@@ -7653,7 +7653,7 @@
           "text": "Use Condition Replacement "
         }
       ],
-      "name": "Use Condition Replacement "
+      "name": "Замена условия использования"
     },
     {
       "id": "Label_ProduceCardChange",
@@ -7669,7 +7669,7 @@
           "text": "Transforms a skill card into a different skill card and adds it to the deck until the end of the production (Upgrade level is inherited) "
         }
       ],
-      "name": "Change "
+      "name": "Изменить "
     },
     {
       "id": "Label_ProduceCardChangeSelect",
@@ -7685,7 +7685,7 @@
           "text": "Change a selected Skill Card into a different Skill Card and add it to the deck until the end of produce (inherits enhancement stage) "
         }
       ],
-      "name": "Select Change "
+      "name": "Изменение выбора"
     },
     {
       "id": "Label_ProduceCardDelete",
@@ -7701,7 +7701,7 @@
           "text": "Removes a skill card from the deck until the end of the production "
         }
       ],
-      "name": "Delete "
+      "name": "Удалить "
     },
     {
       "id": "Label_ProduceCardDuplicate",
@@ -7717,7 +7717,7 @@
           "text": "Copies a skill card and adds it to the deck until the end of the production "
         }
       ],
-      "name": "Copy "
+      "name": "Копировать "
     },
     {
       "id": "Label_ProduceCardExclude",
@@ -7733,7 +7733,7 @@
           "text": "Banned skill cards will not appear again for the rest of the production "
         }
       ],
-      "name": "Skill Card Ban "
+      "name": "Запрет Карты Навыка"
     },
     {
       "id": "Label_ProduceCardGrowEffect",
@@ -7759,7 +7759,7 @@
           "text": "has not yet ended: Skill card ability is changed\nDoes not affect skill cards without the target effect "
         }
       ],
-      "name": "[Growth Support] "
+      "name": "[Поддержка роста]"
     },
     {
       "id": "Label_ProduceCardMovePositionType_Lost",
@@ -7805,32 +7805,32 @@
           "text": "Move to Exclude until finished "
         }
       ],
-      "name": "Once During Lesson "
+      "name": "Один раз за Урок"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckFirst",
       "produceDescriptions": [],
-      "name": "Top of the deck "
+      "name": "Верх колоды"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckLast",
       "produceDescriptions": [],
-      "name": "Bottom of the deck "
+      "name": "Низ колоды"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckRandom",
       "produceDescriptions": [],
-      "name": "Random Position in Deck "
+      "name": "Случайная позиция в колоде"
     },
     {
       "id": "Label_ProduceCardPositionType_Grave",
       "produceDescriptions": [],
-      "name": "Discard "
+      "name": "Выбросить "
     },
     {
       "id": "Label_ProduceCardPositionType_Hand",
       "produceDescriptions": [],
-      "name": "Hand "
+      "name": "Ведущая рука "
     },
     {
       "id": "Label_ProduceCardPositionType_Hold",
@@ -7866,12 +7866,12 @@
           "text": "Can store up to 2 skill cards. If there are more than 2 skill cards, the oldest cards are sent to the discard pile "
         }
       ],
-      "name": "Reserve "
+      "name": "Резерв"
     },
     {
       "id": "Label_ProduceCardPositionType_Lost",
       "produceDescriptions": [],
-      "name": "Banished "
+      "name": "Удалено"
     },
     {
       "id": "Label_ProduceCardUpgrade",
@@ -7887,7 +7887,7 @@
           "text": "Enhances a skill card until the end of the production "
         }
       ],
-      "name": "Upgrade "
+      "name": "Улучшение "
     },
     {
       "id": "Label_ProducePlanType0",
@@ -7903,7 +7903,7 @@
           "text": "Common to all plans "
         }
       ],
-      "name": "Common "
+      "name": "Обычный "
     },
     {
       "id": "Label_ProducePlanType1",
@@ -7959,7 +7959,7 @@
           "text": "] are used to develop in this plan "
         }
       ],
-      "name": "Sense "
+      "name": "План Чутьё "
     },
     {
       "id": "Label_ProducePlanType2",
@@ -8015,7 +8015,7 @@
           "text": "] are used to develop in this plan "
         }
       ],
-      "name": "Logic "
+      "name": "План Логика "
     },
     {
       "id": "Label_ProducePlanType3",
@@ -8101,7 +8101,7 @@
           "text": "] are used to develop in this plan "
         }
       ],
-      "name": "Anomaly "
+      "name": "План Аномалия "
     },
     {
       "id": "Label_ProduceSkillPlanType1",
@@ -8137,7 +8137,7 @@
           "text": "Activated only when producing an idol"
         }
       ],
-      "name": "【Sense Only】"
+      "name": "【Только План Чутьё】"
     },
     {
       "id": "Label_ProduceSkillPlanType2",
@@ -8173,7 +8173,7 @@
           "text": "Activated only when producing an idol"
         }
       ],
-      "name": "【Logic Only】"
+      "name": "【Только План Логика】"
     },
     {
       "id": "Label_ProduceSkillPlanType3",
@@ -8209,7 +8209,7 @@
           "text": "Activated only when producing an idol"
         }
       ],
-      "name": "【Anomaly Only】"
+      "name": "【Только План Аномалия】"
     },
     {
       "id": "Label_ProduceStepType_EventSchool",
@@ -8225,7 +8225,7 @@
           "text": "School activities include the following schedules:\nClasses, Jobs "
         }
       ],
-      "name": "School Activities "
+      "name": "Школьные мероприятия"
     },
     {
       "id": "Label_ProduceStepType_Present",
@@ -8241,32 +8241,32 @@
           "text": "Presents could be gained from:\nAllowance, Gift "
         }
       ],
-      "name": "Present "
+      "name": "Подарок "
     },
     {
       "id": "Label_ProduceType_FirstStar",
       "produceDescriptions": [],
-      "name": "Hajime Only "
+      "name": "Только Хадзимэ"
     },
     {
       "id": "Label_ProduceType_HatsuboshiIdolFestival",
       "produceDescriptions": [],
-      "name": "H.I.F Only "
+      "name": "Только H.I.F"
     },
     {
       "id": "Label_ProduceType_HatsuboshiIdolFestival_Final",
       "produceDescriptions": [],
-      "name": "H.I.F Finals Only "
+      "name": "Только финал H.I.F"
     },
     {
       "id": "Label_ProduceType_HatsuboshiIdolFestival_Selection",
       "produceDescriptions": [],
-      "name": "H.I.F Qualifier Only "
+      "name": "Только отборочные H.I.F"
     },
     {
       "id": "Label_ProduceType_NextIdolAudition",
       "produceDescriptions": [],
-      "name": "N.I.A Only "
+      "name": "Только N.I.A"
     },
     {
       "id": "Label_ReviewAdd",
@@ -8352,7 +8352,7 @@
           "text": "are not affected "
         }
       ],
-      "name": "Good Impression Value Increase "
+      "name": "Увеличение значения Впечатления"
     },
     {
       "id": "Label_ReviewReduce",
@@ -8438,7 +8438,7 @@
           "text": "are not affected "
         }
       ],
-      "name": "Good Impression Value Decrease "
+      "name": "Снижение значения Впечатления"
     },
     {
       "id": "Label_ShopProduceCardPriceDiscountMultiple",
@@ -8474,7 +8474,7 @@
           "text": "is discounted "
         }
       ],
-      "name": "Consultation Skill Card Discount "
+      "name": "Скидка на Карту Навыка консультации"
     },
     {
       "id": "Label_StaminaConsumptionAddTurnAdd",
@@ -8490,7 +8490,7 @@
           "text": "Stamina cost increase gain is decreased "
         }
       ],
-      "name": "Stamina cost gain decrease "
+      "name": "Снижение накопления стоимости выносливости"
     },
     {
       "id": "Label_StaminaConsumptionAddTurnReduce",
@@ -8506,7 +8506,7 @@
           "text": "Stamina cost increase gain is increased "
         }
       ],
-      "name": "Stamina cost gain increase "
+      "name": "Увеличение накопления стоимости выносливости"
     },
     {
       "id": "Label_StaminaConsumptionDownTurnAdd",
@@ -8522,7 +8522,7 @@
           "text": "Stamina cost decrease gain is increased "
         }
       ],
-      "name": "Stamina cost reduction increase "
+      "name": "Увеличение снижения стоимости выносливости"
     },
     {
       "id": "Label_StaminaConsumptionDownTurnReduce",
@@ -8538,7 +8538,7 @@
           "text": "Stamina cost decrease gain is decreased "
         }
       ],
-      "name": "Stamina cost reduction decrease "
+      "name": "Снижение эффекта уменьшения стоимости выносливости"
     },
     {
       "id": "Label_Stance",
@@ -8614,7 +8614,7 @@
           "text": "] are stances, each has its own effects  "
         }
       ],
-      "name": "Stance "
+      "name": "Стойка "
     },
     {
       "id": "Label_StanceLock",
@@ -8730,7 +8730,7 @@
           "text": ""
         }
       ],
-      "name": "Fixed Stance "
+      "name": "Фиксированная стойка"
     },
     {
       "id": "Label_StyleDot",
@@ -8771,7 +8771,7 @@
           "text": ", like by preventing usage"
         }
       ],
-      "name": "Trouble Card "
+      "name": "Карта Проблем"
     }
   ]
 }

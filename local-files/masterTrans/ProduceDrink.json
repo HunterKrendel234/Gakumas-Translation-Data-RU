@@ -66,7 +66,7 @@
           "text": ""
         }
       ],
-      "name": "Hatsuboshi Water"
+      "name": "Вода Hatsuboshi"
     },
     {
       "id": "pdrink_00-1-004",
@@ -112,7 +112,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Oolong Tea"
+      "name": "Чай улун"
     },
     {
       "id": "pdrink_00-2-001",
@@ -178,7 +178,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Mixed Smoothie"
+      "name": "Смузи-микс"
     },
     {
       "id": "pdrink_00-2-003",
@@ -224,7 +224,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Recovery Drink"
+      "name": "Восстанавливающий напиток"
     },
     {
       "id": "pdrink_00-2-004",
@@ -300,7 +300,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Fresh Vinegar"
+      "name": "Свежий уксус"
     },
     {
       "id": "pdrink_00-2-008",
@@ -466,7 +466,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Boost Extract"
+      "name": "Экстракт бодрости"
     },
     {
       "id": "pdrink_00-2-009",
@@ -552,7 +552,7 @@
           "text": "turns</nobr> "
         }
       ],
-      "name": "Powerful Herbal Remedy Drink "
+      "name": "Мощный травяной напиток"
     },
     {
       "id": "pdrink_00-2-010",
@@ -768,7 +768,7 @@
           "text": "Draw a skill card "
         }
       ],
-      "name": "Senburi Soda "
+      "name": "Содовая с сэнбури"
     },
     {
       "id": "pdrink_00-3-001",
@@ -814,7 +814,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Hatsuboshi Whey Protein"
+      "name": "Сывороточный протеин Hatsuboshi"
     },
     {
       "id": "pdrink_00-3-005",
@@ -860,7 +860,7 @@
           "text": "Generate "
         }
       ],
-      "name": "Hatsuboshi Special Greens"
+      "name": "Особый зеленый напиток Hatsuboshi"
     },
     {
       "id": "pdrink_00-3-013",
@@ -896,7 +896,7 @@
           "text": "Use Enhanced Unique Skill Cards (SSR) at no cost "
         }
       ],
-      "name": "Hatsuboshi Special Greens X"
+      "name": "Особый зеленый напиток  Hatsuboshi"
     },
     {
       "id": "pdrink_01-1-002",
@@ -942,7 +942,7 @@
           "text": "turns</nobr> "
         }
       ],
-      "name": "Vitamin Drink"
+      "name": "Витаминный напиток"
     },
     {
       "id": "pdrink_01-1-003",
@@ -988,7 +988,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Iced Coffee"
+      "name": "Холодный кофе"
     },
     {
       "id": "pdrink_01-2-005",
@@ -1084,7 +1084,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Stamina Explosion Drink"
+      "name": "Напиток «Взрыв выносливости»"
     },
     {
       "id": "pdrink_01-3-002",
@@ -1150,7 +1150,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Hatsuboshi Macchiato"
+      "name": "Макиато Hatsuboshi"
     },
     {
       "id": "pdrink_01-3-004",
@@ -1226,7 +1226,7 @@
           "text": "Upgrade during Lesson "
         }
       ],
-      "name": "Hatsuboshi Energy Boost "
+      "name": "Энергетический заряд Hatsuboshi"
     },
     {
       "id": "pdrink_01-3-012",
@@ -1422,7 +1422,7 @@
           "text": "turns</nobr> "
         }
       ],
-      "name": "Hatsuboshi Black Vinegar"
+      "name": "Черный уксус Hatsuboshi"
     },
     {
       "id": "pdrink_02-1-006",
@@ -1468,7 +1468,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Rooibos Tea"
+      "name": "Чай ройбуш"
     },
     {
       "id": "pdrink_02-1-008",
@@ -1514,7 +1514,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Hot Coffee"
+      "name": "Горячий кофе"
     },
     {
       "id": "pdrink_02-2-006",
@@ -1640,7 +1640,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Trendy Herbal Tea"
+      "name": "Модный травяной чай"
     },
     {
       "id": "pdrink_02-3-006",
@@ -1706,7 +1706,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Hatsuboshi Tea"
+      "name": "Чай Hatsuboshi"
     },
     {
       "id": "pdrink_02-3-007",
@@ -1772,7 +1772,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Hatsuboshi Blend"
+      "name": "Смесь Hatsuboshi"
     },
     {
       "id": "pdrink_02-3-010",
@@ -1968,7 +1968,7 @@
           "text": "turns</nobr> "
         }
       ],
-      "name": "SP Hatsuboshi Extract"
+      "name": "Экстракт SP Hatsuboshi"
     },
     {
       "id": "pdrink_03-1-009",
@@ -2044,7 +2044,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Ginger Ale"
+      "name": "Имбирный эль"
     },
     {
       "id": "pdrink_03-1-010",
@@ -2120,7 +2120,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Roasted Green Tea"
+      "name": "Жареный зеленый чай"
     },
     {
       "id": "pdrink_03-2-007",
@@ -2196,7 +2196,7 @@
           "text": "Stage change "
         }
       ],
-      "name": "Hot Green Tea"
+      "name": "Горячий зеленый чай"
     },
     {
       "id": "pdrink_03-3-008",
@@ -2262,7 +2262,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "Hatsuboshi Chai"
+      "name": "Пряный чай Hatsuboshi"
     },
     {
       "id": "pdrink_03-3-009",
@@ -2348,7 +2348,7 @@
           "text": "turns</nobr> "
         }
       ],
-      "name": "Hatsuboshi Super Soda"
+      "name": "Супер-содовая Hatsuboshi"
     },
     {
       "id": "pdrink_03-3-011",
@@ -2474,7 +2474,7 @@
           "text": "turns</nobr> "
         }
       ],
-      "name": "Hatsuboshi Soup"
+      "name": "Суп Hatsuboshi"
     }
   ]
 }
