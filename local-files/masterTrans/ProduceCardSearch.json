@@ -23,7 +23,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "Active Skill Card "
+          "text": "Карта активного навыка "
         }
       ]
     },
@@ -38,7 +38,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Full Power "
+          "text": "Полная Сила "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48,7 +48,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Points "
+          "text": "Очки "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -58,7 +58,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "Active Skill Card "
+          "text": "Карта активного навыка "
         }
       ]
     },
@@ -73,7 +73,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "from the deck or discard pile "
+          "text": "из колоды или сброса "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -83,7 +83,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "Active Skill Card "
+          "text": "Карта активного навыка "
         }
       ]
     },
@@ -98,7 +98,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Top 3 Active Skill Cards from the Deck "
+          "text": "3 верхние Карты Навыка из колоды "
         }
       ]
     },
@@ -113,7 +113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Hand "
+          "text": "В руке "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -123,7 +123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "Active Skill Card "
+          "text": "Карта активного навыка "
         }
       ]
     },
@@ -138,7 +138,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Exclusion "
+          "text": "В исключении "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -148,7 +148,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "Active Skill Card "
+          "text": "Карта активного навыка "
         }
       ]
     },
@@ -163,7 +163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Карта Проблем"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -173,7 +173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skills other than excluded "
+          "text": "Навыки, кроме исключенных "
         }
       ]
     },
@@ -188,7 +188,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "Active Skill Card "
+          "text": "Карта активного навыка "
         }
       ]
     },
@@ -203,7 +203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "Active Skill Card "
+          "text": "Карта активного навыка "
         }
       ]
     },
@@ -218,7 +218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "Active Skill Card "
+          "text": "Карта активного навыка "
         }
       ]
     },
@@ -233,7 +233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Cards in Deck "
+          "text": "Карты Навыка в колоде "
         }
       ]
     },
@@ -248,7 +248,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card "
+          "text": "Карта Навыка "
         }
       ]
     },
@@ -273,7 +273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Card "
+          "text": "1 карта "
         }
       ]
     },
@@ -298,7 +298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -333,7 +333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -368,7 +368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -403,7 +403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -438,7 +438,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -473,7 +473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -508,7 +508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -543,7 +543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -553,7 +553,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-act-0_043",
-          "text": "Showmanship Basics "
+          "text": "Основы шоуменства "
         }
       ]
     },
@@ -578,7 +578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Card "
+          "text": "1 карта "
         }
       ]
     },
@@ -603,7 +603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -638,7 +638,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -673,7 +673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -708,7 +708,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -743,7 +743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "or "
+          "text": "или "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -768,7 +768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Энергия "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -778,7 +778,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -793,7 +793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Motivation "
+          "text": "Мотивация "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -803,7 +803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -818,7 +818,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Confidence "
+          "text": "Уверенность "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -828,7 +828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -843,7 +843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Confidence "
+          "text": "Уверенность "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -863,7 +863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Preservation "
+          "text": "Сбережение "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -873,7 +873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -888,7 +888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Full Power "
+          "text": "Полная Сила "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -898,7 +898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -913,7 +913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Full Power "
+          "text": "Полная Сила "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -933,7 +933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Preservation "
+          "text": "Сбережение "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -943,7 +943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -958,7 +958,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Концентрация "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -968,7 +968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -983,7 +983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Хороший настрой "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -993,7 +993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -1008,7 +1008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Preservation "
+          "text": "Сбережение "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1018,7 +1018,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -1033,7 +1033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Впечатление "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1043,7 +1043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -1058,7 +1058,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Idol-exclusive skill cards "
+          "text": "Эксклюзивные Карты Навыка айдола "
         }
       ]
     },
@@ -1073,7 +1073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_211",
-          "text": "Burning Blue Flames "
+          "text": "Пылающее синее пламя"
         }
       ]
     },
@@ -1103,7 +1103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_084",
-          "text": "Beyond the Crossing "
+          "text": "За чертой "
         }
       ]
     },
@@ -1118,7 +1118,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_116",
-          "text": "Rock-Paper-Scissors "
+          "text": "Камень-ножницы-бумага "
         }
       ]
     },
@@ -1133,7 +1133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_135",
-          "text": "Towards the sun "
+          "text": "Навстречу солнцу"
         }
       ]
     },
@@ -1148,7 +1148,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_144",
-          "text": "Decorate Magic "
+          "text": "Магия украшений "
         }
       ]
     },
@@ -1163,7 +1163,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_163",
-          "text": "Overflowing Feelings "
+          "text": "Переполняющие чувства "
         }
       ]
     },
@@ -1178,7 +1178,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_175",
-          "text": "Always by your side "
+          "text": "Всегда рядом с тобой"
         }
       ]
     },
@@ -1193,7 +1193,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_197",
-          "text": "Reaching out my hand "
+          "text": "Протягивая руку"
         }
       ]
     },
@@ -1208,7 +1208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_245",
-          "text": "I Am the Wind!"
+          "text": "Я — ветер!"
         }
       ]
     },
@@ -1223,7 +1223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card with \"Basic\" in its Name "
+          "text": "Карта Навыка со словом «Базовый» в названии "
         }
       ]
     },
@@ -1238,7 +1238,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Cards in the Deck or Discard Pile "
+          "text": "Карты Навыка в колоде или сбросе "
         }
       ]
     },
@@ -1253,7 +1253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In the Deck or Discard Pile "
+          "text": "В колоде или сбросе "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1273,7 +1273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Card "
+          "text": "1 карта "
         }
       ]
     },
@@ -1288,7 +1288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "from the deck or discard pile "
+          "text": "из колоды или сброса "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1298,7 +1298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Confidence "
+          "text": "Уверенность "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1308,7 +1308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -1323,7 +1323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In the Deck or Discard Pile "
+          "text": "В колоде или сбросе "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1333,7 +1333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Концентрация "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1343,7 +1343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -1358,7 +1358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "from the deck or discard pile "
+          "text": "из колоды или сброса "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1368,7 +1368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Preservation "
+          "text": "Сбережение "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1378,7 +1378,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -1393,7 +1393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Unique Idol Skill Card from the Deck or Discard Pile "
+          "text": "1 уникальная Карта Навыка айдола из колоды или сброса "
         }
       ]
     },
@@ -1408,7 +1408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In the Deck or Discard Pile "
+          "text": "В колоде или сбросе "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1418,7 +1418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_209",
-          "text": "The Now as a Result "
+          "text": "Настоящее как результат "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1428,7 +1428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Card "
+          "text": "1 карта "
         }
       ]
     },
@@ -1443,7 +1443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "from the deck or discard pile "
+          "text": "из колоды или сброса "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1453,7 +1453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-acc-0_002",
-          "text": "Trouble "
+          "text": "Проблема "
         }
       ]
     },
@@ -1468,7 +1468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Skill Card from the Deck "
+          "text": "1 Карта Навыка из колоды "
         }
       ]
     },
@@ -1483,7 +1483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card at the Top of the Deck "
+          "text": "Карта Навыка сверху колоды "
         }
       ]
     },
@@ -1498,7 +1498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Top 5 Skill Cards from the Deck "
+          "text": "5 верхних Карт Навыка из колоды "
         }
       ]
     },
@@ -1513,7 +1513,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Hand "
+          "text": "В руке "
         }
       ]
     },
@@ -1528,7 +1528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Skill Card in Hand "
+          "text": "1 Карта Навыка в руке "
         }
       ]
     },
@@ -1543,7 +1543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2 Skill Cards in Hand "
+          "text": "2 Карты Навыка в руке "
         }
       ]
     },
@@ -1558,7 +1558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "3 Skill Cards in Hand "
+          "text": "3 Карты Навыка в руке "
         }
       ]
     },
@@ -1573,7 +1573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Hand "
+          "text": "В руке "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1583,7 +1583,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-00-acc-0_002",
-          "text": "Trouble "
+          "text": "Проблема "
         }
       ]
     },
@@ -1598,7 +1598,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In hand "
+          "text": "В руке "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1608,7 +1608,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-3_213",
-          "text": "Natural Charm "
+          "text": "Естественное обаяние"
         }
       ]
     },
@@ -1623,7 +1623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "On Hold "
+          "text": "В ожидании "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1633,7 +1633,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Cards in "
+          "text": "Карты Навыка в "
         }
       ]
     },
@@ -1648,7 +1648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "On Hold "
+          "text": "В ожидании "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1658,7 +1658,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2 Skill Cards in "
+          "text": "2 Карты Навыка в "
         }
       ]
     },
@@ -1673,7 +1673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "On Hold "
+          "text": "В ожидании "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1683,7 +1683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In "
+          "text": "В "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1693,7 +1693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Full Power "
+          "text": "Полная Сила "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1703,7 +1703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -1718,7 +1718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Cards in Exclusion "
+          "text": "Карты Навыка в исключении "
         }
       ]
     },
@@ -1733,7 +1733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Exclusion "
+          "text": "В исключении "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1743,7 +1743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-3_249",
-          "text": "You're My Prey"
+          "text": "Ты — моя добыча"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1753,7 +1753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Card "
+          "text": "1 карта "
         }
       ]
     },
@@ -1768,7 +1768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Unique Idol Skill Card in Exclusion "
+          "text": "1 уникальная Карта Навыка айдола в исключении "
         }
       ]
     },
@@ -1783,7 +1783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards in Exclusion with stamina cost of 4 or higher "
+          "text": "Карты Навыка в исключении со стоимостью выносливости 4 или выше "
         }
       ]
     },
@@ -1798,7 +1798,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Exclusion "
+          "text": "В исключении "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1808,7 +1808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-3_164",
-          "text": "Birth of a Dark Hero "
+          "text": "Рождение темного героя "
         }
       ]
     },
@@ -1823,7 +1823,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Exclusion "
+          "text": "В исключении "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1833,7 +1833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_104",
-          "text": "Flying Once Again "
+          "text": "Взлетая вновь "
         }
       ]
     },
@@ -1848,7 +1848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Exclusion "
+          "text": "В исключении "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1858,7 +1858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_190",
-          "text": "Surpass Me (Beyond) "
+          "text": "Превосходя меня (Дальше)"
         }
       ]
     },
@@ -1873,7 +1873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Exclusion "
+          "text": "В исключении "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1883,7 +1883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_144",
-          "text": "Decorate Magic "
+          "text": "Магия украшений "
         }
       ]
     },
@@ -1898,7 +1898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "Mental Skill Card "
+          "text": "Карта ментального навыка "
         }
       ]
     },
@@ -1913,7 +1913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In the Deck or Discard Pile "
+          "text": "В колоде или сбросе "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1923,7 +1923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "Mental Skill Card "
+          "text": "Карта ментального навыка "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1933,7 +1933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 Card "
+          "text": "1 карта "
         }
       ]
     },
@@ -1948,7 +1948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In Hand "
+          "text": "В руке "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1958,7 +1958,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "Mental Skill Card "
+          "text": "Карта ментального навыка "
         }
       ]
     },
@@ -1973,7 +1973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "Mental Skill Card "
+          "text": "Карта ментального навыка "
         }
       ]
     },
@@ -1988,7 +1988,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "Mental Skill Card "
+          "text": "Карта ментального навыка "
         }
       ]
     },
@@ -2003,7 +2003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Random in hand"
+          "text": "Случайная в руке"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -2013,7 +2013,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "Mental Skill Card "
+          "text": "Карта ментального навыка "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2023,7 +2023,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1 (SR) card"
+          "text": "1 карта (SR)"
         }
       ]
     },
@@ -2038,7 +2038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "Mental Skill Card "
+          "text": "Карта ментального навыка "
         }
       ]
     },
@@ -2053,7 +2053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card "
+          "text": "Карта Навыка "
         }
       ]
     },
@@ -2068,7 +2068,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skills other than excluded "
+          "text": "Навыки, кроме исключенных "
         }
       ]
     },
@@ -2083,7 +2083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Exists outside of Exclusion "
+          "text": "Существует вне исключения "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2093,7 +2093,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_146",
-          "text": "Mild Fever Nostalgia"
+          "text": "Ностальгия с лёгким жаром"
         }
       ]
     },
@@ -2108,7 +2108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProducePlanType1",
-          "text": "Sense "
+          "text": "План Чутьё "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2118,7 +2118,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card "
+          "text": "Карта Навыка "
         }
       ]
     },
@@ -2133,7 +2133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProducePlanType2",
-          "text": "Logic "
+          "text": "План Логика "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2143,7 +2143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card "
+          "text": "Карта Навыка "
         }
       ]
     },
@@ -2158,7 +2158,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProducePlanType3",
-          "text": "Anomaly "
+          "text": "План Аномалия "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2168,7 +2168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card "
+          "text": "Карта Навыка "
         }
       ]
     },
@@ -2183,7 +2183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card "
+          "text": "Карта Навыка "
         }
       ]
     },
@@ -2198,7 +2198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card with Stamina Cost of 6 or More "
+          "text": "Карта Навыка со стоимостью выносливости 6 или выше "
         }
       ]
     },
@@ -2273,7 +2273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-3_006",
-          "text": "National Idol "
+          "text": "Национальный айдол "
         }
       ]
     },
@@ -2333,7 +2333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-3_002",
-          "text": "I Am a Star "
+          "text": "Я — звезда "
         }
       ]
     },
@@ -2378,7 +2378,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Энергия "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2388,7 +2388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -2403,7 +2403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Motivation "
+          "text": "Мотивация "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2413,7 +2413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -2428,7 +2428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Confidence "
+          "text": "Уверенность "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2438,7 +2438,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -2453,7 +2453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Full Power "
+          "text": "Полная Сила "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2463,7 +2463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -2478,7 +2478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Концентрация "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2488,7 +2488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -2503,7 +2503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffMultiplePerTurn",
-          "text": "Excellent shape "
+          "text": "Отличный настрой "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2513,7 +2513,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -2528,7 +2528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Хороший настрой "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2538,7 +2538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -2553,7 +2553,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Preservation "
+          "text": "Сбережение "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2563,7 +2563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -2578,7 +2578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Впечатление "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2588,7 +2588,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -2603,7 +2603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "Reduced Stamina usage "
+          "text": "Сниженный расход выносливости"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2613,7 +2613,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -2628,7 +2628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "Stamina Recovery "
+          "text": "Восстановление выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2638,7 +2638,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -2653,7 +2653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Idol-exclusive skill cards "
+          "text": "Эксклюзивные Карты Навыка айдола "
         }
       ]
     },
@@ -2668,7 +2668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Self "
+          "text": "Сам "
         }
       ]
     },
@@ -2683,7 +2683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards with an original stamina cost of 4 or higher "
+          "text": "Карты Навыка с базовой стоимостью выносливости 4 или выше "
         }
       ]
     },
@@ -2698,7 +2698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-1_058",
-          "text": "First Reward "
+          "text": "Первая награда "
         }
       ]
     },
@@ -2713,7 +2713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-3_066",
-          "text": "Adrenaline Rush "
+          "text": "Адреналиновый всплеск"
         }
       ]
     },
@@ -2728,7 +2728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-3_150",
-          "text": "World's Bravest "
+          "text": "Храбрейшая в мире "
         }
       ]
     },
@@ -2743,7 +2743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-2_034",
-          "text": "Production Plan "
+          "text": "План производства "
         }
       ]
     },
@@ -2803,7 +2803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card in Hand (R) "
+          "text": "Карта Навыка в руке (R) "
         }
       ]
     },
@@ -2818,7 +2818,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards (R) "
+          "text": "Карты Навыка (R) "
         }
       ]
     },
@@ -2833,7 +2833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2 Random Skill Cards in Hand (R) "
+          "text": "2 случайные Карты Навыка в руке (R) "
         }
       ]
     },
@@ -2848,7 +2848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards (R, SR) that are excluded "
+          "text": "Исключенные Карты Навыка (R, SR) "
         }
       ]
     },
@@ -2863,7 +2863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card (R or higher) "
+          "text": "Карта Навыка (R или выше) "
         }
       ]
     },
@@ -2878,7 +2878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Upgraded Skill Card "
+          "text": "Улучшенная Карта Навыка "
         }
       ]
     },
@@ -2893,7 +2893,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card with \"Basic\" in its Name "
+          "text": "Карта Навыка со словом «Базовый» в названии "
         }
       ]
     },
@@ -2908,7 +2908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card with \"Basic\" in its Name "
+          "text": "Карта Навыка со словом «Базовый» в названии "
         }
       ]
     },
@@ -2923,7 +2923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card with \"Basic\" in its Name "
+          "text": "Карта Навыка со словом «Базовый» в названии "
         }
       ]
     },
@@ -2938,7 +2938,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card with \"Basic\" in its Name "
+          "text": "Карта Навыка со словом «Базовый» в названии "
         }
       ]
     },
@@ -2953,7 +2953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card with \"Basic\" in its Name "
+          "text": "Карта Навыка со словом «Базовый» в названии "
         }
       ]
     },
@@ -2968,7 +2968,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card with \"Basic\" in its Name "
+          "text": "Карта Навыка со словом «Базовый» в названии "
         }
       ]
     },
@@ -2983,7 +2983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardCreateId",
-          "text": "Generate "
+          "text": "Создать "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2993,7 +2993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Upgraded Unique Skill Cards (SSR) "
+          "text": "Улучшенные уникальные Карты Навыка (SSR) "
         }
       ]
     },
@@ -3008,7 +3008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardCreateId",
-          "text": "Generate "
+          "text": "Создать "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3018,7 +3018,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Upgraded Unique Skill Cards (SSR) "
+          "text": "Улучшенные уникальные Карты Навыка (SSR) "
         }
       ]
     },
@@ -3033,7 +3033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Upgraded Skill Card (SSR) "
+          "text": "Улучшенная Карта Навыка (SSR) "
         }
       ]
     },
@@ -3048,7 +3048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards (SR) in Exclusion "
+          "text": "Карты Навыка (SR) в исключении "
         }
       ]
     },
@@ -3063,7 +3063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards (SR, SSR) in Exclusion "
+          "text": "Карты Навыка (SR, SSR) в исключении "
         }
       ]
     },
@@ -3078,7 +3078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards (SR) "
+          "text": "Карты Навыка (SR) "
         }
       ]
     },
@@ -3093,7 +3093,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards (SSR) "
+          "text": "Карты Навыка (SSR) "
         }
       ]
     },
@@ -3108,7 +3108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards (SSR) in the deck or discard pile "
+          "text": "Карты Навыка (SSR) в колоде или сбросе "
         }
       ]
     },
@@ -3123,7 +3123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards (SSR) in Exclusion "
+          "text": "Карты Навыка (SSR) в исключении "
         }
       ]
     },
@@ -3138,7 +3138,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards (SSR) "
+          "text": "Карты Навыка (SSR) "
         }
       ]
     },
@@ -3153,7 +3153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "3 random Skill Cards (SSR) from the deck or discard pile "
+          "text": "3 случайные Карты Навыка (SSR) из колоды или сброса "
         }
       ]
     },
@@ -3168,7 +3168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill cards (SSR) "
+          "text": "Карты Навыка (SSR) "
         }
       ]
     },
@@ -3183,7 +3183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Skill Card "
+          "text": "Карта Навыка "
         }
       ]
     },
@@ -3198,7 +3198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Self "
+          "text": "Сам "
         }
       ]
     },
@@ -3213,7 +3213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Self "
+          "text": "Сам "
         }
       ]
     },
@@ -3288,7 +3288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-3_006",
-          "text": "National Idol "
+          "text": "Национальный айдол "
         }
       ]
     },
@@ -3333,7 +3333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-men-3_002",
-          "text": "I Am a Star "
+          "text": "Я — звезда "
         }
       ]
     },
@@ -3363,7 +3363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "Energy "
+          "text": "Энергия "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3373,7 +3373,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -3388,7 +3388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "Motivation "
+          "text": "Мотивация "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3398,7 +3398,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -3413,7 +3413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "Confidence "
+          "text": "Уверенность "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3423,7 +3423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -3438,7 +3438,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPower",
-          "text": "Full Power "
+          "text": "Полная Сила "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3448,7 +3448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -3463,7 +3463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLessonBuff_Produce",
-          "text": "Focus "
+          "text": "Концентрация "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3473,7 +3473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -3488,7 +3488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffMultiplePerTurn",
-          "text": "Excellent shape "
+          "text": "Отличный настрой "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3498,7 +3498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -3513,7 +3513,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "Good Shape "
+          "text": "Хороший настрой "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3523,7 +3523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -3538,7 +3538,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "Preservation "
+          "text": "Сбережение "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3548,7 +3548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -3563,7 +3563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReview_Produce",
-          "text": "Good Impression "
+          "text": "Впечатление "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3573,7 +3573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -3588,7 +3588,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "Stamina Recovery "
+          "text": "Восстановление выносливости "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3598,7 +3598,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "cards "
+          "text": "карт "
         }
       ]
     },
@@ -3613,7 +3613,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Idol-exclusive skill cards "
+          "text": "Эксклюзивные Карты Навыка айдола "
         }
       ]
     },
@@ -3973,7 +3973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-ido-3_213",
-          "text": "Natural Charm "
+          "text": "Естественное обаяние"
         }
       ]
     },
@@ -4093,7 +4093,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-01-men-2_034",
-          "text": "Production Plan "
+          "text": "План производства "
         }
       ]
     },
@@ -4483,7 +4483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_176",
-          "text": "Here I am "
+          "text": "А вот и я "
         }
       ]
     },
@@ -4498,7 +4498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-ido-3_211",
-          "text": "Burning Blue Flames "
+          "text": "Пылающее синее пламя"
         }
       ]
     },
@@ -5188,7 +5188,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-ido-3_197",
-          "text": "Reaching out my hand "
+          "text": "Протягивая руку"
         }
       ]
     },
@@ -5338,7 +5338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-men-2_075",
-          "text": "Motivation"
+          "text": "Мотивация"
         }
       ]
     },
@@ -5428,7 +5428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Карта Проблем"
         }
       ]
     },
@@ -5443,7 +5443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In the Deck or Discard Pile "
+          "text": "В колоде или сбросе "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -5453,7 +5453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Карта Проблем"
         }
       ]
     },
@@ -5468,7 +5468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "In the Deck "
+          "text": "В колоде "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -5478,7 +5478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Карта Проблем"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5488,7 +5488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2 Cards "
+          "text": "2 карты "
         }
       ]
     },
@@ -5503,7 +5503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Trouble Card "
+          "text": "Карта Проблем"
         }
       ]
     },
@@ -5518,7 +5518,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Exists outside of Exclusion "
+          "text": "Существует вне исключения "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -5528,7 +5528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "Trouble Card "
+          "text": "Карта Проблем"
         }
       ]
     },
@@ -5543,7 +5543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Trouble Card "
+          "text": "Карта Проблем"
         }
       ]
     }
