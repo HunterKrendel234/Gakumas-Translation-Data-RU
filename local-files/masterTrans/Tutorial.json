@@ -92,7 +92,7 @@
       "texts": [
         "Clearing the lesson goals grants you rewards useful for production."
       ],
-      "title": "Основы урока"
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -142,7 +142,7 @@
       "texts": [
         "When stamina is low, recover by selecting [Rest] to prepare for lessons and exams."
       ],
-      "title": "Выносливость и отдых"
+      "title": "Stamina and Rest"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -166,7 +166,7 @@
       "texts": [
         "Compete with other idols, and placing in the top 3 will mean passing the exam."
       ],
-      "title": "Основы экзамена"
+      "title": "Exam Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -270,7 +270,7 @@
       "texts": [
         "In exams, score bonuses are applied each turn. The higher the parameters, the greater the score bonuses."
       ],
-      "title": "Основы экзамена"
+      "title": "Exam Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -329,7 +329,7 @@
       "texts": [
         "The live shows you can participate in are determined by production results and idol growth."
       ],
-      "title": "О концертах"
+      "title": "About Lives"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -355,7 +355,7 @@
       "texts": [
         "The performance of the Memories depends on the evaluation of the production."
       ],
-      "title": "О записях"
+      "title": "About Memories"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -392,7 +392,7 @@
       "texts": [
         "When your Producer Level increases, new skill cards and P-Drinks are unlocked, appearing during production."
       ],
-      "title": "Ур. Продюсера"
+      "title": "Producer Lv"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -420,7 +420,7 @@
         "To pass exams, improving the idol’s parameters is key. Train their parameters to prepare. ",
         "Each exam has specific criteria. Training to meet these criteria makes passing easier."
       ],
-      "title": "Цель продюсирования"
+      "title": "Purpose of Produce"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -575,7 +575,7 @@
         "",
         "Using skill cards requires stamina. When Energy is available, it’s consumed instead of stamina."
       ],
-      "title": "Основы урока"
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -756,7 +756,7 @@
         "You can check detailed information on active effects during lessons by tapping the icons. ",
         "P-items activate effects when conditions are met. Starting P-items depend on the produced idol."
       ],
-      "title": "Основы урока"
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -821,7 +821,7 @@
         "To pass exams, improving the idol’s parameters is key. Train their parameters to prepare. ",
         "Each exam has specific criteria. Training to meet these criteria makes passing easier."
       ],
-      "title": "Цель продюсирования"
+      "title": "Purpose of Produce"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -976,7 +976,7 @@
         "",
         "Using skill cards requires stamina. When Energy is available, it’s consumed instead of stamina."
       ],
-      "title": "Основы урока"
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -1144,7 +1144,7 @@
         "You can check detailed information on active effects during lessons by tapping the icons. ",
         "P-items activate effects when conditions are met. Starting P-items depend on the produced idol."
       ],
-      "title": "Основы урока"
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -1209,7 +1209,7 @@
         "To pass exams, improving the idol’s parameters is key. Train their parameters to prepare. ",
         "Each exam has specific criteria. Training to meet these criteria makes passing easier."
       ],
-      "title": "Цель продюсирования"
+      "title": "Purpose of Produce"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -1364,7 +1364,7 @@
         "",
         "Using skill cards requires stamina. When Energy is available, it’s consumed instead of stamina."
       ],
-      "title": "Основы урока"
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -1532,7 +1532,7 @@
         "You can check detailed information on active effects during lessons by tapping the icons. ",
         "P-items activate effects when conditions are met. Starting P-items depend on the produced idol."
       ],
-      "title": "Основы урока"
+      "title": "Lesson Basics"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -2336,7 +2336,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Сложность «Хадзимэ»: Легенда"
+      "title": "\"Hajime\" Difficulty: Legend"
     },
     {
       "tutorialType": "TutorialType_ProduceHatsuboshiIdolFestivalTop",
@@ -2564,7 +2564,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Интенсивный месяц айдолов Кунио Дзюо 〜Мерцание звёзд〜"
+      "title": "Kunio Juo's Idol Intensive Month 〜Twinkling of the Stars〜"
     },
     {
       "tutorialType": "TutorialType_StoryEvent",
@@ -2619,7 +2619,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Региональный тур"
+      "title": "Regional Tour"
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionMaster",
@@ -2633,7 +2633,7 @@
         " The “Master” difficulty for “N.I.A” has been unlocked.\nIt is more difficult than “Pro,” but parameters increase more easily, and fan votes are easier to gather.\nOnly idols who have reached Bond Lv 20 can attempt it. ",
         " Challenge P Items are P Items that can be selected before starting Produce on “Master” difficulty.\nTheir effects increase the amount of parameters gained from the Audition Bonus when clearing auditions.\n"
       ],
-      "title": "N.I.A Мастер"
+      "title": "N.I.A Master"
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionMasterRanking",
@@ -2644,7 +2644,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Рейтинг N.I.A Мастер"
+      "title": "N.I.A Master Ranking"
     },
     {
       "tutorialType": "TutorialType_Tour",
@@ -2677,7 +2677,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Рейтинг продюсера Сезон 3"
+      "title": "Producer Ranking Season 3"
     },
     {
       "tutorialType": "TutorialType_ProduceCardConvert",
@@ -2688,7 +2688,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Переключатель Карт Навыка"
+      "title": "Skill Card Switch"
     },
     {
       "tutorialType": "TutorialType_CompetitionPreOpen",
@@ -2713,7 +2713,7 @@
       "navigationPositionType": "TutorialNavigationPositionType_Unknown",
       "tutorialProduceCommandType": "TutorialProduceCommandType_Unknown",
       "texts": [],
-      "title": "Значок"
+      "title": "Badge"
     },
     {
       "tutorialType": 216,

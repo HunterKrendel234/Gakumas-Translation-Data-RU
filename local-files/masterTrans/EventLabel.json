@@ -7,55 +7,55 @@
   "data": [
     {
       "eventType": "EventType_MissionDailyRelease",
-      "name": "Особые миссии"
+      "name": "Special Missions"
     },
     {
       "eventType": "EventType_MissionPanel",
-      "name": "Миссии по карточкам"
+      "name": "Panel Missions"
     },
     {
       "eventType": "EventType_ProduceHighScore",
-      "name": "Месяц усиления айдолов Кунио Дзюо"
+      "name": "Kunio Juo's Idol Enhancement Month"
     },
     {
       "eventType": "EventType_StoryCampaign",
-      "name": "Период разблокировки свободных Комму"
+      "name": "Free Commu Unlock Period"
     },
     {
       "eventType": "EventType_StoryEvent",
-      "name": "Сюжет"
+      "name": "Story"
     },
     {
       "eventType": "EventType_StoryEventMainStory",
-      "name": "Комму Hatsuboshi"
+      "name": "Hatsuboshi Commu"
     },
     {
       "eventType": "EventType_StoryEventBoxGasha",
-      "name": "Сюжет"
+      "name": "Story"
     },
     {
       "eventType": "EventType_StoryEventGuildMission",
-      "name": "Сюжет"
+      "name": "Story"
     },
     {
       "eventType": "EventType_GvgRaid",
-      "name": "Региональный тур"
+      "name": "Regional Tour"
     },
     {
       "eventType": "EventType_DearnessBoost",
-      "name": "Кампания усиления связи"
+      "name": "Bond Boost Campaign"
     },
     {
       "eventType": "EventType_Tour",
-      "name": "Сюжет"
+      "name": "Story"
     },
     {
       "eventType": "EventType_Research",
-      "name": "Семинар по производству Асари-сенсей"
+      "name": "Asari-Sensei's Production Seminar"
     },
     {
       "eventType": 13,
-      "name": "Незабываемый наряд"
+      "name": "Memorable Outfit"
     }
   ]
 }

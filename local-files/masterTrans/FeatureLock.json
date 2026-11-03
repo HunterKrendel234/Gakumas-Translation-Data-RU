@@ -7,81 +7,81 @@
   "data": [
     {
       "tutorialType": "TutorialType_Work",
-      "name": "Работа",
-      "description": "Разблокирована функция «Работа»",
-      "routeDescription": "Проверьте в разделе «Работа» на главном экране"
+      "name": "Job",
+      "description": "Job feature unlocked",
+      "routeDescription": "Check from \"Job\" on the Home screen"
     },
     {
       "tutorialType": "TutorialType_PvpRate",
-      "name": "Турнир",
-      "description": "Разблокирована функция «Турнир»",
-      "routeDescription": "Проверьте в разделе «Турнир»"
+      "name": "Contest",
+      "description": "Contest feature unlocked",
+      "routeDescription": "Check from \"Contest\""
     },
     {
       "tutorialType": "TutorialType_CoinGasha",
-      "name": "Гача за монеты",
-      "description": "Разблокирована функция «Монетная гача»",
-      "routeDescription": "Проверьте в разделе «Монетная гача» в Магазине"
+      "name": "Coin Gacha",
+      "description": "Coin Gacha feature unlocked",
+      "routeDescription": "Check from \"Coin Gacha\" in the Shop"
     },
     {
       "tutorialType": "TutorialType_MoneyReceive",
-      "name": "Средства для мероприятий",
-      "description": "Разблокирована функция «Средства для мероприятий»",
-      "routeDescription": "Проверьте в разделе «Средства для мероприятий» на главном экране"
+      "name": "Activity Funds",
+      "description": "Activity Funds feature unlocked",
+      "routeDescription": "Check from \"Activity Funds\" on the Home screen"
     },
     {
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
-      "name": "Тренировка Айдолов Продюсирования",
-      "description": "Разблокирована функция «Тренировка Айдолов Продюсирования»",
-      "routeDescription": "Проверьте в разделе «Развитие P-Айдолов» в разделе «Айдол»"
+      "name": "Produce Idol Training",
+      "description": "Produce Idol Training feature unlocked",
+      "routeDescription": "Check from \"P-Idol Development\" under Idol"
     },
     {
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
-      "name": "Улучшение Карты Поддержки",
-      "description": "Разблокирована функция «Улучшение Карты Поддержки»",
-      "routeDescription": "Проверьте в разделе «Карты Поддержки» в разделе «Айдол»"
+      "name": "Support Card Upgrade",
+      "description": "Support Card Upgrade feature unlocked",
+      "routeDescription": "Check from \"Support Cards\" under Idol"
     },
     {
       "tutorialType": "TutorialType_DailyExchange",
-      "name": "Ежедневный магазин обмена",
-      "description": "Разблокирована функция «Магазин Ежедневного Обмена»",
-      "routeDescription": "Проверьте в разделе «Магазин Ежедневного Обмена» в Магазине"
+      "name": "Daily Exchange Shop",
+      "description": "Daily Exchange Shop feature unlocked",
+      "routeDescription": "Check from \"Daily Exchange Shop\" in the Shop"
     },
     {
       "tutorialType": "TutorialType_Tower",
-      "name": "Путь айдола",
-      "description": "Разблокирована функция «Путь Айдола»",
-      "routeDescription": "Проверьте в разделе «Путь Айдола» в разделе «Турнир»"
+      "name": "The Idol Road",
+      "description": "The Idol Road feature unlocked",
+      "routeDescription": "Check from \"The Idol Road\" under Contest"
     },
     {
       "tutorialType": "TutorialType_Guild",
-      "name": "Круг",
-      "description": "Разблокирована функция «Круг»",
-      "routeDescription": "Проверьте в разделе «Круг» в Меню"
+      "name": "Circle",
+      "description": "Circle feature unlocked",
+      "routeDescription": "Check from \"Circle\" in the Menu"
     },
     {
       "tutorialType": "TutorialType_DearnessTop",
-      "name": "Меню Уровня Связи",
-      "description": "Разблокирована функция «Меню Уровня Связи»",
-      "routeDescription": "Вы можете проверить это в разделе «Уровень Связи» на главном экране"
+      "name": "BondLv Menu",
+      "description": "\"BondLv Menu\" function unlocked",
+      "routeDescription": "You can check this from the Home BondLv"
     },
     {
       "tutorialType": 32,
-      "name": "Достижения\nP-Рейтинга",
-      "description": "Разблокированы\nдостижения P-Рейтинга",
-      "routeDescription": "Вы можете проверить их в меню обычных миссий"
+      "name": "P-Rating\nAchievements",
+      "description": "P-Rating Achievements \nunlocked",
+      "routeDescription": "You can check them from the normal missions menu"
     },
     {
       "tutorialType": "TutorialType_ProducerRanking",
-      "name": "Рейтинг Продюсера",
-      "description": "Разблокирован «Рейтинг Продюсера»",
-      "routeDescription": "Вы можете проверить свои P-рейтинги здесь"
+      "name": "Producer Ranking",
+      "description": "[Producer Ranking] unlocked",
+      "routeDescription": "You can check your P-rankings here"
     },
     {
       "tutorialType": "TutorialType_ProduceCardConvert",
-      "name": "Переключатель Карт Навыка",
-      "description": "Разблокирована «Смена Карт Навыка»",
-      "routeDescription": "Доступно в разделе «Продюсирование»"
+      "name": "Skill Card Switch",
+      "description": "\"Skill Card Switch\" unlocked",
+      "routeDescription": "Available in produce"
     }
   ]
 }
