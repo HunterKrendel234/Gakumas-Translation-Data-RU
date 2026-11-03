@@ -293,17 +293,17 @@
     {
       "id": "achieve-i_card-atbm-2-000-04",
       "name": "Целеустремленность +",
-      "description": "【Single-Minded】Raise Tsubame Amaya’s Training Stage to {threshold}"
+      "description": "【Целеустремленность】Повысьте уровень тренировки Цубамэ Амаи до {threshold}"
     },
     {
       "id": "achieve-i_card-atbm-2-000-05",
       "name": "Целеустремленность ++",
-      "description": "【Single-Minded】Raise Tsubame Amaya’s Training Stage to {threshold}"
+      "description": "【Целеустремленность】Повысьте уровень тренировки Цубамэ Амаи до {threshold}"
     },
     {
       "id": "achieve-i_card-atbm-2-000-06",
       "name": "Целеустремленность +++",
-      "description": "【Single-Minded】Raise Tsubame Amaya’s Training Stage to {threshold}"
+      "description": "【Целеустремленность】Повысьте уровень тренировки Цубамэ Амаи до {threshold}"
     },
     {
       "id": "achieve-i_card-atbm-3-000-01",
@@ -433,12 +433,12 @@
     {
       "id": "achieve-i_card-fktn-2-000-05",
       "name": "Начала быть милой♡ ++",
-      "description": "【Started Being Cute♡】Raise Kotone Fujita's SP training stage to {threshold}"
+      "description": "【Стала милой♡】Повысьте уровень SP-тренировки Котонэ Фудзиты до {threshold}"
     },
     {
       "id": "achieve-i_card-fktn-2-000-06",
       "name": "Начала быть милой♡ +++",
-      "description": "【Started Being Cute♡】Raise Kotone Fujita's SP training stage to {threshold}"
+      "description": "【Стала милой♡】Повысьте уровень SP-тренировки Котонэ Фудзиты до {threshold}"
     },
     {
       "id": "achieve-i_card-fktn-3-000-04",
@@ -607,7 +607,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-013-01",
-      "name": "Jiko Kouteikan Bakuage↑↑",
+      "name": "Самооценка: взлет↑↑",
       "description": "【Jiko Kouteikan Bakuage↑↑Shuki Shuki Song】Пройдите финальный экзамен при продюсировании Котонэ Фудзиты"
     },
     {
@@ -617,7 +617,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-013-03",
-      "name": "SHUKISHUKISHUKI~♡",
+      "name": "ШУКИШУКИШУКИ~♡",
       "description": "【Jiko Kouteikan Bakuage↑↑Shuki Shuki Song】Заработайте оценку A+ или выше {threshold} раз при продюсировании Котонэ Фудзиты"
     },
     {
@@ -637,7 +637,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-016-01",
-      "name": "Go For It♪",
+      "name": "Вперёд♪",
       "description": "【Gamushara ni Ikou!】Сдайте финальный экзамен при продюсировании Котонэ Фудзиты"
     },
     {
@@ -647,7 +647,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-016-03",
-      "name": "That’s Exactly What I Love♡",
+      "name": "Именно это я и люблю♡",
       "description": "【Gamushara ni Ikou!】Заработайте оценку A+ или выше при продюсировании Котонэ Фудзиты {threshold} раз"
     },
     {
@@ -667,7 +667,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-019-01",
-      "name": "No time to be discouraged!",
+      "name": "Не время унывать!",
       "description": "【GO MY WAY!!】Сдайте финальный экзамен во время продюсирования Котонэ Фудзиты"
     },
     {
@@ -677,7 +677,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-019-03",
-      "name": "I feel wide awake.",
+      "name": "Я чувствую себя бодрой.",
       "description": "【GO MY WAY!!】Заработайте оценку A+ или выше {threshold} раз во время продюсирования Котонэ Фудзиты"
     },
     {
@@ -697,47 +697,47 @@
     },
     {
       "id": "achieve-i_card-hmsz-2-000-01",
-      "name": "Step by Step, With Breaks",
+      "name": "Шаг за шагом, с перерывами",
       "description": "【Медленно, шаг за шагом】Сдайте финальный экзамен при продюсировании Мисудзу Хатаи"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-02",
-      "name": "Slowly, one step at a time",
+      "name": "Медленно, шаг за шагом",
       "description": "【Медленно, шаг за шагом】Повысьте уровень тренировки SP Мисудзу Хатаи до {threshold}"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-03",
-      "name": "Wonderful Dreams",
+      "name": "Чудесные сны",
       "description": "【Медленно, шаг за шагом】Получите оценку A+ или выше при продюсировании Мисудзу Хатаи {threshold} раз(а)"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-04",
       "name": "Медленно, шаг за шагом +",
-      "description": "【Slowly, one step at a time】Raise Misuzu Hataya's SP training stage to {threshold}"
+      "description": "【Медленно, шаг за шагом】Повысьте уровень тренировки SP Мисудзу Хатаи до {threshold}"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-05",
       "name": "Медленно, шаг за шагом ++",
-      "description": "【Slowly, one step at a time】Raise Misuzu Hataya's SP training stage to {threshold}"
+      "description": "【Медленно, шаг за шагом】Повысьте уровень тренировки SP Мисудзу Хатаи до {threshold}"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-06",
       "name": "Медленно, шаг за шагом +++",
-      "description": "【Slowly, one step at a time】Raise Misuzu Hataya's SP training stage to {threshold}"
+      "description": "【Медленно, шаг за шагом】Повысьте уровень тренировки SP Мисудзу Хатаи до {threshold}"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-01",
-      "name": "View from the Rooftop",
+      "name": "Вид с крыши",
       "description": "【Tsuki no Kame】Сдайте финальный экзамен при продюсировании Мисудзу Хатаи"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-02",
-      "name": "Tsukinokame",
+      "name": "Цукинокамэ",
       "description": "【Tsuki no Kame】Повысьте уровень тренировки SP Мисудзу Хатаи до {threshold}"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-03",
-      "name": "I'll Go Fill Everyone’s Hearts",
+      "name": "Я наполню сердца каждого",
       "description": "【Tsuki no Kame】Получите оценку A+ или выше при продюсировании Мисудзу Хатаи {threshold} раз(а)"
     },
     {
@@ -767,7 +767,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-005-03",
-      "name": "Let's fly together",
+      "name": "Давай взлетим вместе",
       "description": "【Campus mode!!】Получите оценку A+ или выше при продюсировании Мисудзу Хатаи {threshold} раз(а)"
     },
     {
@@ -787,7 +787,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-010-01",
-      "name": "Until Morning Fills the World",
+      "name": "Пока утро не наполнит мир",
       "description": "【Star-mine】Пройдите финальный экзамен при продюсировании Мисудзу Хатаи"
     },
     {
@@ -797,7 +797,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-010-03",
-      "name": "A Feeling That... Truly Fits",
+      "name": "Чувство, которое... так подходит",
       "description": "【Star-mine】Заработайте оценку A+ или выше {threshold} раз при продюсировании Мисудзу Хатаи"
     },
     {
@@ -817,7 +817,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-014-01",
-      "name": "Between dreams and reality",
+      "name": "Между мечтами и реальностью",
       "description": "【Superlative】Сдайте финальный экзамен при продюсировании Мисудзу Хатаи"
     },
     {
@@ -827,7 +827,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-014-03",
-      "name": "See you in our dreams",
+      "name": "Увидимся во снах",
       "description": "【Superlative】Получите оценку A+ или выше при продюсировании Мисудзу Хатаи {threshold} раз(а)"
     },
     {
@@ -847,7 +847,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-015-01",
-      "name": "Be Captivated",
+      "name": "Очарование",
       "description": "【ENDLESS DANCE】Пройдите финальный экзамен при продюсировании Мисудзу Хатаи"
     },
     {
@@ -857,7 +857,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-015-03",
-      "name": "So, it’s basically a promise",
+      "name": "Значит, это, по сути, обещание",
       "description": "【ENDLESS DANCE】Заработайте оценку A+ или выше {threshold} раз при продюсировании Мисудзу Хатаи"
     },
     {
@@ -877,7 +877,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-016-01",
-      "name": "I'll Teach You",
+      "name": "Я научу тебя",
       "description": "【VEIL】Пройдите финальный экзамен при продюсировании Мисудзу Хатаи"
     },
     {
@@ -887,7 +887,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-016-03",
-      "name": "Let Us Remove the Veil",
+      "name": "Давайте снимем Veil",
       "description": "【VEIL】Заработайте оценку A+ или выше {threshold} раз при продюсировании Мисудзу Хатаи"
     },
     {
@@ -907,7 +907,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-020-01",
-      "name": "Light Swaying on the Waves",
+      "name": "Свет, качающийся на волнах",
       "description": "【「Nee, icchau yo.」】Пройдите финальный экзамен при продюсировании Мисудзу Хатая"
     },
     {
@@ -917,7 +917,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-020-03",
-      "name": "Your ultimate subject",
+      "name": "Твой главный объект",
       "description": "【「Nee, icchau yo.」】Получите рейтинг A+ или выше {threshold} раз(а) при продюсировании Мисудзу Хатая"
     },
     {
@@ -937,7 +937,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-2-000-04",
-      "name": "Beginning of My Self +",
+      "name": "Начало самой себя+",
       "description": "【Начало меня】Повысьте уровень тренировки SP Ринами Химесаки до {threshold}"
     },
     {
@@ -967,7 +967,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-001-01",
-      "name": "Cumulonimbus and You",
+      "name": "Кучевое облако и ты",
       "description": "【Kimi to Semi Blue】Пройдите финальный экзамен при продюсировании Ринами Химесаки"
     },
     {
@@ -997,7 +997,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-002-01",
-      "name": "See you tomorrow",
+      "name": "Увидимся завтра",
       "description": "【L.U.V】Сдайте финальный экзамен при продюсировании Ринами Химесаки"
     },
     {
@@ -1027,7 +1027,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-004-01",
-      "name": "Refreshing Break",
+      "name": "Освежающий перерыв",
       "description": "【Добро пожаловать в онсэн Хацубоси】Сдайте финальный экзамен при продюсировании Ринами Химесаки"
     },
     {
@@ -1043,21 +1043,21 @@
     {
       "id": "achieve-i_card-hrnm-3-004-04",
       "name": "Добро пожаловать в онсэн Хацубоси +",
-      "description": "【Welcome to Hatsuboshi Onsen】Raise Rinami Himesaki's SP training stage to {threshold}"
+      "description": "【Добро пожаловать в онсэн Хацубоси】Повысьте уровень тренировки SP Ринами Химесаки до {threshold}"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-05",
       "name": "Добро пожаловать в онсэн Хацубоси ++",
-      "description": "【Welcome to Hatsuboshi Onsen】Raise Rinami Himesaki's SP training stage to {threshold}"
+      "description": "【Добро пожаловать в онсэн Хацубоси】Повысьте уровень тренировки SP Ринами Химесаки до {threshold}"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-06",
       "name": "Добро пожаловать в онсэн Хацубоси +++",
-      "description": "【Welcome to Hatsuboshi Onsen】Raise Rinami Himesaki's SP training stage to {threshold}"
+      "description": "【Добро пожаловать в онсэн Хацубоси】Повысьте уровень тренировки SP Ринами Химесаки до {threshold}"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-01",
-      "name": "They idolized me",
+      "name": "Они боготворили меня",
       "description": "【Campus mode!!】Сдайте финальный экзамен при продюсировании Ринами Химесаки"
     },
     {
@@ -1067,7 +1067,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-007-03",
-      "name": "Thank you",
+      "name": "Спасибо",
       "description": "【Campus mode!!】Получите оценку A+ или выше при продюсировании Ринами Химесаки {threshold} раз(а)"
     },
     {
@@ -1087,7 +1087,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-008-01",
-      "name": "Will you accept it?",
+      "name": "Примешь это?",
       "description": "【Happy Millefeuille】Сдайте финальный экзамен при продюсировании Ринами Химесаки"
     },
     {
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-008-03",
-      "name": "I'll give it to you!",
+      "name": "Я отдам это тебе!",
       "description": "【Happy Millefeuille】Получите оценку A+ или выше при продюсировании Ринами Химесаки {threshold} раз(а)"
     },
     {
@@ -1117,7 +1117,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-012-01",
-      "name": "In any world",
+      "name": "В любом мире",
       "description": "【Howling over the World】Пройдите финальный экзамен при продюсировании Ринами Химесаки"
     },
     {
@@ -1127,7 +1127,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-012-03",
-      "name": "Is that synchronicity?",
+      "name": "Это синхронность?",
       "description": "【Howling over the World】Заработайте A+ или выше {threshold} раз при продюсировании Ринами Химесаки"
     },
     {
@@ -1147,7 +1147,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-013-01",
-      "name": "Mild Fever Nostalgia",
+      "name": "Ностальгия с лёгким жаром",
       "description": "【36℃ U･B･U】Сдайте финальный экзамен при продюсировании Ринами"
     },
     {
@@ -1157,7 +1157,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-013-03",
-      "name": "Meeting you all over again",
+      "name": "Встретить вас всех снова",
       "description": "【36℃ U･B･U】Заработайте A+ или выше {threshold} раз при продюсировании Ринами"
     },
     {
@@ -1177,7 +1177,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-017-01",
-      "name": "An Older Sister's Sense",
+      "name": "Чутьё старшей сестры",
       "description": "【Garakuta Road】Пройдите финальный экзамен при продюсировании Ринами Химесаки"
     },
     {
@@ -1187,7 +1187,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-017-03",
-      "name": "This Big Sis Wants More Time",
+      "name": "Эта старшая сестрёнка хочет больше времени",
       "description": "【Garakuta Road】Заработайте оценку A+ или выше при продюсировании Ринами Химесаки {threshold} раз"
     },
     {
@@ -1207,7 +1207,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-018-01",
-      "name": "Heart Melting with Sweetness",
+      "name": "Сердце тает от сладости",
       "description": "【SUGAR FLAVOR】Пройдите финальный экзамен при продюсировании Ринами Химесаки"
     },
     {
@@ -1217,7 +1217,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-018-03",
-      "name": "ign of Creating Great Waves",
+      "name": "Признак создания больших волн",
       "description": "【SUGAR FLAVOR】Получите рейтинг A+ или выше {threshold} раз(а) при продюсировании Ринами Химесаки"
     },
     {
@@ -1267,7 +1267,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-001-01",
-      "name": "POW！",
+      "name": "БАХ!",
       "description": "【Boom Boom Pow】Пройдите финальный экзамен при продюсировании Саки Ханами"
     },
     {
@@ -1297,7 +1297,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-002-01",
-      "name": "Goldfish Scooping Competition",
+      "name": "Соревнование по ловле золотых рыбок",
       "description": "【Kamurogiku】Пройдите финальный экзамен при продюсировании Саки Ханами"
     },
     {
@@ -1613,17 +1613,17 @@
     {
       "id": "achieve-i_card-hume-2-000-04",
       "name": "Айдол, старт! +",
-      "description": "【Idol, Start!】Raise Ume Hanami's SP training stage to {threshold}"
+      "description": "【Idol, Start!】Повысьте тренировочный этап SP Умэ Ханами до {threshold}"
     },
     {
       "id": "achieve-i_card-hume-2-000-05",
       "name": "Айдол, старт! ++",
-      "description": "【Idol, Start!】Raise Ume Hanami's SP training stage to {threshold}"
+      "description": "【Idol, Start!】Повысьте тренировочный этап SP Умэ Ханами до {threshold}"
     },
     {
       "id": "achieve-i_card-hume-2-000-06",
       "name": "Айдол, старт! +++",
-      "description": "【Idol, Start!】Raise Ume Hanami's SP training stage to {threshold}"
+      "description": "【Idol, Start!】Повысьте тренировочный этап SP Умэ Ханами до {threshold}"
     },
     {
       "id": "achieve-i_card-hume-3-000-01",
@@ -1913,17 +1913,17 @@
     {
       "id": "achieve-i_card-jsna-2-000-04",
       "name": "The Prima Stella +",
-      "description": "【The Prima Stella】Raise Sena Juo's SP training stage to {threshold}"
+      "description": "【The Prima Stella】Повысьте тренировочный этап SP Сэна Дзюо до {threshold}"
     },
     {
       "id": "achieve-i_card-jsna-2-000-05",
       "name": "The Prima Stella ++",
-      "description": "【The Prima Stella】Raise Sena Juo's SP training stage to {threshold}"
+      "description": "【The Prima Stella】Повысьте тренировочный этап SP Сэна Дзюо до {threshold}"
     },
     {
       "id": "achieve-i_card-jsna-2-000-06",
       "name": "The Prima Stella +++",
-      "description": "【The Prima Stella】Raise Sena Juo's SP training stage to {threshold}"
+      "description": "【The Prima Stella】Повысьте тренировочный этап SP Сэна Дзюо до {threshold}"
     },
     {
       "id": "achieve-i_card-jsna-3-000-01",
@@ -2323,27 +2323,27 @@
     {
       "id": "achieve-i_card-kcna-3-005-02",
       "name": "Добро пожаловать в онсэн Хацубоси",
-      "description": "【Welcome to Hatsuboshi Onsen】Raise China Kuramoto's SP training stage to {threshold}"
+      "description": "【Welcome to Hatsuboshi Onsen】Повысьте уровень спецтренировки Тины Курамото до {threshold}"
     },
     {
       "id": "achieve-i_card-kcna-3-005-03",
       "name": "Твоя очередь отдохнуть",
-      "description": "【Welcome to Hatsuboshi Onsen】Get rating of A+ or higher in China Kuramoto's production {threshold} time(s)"
+      "description": "【Welcome to Hatsuboshi Onsen】Получите рейтинг A+ или выше при продюсировании Тины Курамото {threshold} раз"
     },
     {
       "id": "achieve-i_card-kcna-3-005-04",
       "name": "Добро пожаловать в онсэн Хацубоси +",
-      "description": "【Welcome to Hatsuboshi Onsen】Raise China Kuramoto's SP training stage to {threshold}"
+      "description": "【Welcome to Hatsuboshi Onsen】Повысьте уровень спецтренировки Тины Курамото до {threshold}"
     },
     {
       "id": "achieve-i_card-kcna-3-005-05",
       "name": "Добро пожаловать в онсэн Хацубоси ++",
-      "description": "【Welcome to Hatsuboshi Onsen】Raise China Kuramoto's SP training stage to {threshold}"
+      "description": "【Welcome to Hatsuboshi Onsen】Повысьте уровень спецтренировки Тины Курамото до {threshold}"
     },
     {
       "id": "achieve-i_card-kcna-3-005-06",
       "name": "Добро пожаловать в онсэн Хацубоси +++",
-      "description": "【Welcome to Hatsuboshi Onsen】Raise China Kuramoto's SP training stage to {threshold}"
+      "description": "【Welcome to Hatsuboshi Onsen】Повысьте уровень спецтренировки Тины Курамото до {threshold}"
     },
     {
       "id": "achieve-i_card-kcna-3-007-01",
@@ -2863,12 +2863,12 @@
     {
       "id": "achieve-i_card-shro-2-000-05",
       "name": "Самое неподходящее ++",
-      "description": "【What I'm least suited for】Raise Hiro Shinosawa's SP training stage to {threshold}"
+      "description": "【То, к чему я меньше всего приспособлена】Повысьте уровень спецтренировки Хиро Синосавы до {threshold}"
     },
     {
       "id": "achieve-i_card-shro-2-000-06",
       "name": "Самое неподходящее +++",
-      "description": "【What I'm least suited for】Raise Hiro Shinosawa's SP training stage to {threshold}"
+      "description": "【То, к чему я меньше всего приспособлена】Повысьте уровень спецтренировки Хиро Синосавы до {threshold}"
     },
     {
       "id": "achieve-i_card-shro-3-000-04",
@@ -3143,17 +3143,17 @@
     {
       "id": "achieve-i_card-shro-3-022-04",
       "name": "Я +",
-      "description": "【Me】Raise Hiro Shinosawa's Training Stage to {threshold}"
+      "description": "【Я】Повысьте уровень тренировки Хиро Синосавы до {threshold}"
     },
     {
       "id": "achieve-i_card-shro-3-022-05",
       "name": "Я ++",
-      "description": "【Me】Raise Hiro Shinosawa's Training Stage to {threshold}"
+      "description": "【Я】Повысьте уровень тренировки Хиро Синосавы до {threshold}"
     },
     {
       "id": "achieve-i_card-shro-3-022-06",
       "name": "Я +++",
-      "description": "【Me】Raise Hiro Shinosawa's Training Stage to {threshold}"
+      "description": "【Я】Повысьте уровень тренировки Хиро Синосавы до {threshold}"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-04",
@@ -4413,7 +4413,7 @@
     {
       "id": "achieve-p_idol-card-fktn-002-2",
       "name": "Начала быть милой♡",
-      "description": "【Started Being Cute♡】Raise Kotone Fujita's SP training stage to {threshold}"
+      "description": "【Стала милой♡】Повысьте уровень SP-тренировки Котонэ Фудзиты до {threshold}"
     },
     {
       "id": "achieve-p_idol-card-fktn-002-3",
@@ -4563,7 +4563,7 @@
     {
       "id": "achieve-p_idol-card-shro-002-2",
       "name": "То, что мне меньше всего подходит",
-      "description": "【What I'm least suited for】Raise Hiro Shinosawa's SP training stage to {threshold}"
+      "description": "【То, к чему я меньше всего приспособлена】Повысьте уровень спецтренировки Хиро Синосавы до {threshold}"
     },
     {
       "id": "achieve-p_idol-card-shro-002-3",
@@ -4662,7 +4662,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-001",
-      "name": "QOL",
+      "name": "КЖ",
       "description": "Используйте карты навыка {threshold} раз(а) во время продюсирования Котонэ Фудзиты"
     },
     {
