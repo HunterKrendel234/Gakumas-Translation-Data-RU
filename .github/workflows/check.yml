@@ -165,3 +165,29 @@ jobs:
         description: |
           **Что изменилось:**
           ${{ steps.commit_info.outputs.message }}
+
+    - name: Send notification to Telegram
+      env:
+        BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        CHAT_ID: ${{ secrets.CHAT_ID }}
+        VERSION: ${{ steps.commit_info.outputs.version }}
+        MESSAGE: ${{ steps.commit_info.outputs.message }}
+      run: |
+        # Экранируем спецсимволы HTML в тексте коммита
+        SAFE_MSG=$(printf '%s' "$MESSAGE" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g')
+        
+        TEXT=$(printf "🚀 <b>Вышла новая версия: <code>%s</code></b>\n\n<b>Что изменилось:</b>\n%s" "$VERSION" "$SAFE_MSG")
+
+        jq -n \
+          --arg chat_id "$CHAT_ID" \
+          --arg text "$TEXT" \
+          '{
+            chat_id: $chat_id,
+            text: $text,
+            parse_mode: "HTML",
+            disable_web_page_preview: true
+          }' > tg_payload.json
+
+        curl -sS -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+          -H "Content-Type: application/json" \
+          -d @tg_payload.json
