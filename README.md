@@ -28,6 +28,8 @@
 
 💬 **[Присоединиться к нашему Discord-серверу](https://discord.gg/jgEz8CxKPn)**
 
+💬 **[Присоединиться к нашей Telegram группе](https://t.me/gakumasu_ru)**
+
 📝 **[Сайт с инструкцией: gakumas-ru](https://hunterkrendel234.github.io/gakumas-ru/)**
 
 ---
