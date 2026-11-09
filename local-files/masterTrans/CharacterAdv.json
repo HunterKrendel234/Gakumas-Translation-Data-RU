@@ -31,6 +31,11 @@
       "regexp": "Gokugetsu Academy"
     },
     {
+      "characterId": "hkne",
+      "name": "Канаэ Хиватари",
+      "regexp": "Kanae$"
+    },
+    {
       "characterId": "hmsz",
       "name": "Мисудзу Хатая",
       "regexp": "Misuzu"

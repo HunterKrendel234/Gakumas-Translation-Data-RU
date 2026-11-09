@@ -771,6 +771,16 @@
       "description": "【ENDLESS DANCE】Получить Мисудзу Хатаю"
     },
     {
+      "id": "hmsz-cstm-0136",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Получите Мисудзу Хатаю"
+    },
+    {
+      "id": "hmsz-cstm-0137",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Можно получить, достигнув 4-го этапа раскрытия таланта Мисудзу Хатаи"
+    },
+    {
       "id": "hmsz-cstm-0140",
       "name": "GO MY WAY!!",
       "description": "【Tsuki no Kame】Получить: GO MY WAY '26, Мисудзу Хатая"
@@ -1884,6 +1894,16 @@
       "id": "kcna-cstm-0132",
       "name": "Michinaru Hirogaru",
       "description": "【Michinaru Hirogaru】Получено на 4-м этапе цветения таланта для Тина Курамото"
+    },
+    {
+      "id": "kcna-cstm-0136",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Получить Тину Курамото"
+    },
+    {
+      "id": "kcna-cstm-0137",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Можно получить, достигнув 4-го этапа раскрытия таланта Тины Курамото"
     },
     {
       "id": "kcna-cstm-0140",

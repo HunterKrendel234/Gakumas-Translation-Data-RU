@@ -25,6 +25,13 @@
       "hiddenHelpList": true
     },
     {
+      "id": "help-character-introduction-event",
+      "order": 23,
+      "name": "Эпизод 0: Канаэ Хиватари",
+      "texts": [],
+      "hiddenHelpList": true
+    },
+    {
       "id": "help-circle-battle-event",
       "order": 26,
       "name": "Региональные туры",
@@ -150,6 +157,13 @@
       "name": "Сюжетные события",
       "texts": [],
       "hiddenHelpList": true
+    },
+    {
+      "id": "help-loginbonus",
+      "order": 100,
+      "name": "Бонус за вход",
+      "texts": [],
+      "hiddenHelpList": false
     },
     {
       "id": "help-main-story-event",

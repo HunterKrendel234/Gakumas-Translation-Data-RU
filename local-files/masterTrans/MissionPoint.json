@@ -148,6 +148,10 @@
     {
       "id": "mission-weekly-point",
       "name": "Еженедельные Очк."
+    },
+    {
+      "id": "story-character-introduction-001_point",
+      "name": "Очки задания"
     }
   ]
 }
