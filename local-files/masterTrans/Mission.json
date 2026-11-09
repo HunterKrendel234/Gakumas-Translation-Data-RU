@@ -6878,6 +6878,126 @@
       "name": "Завершите Продюсирование после получения Карты Навыка \"Enchanting Performance\""
     },
     {
+      "id": "mission-story-character-introduction-001-mission_11",
+      "name": "Потратьте {threshold} AP"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_12",
+      "name": "Получите {threshold} фанатов для Мисудзу Хатаи"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_13",
+      "name": "Наберите общую оценку продюсирования {threshold} с Мисудзу Хатаей"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_14",
+      "name": "Заработайте в общей сложности {threshold} оценок продюсирования с Тиной Курамото"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_15",
+      "name": "Давайте заработаем в общей сложности {threshold} очков Оценки Продюсирования с Хиро Синосавой"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_16",
+      "name": "Завершите все миссии 1-го дня"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_21",
+      "name": "Потратьте {threshold} AP"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_22",
+      "name": "Получите {threshold} фанатов для Тины Курамото"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_23",
+      "name": "Наберите общую оценку продюсирования {threshold} с Мисудзу Хатаей"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_24",
+      "name": "Заработайте в общей сложности {threshold} оценок продюсирования с Тиной Курамото"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_25",
+      "name": "Давайте заработаем в общей сложности {threshold} очков Оценки Продюсирования с Хиро Синосавой"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_26",
+      "name": "Выполните все задания 2-го дня"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_31",
+      "name": "Потратьте {threshold} AP"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_32",
+      "name": "Получите {threshold} фанатов для Хиро Синосавы"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_33",
+      "name": "Наберите общую оценку продюсирования {threshold} с Мисудзу Хатаей"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_34",
+      "name": "Заработайте в общей сложности {threshold} оценок продюсирования с Тиной Курамото"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_35",
+      "name": "Давайте заработаем в общей сложности {threshold} очков Оценки Продюсирования с Хиро Синосавой"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_36",
+      "name": "Выполните все задания 3-го дня"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_41",
+      "name": "Потратьте {threshold} AP"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_42",
+      "name": "Получите {threshold} фанатов для Мисудзу Хатаи, Тины Курамото или Хиро Синосавы"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_43",
+      "name": "Наберите общую оценку продюсирования {threshold} с Мисудзу Хатаей"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_44",
+      "name": "Заработайте в общей сложности {threshold} оценок продюсирования с Тиной Курамото"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_45",
+      "name": "Давайте заработаем в общей сложности {threshold} очков Оценки Продюсирования с Хиро Синосавой"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_46",
+      "name": "Выполните все задания 4-го дня"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_51",
+      "name": "Потратьте {threshold} AP"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_52",
+      "name": "Получите {threshold} фанатов для Мисудзу Хатаи, Тины Курамото или Хиро Синосавы"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_53",
+      "name": "Наберите общую оценку продюсирования {threshold} с Мисудзу Хатаей"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_54",
+      "name": "Заработайте в общей сложности {threshold} оценок продюсирования с Тиной Курамото"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_55",
+      "name": "Давайте заработаем в общей сложности {threshold} очков Оценки Продюсирования с Хиро Синосавой"
+    },
+    {
+      "id": "mission-story-character-introduction-001-mission_56",
+      "name": "Выполните все задания 5-го дня"
+    },
+    {
       "id": "mission-story-event-001-mission_1",
       "name": "Заходите в игру {threshold} день(дня/дней)!"
     },
@@ -8642,6 +8762,30 @@
       "name": "【VEIL】Повысьте уровень тренировки SP Мисудзу Хатаи до {threshold}"
     },
     {
+      "id": "achieve-i_card-hmsz-3-018-01",
+      "name": "【Garakuta Road】Успешно сдать финальный экзамен при продюсировании Мисудзу Хатаи"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-02",
+      "name": "【Garakuta Road】Повысьте уровень тренировки Мисудзу Хатаи до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-03",
+      "name": "【Garakuta Road】Получить оценку A+ или выше {threshold} раз при продюсировании Мисудзу Хатаи"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-04",
+      "name": "【Garakuta Road】Повысьте уровень тренировки Мисудзу Хатаи до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-05",
+      "name": "【Garakuta Road】Повысьте уровень тренировки Мисудзу Хатаи до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-06",
+      "name": "【Garakuta Road】Повысьте уровень тренировки Мисудзу Хатаи до {threshold}"
+    },
+    {
       "id": "achieve-i_card-hmsz-3-020-01",
       "name": "【「Nee, icchau yo.」】Пройдите финальный экзамен при продюсировании Мисудзу Хатая"
     },
@@ -9936,6 +10080,30 @@
     {
       "id": "achieve-i_card-kcna-3-018-06",
       "name": "【Shirube】Повысьте уровень тренировки Тины Курамото до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-01",
+      "name": "【Garakuta Road】Пройдите Финальный экзамен во время продюсирования Тины Курамото"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-02",
+      "name": "【Garakuta Road】Повысьте уровень тренировки Тины Курамото до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-03",
+      "name": "【Garakuta Road】Получите рейтинг A+ или выше {threshold} раз во время продюсирования Тины Курамото"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-04",
+      "name": "【Garakuta Road】Повысьте уровень тренировки Тины Курамото до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-05",
+      "name": "【Garakuta Road】Повысьте уровень тренировки Тины Курамото до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-06",
+      "name": "【Garakuta Road】Повысьте уровень тренировки Тины Курамото до {threshold}"
     },
     {
       "id": "achieve-i_card-kllj-2-000-04",

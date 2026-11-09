@@ -52,6 +52,24 @@
       "bottomAppealText": "Еще {0}"
     },
     {
+      "id": "gasha_button_01057-ssr-idol-001",
+      "order": 1,
+      "name": "Платная гача на 10 попыток",
+      "description": "Платная гача на 10 попыток",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": "Еще {0}"
+    },
+    {
+      "id": "gasha_button_01060-ssr-idol-001",
+      "order": 1,
+      "name": "Платная гача на 10 попыток",
+      "description": "Платная гача на 10 попыток",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": "Еще {0}"
+    },
+    {
       "id": "gasha_button_animate-ssr-00630",
       "order": 1,
       "name": "Платная гача на 10 попыток",
@@ -533,6 +551,24 @@
       "order": 1,
       "name": "Использовать билет",
       "description": "Использовать билет",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01055-ticket-001",
+      "order": 1,
+      "name": "Использовать билет, гарантирующий SSR P-Айдола",
+      "description": "Использовать билет, гарантирующий SSR P-Айдола",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01055-ticket-002",
+      "order": 1,
+      "name": "Использовать билет, повышающий шанс выпадения SSR P-Айдола в 10 раз",
+      "description": "Использовать билет, повышающий шанс выпадения SSR P-Айдола в 10 раз",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""

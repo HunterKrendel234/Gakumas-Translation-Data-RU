@@ -918,6 +918,12 @@
       "acquisitionRouteDescription": "Продюсирование и др."
     },
     {
+      "id": "item-medal-story-character-introduction-001",
+      "name": "Дни, когда мы бежали вместе",
+      "description": "Предмет, который можно обменять на различные награды в магазине события",
+      "acquisitionRouteDescription": "Продюсирование и др."
+    },
+    {
       "id": "item-medal-story-event-001",
       "name": "Дружелюбный поппер",
       "description": "Различные награды, которые можно обменять в магазине события",
@@ -1274,6 +1280,12 @@
     {
       "id": "item-piece-idol_hmsz-3-016",
       "name": "Фрагмент [VEIL] Мисудзу Хатаи",
+      "description": "Предмет для пробуждения и разблокировки айдолов при продюсировании",
+      "acquisitionRouteDescription": "Гача и др."
+    },
+    {
+      "id": "item-piece-idol_hmsz-3-018",
+      "name": "Фрагмент [Garakuta Road] Мисудзу Хатая",
       "description": "Предмет для пробуждения и разблокировки айдолов при продюсировании",
       "acquisitionRouteDescription": "Гача и др."
     },
@@ -1676,6 +1688,12 @@
     {
       "id": "item-piece-idol_kcna-3-018",
       "name": "Фрагмент [Shirube] Тина Курамото",
+      "description": "Предмет для пробуждения и разблокировки айдолов при продюсировании",
+      "acquisitionRouteDescription": "Гача и др."
+    },
+    {
+      "id": "item-piece-idol_kcna-3-019",
+      "name": "Фрагмент [Garakuta Road] Тина Курамото",
       "description": "Предмет для пробуждения и разблокировки айдолов при продюсировании",
       "acquisitionRouteDescription": "Гача и др."
     },
@@ -2196,6 +2214,18 @@
       "acquisitionRouteDescription": "Продюсирование и др."
     },
     {
+      "id": "item-selectgashaticket-gasha-01055-ticket-001",
+      "name": "Билет в гачу с гарантированным SSR айдолом для продюсирования",
+      "description": "Билет в гачу с гарантированным SSR айдолом для продюсирования",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-selectgashaticket-gasha-01055-ticket-002",
+      "name": "Билет на 5 призывов: 10-кратный шанс SSR айдола для продюсирования",
+      "description": "Билет на 5 призывов в гачу с 10-кратным шансом получения SSR айдола для продюсирования",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-selection-ticket-001",
       "name": "Билет выбора на полугодовщину",
       "description": "Билет, который можно обменять на айдолов Продюсирования и Карты Поддержки в магазине билетов",
@@ -2242,6 +2272,12 @@
       "name": "Билет выбора поддержки Продюсирования",
       "description": "Билет, который можно обменять на Карты Поддержки в обменнике билетов",
       "acquisitionRouteDescription": "Гача за монеты поддержки Продюсирования «Празднование 15 миллионов испытаний H.I.F!»"
+    },
+    {
+      "id": "item-selection-ticket-009",
+      "name": "Билет выбора на 2,5-летнюю годовщину",
+      "description": "Билет, который можно обменять на айдолов Продюсирования и Карты Поддержки в магазине билетов",
+      "acquisitionRouteDescription": "Магазин и др."
     },
     {
       "id": "item-staminaregen-1",

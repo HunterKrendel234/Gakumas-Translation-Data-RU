@@ -30,6 +30,14 @@
       "description": "※Настройку можно выполнить через Специальное наставление"
     },
     {
+      "id": "card.sort.research_event_consumption_item_bonus",
+      "description": "Бонус события «Семинар по продюсированию» от Асари-sensei "
+    },
+    {
+      "id": "card.sort.story_event_point_bonus",
+      "description": "Бонус события эпизода 0: Канаэ Химаватари "
+    },
+    {
       "id": "common.story_event_point",
       "description": "Продюсерский семинар Асари-sensei"
     },
@@ -112,6 +120,10 @@
     {
       "id": "idol_dearness.top.mission_unlock_description",
       "description": "Разблокируется {0}"
+    },
+    {
+      "id": "login_bonus.selectable.cancel_sheet.description",
+      "description": "Если выбрать «Выбрать позже», бонус можно будет получить в меню [Главная > Подарки > Выбираемый бонус за вход].\\n\\nПерейти на главный экран, не делая выбор сейчас?\n\\n<color=#u:Strong>※ Срок получения: {0}\\n※ Если пропустите срок, войдите в игру снова во время действия бонуса за вход, и «Гарантированный билет на гачу SSR-айдола (Продюсирование)» будет автоматически отправлен в ваши подарки.</color>"
     },
     {
       "id": "memory.inherit.select_produce_card.before_select.message",
@@ -364,6 +376,10 @@
     {
       "id": "story.idol.others.birthday",
       "description": "Другое"
+    },
+    {
+      "id": "story.story_event.section.main_story_condition_lock_text",
+      "description": "Разблокируется при получении очков задания"
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",

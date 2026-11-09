@@ -906,6 +906,36 @@
       "description": "【VEIL】Повысьте уровень тренировки SP Мисудзу Хатаи до {threshold}"
     },
     {
+      "id": "achieve-i_card-hmsz-3-018-01",
+      "name": "Настоящий я",
+      "description": "【Garakuta Road】Успешно сдайте Финальный экзамен, продюсируя Мисудзу Хатаю"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-02",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Повысьте уровень тренировки Мисудзу Хатаи до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-03",
+      "name": "Блаженная награда",
+      "description": "【Garakuta Road】Заработайте рейтинг A+ или выше {threshold} раз, продюсируя Мисудзу Хатаю"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-04",
+      "name": "Garakuta Road +",
+      "description": "【Garakuta Road】Повысьте уровень тренировки Мисудзу Хатаи до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-05",
+      "name": "Garakuta Road ++",
+      "description": "【Garakuta Road】Повысьте уровень тренировки Мисудзу Хатаи до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-06",
+      "name": "Garakuta Road +++",
+      "description": "【Garakuta Road】Повысьте уровень тренировки Мисудзу Хатаи до {threshold}"
+    },
+    {
       "id": "achieve-i_card-hmsz-3-020-01",
       "name": "Свет, качающийся на волнах",
       "description": "【「Nee, icchau yo.」】Пройдите финальный экзамен при продюсировании Мисудзу Хатая"
@@ -2524,6 +2554,36 @@
       "id": "achieve-i_card-kcna-3-018-06",
       "name": "Shirube +++",
       "description": "【Shirube】Повысьте уровень тренировки Тины Курамото до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-01",
+      "name": "Ценность упорства",
+      "description": "【Garakuta Road】Пройдите Финальный экзамен во время продюсирования Тины Курамото"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-02",
+      "name": "Garakuta Road",
+      "description": "【Garakuta Road】Повысьте уровень тренировки Тины Курамото до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-03",
+      "name": "Я буду смотреть только вперед",
+      "description": "【Garakuta Road】Получите рейтинг A+ или выше {threshold} раз во время продюсирования Тины Курамото"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-04",
+      "name": "Garakuta Road +",
+      "description": "【Garakuta Road】Повысьте уровень тренировки Тины Курамото до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-05",
+      "name": "Garakuta Road ++",
+      "description": "【Garakuta Road】Повысьте уровень тренировки Тины Курамото до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-06",
+      "name": "Garakuta Road +++",
+      "description": "【Garakuta Road】Повысьте уровень тренировки Тины Курамото до {threshold}"
     },
     {
       "id": "achieve-i_card-kllj-2-000-04",
