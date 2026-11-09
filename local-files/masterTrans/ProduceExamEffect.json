@@ -128943,7 +128943,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: ExamLessonDependBlock, EffectValue1: 1300, EffectValue2: 250, EffectCount: 1, EffectTurn: 0, ProduceCardSearchID:, PickRangeType:, PickCountMin: 0, PickCountMax: 0, PickCountType:, ProduceCardSearch2TemplateNumber: 0)"
+          "text": "未定義のパターン(Type: ExamLessonDependBlock, EffectValue1: 1300, EffectValue2: 250, EffectCount: 1, EffectTurn: 0, ProduceCardSearchID: , PickRangeType: , PickCountMin: 0, PickCountMax: 0, PickCountType: , ProduceCardSearch2TemplateNumber: 0)"
         }
       ],
       "customizeProduceDescriptions": [
@@ -184925,7 +184925,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: ExamLessonValueMultipleDown, EffectValue1: 0, EffectValue2: 0, EffectCount: 0, EffectTurn: 0, ProduceCardSearchID: p_card_search-deck_all, PickRangeType: All, PickCountMin: 0, PickCountMax: 0, PickCountType:, ProduceCardSearch2TemplateNumber: 0)"
+          "text": "未定義のパターン(Type: ExamLessonValueMultipleDown, EffectValue1: 0, EffectValue2: 0, EffectCount: 0, EffectTurn: 0, ProduceCardSearchID: p_card_search-deck_all, PickRangeType: All, PickCountMin: 0, PickCountMax: 0, PickCountType: , ProduceCardSearch2TemplateNumber: 0)"
         }
       ],
       "customizeProduceDescriptions": [
@@ -259459,7 +259459,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: ExamStatusEnchant, EffectValue1: 0, EffectValue2: 0, EffectCount: 0, EffectTurn: 0, ProduceCardSearchID:, PickRangeType:, PickCountMin: 0, PickCountMax: 0, PickCountType:, ProduceCardSearch2TemplateNumber: 0)"
+          "text": "未定義のパターン(Type: ExamStatusEnchant, EffectValue1: 0, EffectValue2: 0, EffectCount: 0, EffectTurn: 0, ProduceCardSearchID: , PickRangeType: , PickCountMin: 0, PickCountMax: 0, PickCountType: , ProduceCardSearch2TemplateNumber: 0)"
         }
       ],
       "customizeProduceDescriptions": [
@@ -261425,7 +261425,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: ExamStatusEnchant, EffectValue1: 5, EffectValue2: 0, EffectCount: 2, EffectTurn: -1, ProduceCardSearchID:, PickRangeType:, PickCountMin: 0, PickCountMax: 0, PickCountType:, ProduceCardSearch2TemplateNumber: 0)"
+          "text": "未定義のパターン(Type: ExamStatusEnchant, EffectValue1: 5, EffectValue2: 0, EffectCount: 2, EffectTurn: -1, ProduceCardSearchID: , PickRangeType: , PickCountMin: 0, PickCountMax: 0, PickCountType: , ProduceCardSearch2TemplateNumber: 0)"
         }
       ],
       "customizeProduceDescriptions": [
