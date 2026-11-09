@@ -29,7 +29,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_BloodType",
       "order": 4,
-      "content": "I"
+      "content": "A"
     },
     {
       "characterId": "amao",
@@ -113,7 +113,7 @@
       "characterId": "atbm",
       "type": "CharacterDetailType_BloodType",
       "order": 4,
-      "content": "I"
+      "content": "A"
     },
     {
       "characterId": "atbm",
@@ -275,7 +275,7 @@
       "characterId": "hmsz",
       "type": "CharacterDetailType_BloodType",
       "order": 4,
-      "content": "II"
+      "content": "B"
     },
     {
       "characterId": "hmsz",
@@ -359,7 +359,7 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_BloodType",
       "order": 4,
-      "content": "I"
+      "content": "A"
     },
     {
       "characterId": "hrnm",
@@ -443,7 +443,7 @@
       "characterId": "hski",
       "type": "CharacterDetailType_BloodType",
       "order": 4,
-      "content": "I"
+      "content": "A"
     },
     {
       "characterId": "hski",
@@ -611,7 +611,7 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_BloodType",
       "order": 4,
-      "content": "I"
+      "content": "A"
     },
     {
       "characterId": "jsna",
@@ -695,7 +695,7 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_BloodType",
       "order": 4,
-      "content": "I"
+      "content": "O"
     },
     {
       "characterId": "kcna",
@@ -779,7 +779,7 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_BloodType",
       "order": 4,
-      "content": "II"
+      "content": "B"
     },
     {
       "characterId": "kllj",
@@ -863,7 +863,7 @@
       "characterId": "shro",
       "type": "CharacterDetailType_BloodType",
       "order": 4,
-      "content": "IV"
+      "content": "AB"
     },
     {
       "characterId": "shro",
@@ -947,7 +947,7 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_BloodType",
       "order": 4,
-      "content": "I"
+      "content": "O"
     },
     {
       "characterId": "ssmk",
@@ -1031,7 +1031,7 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_BloodType",
       "order": 4,
-      "content": "IV"
+      "content": "AB"
     },
     {
       "characterId": "ttmr",
