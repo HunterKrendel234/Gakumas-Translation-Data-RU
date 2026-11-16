@@ -54,7 +54,7 @@
       "name": "Производственный семинар Асари-сэнсэя"
     },
     {
-      "eventType": 13,
+      "eventType": "EventType_Trail",
       "name": "Памятный наряд"
     }
   ]

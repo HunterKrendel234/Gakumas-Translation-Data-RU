@@ -346,6 +346,10 @@
       "name": "Увеличенная стоимость усиленного состояния"
     },
     {
+      "type": "ProduceExamEffectType_ExamFullPowerPointReduceCancellable",
+      "name": "Снижение Полной Силы "
+    },
+    {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
       "name": "Дополнительное увеличение Хорошего настроя"
     },
@@ -368,6 +372,18 @@
     {
       "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
       "name": "Повтор"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamMetamorphose",
+      "name": "Metamorphose (Подготовка) "
+    },
+    {
+      "type": "ProduceExamEffectType_ExamMetamorphoseAfter",
+      "name": "Metamorphose (Выступление) "
+    },
+    {
+      "type": "ProduceExamEffectType_ExamStaminaReduceFixAffected",
+      "name": "Расход выносливости "
     }
   ]
 }

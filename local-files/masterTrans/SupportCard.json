@@ -249,6 +249,24 @@
       "name": "Честный и прилежный"
     },
     {
+      "id": "s_card-1-0013",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "/ Low"
+        }
+      ],
+      "name": "Разминка перед подачей"
+    },
+    {
       "id": "s_card-2-0000",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -1741,6 +1759,24 @@
         }
       ],
       "name": "Делаем костюмы вместе"
+    },
+    {
+      "id": "s_card-2-0084",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "/ Medium"
+        }
+      ],
+      "name": "Суматошная уборка"
     },
     {
       "id": "s_card-3-0000",
@@ -3811,6 +3847,24 @@
         }
       ],
       "name": "Вам всем стоит это прочесть!"
+    },
+    {
+      "id": "s_card-3-0115",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+          "targetId": "",
+          "text": "/ High"
+        }
+      ],
+      "name": "Прошу прощения, леди"
     },
     {
       "id": "s_card-3-0122",

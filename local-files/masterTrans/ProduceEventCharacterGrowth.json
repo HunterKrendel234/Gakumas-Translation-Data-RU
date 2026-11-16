@@ -61,6 +61,24 @@
       "description": "Танец 1000 или выше"
     },
     {
+      "characterId": "hkne",
+      "number": 1,
+      "title": "Как себя преподнести",
+      "description": "Танец 300 или выше"
+    },
+    {
+      "characterId": "hkne",
+      "number": 2,
+      "title": "Сила мечты",
+      "description": "Вокал 450 или выше"
+    },
+    {
+      "characterId": "hkne",
+      "number": 3,
+      "title": "Навстречу свету",
+      "description": "Визуал 1000 или выше"
+    },
+    {
       "characterId": "hmsz",
       "number": 1,
       "title": "Медленно",

@@ -1518,6 +1518,237 @@
       ]
     },
     {
+      "id": "p_story-001-hkne-after-audition-final-failure-01",
+      "title": "А результаты теста...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Fail the final test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-normal-01",
+      "title": "А результаты теста...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 4 or higher ",
+        " Place 1st in the final test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-normal-02",
+      "title": "А результаты теста...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 4 or higher ",
+        " Place 2nd in the final test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-normal-03",
+      "title": "А результаты теста...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 4 or higher ",
+        " Place 3rd in the final test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-final-normal-04",
+      "title": "А результаты теста...",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-failure-01",
+      "title": "А результаты теста...",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-normal-01",
+      "title": "А результаты теста...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 4 or higher ",
+        " Place 1st in the midterm test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-normal-02",
+      "title": "А результаты теста...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 4 or higher ",
+        " Place 2nd in the midterm test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-normal-03",
+      "title": "А результаты теста...",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 4 or higher ",
+        " Place 3rd in the midterm test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-audition-mid-normal-04",
+      "title": "А результаты теста...",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-step-1-normal-01",
+      "title": "Любопытное настроение",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 7 or higher ",
+        " Before the test, ensure all parameters are at 80% or more of evaluation criteria"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-step-1-normal-02",
+      "title": "Любопытное настроение",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 4 or higher ",
+        " Before the test, ensure all parameters are at 50% or more of evaluation criteria"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-step-1-normal-03",
+      "title": "Любопытное настроение",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-after-step-2-normal-01",
+      "title": "Любопытное настроение",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 7 or higher ",
+        " Before the test, ensure all parameters are at 80% or more of evaluation criteria"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-step-2-normal-02",
+      "title": "Любопытное настроение",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 4 or higher ",
+        " Before the test, ensure all parameters are at 50% or more of evaluation criteria"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-after-step-2-normal-03",
+      "title": "Любопытное настроение",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-before-audition-final-normal-01",
+      "title": "На финальный тест!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-before-audition-mid-normal-01",
+      "title": "На промежуточный тест!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-01",
+      "title": "【Финал A】За пределами первого шага",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 4 or higher ",
+        " Place 1st in the final test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-02",
+      "title": "【Финал B】Как айдол",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 4 or higher ",
+        " Place 2nd in the final test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-03",
+      "title": "【Финал C】Слова, которые я жажду услышать",
+      "produceEventHintProduceConditionDescriptions": [
+        " Pass the final test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-04",
+      "title": "【Финал D】Путь, который я выбрала",
+      "produceEventHintProduceConditionDescriptions": [
+        " Place 4th or 5th in the final test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-normal-05",
+      "title": "【Финал E】Выбор в качестве её помощника",
+      "produceEventHintProduceConditionDescriptions": [
+        " Place 6th in the final test"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-ending-true-01",
+      "title": "True End",
+      "produceEventHintProduceConditionDescriptions": [
+        "Pass the Final Exam in 1st place",
+        "Earn the achievement [A Maid and an Idol]",
+        "Earn the achievement [By Your Side]",
+        "Earn the achievement [A Flawless Performance]"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-fb-01",
+      "title": "Путь в тысячу миль начинается с первого шага",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-fb-02",
+      "title": "Стремление стать айдолом",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-fb-03",
+      "title": "Цветок, расцветающий навстречу звёздам",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-01",
+      "title": "Начало продюсирования!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-02",
+      "title": "Канаэ Хиватари готова к действию!",
+      "produceEventHintProduceConditionDescriptions": [
+        " Begin production"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-03",
+      "title": "Канаэ Хиватари готова к действию!",
+      "produceEventHintProduceConditionDescriptions": [
+        " Begin production"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-04",
+      "title": "Канаэ Хиватари готова к действию!",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 4 or higher"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-normal-05",
+      "title": "Канаэ Хиватари готова к действию!",
+      "produceEventHintProduceConditionDescriptions": [
+        " Reach Bond Lv 4 or higher"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-true-01",
+      "title": "Стать ближе к мечте",
+      "produceEventHintProduceConditionDescriptions": [
+        "See Kanae’s True End"
+      ]
+    },
+    {
+      "id": "p_story-001-hkne-opening-true-02",
+      "title": "Стать ближе к мечте",
+      "produceEventHintProduceConditionDescriptions": [
+        "See Kanae’s True End"
+      ]
+    },
+    {
       "id": "p_story-001-hmsz-after-audition-final-failure-01",
       "title": "А результаты теста...",
       "produceEventHintProduceConditionDescriptions": [
@@ -5230,6 +5461,171 @@
     {
       "id": "p_story-event-001_fktn_school_011",
       "title": "Урок Котонэ",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_001",
+      "title": "Вкус чая",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_002",
+      "title": "Какой айдол приглянулся тебе?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_003",
+      "title": "Мейд-кафе, о котором все говорят",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_004",
+      "title": "Что сегодня на ужин?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_005",
+      "title": "Что это за книга?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_006",
+      "title": "Допрос за чаем",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_007",
+      "title": "Выбор её светлости",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_008",
+      "title": "Это тот самый наряд!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_009",
+      "title": "Гид по проведению выходного",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_010",
+      "title": "Караоке-зал для избавления от тревог",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_011",
+      "title": "Мы вдвоем, всегда вместе",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_012",
+      "title": "Айдол с уникальной личностью",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_013",
+      "title": "Правда о разминании плеч",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_014",
+      "title": "Обязанности помощника",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_015",
+      "title": "Обязательный выходной",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_016",
+      "title": "Начнем с разговора",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_017-01",
+      "title": "Легендарный хлеб «Мелон-пан»",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_017-02",
+      "title": "Легендарный хлеб «Мелон-пан»",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_018-01",
+      "title": "Ход Хиватари",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_018-02",
+      "title": "Ход Хиватари",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_019",
+      "title": "Пикник для разрядки",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_activity_020",
+      "title": "Следи за своим видом!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_001",
+      "title": "Инсайдерская информация",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_002",
+      "title": "Насколько они близки?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_003",
+      "title": "Поддержка важна!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_004",
+      "title": "Сила Канаэ",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_005",
+      "title": "Когда ты начала носить хаппи своего любимого айдола?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_006",
+      "title": "Что сейчас в эфире?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_007",
+      "title": "Что такое СБ?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_008",
+      "title": "Ещё раз!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_009",
+      "title": "Время купания важно!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_010",
+      "title": "Продюсируем вместе",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hkne_school_011",
+      "title": "Урок Канаэ",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13583,6 +13979,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-hkne-3-000-01",
+      "title": "Metamorphose, эп. 1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hkne-3-000-02",
+      "title": "Metamorphose, эп. 2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hkne-3-000-03",
+      "title": "Metamorphose, эп. 3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-hmsz-3-000-01",
       "title": "Черепаха луны, эп. 1",
       "produceEventHintProduceConditionDescriptions": []
@@ -15213,6 +15624,16 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-1-0013-01",
+      "title": "Потому что ты бежала рядом со мной",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-1-0013-02",
+      "title": "Давай и сегодня постараемся♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-2-0000-01",
       "title": "Объятия связи...?",
       "produceEventHintProduceConditionDescriptions": []
@@ -16040,6 +16461,16 @@
     {
       "id": "p_story-s_card-2-0082-02",
       "title": "Счастливого Хэллоуина!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0084-01",
+      "title": "Стиль уборки Тины",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0084-02",
+      "title": "В чем секрет работы горничной?!",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -17768,6 +18199,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-3-0115-01",
+      "title": "Битва с гигантским гамбургером",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0115-02",
+      "title": "Парные гамбургеры",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0115-03",
+      "title": "Это шикарный ресторан?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0122-01",
       "title": "Доказательство дружбы",
       "produceEventHintProduceConditionDescriptions": []
@@ -17945,6 +18391,56 @@
     {
       "id": "story-dearness-fktn-999",
       "title": "Эпизод 1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-001",
+      "title": "Эп. 1",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-002",
+      "title": "Эп. 2",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-003",
+      "title": "Эп. 3",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-004",
+      "title": "Эп. 4",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-005",
+      "title": "Эп. 5",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-006",
+      "title": "Эп. 6",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-007",
+      "title": "Эп. 7",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-008",
+      "title": "Эп. 8",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-009",
+      "title": "Эп. 9",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hkne-010",
+      "title": "Эп. 10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

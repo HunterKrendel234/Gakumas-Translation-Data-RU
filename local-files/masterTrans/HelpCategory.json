@@ -233,9 +233,23 @@
       "hiddenHelpList": false
     },
     {
+      "id": "help-refine",
+      "order": 101,
+      "name": "　",
+      "texts": [],
+      "hiddenHelpList": true
+    },
+    {
       "id": "help-research-event",
       "order": 28,
       "name": "Семинар по продюсированию от Асари-сенсея",
+      "texts": [],
+      "hiddenHelpList": true
+    },
+    {
+      "id": "help-selectloginbonus",
+      "order": 102,
+      "name": "Выбор бонуса за вход",
       "texts": [],
       "hiddenHelpList": true
     },
@@ -285,6 +299,13 @@
       "id": "help-trail",
       "order": 30,
       "name": "Памятный наряд",
+      "texts": [],
+      "hiddenHelpList": true
+    },
+    {
+      "id": "help-unitstoryevent",
+      "order": 103,
+      "name": "　",
       "texts": [],
       "hiddenHelpList": true
     }

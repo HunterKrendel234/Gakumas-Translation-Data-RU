@@ -254,6 +254,84 @@
       "content": "Душа компании, стремящаяся стать прибыльным айдолом.\nТалантливая танцовщица с заниженной самооценкой,\nкоторая кажется немного неуравновешенной. Постоянно работает на подработках,\nиз-за чего вечно уставшая."
     },
     {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "1-й курс"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "165"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "50"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "I"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "85/55/81"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "Лев"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "Абэ Саяка"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "8 авг "
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "Правая"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "Сидзуока"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "Работа по дому, самооборона, факты"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "Служение госпоже, руководство фан-клубом Тины"
+    },
+    {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Grade",
       "order": 1,

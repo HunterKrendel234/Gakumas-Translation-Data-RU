@@ -793,6 +793,13 @@
     },
     {
       "helpCategoryId": "help-lesson",
+      "id": "lesson-produce-card-metamorphose",
+      "order": 20,
+      "name": "Metamorphose",
+      "detailUrl": "https://stat.game-gakuen-idolmaster.jp/html/help/a8adca61704d4303fcfabce9d73763404b22a28afd92be4060dbb88db4852673/index.html?_cb=c3e6734e2d81779b113c8abea6bbef30b6f45fbaae2362ffcc1bce290abac7a8"
+    },
+    {
+      "helpCategoryId": "help-lesson",
       "id": "lesson-produce-card-powerup",
       "order": 6,
       "name": "Улучшение Карты Навыка",

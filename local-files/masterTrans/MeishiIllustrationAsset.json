@@ -1462,6 +1462,398 @@
       "name": "Рейтинг продюсеров: Темари Цукимура, Сезон 4 Altair"
     },
     {
+      "id": "badge-producerranking_005-amao_01",
+      "name": "Рейтинг продюсеров: Мао Аримура (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-amao_02",
+      "name": "Рейтинг продюсеров: Мао Аримура (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-amao_03",
+      "name": "Рейтинг продюсеров: Мао Аримура (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-amao_04",
+      "name": "Рейтинг продюсеров: Мао Аримура (Сезон 5, Sirius, топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-amao_05",
+      "name": "Рейтинг продюсеров: Мао Аримура (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-amao_06",
+      "name": "Рейтинг продюсеров: Мао Аримура (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-amao_07",
+      "name": "Рейтинг продюсеров: Мао Аримура (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-atbm_01",
+      "name": "Рейтинг продюсеров: Цубамэ Амаё (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-atbm_02",
+      "name": "Рейтинг продюсеров: Цубамэ Амаё (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-atbm_03",
+      "name": "Рейтинг продюсеров: Цубамэ Амаё (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-atbm_04",
+      "name": "Рейтинг продюсеров: Цубамэ Амаё (Сезон 5, Sirius, топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-atbm_05",
+      "name": "Рейтинг продюсеров: Цубамэ Амаё (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-atbm_06",
+      "name": "Рейтинг продюсеров: Цубамэ Амаё (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-atbm_07",
+      "name": "Рейтинг продюсеров: Цубамэ Амаё (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-fktn_01",
+      "name": "Рейтинг продюсеров: Котонэ Фудзита (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-fktn_02",
+      "name": "Рейтинг продюсеров: Котонэ Фудзита (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-fktn_03",
+      "name": "Рейтинг продюсеров: Котонэ Фудзита (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-fktn_04",
+      "name": "Рейтинг продюсера: Котонэ Фудзита, сезон 5, «Сириус» (Топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-fktn_05",
+      "name": "Рейтинг продюсеров: Котонэ Фудзита (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-fktn_06",
+      "name": "Рейтинг продюсеров: Котонэ Фудзита (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-fktn_07",
+      "name": "Рейтинг продюсеров: Котонэ Фудзита (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-hkne_01",
+      "name": "Рейтинг продюсеров: Канаэ Химаватари (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-hkne_02",
+      "name": "Рейтинг продюсеров: Канаэ Химаватари (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-hkne_03",
+      "name": "Рейтинг продюсеров: Канаэ Химаватари (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-hkne_04",
+      "name": "Рейтинг продюсеров: Канаэ Химаватари (Сезон 5, Sirius, топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-hkne_05",
+      "name": "Рейтинг продюсеров: Канаэ Химаватари (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-hkne_06",
+      "name": "Рейтинг продюсеров: Канаэ Химаватари (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-hkne_07",
+      "name": "Рейтинг продюсеров: Канаэ Химаватари (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-hmsz_01",
+      "name": "Рейтинг продюсеров: Мисудзу Хатая (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-hmsz_02",
+      "name": "Рейтинг продюсеров: Мисудзу Хатая (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-hmsz_03",
+      "name": "Рейтинг продюсеров: Мисудзу Хатая (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-hmsz_04",
+      "name": "Рейтинг продюсера: Мисудзу Хатая, сезон 5, «Сириус» (Топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-hmsz_05",
+      "name": "Рейтинг продюсеров: Мисудзу Хатая (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-hmsz_06",
+      "name": "Рейтинг продюсеров: Мисудзу Хатая (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-hmsz_07",
+      "name": "Рейтинг продюсеров: Мисудзу Хатая (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-hrnm_01",
+      "name": "Рейтинг продюсеров: Ринами Химесаки (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-hrnm_02",
+      "name": "Рейтинг продюсеров: Ринами Химесаки (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-hrnm_03",
+      "name": "Рейтинг продюсеров: Ринами Химесаки (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-hrnm_04",
+      "name": "Рейтинг продюсера: Ринами Химесаки, сезон 5, «Сириус» (Топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-hrnm_05",
+      "name": "Рейтинг продюсеров: Ринами Химесаки (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-hrnm_06",
+      "name": "Рейтинг продюсеров: Ринами Химесаки (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-hrnm_07",
+      "name": "Рейтинг продюсеров: Ринами Химесаки (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-hski_01",
+      "name": "Рейтинг продюсеров: Саки Ханами (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-hski_02",
+      "name": "Рейтинг продюсеров: Саки Ханами (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-hski_03",
+      "name": "Рейтинг продюсеров: Саки Ханами (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-hski_04",
+      "name": "Рейтинг продюсера: Саки Ханами, сезон 5, «Сириус» (Топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-hski_05",
+      "name": "Рейтинг продюсеров: Саки Ханами (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-hski_06",
+      "name": "Рейтинг продюсеров: Саки Ханами (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-hski_07",
+      "name": "Рейтинг продюсеров: Саки Ханами (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-hume_01",
+      "name": "Рейтинг продюсеров: Умэ Ханами (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-hume_02",
+      "name": "Рейтинг продюсеров: Умэ Ханами (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-hume_03",
+      "name": "Рейтинг продюсеров: Умэ Ханами (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-hume_04",
+      "name": "Рейтинг продюсера: Умэ Ханами, сезон 5, «Сириус» (Топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-hume_05",
+      "name": "Рейтинг продюсеров: Умэ Ханами (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-hume_06",
+      "name": "Рейтинг продюсеров: Умэ Ханами (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-hume_07",
+      "name": "Рейтинг продюсеров: Умэ Ханами (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-jsna_01",
+      "name": "Рейтинг продюсеров: Сэна Дзюо (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-jsna_02",
+      "name": "Рейтинг продюсеров: Сэна Дзюо (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-jsna_03",
+      "name": "Рейтинг продюсеров: Сэна Дзюо (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-jsna_04",
+      "name": "Рейтинг продюсера: Сэна Дзюо, сезон 5, «Сириус» (Топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-jsna_05",
+      "name": "Рейтинг продюсеров: Сэна Дзюо (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-jsna_06",
+      "name": "Рейтинг продюсеров: Сэна Дзюо (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-jsna_07",
+      "name": "Рейтинг продюсеров: Сэна Дзюо (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-kcna_01",
+      "name": "Рейтинг продюсеров: Тина Курамото (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-kcna_02",
+      "name": "Рейтинг продюсеров: Тина Курамото (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-kcna_03",
+      "name": "Рейтинг продюсеров: Тина Курамото (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-kcna_04",
+      "name": "Рейтинг продюсера: Тина Курамото, сезон 5, «Сириус» (Топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-kcna_05",
+      "name": "Рейтинг продюсеров: Тина Курамото (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-kcna_06",
+      "name": "Рейтинг продюсеров: Тина Курамото (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-kcna_07",
+      "name": "Рейтинг продюсеров: Тина Курамото (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-kllj_01",
+      "name": "Рейтинг продюсеров: Лилья Кацураги (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-kllj_02",
+      "name": "Рейтинг продюсеров: Лилья Кацураги (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-kllj_03",
+      "name": "Рейтинг продюсеров: Лилья Кацураги (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-kllj_04",
+      "name": "Рейтинг продюсера: Лилья Кацураги, сезон 5, «Сириус» (Топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-kllj_05",
+      "name": "Рейтинг продюсеров: Лилья Кацураги (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-kllj_06",
+      "name": "Рейтинг продюсеров: Лилья Кацураги (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-kllj_07",
+      "name": "Рейтинг продюсеров: Лилья Кацураги (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-shro_01",
+      "name": "Рейтинг продюсеров: Хиро Синодзава (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-shro_02",
+      "name": "Рейтинг продюсеров: Хиро Синодзава (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-shro_03",
+      "name": "Рейтинг продюсеров: Хиро Синодзава (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-shro_04",
+      "name": "Рейтинг продюсеров: Хиро Синодзава (Сезон 5, Sirius, топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-shro_05",
+      "name": "Рейтинг продюсеров: Хиро Синодзава (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-shro_06",
+      "name": "Рейтинг продюсеров: Хиро Синодзава (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-shro_07",
+      "name": "Рейтинг продюсеров: Хиро Синодзава (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-ssmk_01",
+      "name": "Рейтинг продюсеров: Сумика Сиун (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-ssmk_02",
+      "name": "Рейтинг продюсеров: Сумика Сиун (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-ssmk_03",
+      "name": "Рейтинг продюсеров: Сумика Сиун (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-ssmk_04",
+      "name": "Рейтинг продюсера: Сумика Сиун, сезон 5, «Сириус» (Топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-ssmk_05",
+      "name": "Рейтинг продюсеров: Сумика Сиун (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-ssmk_06",
+      "name": "Рейтинг продюсеров: Сумика Сиун (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-ssmk_07",
+      "name": "Рейтинг продюсеров: Сумика Сиун (Сезон 5, Altair)"
+    },
+    {
+      "id": "badge-producerranking_005-ttmr_01",
+      "name": "Рейтинг продюсеров: Темари Цукимура (Сезон 5, THE STAR, топ-100)"
+    },
+    {
+      "id": "badge-producerranking_005-ttmr_02",
+      "name": "Рейтинг продюсеров: Темари Цукимура (Сезон 5, THE STAR, топ-1,000)"
+    },
+    {
+      "id": "badge-producerranking_005-ttmr_03",
+      "name": "Рейтинг продюсеров: Темари Цукимура (Сезон 5, THE STAR)"
+    },
+    {
+      "id": "badge-producerranking_005-ttmr_04",
+      "name": "Рейтинг продюсера: Темари Цукимура, сезон 5, «Сириус» (Топ-5000)"
+    },
+    {
+      "id": "badge-producerranking_005-ttmr_05",
+      "name": "Рейтинг продюсеров: Темари Цукимура (Сезон 5, Sirius)"
+    },
+    {
+      "id": "badge-producerranking_005-ttmr_06",
+      "name": "Рейтинг продюсеров: Темари Цукимура (Сезон 5, Vega)"
+    },
+    {
+      "id": "badge-producerranking_005-ttmr_07",
+      "name": "Рейтинг продюсеров: Темари Цукимура (Сезон 5, Altair)"
+    },
+    {
       "id": "badge-producerranking-000-amao-01",
       "name": "Рейтинг продюсеров: Мао Аримура, Сезон 0 THE STAR (ТОП-100)"
     },
@@ -2282,6 +2674,10 @@
       "name": "Котонэ Фудзита"
     },
     {
+      "id": "idol-hkne-01",
+      "name": "Канаэ Химаватари"
+    },
+    {
       "id": "idol-hmsz-01",
       "name": "Мисудзу Хатая"
     },
@@ -2854,12 +3250,28 @@
       "name": "Мао Аримура"
     },
     {
+      "id": "sd-amao-02",
+      "name": "Визитка, часть\nМао Аримура (Костюм горничной)"
+    },
+    {
       "id": "sd-atbm-01",
       "name": "Цубамэ Амая"
     },
     {
+      "id": "sd-atbm-02",
+      "name": "Визитка, часть\nЦубамэ Амая (Костюм горничной)"
+    },
+    {
       "id": "sd-fktn-01",
       "name": "Котонэ Фудзита"
+    },
+    {
+      "id": "sd-fktn-02",
+      "name": "Визитка, часть\nКотонэ Фудзита (Костюм горничной)"
+    },
+    {
+      "id": "sd-hkne-01",
+      "name": "Канаэ Химаватари"
     },
     {
       "id": "sd-hmsz-01",
@@ -2894,28 +3306,56 @@
       "name": "Мисудзу Хатая⑦"
     },
     {
+      "id": "sd-hmsz-09",
+      "name": "Визитка, часть\nМисудзу Хатая (Костюм горничной)"
+    },
+    {
       "id": "sd-hrnm-01",
       "name": "Ринами Химесаки"
+    },
+    {
+      "id": "sd-hrnm-02",
+      "name": "Визитка, часть\nРинами Химесаки (Костюм горничной)"
     },
     {
       "id": "sd-hski-01",
       "name": "Саки Ханами"
     },
     {
+      "id": "sd-hski-02",
+      "name": "Визитка, часть\nСаки Ханами (Костюм горничной)"
+    },
+    {
       "id": "sd-hume-01",
       "name": "Умэ Ханами"
+    },
+    {
+      "id": "sd-hume-02",
+      "name": "Визитка, часть\nУмэ Ханами (Костюм горничной)"
     },
     {
       "id": "sd-jsna-01",
       "name": "Сэна Дзюо"
     },
     {
+      "id": "sd-jsna-02",
+      "name": "Визитка, часть\nСэна Дзюо (Костюм горничной)"
+    },
+    {
       "id": "sd-kcna-01",
       "name": "Тина Курамото"
     },
     {
+      "id": "sd-kcna-02",
+      "name": "Визитка, часть\nТина Курамото (Костюм горничной)"
+    },
+    {
       "id": "sd-kllj-01",
       "name": "Лилья Кацураги"
+    },
+    {
+      "id": "sd-kllj-02",
+      "name": "Визитка, часть\nЛилья Кацураги (Костюм горничной)"
     },
     {
       "id": "sd-reversi-01",
@@ -2930,12 +3370,24 @@
       "name": "Хиро Синосава"
     },
     {
+      "id": "sd-shro-02",
+      "name": "Визитка, часть\nХиро Синосава (Костюм горничной)"
+    },
+    {
       "id": "sd-ssmk-01",
       "name": "Сумика Сиун"
     },
     {
+      "id": "sd-ssmk-02",
+      "name": "Визитка, часть\nСумика Сиун (Костюм горничной)"
+    },
+    {
       "id": "sd-ttmr-01",
       "name": "Темари Цукимура"
+    },
+    {
+      "id": "sd-ttmr-02",
+      "name": "Визитка, часть\nТемари Цукимура (Костюм горничной)"
     },
     {
       "id": "sd-yumepathy-01",
@@ -2960,6 +3412,10 @@
     {
       "id": "sign-fktn-03",
       "name": "Детали визитки айдола"
+    },
+    {
+      "id": "sign-hkne-02",
+      "name": "Канаэ Химаватари"
     },
     {
       "id": "sign-hmsz-02",
@@ -3067,6 +3523,14 @@
     },
     {
       "id": "stamp-fktn-03",
+      "name": ""
+    },
+    {
+      "id": "stamp-hkne-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-hkne-02",
       "name": ""
     },
     {

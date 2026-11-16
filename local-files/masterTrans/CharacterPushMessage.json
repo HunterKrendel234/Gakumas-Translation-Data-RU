@@ -281,6 +281,97 @@
       "message": "Только что закончила стрим, вся такая счастливая! Это действительно было похоже на настоящую работу Айдола～ и я чувствую себя таак счастливой♡"
     },
     {
+      "characterId": "hkne",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "Канаэ Хиватари",
+      "message": "Вы успели отдохнуть? Позаботившись о моей госпоже, дайте мне знать, когда будете готовы к Уроку."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "Канаэ Хиватари",
+      "message": "Я в полном порядке. Самое время для Урока, так что дайте мне знать, когда будете готовы."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "Канаэ Хиватари",
+      "message": "Похоже, вы можете собрать деньги. Давайте сходим и заберем их вместе."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "Канаэ Хиватари",
+      "message": "Похоже, вы забыли собрать свои деньги. Пожалуйста, соберите их в ближайшее время."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "Канаэ Хиватари",
+      "message": "...Похоже, вы еще не выполнили сегодняшние миссии. Рекомендую заняться ими поскорее."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "Канаэ Хиватари",
+      "message": "...Эм, пожалуйста, возвращайтесь."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_PvpRateRemainingPlayCount",
+      "number": 1,
+      "title": "Канаэ Хиватари",
+      "message": "Вы еще не участвовали в сегодняшнем Турнире. Давайте поскорее примем участие."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "Канаэ Хиватари",
+      "message": "Я-я очень нервничала, но мне кажется, у меня получилось провести хороший мини-концерт..."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "Канаэ Хиватари",
+      "message": "Мини-концерт окончен. Я хотела бы сразу его просмотреть, так что, пожалуйста, останьтесь со мной."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "Канаэ Хиватари",
+      "message": "Мини-концерт окончен, пожалуйста, заберите свои награды."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "Канаэ Хиватари",
+      "message": "Трансляция окончена, так что для начала заберите свои награды. А после давайте обсудим, как все прошло."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "Канаэ Хиватари",
+      "message": "Эм... я во многом сомневалась, но трансляция была веселой."
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "Канаэ Хиватари",
+      "message": "Трансляция окончена. Надеюсь, однажды я смогу сделать что-то подобное вместе с вами, моя госпожа...!"
+    },
+    {
       "characterId": "hmsz",
       "type": "PushType_ApFull",
       "number": 1,

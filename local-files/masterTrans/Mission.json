@@ -1314,6 +1314,10 @@
       "name": "Получите ранг B с SSR Котонэ"
     },
     {
+      "id": "hidden_mission-normal-produce-clear-i_card-hkne-3-000-b",
+      "name": "Получите рейтинг B с SSR Канаэ"
+    },
+    {
       "id": "hidden_mission-normal-produce-clear-i_card-hmsz-3-000-b",
       "name": "SSR Мисудзу с рангом B"
     },
@@ -1438,6 +1442,10 @@
       "name": "Получите звезду на 【Дороге Айдола】"
     },
     {
+      "id": "hidden_mission-view-ending-a-hkne",
+      "name": "Увидьте концовку A с Канаэ"
+    },
+    {
       "id": "hidden_mission-view-ending-a-hmsz",
       "name": "Увидьте концовку A с Мисудзу"
     },
@@ -1494,8 +1502,16 @@
       "name": "Достигните концовки A с Темари Цукимура"
     },
     {
+      "id": "hidden_mission-view-ending-b-hkne",
+      "name": "Увидьте концовку B с Канаэ"
+    },
+    {
       "id": "hidden_mission-view-ending-b-hmsz",
       "name": "Увидьте концовку B с Мисудзу"
+    },
+    {
+      "id": "hidden_mission-view-ending-c-hkne",
+      "name": "Увидьте концовку C с Канаэ"
     },
     {
       "id": "hidden_mission-view-ending-c-hmsz",
@@ -1708,6 +1724,10 @@
     {
       "id": "hidden_mission-view-ending-true-fktn",
       "name": "Достигните True End с Котонэ"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-hkne",
+      "name": "Увидьте True End с Канаэ"
     },
     {
       "id": "hidden_mission-view-ending-true-hmsz",
@@ -6262,6 +6282,10 @@
       "name": "Условие активации набора фрагментов Цубамэ"
     },
     {
+      "id": "mission-normal-view-shop_pack_hkne-0001",
+      "name": "Условие разблокировки набора фрагментов Канаэ"
+    },
+    {
       "id": "mission-normal-view-shop_pack_hmsz-0001",
       "name": "Условия активации набора фрагментов Мисудзу"
     },
@@ -8006,6 +8030,78 @@
       "name": "Пройдите финальный экзамен {threshold} раз(а)"
     },
     {
+      "id": "panel_mission-event-012-mission_1",
+      "name": "Завершите Продюсирование с Саки Ханами {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_11",
+      "name": "Обменяйте {threshold} раз(а) в Обменнике Денег"
+    },
+    {
+      "id": "panel_mission-event-012-mission_12",
+      "name": "Завершите Продюсирование с Лилья Кацураги {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_13",
+      "name": "Завершите Продюсирование с Сумика Сиун {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_14",
+      "name": "Завершите Продюсирование с Цубамэ Амая {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_15",
+      "name": "Завершите Продюсирование с Сэна Дзюо {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_16",
+      "name": "Завершите Продюсирование с Мисудзу Хатая {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_17",
+      "name": "Участвуйте в турнире {threshold} раз(а)"
+    },
+    {
+      "id": "panel_mission-event-012-mission_18",
+      "name": "Завершите Продюсирование с Мао Аримура {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_19",
+      "name": "Завершите Продюсирование с Ринами Химесаки {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_2",
+      "name": "Завершите Продюсирование с Темари Цукимура {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_3",
+      "name": "Завершите Продюсирование с Котонэ Фудзита {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_4",
+      "name": "Соберите деньги"
+    },
+    {
+      "id": "panel_mission-event-012-mission_5",
+      "name": "Завершите Продюсирование с Канаэ Хиватари {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_6",
+      "name": "Начните {threshold} работ(ы/у)"
+    },
+    {
+      "id": "panel_mission-event-012-mission_7",
+      "name": "Завершите Продюсирование с Умэ Ханами {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_8",
+      "name": "Завершите Продюсирование с Тина Курамото {threshold} раз"
+    },
+    {
+      "id": "panel_mission-event-012-mission_9",
+      "name": "Завершите Продюсирование с Хиро Синосава {threshold} раз"
+    },
+    {
       "id": "panel_mission-event-niv-mission_1",
       "name": "Сдайте финальный экзамен с оценкой B+ или выше {threshold} раз(а)"
     },
@@ -8592,6 +8688,54 @@
     {
       "id": "achieve-i_card-fktn-3-019-06",
       "name": "【GO MY WAY!!】Повысьте уровень тренировки Котонэ Фудзиты до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-01",
+      "name": "【Taking it one step at a time】Pass the Final Exam while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-02",
+      "name": "【Taking it one step at a time】Raise the Training Level of Kanae Hiwatari to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-03",
+      "name": "【Taking it one step at a time】Earn an A+ or higher {threshold} times while producing Kanae Hiwatari"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-04",
+      "name": "【Taking it one step at a time】Raise the Training Level of Kanae Hiwatari to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-05",
+      "name": "【Taking it one step at a time】Raise the Training Level of Kanae Hiwatari to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-2-000-06",
+      "name": "【Taking it one step at a time】Raise the Training Level of Kanae Hiwatari to {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-01",
+      "name": "【Metamorphose】Пройдите Финальный экзамен во время продюсирования Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-02",
+      "name": "【Metamorphose】Повысьте уровень тренировки Канаэ Хиватари до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-03",
+      "name": "【Metamorphose】Получите оценку A+ или выше {threshold} раз, продюсируя Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-04",
+      "name": "【Metamorphose】Повысьте уровень тренировки Канаэ Хиватари до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-05",
+      "name": "【Metamorphose】Повысьте уровень тренировки Канаэ Хиватари до {threshold}"
+    },
+    {
+      "id": "achieve-i_card-hkne-3-000-06",
+      "name": "【Metamorphose】Повысьте уровень тренировки Канаэ Хиватари до {threshold}"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-01",
@@ -11078,6 +11222,10 @@
       "name": "Заработайте {threshold} звезд в достижениях Котонэ Фудзиты"
     },
     {
+      "id": "achieve-m_hkne-001",
+      "name": "Заработайте {threshold} звезд в Достижениях Канаэ Хиватари"
+    },
+    {
       "id": "achieve-m_hmsz-001",
       "name": "Заработайте {threshold} ★ достижений для Мисудзу Хатаи"
     },
@@ -11470,6 +11618,42 @@
       "name": "Сдайте Финальный Экзамен с Мао Аримурой, получив оценку S4 или выше {threshold} раз(а)"
     },
     {
+      "id": "achieve-p_idol-amao-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Мао Аримуры"
+    },
+    {
+      "id": "achieve-p_idol-amao-031",
+      "name": "Получите в общей сложности {threshold} причесок для Мао Аримуры"
+    },
+    {
+      "id": "achieve-p_idol-amao-033",
+      "name": "Откройте в общей сложности {threshold} песен для Мао Аримуры"
+    },
+    {
+      "id": "achieve-p_idol-amao-034",
+      "name": "Займите место в топ-2000 в Продюсерском рейтинге Мао Аримуры в течение {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-amao-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Мао Аримуры"
+    },
+    {
+      "id": "achieve-p_idol-amao-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Мао Аримуры"
+    },
+    {
+      "id": "achieve-p_idol-amao-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Мао Аримурой"
+    },
+    {
+      "id": "achieve-p_idol-amao-038",
+      "name": "Сделайте {threshold} фотографий Мао Аримуры"
+    },
+    {
+      "id": "achieve-p_idol-amao-039",
+      "name": "Примите участие в Турнире {threshold} раз с Мао Аримурой"
+    },
+    {
       "id": "achieve-p_idol-atbm-000",
       "name": "Увидьте True End с Цубамэ Амаей"
     },
@@ -11584,6 +11768,42 @@
     {
       "id": "achieve-p_idol-atbm-027",
       "name": "Сдайте финальный экзамен с Цубамэ Амаей и получите оценку S4 или выше {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-atbm-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Цубамэ Амаи"
+    },
+    {
+      "id": "achieve-p_idol-atbm-031",
+      "name": "Получите в общей сложности {threshold} причесок для Цубамэ Амаи"
+    },
+    {
+      "id": "achieve-p_idol-atbm-033",
+      "name": "Откройте в общей сложности {threshold} песен для Цубамэ Амаи"
+    },
+    {
+      "id": "achieve-p_idol-atbm-034",
+      "name": "Войдите в топ-2000 в рейтинге продюсеров Цубамэ Амаи за {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-atbm-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Цубамэ Амаи"
+    },
+    {
+      "id": "achieve-p_idol-atbm-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Цубамэ Амаи"
+    },
+    {
+      "id": "achieve-p_idol-atbm-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Цубамэ Амайей"
+    },
+    {
+      "id": "achieve-p_idol-atbm-038",
+      "name": "Сделайте {threshold} фотографий Цубамэ Амаи"
+    },
+    {
+      "id": "achieve-p_idol-atbm-039",
+      "name": "Примите участие в Турнире {threshold} раз с Цубамэ Амайей"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -11922,6 +12142,174 @@
       "name": "Сдайте финальный экзамен с Котонэ Фудзитой и получите оценку S4 или выше {threshold} раз"
     },
     {
+      "id": "achieve-p_idol-fktn-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Котонэ Фудзиты"
+    },
+    {
+      "id": "achieve-p_idol-fktn-031",
+      "name": "Получите в общей сложности {threshold} причесок для Котонэ Фудзиты"
+    },
+    {
+      "id": "achieve-p_idol-fktn-033",
+      "name": "Откройте в общей сложности {threshold} песен для Котонэ Фудзиты"
+    },
+    {
+      "id": "achieve-p_idol-fktn-034",
+      "name": "Войдите в топ-2000 в рейтинге продюсеров Котонэ Фудзиты за {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-fktn-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Котонэ Фудзиты"
+    },
+    {
+      "id": "achieve-p_idol-fktn-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Котонэ Фудзиты"
+    },
+    {
+      "id": "achieve-p_idol-fktn-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Котонэ Фудзитой"
+    },
+    {
+      "id": "achieve-p_idol-fktn-038",
+      "name": "Сделайте {threshold} фотографий Котонэ Фудзиты"
+    },
+    {
+      "id": "achieve-p_idol-fktn-039",
+      "name": "Примите участие в Турнире {threshold} раз с Котонэ Фудзитой"
+    },
+    {
+      "id": "achieve-p_idol-hkne-000",
+      "name": "Увидьте True End Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-001",
+      "name": "Используйте карты навыка {threshold} раз, продюсируя Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-002",
+      "name": "Завершите Уроки {threshold} раз с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-003",
+      "name": "Завершите SP-уроки {threshold} раз с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-004",
+      "name": "Сдайте Финальный экзамен с рейтингом B или выше {threshold} раз с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-005",
+      "name": "Сдайте Финальный экзамен с рейтингом A или выше {threshold} раз с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-006",
+      "name": "Сдайте Финальный экзамен с рейтингом S или выше {threshold} раз с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-007",
+      "name": "Завершите Продюсирование с Канаэ Хиватари {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-hkne-008",
+      "name": "Повысьте уровень тренировки Канаэ Хиватари до {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hkne-009",
+      "name": "Сдайте Финальный экзамен {threshold} раз, продюсируя Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-010",
+      "name": "Получите {threshold} фанатов для Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-011",
+      "name": "Повысьте уровень близости Канаэ Хиватари до {threshold}"
+    },
+    {
+      "id": "achieve-p_idol-hkne-012",
+      "name": "Наберите суммарный рейтинг продюсирования {threshold} с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-013",
+      "name": "Улучшите карты навыка {threshold} раз во время продюсирования Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-014",
+      "name": "Завершите продюсирование с Канаэ Хиватари, подняв её Визуал минимум до 1000"
+    },
+    {
+      "id": "achieve-p_idol-hkne-015",
+      "name": "Получено {threshold} ★ в 【Пути Айдола】"
+    },
+    {
+      "id": "achieve-p_idol-hkne-016",
+      "name": "Сдайте финальный экзамен с рейтингом S+ или выше {threshold} раз с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-017",
+      "name": "Займите 1-е место на Финальном экзамене на сложности «Мастер» в обычном выступлении Канаэ Хиватари «Hajime»"
+    },
+    {
+      "id": "achieve-p_idol-hkne-018",
+      "name": "Выберите спец. консультацию {threshold} раз(а) в продюсировании"
+    },
+    {
+      "id": "achieve-p_idol-hkne-020",
+      "name": "Сдайте финальный экзамен с рейтингом SS или выше {threshold} раз с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-021",
+      "name": "Сдайте финальный экзамен с рейтингом SS+ или выше {threshold} раз с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-023",
+      "name": "Сдайте финальный экзамен с рейтингом SS или выше {threshold} раз с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-024",
+      "name": "Сдайте финальный экзамен с рейтингом SS+ или выше {threshold} раз с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-027",
+      "name": "Сдайте финальный экзамен с рейтингом S4 или выше {threshold} раз с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-031",
+      "name": "Получите в общей сложности {threshold} причесок для Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-033",
+      "name": "Откройте в общей сложности {threshold} песен для Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-034",
+      "name": "Войдите в топ-2000 рейтинга продюсеров Канаэ Хиватари на {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-hkne-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-038",
+      "name": "Сделайте {threshold} фотографий Канаэ Хиватари"
+    },
+    {
+      "id": "achieve-p_idol-hkne-039",
+      "name": "Примите участие в Турнире {threshold} раз с Канаэ Хиватари"
+    },
+    {
       "id": "achieve-p_idol-hmsz-000",
       "name": "Увидьте True End с Мисудзу Хатаей"
     },
@@ -12036,6 +12424,42 @@
     {
       "id": "achieve-p_idol-hmsz-027",
       "name": "Сдайте финальный экзамен с Мисудзу Хатаей и получите оценку S4 или выше {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Мисудзу Хатаи"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-031",
+      "name": "Получите в общей сложности {threshold} причесок для Мисудзу Хатаи"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-033",
+      "name": "Откройте в общей сложности {threshold} песен для Мисудзу Хатаи"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-034",
+      "name": "Войдите в топ-2000 в рейтинге продюсеров Мисудзу Хатаи за {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Мисудзу Хатаи"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Мисудзу Хатаи"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Мисудзу Хатаей"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-038",
+      "name": "Сделайте {threshold} фотографий Мисудзу Хатаи"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-039",
+      "name": "Примите участие в Турнире {threshold} раз с Мисудзу Хатаей"
     },
     {
       "id": "achieve-p_idol-hrnm-000",
@@ -12158,6 +12582,42 @@
       "name": "Сдайте финальный экзамен с Ринами Химесаки и получите оценку S4 или выше {threshold} раз"
     },
     {
+      "id": "achieve-p_idol-hrnm-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Ринами Химесаки"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-031",
+      "name": "Получите в общей сложности {threshold} причесок для Ринами Химесаки"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-033",
+      "name": "Откройте в общей сложности {threshold} песен для Ринами Химесаки"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-034",
+      "name": "Войдите в топ-2000 в рейтинге продюсеров Ринами Химесаки за {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Ринами Химесаки"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Ринами Химесаки"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Ринами Химесаки"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-038",
+      "name": "Сделайте {threshold} фотографий Ринами Химесаки"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-039",
+      "name": "Примите участие в Турнире {threshold} раз с Ринами Химесаки"
+    },
+    {
       "id": "achieve-p_idol-hski-000",
       "name": "Увидьте True End с Саки Ханами"
     },
@@ -12278,6 +12738,42 @@
       "name": "Сдайте финальный экзамен с Саки Ханами и получите оценку S4 или выше {threshold} раз"
     },
     {
+      "id": "achieve-p_idol-hski-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Саки Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hski-031",
+      "name": "Получите в общей сложности {threshold} причесок для Саки Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hski-033",
+      "name": "Откройте в общей сложности {threshold} песен для Саки Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hski-034",
+      "name": "Войдите в топ-2000 в рейтинге продюсеров Саки Ханами за {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-hski-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Саки Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hski-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Саки Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hski-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Саки Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hski-038",
+      "name": "Сделайте {threshold} фотографий Саки Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hski-039",
+      "name": "Примите участие в Турнире {threshold} раз с Саки Ханами"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "Просмотрите True End с Умэ Ханами"
     },
@@ -12392,6 +12888,42 @@
     {
       "id": "achieve-p_idol-hume-027",
       "name": "Сдайте финальный экзамен с Умэ Ханами и получите оценку S4 или выше {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-hume-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Умэ Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hume-031",
+      "name": "Получите в общей сложности {threshold} причесок для Умэ Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hume-033",
+      "name": "Откройте в общей сложности {threshold} песен для Умэ Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hume-034",
+      "name": "Войдите в топ-2000 в рейтинге продюсеров Умэ Ханами за {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-hume-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Умэ Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hume-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Умэ Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hume-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Умэ Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hume-038",
+      "name": "Сделайте {threshold} фотографий Умэ Ханами"
+    },
+    {
+      "id": "achieve-p_idol-hume-039",
+      "name": "Примите участие в Турнире {threshold} раз с Умэ Ханами"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -12514,6 +13046,42 @@
       "name": "Сдайте финальный экзамен с Сэной Дзюо и получите оценку S4 или выше {threshold} раз"
     },
     {
+      "id": "achieve-p_idol-jsna-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Сэны Дзюо"
+    },
+    {
+      "id": "achieve-p_idol-jsna-031",
+      "name": "Получите в общей сложности {threshold} причесок для Сэны Дзюо"
+    },
+    {
+      "id": "achieve-p_idol-jsna-033",
+      "name": "Откройте в общей сложности {threshold} песен для Сэны Дзюо"
+    },
+    {
+      "id": "achieve-p_idol-jsna-034",
+      "name": "Войдите в топ-2000 в рейтинге продюсеров Сэны Дзюо за {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-jsna-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Сэны Дзюо"
+    },
+    {
+      "id": "achieve-p_idol-jsna-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Сэны Дзюо"
+    },
+    {
+      "id": "achieve-p_idol-jsna-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Сэной Дзюо"
+    },
+    {
+      "id": "achieve-p_idol-jsna-038",
+      "name": "Сделайте {threshold} фотографий Сэны Дзюо"
+    },
+    {
+      "id": "achieve-p_idol-jsna-039",
+      "name": "Примите участие в Турнире {threshold} раз с Сэной Дзюо"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "Просмотрите True End с Тина Курамото"
     },
@@ -12630,6 +13198,42 @@
       "name": "Сдайте финальный экзамен с Тиной Курамото и получите оценку S4 или выше {threshold} раз"
     },
     {
+      "id": "achieve-p_idol-kcna-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Тины Курамото"
+    },
+    {
+      "id": "achieve-p_idol-kcna-031",
+      "name": "Получите в общей сложности {threshold} причесок для Тины Курамото"
+    },
+    {
+      "id": "achieve-p_idol-kcna-033",
+      "name": "Откройте в общей сложности {threshold} песен для Тины Курамото"
+    },
+    {
+      "id": "achieve-p_idol-kcna-034",
+      "name": "Войдите в топ-2000 в рейтинге продюсеров Тины Курамото за {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-kcna-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Тины Курамото"
+    },
+    {
+      "id": "achieve-p_idol-kcna-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Тины Курамото"
+    },
+    {
+      "id": "achieve-p_idol-kcna-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Тиной Курамото"
+    },
+    {
+      "id": "achieve-p_idol-kcna-038",
+      "name": "Сделайте {threshold} фотографий Тины Курамото"
+    },
+    {
+      "id": "achieve-p_idol-kcna-039",
+      "name": "Примите участие в Турнире {threshold} раз с Тиной Курамото"
+    },
+    {
       "id": "achieve-p_idol-kllj-000",
       "name": "Увидьте True End с Лильей Кацураги"
     },
@@ -12744,6 +13348,42 @@
     {
       "id": "achieve-p_idol-kllj-027",
       "name": "Сдайте финальный экзамен с Лильей Кацураги и получите оценку S4 или выше {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-kllj-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Лильи Кацураги"
+    },
+    {
+      "id": "achieve-p_idol-kllj-031",
+      "name": "Получите в общей сложности {threshold} причесок для Лильи Кацураги"
+    },
+    {
+      "id": "achieve-p_idol-kllj-033",
+      "name": "Откройте в общей сложности {threshold} песен для Лильи Кацураги"
+    },
+    {
+      "id": "achieve-p_idol-kllj-034",
+      "name": "Войдите в топ-2000 в рейтинге продюсеров Лильи Кацураги за {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-kllj-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Лильи Кацураги"
+    },
+    {
+      "id": "achieve-p_idol-kllj-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Лильи Кацураги"
+    },
+    {
+      "id": "achieve-p_idol-kllj-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Лильей Кацураги"
+    },
+    {
+      "id": "achieve-p_idol-kllj-038",
+      "name": "Сделайте {threshold} фотографий Лильи Кацураги"
+    },
+    {
+      "id": "achieve-p_idol-kllj-039",
+      "name": "Примите участие в Турнире {threshold} раз с Лильей Кацураги"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -12866,6 +13506,42 @@
       "name": "Сдайте финальный экзамен с Хиро Синосавой и получите оценку S4 или выше {threshold} раз"
     },
     {
+      "id": "achieve-p_idol-shro-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Хиро Синосавы"
+    },
+    {
+      "id": "achieve-p_idol-shro-031",
+      "name": "Получите в общей сложности {threshold} причесок для Хиро Синосавы"
+    },
+    {
+      "id": "achieve-p_idol-shro-033",
+      "name": "Откройте в общей сложности {threshold} песен для Хиро Синосавы"
+    },
+    {
+      "id": "achieve-p_idol-shro-034",
+      "name": "Войдите в топ-2000 в рейтинге продюсеров Хиро Синосавы за {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-shro-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Хиро Синосавы"
+    },
+    {
+      "id": "achieve-p_idol-shro-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Хиро Синосавы"
+    },
+    {
+      "id": "achieve-p_idol-shro-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Хиро Синосавой"
+    },
+    {
+      "id": "achieve-p_idol-shro-038",
+      "name": "Сделайте {threshold} фотографий Хиро Синосавы"
+    },
+    {
+      "id": "achieve-p_idol-shro-039",
+      "name": "Примите участие в Турнире {threshold} раз с Хиро Синосавой"
+    },
+    {
       "id": "achieve-p_idol-ssmk-000",
       "name": "Просмотрите True End с Сумика Сиун"
     },
@@ -12980,6 +13656,42 @@
     {
       "id": "achieve-p_idol-ssmk-027",
       "name": "Сдайте финальный экзамен с Сумикой Сиун и получите оценку S4 или выше {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Сумики Сиун"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-031",
+      "name": "Получите в общей сложности {threshold} причесок для Сумики Сиун"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-033",
+      "name": "Откройте в общей сложности {threshold} песен для Сумики Сиун"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-034",
+      "name": "Войдите в топ-2000 в рейтинге продюсеров Сумики Сиун за {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Сумики Сиун"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Сумики Сиун"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Сумикой Сиун"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-038",
+      "name": "Сделайте {threshold} фотографий Сумики Сиун"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-039",
+      "name": "Примите участие в Турнире {threshold} раз с Сумикой Сиун"
     },
     {
       "id": "achieve-p_idol-ttmr-000",
@@ -13100,6 +13812,42 @@
     {
       "id": "achieve-p_idol-ttmr-027",
       "name": "Сдайте финальный экзамен с Темари Цукимурой и получите оценку S4 или выше {threshold} раз"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-030",
+      "name": "Получите в общей сложности {threshold} костюмов для Темари Цукимуры"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-031",
+      "name": "Получите в общей сложности {threshold} причесок для Темари Цукимуры"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-033",
+      "name": "Откройте в общей сложности {threshold} песен для Темари Цукимуры"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-034",
+      "name": "Войдите в топ-2000 в рейтинге продюсеров Темари Цукимуры за {threshold} сезонов"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-035",
+      "name": "Получите в общей сложности {threshold} Продюсируемых айдолов для Темари Цукимуры"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-036",
+      "name": "Посмотрите {threshold} разных Истинных выступлений для Темари Цукимуры"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-037",
+      "name": "Отработайте в общей сложности {threshold} часов с Темари Цукимурой"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-038",
+      "name": "Сделайте {threshold} фотографий Темари Цукимуры"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-039",
+      "name": "Примите участие в Турнире {threshold} раз с Темари Цукимурой"
     },
     {
       "id": "achievement_char_hume-024",

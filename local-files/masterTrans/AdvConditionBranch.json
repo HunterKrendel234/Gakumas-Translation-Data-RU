@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": "kllj_reversi",
+      "conditionSetId": "",
+      "title": "Обычный"
+    },
+    {
+      "id": "kllj_reversi",
+      "conditionSetId": "cd-have_i_card-kllj-3-017",
+      "title": "РЕВЕРСИ"
+    },
+    {
+      "id": "ssmk_reversi",
+      "conditionSetId": "",
+      "title": "Обычный"
+    },
+    {
+      "id": "ssmk_reversi",
+      "conditionSetId": "cd-have_i_card-ssmk-3-017",
+      "title": "РЕВЕРСИ"
+    }
+  ]
+}
