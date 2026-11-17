@@ -70,12 +70,30 @@
       "bottomAppealText": "Еще {0}"
     },
     {
+      "id": "gasha_button_01070-ssr-idol-001",
+      "order": 1,
+      "name": "Платная гача на 10 попыток",
+      "description": "Платная гача на 10 попыток",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": "Еще {0}"
+    },
+    {
       "id": "gasha_button_animate-ssr-00630",
       "order": 1,
       "name": "Платная гача на 10 попыток",
       "description": "Платная гача на 10 попыток",
       "appealText": "",
       "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button_item-gachaticket-2.5th-anniv-10-001",
+      "order": 1,
+      "name": "Использовать билет на 10-кратную гачу в честь 2,5-летия",
+      "description": "Гача на 10 попыток",
+      "appealText": "1 SR или выше ",
+      "highAppealText": "1 SR или выше ",
       "bottomAppealText": ""
     },
     {
@@ -569,6 +587,51 @@
       "order": 1,
       "name": "Использовать билет, повышающий шанс выпадения SSR P-Айдола в 10 раз",
       "description": "Использовать билет, повышающий шанс выпадения SSR P-Айдола в 10 раз",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ssr-idol-002",
+      "order": 1,
+      "name": "Использовать билет на гачу с гарантированным SSR Айдолом (Продюсирование), включая сезонных айдолов в честь 2,5-летия",
+      "description": "Использовать билет на гачу с гарантированным SSR Айдолом (Продюсирование), включая сезонных айдолов в честь 2,5-летия",
+      "appealText": "Гарантированный SSR",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ssr-support-002",
+      "order": 1,
+      "name": "Использовать билет на гачу с гарантированной SSR Картой Поддержки, включая сезонные карты в честь 2,5-летия",
+      "description": "Использовать билет на гачу с гарантированной SSR Картой Поддержки, включая сезонные карты в честь 2,5-летия",
+      "appealText": "Гарантированный SSR",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ticket-001",
+      "order": 1,
+      "name": "Использовать билет на гачу с гарантией 2 SSR Айдолов (Продюсирование)! (2 попытки)",
+      "description": "Использовать билет на гачу с гарантией 2 SSR Айдолов (Продюсирование)! (2 попытки)",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-ticket-002",
+      "order": 1,
+      "name": "Использовать билет на 10-кратную гачу с 10-кратным шансом появления SSR Айдола (Продюсирование)",
+      "description": "Использовать билет на 10-кратную гачу с 10-кратным шансом появления SSR Айдола (Продюсирование)",
+      "appealText": "",
+      "highAppealText": "",
+      "bottomAppealText": ""
+    },
+    {
+      "id": "gasha_button-01070-wednesday-001",
+      "order": 1,
+      "name": "Использовать билет",
+      "description": "Использовать билет",
       "appealText": "",
       "highAppealText": "",
       "bottomAppealText": ""

@@ -2798,6 +2798,41 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-017-01-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Восстановление Выносливости, 10% от макс. Выносливости\n100% шанс выбрать и получить 1 Карту Навыка "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardUpgrade",
+          "text": "и улучшите "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\nВозможна повторная попытка с более низким шансом"
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-017-01-hmsz",
       "produceDescriptions": [
         {
@@ -2883,6 +2918,21 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-017-02-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Ничего не делать и вернуться к продюсированию "
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-017-02-hmsz",
       "produceDescriptions": [
         {
@@ -2914,6 +2964,41 @@
     },
     {
       "id": "p_s_e_s-event-detail-activity-001-017-1-01-atbm",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Восстановление Выносливости, 10% от макс. Выносливости\n70% шанс на успех и выбор 1 Карты Навыка "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardUpgrade",
+          "text": "и улучшите "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n30% шанс на провал без эффекта "
+        }
+      ]
+    },
+    {
+      "id": "p_s_e_s-event-detail-activity-001-017-1-01-hkne",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3033,6 +3118,21 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-017-1-02-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Ничего не делать и вернуться к продюсированию "
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-017-1-02-hmsz",
       "produceDescriptions": [
         {
@@ -3064,6 +3164,21 @@
     },
     {
       "id": "p_s_e_s-event-detail-activity-001-018-01-atbm",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Восстановление Выносливости, 40% от макс. Выносливости\n100% шанс успеха и выбор Карты Навыка (высокий шанс SSR)\nШанс уменьшается, возможна повторная попытка "
+        }
+      ]
+    },
+    {
+      "id": "p_s_e_s-event-detail-activity-001-018-01-hkne",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3123,6 +3238,21 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-018-02-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Ничего не делать и вернуться к продюсированию "
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-018-02-hmsz",
       "produceDescriptions": [
         {
@@ -3168,6 +3298,21 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-018-1-01-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Восстановление Выносливости, 40% от макс. Выносливости\n70% шанс успеха и выбор Карты Навыка (высокий шанс SSR)\n30% шанс провала и получение проблемной карты \"Сонливость\" "
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-018-1-01-hmsz",
       "produceDescriptions": [
         {
@@ -3199,6 +3344,21 @@
     },
     {
       "id": "p_s_e_s-event-detail-activity-001-018-1-02-atbm",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Ничего не делать и вернуться к продюсированию "
+        }
+      ]
+    },
+    {
+      "id": "p_s_e_s-event-detail-activity-001-018-1-02-hkne",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

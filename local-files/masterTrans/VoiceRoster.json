@@ -3432,6 +3432,441 @@
       "title": "Начало работы ②"
     },
     {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_cmmn_clothe-01",
+      "title": "Переодевание"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_birthday-01",
+      "title": "Главная (День рождения)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-01",
+      "title": "Главная ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-02",
+      "title": "Главная ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-03",
+      "title": "Главная ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-04",
+      "title": "Главная ④"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-05",
+      "title": "Главная ⑤"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-06",
+      "title": "Главная ⑥"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-07",
+      "title": "Главная ⑦"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-08",
+      "title": "Главная ⑧"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-09",
+      "title": "Главная (Ур. отношений 1-3) "
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-10",
+      "title": "Главный экран (Уровень связи 3–5) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-11",
+      "title": "Главный экран (Уровень связи 3–5) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-12",
+      "title": "Главный экран (Уровень связи 5–6) "
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-13",
+      "title": "Главный экран (Уровень связи 6–8) "
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-14",
+      "title": "Главный экран (Уровень связи 7–8)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-15",
+      "title": "Главный экран (Уровень связи 10+) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-16",
+      "title": "Главный экран (Уровень связи 10+) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-17",
+      "title": "Главный экран (Уровень связи 10+) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-18",
+      "title": "Главная ⑨"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-19",
+      "title": "Главная ⑩"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-20",
+      "title": "Главная ⑪"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-21",
+      "title": "Главная ⑫"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-22",
+      "title": "Главная ⑬"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-23",
+      "title": "Главная ⑭"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-24",
+      "title": "Главная ⑮"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_cmmn-25",
+      "title": "Главная ⑯"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_touch-01",
+      "title": "Главная ⑰"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_touch-02",
+      "title": "Главная ⑱"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-01",
+      "title": "Главная (Утро) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-02",
+      "title": "Главная (Утро) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-03",
+      "title": "Главная (День) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-04",
+      "title": "Главная (День) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-05",
+      "title": "Главная (Вечер) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-06",
+      "title": "Главная (Вечер) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-07",
+      "title": "Главная (Ночь) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-08",
+      "title": "Главная (Ночь) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-09",
+      "title": "Главный экран (Новый год 2027)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-10",
+      "title": "Главный экран (День святого Валентина 2027)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-11",
+      "title": "Главный экран (Хэллоуин 2027)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-12",
+      "title": "Главный экран (Рождество 2026)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-13",
+      "title": "Главный экран (Канун Нового 2027 года)"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-14",
+      "title": "Главная (Весна) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-15",
+      "title": "Главная (Весна) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-16",
+      "title": "Главная (Весна) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-17",
+      "title": "Главная (Лето) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-18",
+      "title": "Главная (Лето) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-19",
+      "title": "Главная (Лето) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-20",
+      "title": "Главная (Осень) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-21",
+      "title": "Главная (Осень) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-22",
+      "title": "Главная (Осень) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-23",
+      "title": "Главная (Зима) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-24",
+      "title": "Главная (Зима) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_home_transition-25",
+      "title": "Главная (Зима) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_idol_potential-01",
+      "title": "Раскрытие таланта ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_idol_potential-02",
+      "title": "Раскрытие таланта ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-01",
+      "title": "Результаты продюсирования (True End) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-02",
+      "title": "Результаты продюсирования (True End) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-03",
+      "title": "Результаты продюсирования (True End) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-04",
+      "title": "Результаты продюсирования (Концовка A) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-05",
+      "title": "Результаты продюсирования (Концовка A) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-06",
+      "title": "Результаты продюсирования (Концовка A) ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-07",
+      "title": "Результаты продюсирования (Концовка B〜C) ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_result-08",
+      "title": "Результаты продюсирования (Концовка B〜C) ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-01",
+      "title": "База активности ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-02",
+      "title": "База активности ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-03",
+      "title": "База активности ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-04",
+      "title": "База активности ④"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-05",
+      "title": "База активности ⑤"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-06",
+      "title": "База активности ⑥"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-07",
+      "title": "Крыша ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-08",
+      "title": "Крыша ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-09",
+      "title": "Крыша ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-10",
+      "title": "Внутренний двор ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-11",
+      "title": "Внутренний двор ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-12",
+      "title": "Внутренний двор ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-13",
+      "title": "Класс айдолов ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-14",
+      "title": "Класс айдолов ②"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-15",
+      "title": "Класс айдолов ③"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-16",
+      "title": "База активности ⑦"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-17",
+      "title": "База активности ⑧"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-18",
+      "title": "Класс айдолов ④"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_produce_schedule-19",
+      "title": "Класс айдолов ⑤"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_work_result-01",
+      "title": "Успешная работа"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_work_result-02",
+      "title": "Отличная работа"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_work_start-01",
+      "title": "Начало работы ①"
+    },
+    {
+      "characterId": "hkne",
+      "assetId": "sud_vo_system_hkne_work_start-02",
+      "title": "Начало работы ②"
+    },
+    {
       "characterId": "hmsz",
       "assetId": "sud_vo_system_hmsz_cmmn_clothe-01",
       "title": "Переодевание"

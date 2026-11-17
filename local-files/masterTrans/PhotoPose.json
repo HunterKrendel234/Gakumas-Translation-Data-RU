@@ -18,6 +18,10 @@
       "name": "Игривые прыжки"
     },
     {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-hkne",
+      "name": "Милая поза"
+    },
+    {
       "id": "photo_pose-photo_background-danceroom-01-1-1-1-reaction-hmsz",
       "name": "Милая поза"
     },
@@ -67,6 +71,10 @@
     },
     {
       "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -122,6 +130,10 @@
       "name": "Победная поза"
     },
     {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-hkne",
+      "name": "Руки вместе"
+    },
+    {
       "id": "photo_pose-photo_background-danceroom-01-1-1-2-reaction-hmsz",
       "name": "Руки вместе"
     },
@@ -172,6 +184,10 @@
     {
       "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-fktn",
       "name": "Милый наклон"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-hkne",
+      "name": "Нежная улыбка"
     },
     {
       "id": "photo_pose-photo_background-danceroom-01-1-1-3-reaction-hmsz",
@@ -226,6 +242,10 @@
       "name": "Милая стойка"
     },
     {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-hkne",
+      "name": "Рука вперед"
+    },
+    {
       "id": "photo_pose-photo_background-danceroom-01-1-2-1-reaction-hmsz",
       "name": "Улыбнись"
     },
@@ -275,6 +295,10 @@
     },
     {
       "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-1-wait-hkne",
       "name": ""
     },
     {
@@ -330,6 +354,10 @@
       "name": "Очаровательная поза"
     },
     {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-hkne",
+      "name": "Милая гордость"
+    },
+    {
       "id": "photo_pose-photo_background-danceroom-01-1-2-2-reaction-hmsz",
       "name": "Милый наклон"
     },
@@ -380,6 +408,10 @@
     {
       "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-fktn",
       "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-hkne",
+      "name": "Руки на груди"
     },
     {
       "id": "photo_pose-photo_background-danceroom-01-1-2-3-reaction-hmsz",
@@ -434,6 +466,10 @@
       "name": "Рука на груди"
     },
     {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-hkne",
+      "name": "Руки на груди"
+    },
+    {
       "id": "photo_pose-photo_background-danceroom-01-1-3-1-reaction-hmsz",
       "name": "Руки на груди"
     },
@@ -483,6 +519,10 @@
     },
     {
       "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-1-wait-hkne",
       "name": ""
     },
     {
@@ -538,6 +578,10 @@
       "name": "Энергичная поза"
     },
     {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-hkne",
+      "name": "Сцепленные руки"
+    },
+    {
       "id": "photo_pose-photo_background-danceroom-01-1-3-2-reaction-hmsz",
       "name": "Сцепленные руки"
     },
@@ -590,6 +634,10 @@
       "name": "Очаровательная поза"
     },
     {
+      "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-hkne",
+      "name": "Милый наклон"
+    },
+    {
       "id": "photo_pose-photo_background-danceroom-01-1-3-3-reaction-hmsz",
       "name": "Эффектная поза"
     },
@@ -639,6 +687,10 @@
     },
     {
       "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-fktn",
+      "name": "Расслабление"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-reaction-hkne",
       "name": "Расслабление"
     },
     {
@@ -694,6 +746,10 @@
       "name": ""
     },
     {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-hkne",
+      "name": ""
+    },
+    {
       "id": "photo_pose-photo_background-hotspring-01-1-1-1-wait-hmsz",
       "name": ""
     },
@@ -744,6 +800,10 @@
     {
       "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-fktn",
       "name": "Энергичность"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-hkne",
+      "name": "Обхватив колени"
     },
     {
       "id": "photo_pose-photo_background-hotspring-01-1-1-2-reaction-hmsz",
@@ -798,6 +858,10 @@
       "name": "Указывающая поза"
     },
     {
+      "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-hkne",
+      "name": "Обхватив колени"
+    },
+    {
       "id": "photo_pose-photo_background-hotspring-01-1-1-3-reaction-hmsz",
       "name": "Очаровательная поза"
     },
@@ -850,6 +914,10 @@
       "name": "Мольба"
     },
     {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-hkne",
+      "name": "Поворот"
+    },
+    {
       "id": "photo_pose-photo_background-hotspring-01-2-1-1-reaction-hmsz",
       "name": "Поворот"
     },
@@ -899,6 +967,10 @@
     },
     {
       "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -954,6 +1026,10 @@
       "name": "Милая стойка"
     },
     {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-hkne",
+      "name": "Рука на груди"
+    },
+    {
       "id": "photo_pose-photo_background-hotspring-01-2-1-2-reaction-hmsz",
       "name": "Рука на груди"
     },
@@ -1003,6 +1079,10 @@
     },
     {
       "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-fktn",
+      "name": "Шепот"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-2-1-3-reaction-hkne",
       "name": "Шепот"
     },
     {
@@ -1058,6 +1138,10 @@
       "name": "Расслабление"
     },
     {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-hkne",
+      "name": "Расслабление"
+    },
+    {
       "id": "photo_pose-photo_background-hotspring-01-3-1-1-reaction-hmsz",
       "name": "Рука на земле"
     },
@@ -1107,6 +1191,10 @@
     },
     {
       "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -1162,6 +1250,10 @@
       "name": "Руки в стороны"
     },
     {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-hkne",
+      "name": "Грация"
+    },
+    {
       "id": "photo_pose-photo_background-hotspring-01-3-1-2-reaction-hmsz",
       "name": "Грация"
     },
@@ -1212,6 +1304,10 @@
     {
       "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-fktn",
       "name": "Радость победы"
+    },
+    {
+      "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-hkne",
+      "name": "Взгляд в сторону"
     },
     {
       "id": "photo_pose-photo_background-hotspring-01-3-1-3-reaction-hmsz",
@@ -1266,6 +1362,10 @@
       "name": "Выражение радости"
     },
     {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-hkne",
+      "name": "Милый наклон"
+    },
+    {
       "id": "photo_pose-photo_background-rooftop-01-1-1-1-reaction-hmsz",
       "name": "Милый наклон"
     },
@@ -1315,6 +1415,10 @@
     },
     {
       "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -1370,6 +1474,10 @@
       "name": "Милая стойка"
     },
     {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-hkne",
+      "name": "Сцепленные руки"
+    },
+    {
       "id": "photo_pose-photo_background-rooftop-01-1-1-2-reaction-hmsz",
       "name": "Сцепленные руки"
     },
@@ -1420,6 +1528,10 @@
     {
       "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-fktn",
       "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-hkne",
+      "name": "Милая поза"
     },
     {
       "id": "photo_pose-photo_background-rooftop-01-1-1-3-reaction-hmsz",
@@ -1474,6 +1586,10 @@
       "name": "Милая стойка"
     },
     {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-hkne",
+      "name": "Рука вперед"
+    },
+    {
       "id": "photo_pose-photo_background-rooftop-01-2-1-1-reaction-hmsz",
       "name": "Улыбнись"
     },
@@ -1523,6 +1639,10 @@
     },
     {
       "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -1578,6 +1698,10 @@
       "name": "Милый наклон"
     },
     {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-hkne",
+      "name": "Рука на груди"
+    },
+    {
       "id": "photo_pose-photo_background-rooftop-01-2-1-2-reaction-hmsz",
       "name": "Рука на груди"
     },
@@ -1628,6 +1752,10 @@
     {
       "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-fktn",
       "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-hkne",
+      "name": "Кивок"
     },
     {
       "id": "photo_pose-photo_background-rooftop-01-2-1-3-reaction-hmsz",
@@ -1682,6 +1810,10 @@
       "name": "Подмигивание и знак мира"
     },
     {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-hkne",
+      "name": "Руки перед собой"
+    },
+    {
       "id": "photo_pose-photo_background-rooftop-01-3-1-1-reaction-hmsz",
       "name": "Руки перед собой"
     },
@@ -1731,6 +1863,10 @@
     },
     {
       "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -1786,6 +1922,10 @@
       "name": "Гордая поза"
     },
     {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-hkne",
+      "name": "Нежная улыбка"
+    },
+    {
       "id": "photo_pose-photo_background-rooftop-01-3-1-2-reaction-hmsz",
       "name": "Нежная улыбка"
     },
@@ -1836,6 +1976,10 @@
     {
       "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-fktn",
       "name": "Победная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-hkne",
+      "name": "Сцепленные руки"
     },
     {
       "id": "photo_pose-photo_background-rooftop-01-3-1-3-reaction-hmsz",
@@ -1890,6 +2034,10 @@
       "name": "Шаг вперед"
     },
     {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-hkne",
+      "name": "Милая гордость"
+    },
+    {
       "id": "photo_pose-photo_background-visualroom-01-1-1-1-reaction-hmsz",
       "name": "Милая гордость"
     },
@@ -1939,6 +2087,10 @@
     },
     {
       "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -1994,6 +2146,10 @@
       "name": "Подмигивание и знак мира"
     },
     {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-hkne",
+      "name": "Кивок"
+    },
+    {
       "id": "photo_pose-photo_background-visualroom-01-1-1-2-reaction-hmsz",
       "name": "Улыбнись"
     },
@@ -2044,6 +2200,10 @@
     {
       "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-fktn",
       "name": "Милая стойка"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-hkne",
+      "name": "Сцепленные руки"
     },
     {
       "id": "photo_pose-photo_background-visualroom-01-1-1-3-reaction-hmsz",
@@ -2098,6 +2258,10 @@
       "name": "Подмигивание и знак мира"
     },
     {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-hkne",
+      "name": "Рука вперед"
+    },
+    {
       "id": "photo_pose-photo_background-visualroom-01-1-2-1-reaction-hmsz",
       "name": "Эффектная поза"
     },
@@ -2147,6 +2311,10 @@
     },
     {
       "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-1-wait-hkne",
       "name": ""
     },
     {
@@ -2202,6 +2370,10 @@
       "name": "Очаровательная поза"
     },
     {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-hkne",
+      "name": "Указывающий жест"
+    },
+    {
       "id": "photo_pose-photo_background-visualroom-01-1-2-2-reaction-hmsz",
       "name": "Кивок"
     },
@@ -2252,6 +2424,10 @@
     {
       "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-fktn",
       "name": "Энергичная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-hkne",
+      "name": "Милый наклон"
     },
     {
       "id": "photo_pose-photo_background-visualroom-01-1-2-3-reaction-hmsz",
@@ -2306,6 +2482,10 @@
       "name": "Игривые прыжки"
     },
     {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-hkne",
+      "name": "Милая поза"
+    },
+    {
       "id": "photo_pose-photo_background-vocalroom-01-1-1-1-reaction-hmsz",
       "name": "Милая поза"
     },
@@ -2355,6 +2535,10 @@
     },
     {
       "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -2410,6 +2594,10 @@
       "name": "Энергичная поза"
     },
     {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-hkne",
+      "name": "Сцепленные руки"
+    },
+    {
       "id": "photo_pose-photo_background-vocalroom-01-1-1-2-reaction-hmsz",
       "name": "Сцепленные руки"
     },
@@ -2460,6 +2648,10 @@
     {
       "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-fktn",
       "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-hkne",
+      "name": "Милый наклон"
     },
     {
       "id": "photo_pose-photo_background-vocalroom-01-1-1-3-reaction-hmsz",
@@ -2514,6 +2706,10 @@
       "name": "Милая стойка"
     },
     {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-hkne",
+      "name": "Рука вперед"
+    },
+    {
       "id": "photo_pose-photo_background-vocalroom-01-1-2-1-reaction-hmsz",
       "name": "Эффектная поза"
     },
@@ -2563,6 +2759,10 @@
     },
     {
       "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-1-wait-hkne",
       "name": ""
     },
     {
@@ -2618,6 +2818,10 @@
       "name": "Милый наклон"
     },
     {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-hkne",
+      "name": "Рука на груди"
+    },
+    {
       "id": "photo_pose-photo_background-vocalroom-01-1-2-2-reaction-hmsz",
       "name": "Рука на груди"
     },
@@ -2668,6 +2872,10 @@
     {
       "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-fktn",
       "name": "Смелый жест"
+    },
+    {
+      "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-hkne",
+      "name": "Руки вместе"
     },
     {
       "id": "photo_pose-photo_background-vocalroom-01-1-2-3-reaction-hmsz",
@@ -2722,6 +2930,10 @@
       "name": "Смелый жест"
     },
     {
+      "id": "photo_pose-photo_demon_01-1-1-1-reaction-hkne",
+      "name": "Милый наклон"
+    },
+    {
       "id": "photo_pose-photo_demon_01-1-1-1-reaction-hmsz",
       "name": "Милый наклон"
     },
@@ -2771,6 +2983,10 @@
     },
     {
       "id": "photo_pose-photo_demon_01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_demon_01-1-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -2826,6 +3042,10 @@
       "name": "Милый наклон"
     },
     {
+      "id": "photo_pose-photo_demon_01-1-1-2-reaction-hkne",
+      "name": "Руки на груди"
+    },
+    {
       "id": "photo_pose-photo_demon_01-1-1-2-reaction-hmsz",
       "name": "Руки на груди"
     },
@@ -2878,6 +3098,10 @@
       "name": "Подмигивание и знак мира"
     },
     {
+      "id": "photo_pose-photo_demon_01-1-1-3-reaction-hkne",
+      "name": "Нежная улыбка"
+    },
+    {
       "id": "photo_pose-photo_demon_01-1-1-3-reaction-hmsz",
       "name": "Нежная улыбка"
     },
@@ -2922,6 +3146,10 @@
       "name": "Махание рукой"
     },
     {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-1-reaction-hkne",
+      "name": "Махание рукой"
+    },
+    {
       "id": "photo_pose-photo_photobooth-00-00-1-1-1-reaction-hmsz",
       "name": "Махание рукой"
     },
@@ -2931,6 +3159,10 @@
     },
     {
       "id": "photo_pose-photo_photobooth-00-00-1-1-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -2946,6 +3178,10 @@
       "name": "Левая рука вперед"
     },
     {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-2-reaction-hkne",
+      "name": "Сцепленные руки"
+    },
+    {
       "id": "photo_pose-photo_photobooth-00-00-1-1-2-reaction-hmsz",
       "name": "Сцепленные руки"
     },
@@ -2956,6 +3192,10 @@
     {
       "id": "photo_pose-photo_photobooth-00-00-1-1-3-reaction-atbm",
       "name": "Руки на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-1-3-reaction-hkne",
+      "name": "Рука вперед"
     },
     {
       "id": "photo_pose-photo_photobooth-00-00-1-1-3-reaction-hmsz",
@@ -2970,6 +3210,10 @@
       "name": "Левая рука вперед"
     },
     {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-1-reaction-hkne",
+      "name": "Милый наклон"
+    },
+    {
       "id": "photo_pose-photo_photobooth-00-00-1-2-1-reaction-hmsz",
       "name": "Эффектная поза"
     },
@@ -2979,6 +3223,10 @@
     },
     {
       "id": "photo_pose-photo_photobooth-00-00-1-2-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-1-wait-hkne",
       "name": ""
     },
     {
@@ -2994,6 +3242,10 @@
       "name": "Руки на груди"
     },
     {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-2-reaction-hkne",
+      "name": "Рука на груди"
+    },
+    {
       "id": "photo_pose-photo_photobooth-00-00-1-2-2-reaction-hmsz",
       "name": "Рука на груди"
     },
@@ -3006,6 +3258,10 @@
       "name": "Рука в сторону"
     },
     {
+      "id": "photo_pose-photo_photobooth-00-00-1-2-3-reaction-hkne",
+      "name": "Милая поза"
+    },
+    {
       "id": "photo_pose-photo_photobooth-00-00-1-2-3-reaction-hmsz",
       "name": "Кивок"
     },
@@ -3015,6 +3271,10 @@
     },
     {
       "id": "photo_pose-photo_photobooth-00-00-2-1-1-reaction-atbm",
+      "name": "Рука в сторону"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-1-reaction-hkne",
       "name": "Рука в сторону"
     },
     {
@@ -3030,6 +3290,10 @@
       "name": ""
     },
     {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-1-wait-hkne",
+      "name": ""
+    },
+    {
       "id": "photo_pose-photo_photobooth-00-00-2-1-1-wait-hmsz",
       "name": ""
     },
@@ -3040,6 +3304,10 @@
     {
       "id": "photo_pose-photo_photobooth-00-00-2-1-2-reaction-atbm",
       "name": "Рука на груди"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-2-reaction-hkne",
+      "name": "Руки вместе"
     },
     {
       "id": "photo_pose-photo_photobooth-00-00-2-1-2-reaction-hmsz",
@@ -3054,6 +3322,10 @@
       "name": "Руки на груди"
     },
     {
+      "id": "photo_pose-photo_photobooth-00-00-2-1-3-reaction-hkne",
+      "name": "Нежная улыбка"
+    },
+    {
       "id": "photo_pose-photo_photobooth-00-00-2-1-3-reaction-hmsz",
       "name": "Улыбнись"
     },
@@ -3066,6 +3338,10 @@
       "name": "Указывающий жест"
     },
     {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-1-reaction-hkne",
+      "name": "Сцепленные руки"
+    },
+    {
       "id": "photo_pose-photo_photobooth-00-00-2-2-1-reaction-hmsz",
       "name": "Эффектная поза"
     },
@@ -3075,6 +3351,10 @@
     },
     {
       "id": "photo_pose-photo_photobooth-00-00-2-2-1-wait-atbm",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-1-wait-hkne",
       "name": ""
     },
     {
@@ -3090,6 +3370,10 @@
       "name": "Рука на талии"
     },
     {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-2-reaction-hkne",
+      "name": "Руки на груди"
+    },
+    {
       "id": "photo_pose-photo_photobooth-00-00-2-2-2-reaction-hmsz",
       "name": "Милый наклон"
     },
@@ -3100,6 +3384,10 @@
     {
       "id": "photo_pose-photo_photobooth-00-00-2-2-3-reaction-atbm",
       "name": "Слегка поднять левую руку"
+    },
+    {
+      "id": "photo_pose-photo_photobooth-00-00-2-2-3-reaction-hkne",
+      "name": "Указывающий жест"
     },
     {
       "id": "photo_pose-photo_photobooth-00-00-2-2-3-reaction-hmsz",
@@ -3762,6 +4050,10 @@
       "name": "Знак мира"
     },
     {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-hkne",
+      "name": "Нежная улыбка"
+    },
+    {
       "id": "photo_pose-photo_riverbed_01-1-1-1-reaction-hmsz",
       "name": "Нежная улыбка"
     },
@@ -3811,6 +4103,10 @@
     },
     {
       "id": "photo_pose-photo_riverbed_01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -3866,6 +4162,10 @@
       "name": "Махание рукой"
     },
     {
+      "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-hkne",
+      "name": "Махание рукой"
+    },
+    {
       "id": "photo_pose-photo_riverbed_01-1-1-2-reaction-hmsz",
       "name": "Махание рукой"
     },
@@ -3916,6 +4216,10 @@
     {
       "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-fktn",
       "name": "Руки за спиной"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-hkne",
+      "name": "Милый наклон"
     },
     {
       "id": "photo_pose-photo_riverbed_01-1-1-3-reaction-hmsz",
@@ -3970,6 +4274,10 @@
       "name": "Милый наклон"
     },
     {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-hkne",
+      "name": "Сцепленные руки"
+    },
+    {
       "id": "photo_pose-photo_riverbed_01-2-1-1-reaction-hmsz",
       "name": "Эффектная поза"
     },
@@ -4019,6 +4327,10 @@
     },
     {
       "id": "photo_pose-photo_riverbed_01-2-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -4074,6 +4386,10 @@
       "name": "Игривые прыжки"
     },
     {
+      "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-hkne",
+      "name": "Милая гордость"
+    },
+    {
       "id": "photo_pose-photo_riverbed_01-2-1-2-reaction-hmsz",
       "name": "Милая гордость"
     },
@@ -4124,6 +4440,10 @@
     {
       "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-fktn",
       "name": "Очаровательная поза"
+    },
+    {
+      "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-hkne",
+      "name": "Рука на груди"
     },
     {
       "id": "photo_pose-photo_riverbed_01-2-1-3-reaction-hmsz",
@@ -4178,6 +4498,10 @@
       "name": "Милая стойка"
     },
     {
+      "id": "photo_pose-photo_seaside_01-1-1-1-reaction-hkne",
+      "name": "Рука на груди"
+    },
+    {
       "id": "photo_pose-photo_seaside_01-1-1-1-reaction-hmsz",
       "name": "Шепот"
     },
@@ -4227,6 +4551,10 @@
     },
     {
       "id": "photo_pose-photo_seaside_01-1-1-1-wait-fktn",
+      "name": ""
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-1-wait-hkne",
       "name": ""
     },
     {
@@ -4282,6 +4610,10 @@
       "name": "Руки за спиной"
     },
     {
+      "id": "photo_pose-photo_seaside_01-1-1-2-reaction-hkne",
+      "name": "Шепот"
+    },
+    {
       "id": "photo_pose-photo_seaside_01-1-1-2-reaction-hmsz",
       "name": "Руки за спиной"
     },
@@ -4332,6 +4664,10 @@
     {
       "id": "photo_pose-photo_seaside_01-1-1-3-reaction-fktn",
       "name": "Подмигивание и знак мира"
+    },
+    {
+      "id": "photo_pose-photo_seaside_01-1-1-3-reaction-hkne",
+      "name": "Милый наклон"
     },
     {
       "id": "photo_pose-photo_seaside_01-1-1-3-reaction-hmsz",

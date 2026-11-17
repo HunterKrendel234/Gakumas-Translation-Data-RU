@@ -126,6 +126,42 @@
       "name": "Большой бант (Котонэ Фудзита)"
     },
     {
+      "id": "shop_costume_costume_head_hkne-hair-0001",
+      "name": "Заколка «Гортензия» (Канаэ Хиватари)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0003",
+      "name": "Круглые очки (Канаэ Хиватари)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0004",
+      "name": "Кошачьи ушки (Канаэ Хиватари)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0006",
+      "name": "Аксессуары «Хацуми»☆ (Канаэ Хиватари)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0007",
+      "name": "Очки-капли (Канаэ Хиватари)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0008",
+      "name": "Собачьи ушки (Канаэ Хиватари)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0009",
+      "name": "Большой бант (Канаэ Хиватари)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0023",
+      "name": "Кроличьи ушки (Канаэ Хиватари)"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0038",
+      "name": "Маскировочные очки (Канаэ Хиватари)"
+    },
+    {
       "id": "shop_costume_costume_head_hmsz-hair-0001",
       "name": "Заколка «Гортензия» (Мисудзу Хатая)"
     },
@@ -412,6 +448,22 @@
     {
       "id": "shop_costume_fktn-trng-0002-resale",
       "name": "Спортивная форма академии Hatsuboshi (Котонэ Фудзита)"
+    },
+    {
+      "id": "shop_costume_hkne-cstm-0069",
+      "name": "Детский фартук (Канаэ Хиватари)"
+    },
+    {
+      "id": "shop_costume_hkne-cstm-0111",
+      "name": "Купальник-матроска (Канаэ Хиватари)"
+    },
+    {
+      "id": "shop_costume_hkne-othr-0002",
+      "name": "Купальник для горячих источников (Канаэ Хиватари)"
+    },
+    {
+      "id": "shop_costume_hkne-trng-0002",
+      "name": "Спортивная форма Hatsuboshi Academy (Канаэ Хиватари)"
     },
     {
       "id": "shop_costume_hmsz-cstm-0069",
@@ -818,12 +870,24 @@
       "name": "[Одноразовое спецпредложение в честь добавления 360° Live!] 6000 джевелов"
     },
     {
+      "id": "shop_jewel_item-0040",
+      "name": "[Одноразовая сделка!] 12 300 джевелов"
+    },
+    {
+      "id": "shop_jewel_item-0041",
+      "name": "[Двойное спецпредложение!] 6000 джевелов"
+    },
+    {
       "id": "shop_jewel_item-0045",
       "name": "[Одноразовая сделка!] 12 300 джевелов"
     },
     {
       "id": "shop_pack_atbm-0001",
       "name": "[Ограничено 72 ч.] Набор фрагментов айдола для продюсирования (Цубамэ)"
+    },
+    {
+      "id": "shop_pack_hkne-0001",
+      "name": "[На 72 часа] Набор фрагментов айдола: Продюсирование (Канаэ)"
     },
     {
       "id": "shop_pack_hmsz-0001",
@@ -932,6 +996,14 @@
     {
       "id": "shop_pack_item-0071",
       "name": "Памятный набор экзамена по отбору H.I.F 2-го периода"
+    },
+    {
+      "id": "shop_pack_item-0072",
+      "name": "Набор айдола: 2,5-я годовщина"
+    },
+    {
+      "id": "shop_pack_item-0073",
+      "name": "Набор поддержки: 2,5-я годовщина"
     },
     {
       "id": "shop_pack_item-0075",

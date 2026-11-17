@@ -562,6 +562,56 @@
       "produceConditionDescription": "Станьте Prima Stella"
     },
     {
+      "characterId": "hkne",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "Завершите хотя бы один урок во время продюсирования"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "Через неделю после сдачи промежуточного экзамена во время продюсирования"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "2-я неделя продюсирования"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "Сдать промежуточный экзамен первым"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "Увеличьте вокал до 450 или выше во время продюсирования"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "Получите достижение [Безупречное выступление]"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "Повысьте Визуал до 1000 или выше во время продюсирования"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "1-е место на финальном экзамене сложности «Про»"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "Завершите продюсирование с рейтингом A+ и увидьте True End"
+    },
+    {
       "characterId": "hmsz",
       "dearnessLevel": 1,
       "produceConditionDescription": ""

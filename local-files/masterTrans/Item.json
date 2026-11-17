@@ -306,6 +306,12 @@
       "acquisitionRouteDescription": "Магазин обмена и т. д."
     },
     {
+      "id": "item-exchange-campaign-medal-2026kne-001",
+      "name": "Билет обмена на кампанию дебюта и 2,5-летия Канаэ Хиватари",
+      "description": "Предмет, который можно обменять на различные награды в магазине события",
+      "acquisitionRouteDescription": "Продюсирование"
+    },
+    {
       "id": "item-friend_coin",
       "name": "Монета друзей",
       "description": "Монета для гачи друзей",
@@ -358,6 +364,24 @@
       "name": "Ваучер, который можно обменять на гарантированный билет гачи для SSR-айдола (продюсерский) со скином карты навыка",
       "description": "Ваучер, который можно обменять в Бирже билетов на гарантированный билет гачи для продюсерского айдола со скином карты навыка",
       "acquisitionRouteDescription": "Бонус за 3-й этап пошаговой гачи"
+    },
+    {
+      "id": "item-gacha-ticket-2.5th-anniv-ssr-idolcard",
+      "name": "Гарантированный билет гачи на SSR-айдола продюсирования, включая сезонных айдолов 2,5-летия",
+      "description": "Билет для гачи с гарантированным SSR-айдолом продюсирования, включая сезонных айдолов 2,5-летия",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gacha-ticket-2.5th-anniv-ssr-supportcard",
+      "name": "Гарантированный билет гачи на SSR-карту поддержки, включая сезонные карты 2,5-летия",
+      "description": "Билет для гачи с гарантированной SSR-картой поддержки, включая сезонные карты 2,5-летия",
+      "acquisitionRouteDescription": "Обменник события"
+    },
+    {
+      "id": "item-gachaticket-2.5th-anniv-10-001",
+      "name": "Билет на 10-кратную гачу в честь 2,5-летия",
+      "description": "Билет для 10-кратной гачи в честь 2,5-летия",
+      "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gachaticket-2nd-anniv-10-001",
@@ -475,6 +499,12 @@
     },
     {
       "id": "item-gashaticket-new-wednesday-26-0909-1",
+      "name": "Билет на среду в Gakumas-гаче",
+      "description": "Билет для использования в среду в Gakumas-гаче",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-new-wednesday-26-1118-1",
       "name": "Билет на среду в Gakumas-гаче",
       "description": "Билет для использования в среду в Gakumas-гаче",
       "acquisitionRouteDescription": ""
@@ -1226,6 +1256,24 @@
     {
       "id": "item-piece-idol_fktn-3-019",
       "name": "Фрагмент [GO MY WAY!!] Котонэ Фудзиты",
+      "description": "Предмет для пробуждения и разблокировки айдолов при продюсировании",
+      "acquisitionRouteDescription": "Гача и др."
+    },
+    {
+      "id": "item-piece-idol_hkne-1-000",
+      "name": "Фрагмент [School Life] Канаэ Хиватари",
+      "description": "Предмет для пробуждения и разблокировки айдолов при продюсировании",
+      "acquisitionRouteDescription": "Гача и др."
+    },
+    {
+      "id": "item-piece-idol_hkne-2-000",
+      "name": "Фрагмент [Taking it One Step at a Time] Канаэ Хиватари",
+      "description": "Предмет для пробуждения и разблокировки айдолов при продюсировании",
+      "acquisitionRouteDescription": "Гача и др."
+    },
+    {
+      "id": "item-piece-idol_hkne-3-000",
+      "name": "Фрагмент [Metamorphose] Канаэ Хиватари",
       "description": "Предмет для пробуждения и разблокировки айдолов при продюсировании",
       "acquisitionRouteDescription": "Гача и др."
     },
@@ -2223,6 +2271,18 @@
       "id": "item-selectgashaticket-gasha-01055-ticket-002",
       "name": "Билет на 5 призывов: 10-кратный шанс SSR айдола для продюсирования",
       "description": "Билет на 5 призывов в гачу с 10-кратным шансом получения SSR айдола для продюсирования",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-selectgashaticket-gasha-01070-ticket-001",
+      "name": "Билет на 2-кратную гачу с гарантированными 2 SSR-айдолами продюсирования!",
+      "description": "Билет для 2-кратной гачи с гарантированными 2 SSR-айдолами продюсирования",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-selectgashaticket-gasha-01070-ticket-002",
+      "name": "Билет на 10-кратную гачу с 10-кратным шансом появления SSR-айдола продюсирования!",
+      "description": "Билет для 10-кратной гачи с 10-кратным шансом появления SSR-айдола продюсирования",
       "acquisitionRouteDescription": ""
     },
     {
